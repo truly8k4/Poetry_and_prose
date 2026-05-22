@@ -489,6 +489,44 @@
             box-shadow: 0 24px 60px -12px rgba(42,36,33,0.18), 0 0 0 1px rgba(154,126,100,0.15) !important;
             z-index: 20;
         }
+		/* ═══════════════════════════════════════════════
+           TỐI ƯU HÓA HIỆU NĂNG CHO MOBILE
+        ═══════════════════════════════════════════════ */
+        @media (max-width: 768px) {
+            /* Tắt nhiễu hạt SVG cực nặng, chỉ dùng gradient cơ bản */
+            body {
+                background-image: radial-gradient(circle at center, transparent 0%, rgba(20, 15, 10, 0.04) 100%) !important;
+            }
+
+            /* Tắt kính mờ (blur) ngốn GPU, bù lại bằng màu nền đặc hơn để chữ vẫn dễ đọc */
+            .backdrop-blur-md, 
+            .backdrop-blur-sm,
+            #theme-badge {
+                backdrop-filter: none !important;
+                -webkit-backdrop-filter: none !important;
+            }
+            
+            nav.bg-paper\/80 { background-color: rgba(250, 248, 245, 0.98) !important; }
+            .bg-white\/70 { background-color: rgba(255, 255, 255, 0.95) !important; }
+            .bg-white\/50 { background-color: rgba(255, 255, 255, 0.9) !important; }
+            .bg-white\/60 { background-color: rgba(255, 255, 255, 0.95) !important; }
+
+            /* Tắt animation Ken Burns (zoom chậm) liên tục ở background */
+            #bg-image-layer.active { 
+                animation: none !important; 
+            }
+
+            /* Giảm bớt độ phức tạp của bóng đổ (box-shadow) */
+            .shadow-elegant {
+                box-shadow: 0 4px 12px -4px rgba(42, 36, 33, 0.05) !important;
+            }
+            
+            /* Tắt animation lấp lánh liên tục của mặt trời/mặt trăng (pseudoelements) */
+            .theme-sun::before, .theme-sun::after,
+            .theme-night::before, .theme-night::after {
+                animation: none !important;
+            }
+        }
     </style>
 </head>
 <body class="font-serif antialiased leading-relaxed overflow-x-hidden relative">
