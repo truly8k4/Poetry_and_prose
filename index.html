@@ -285,7 +285,8 @@
         }
 
         /* ══════════ WIND THEME ══════════ */
-        .theme-wind {
+        /* Streaming wind currents */
+		.theme-wind {
             background: linear-gradient(
                 108deg,
                 rgba(215,233,248,0.3) 0%,
@@ -294,17 +295,9 @@
             ) !important;
             opacity: 1 !important;
         }
-        /* Streaming wind currents */
-        .theme-wind::before {
-            content: '';
-            position: absolute;
-            inset: -5%;
-            background-image:
-                url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='900' height='400' viewBox='0 0 900 400'%3E%3Cpath d='M-50,120 C100,80 250,180 450,100 S700,50 950,130' fill='none' stroke='rgba(180,210,240,0.55)' stroke-width='2.5' stroke-linecap='round'/%3E%3Cpath d='M-50,220 C150,160 300,280 500,190 S750,130 950,240' fill='none' stroke='rgba(160,195,230,0.4)' stroke-width='1.8' stroke-linecap='round'/%3E%3Cpath d='M-50,320 C120,270 280,350 480,280 S730,220 950,340' fill='none' stroke='rgba(195,220,245,0.35)' stroke-width='1.5' stroke-linecap='round'/%3E%3Cpath d='M-50,50 C200,20 380,110 600,40 S820,10 950,70' fill='none' stroke='rgba(175,208,238,0.3)' stroke-width='1.2' stroke-linecap='round'/%3E%3C/svg%3E");
-            background-size: 900px 400px;
-            background-repeat: repeat-y;
-            animation: windCurrent 5s linear infinite;
-            opacity: 1;
+        /* Đã ẩn hoàn toàn các dải gió SVG theo yêu cầu */
+        .theme-wind::before, .theme-wind::after {
+            display: none !important;
         }
         /* Second wind layer offset */
         .theme-wind::after {
@@ -771,17 +764,32 @@
                         this.op  = 0.08 + Math.random() * 0.15;
                     }
 
-                } else if (this.type === 'leaf') {
+				} else if (this.type === 'leaf') {
                     // Wind: leaves + petal fragments + dust motes
                     this.subtype = Math.random() < 0.5 ? 'leaf' : (Math.random() < 0.55 ? 'petal' : 'dust');
-                    this.x    = Math.random() < 0.3 ? -20 : Math.random() * W;
-                    this.y    = init ? Math.random() * H : -20;
+                    
+                    // FIXED: Điều chỉnh tọa độ tái sinh để lá bay liên tục qua màn hình
+                    if (init) {
+                        this.x = Math.random() * W;
+                        this.y = Math.random() * H;
+                    } else {
+                        // Khi tái sinh: 80% lá xuất phát từ ngoài rìa trái, 20% từ trên xuống
+                        if (Math.random() < 0.8) {
+                            this.x = -60;
+                            this.y = Math.random() * H;
+                        } else {
+                            this.x = Math.random() * W;
+                            this.y = -60;
+                        }
+                    }
+
                     this.spd  = 1.8 + Math.random() * 2.5;
                     this.dx   = 1.5 + Math.random() * 2.5;
                     this.rot  = Math.random() * Math.PI * 2;
                     this.rspd = (Math.random() - 0.5) * 0.12;
                     this.wobble = Math.random() * Math.PI * 2;
                     this.wobbleSpd = 0.03 + Math.random() * 0.04;
+                    
                     if (this.subtype === 'leaf') {
                         this.rw = 5 + Math.random() * 8;
                         this.rh = this.rw * (1.6 + Math.random() * 0.6);
