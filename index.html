@@ -485,6 +485,73 @@
 		/* ═══════════════════════════════════════════════
            TỐI ƯU HÓA HIỆU NĂNG CHO MOBILE
         ═══════════════════════════════════════════════ */
+        /* ═══════════════════════════════════════════════
+           CLEAN MODE — tắt toàn bộ animation & bg
+        ═══════════════════════════════════════════════ */
+        body.clean-mode {
+            background-image: none !important;
+            background-color: #FAF8F5 !important;
+            transition: none !important;
+        }
+        body.clean-mode #bg-image-layer,
+        body.clean-mode #bg-overlay-layer,
+        body.clean-mode #particle-layer,
+        body.clean-mode #dynamic-theme-layer,
+        body.clean-mode #theme-badge {
+            display: none !important;
+            opacity: 0 !important;
+        }
+        body.clean-mode *,
+        body.clean-mode *::before,
+        body.clean-mode *::after {
+            animation: none !important;
+            transition: color 0.15s ease, background-color 0.15s ease, opacity 0.15s ease, transform 0.15s ease, box-shadow 0.15s ease !important;
+        }
+        body.clean-mode .fade-in-up {
+            opacity: 1 !important;
+            transform: none !important;
+        }
+
+        /* Toggle button style */
+        #clean-mode-btn {
+            display: flex;
+            align-items: center;
+            gap: 6px;
+            font-size: 0.7rem;
+            letter-spacing: 0.15em;
+            text-transform: uppercase;
+            color: #524A45;
+            cursor: pointer;
+            padding: 5px 10px;
+            border-radius: 999px;
+            border: 1px solid #DFD8CC;
+            background: transparent;
+            transition: all 0.2s ease;
+            white-space: nowrap;
+            font-family: inherit;
+        }
+        #clean-mode-btn:hover {
+            border-color: #9A7E64;
+            color: #9A7E64;
+        }
+        #clean-mode-btn.active {
+            background: #2A2421;
+            color: #FAF8F5;
+            border-color: #2A2421;
+        }
+        #clean-mode-btn .cm-dot {
+            width: 6px;
+            height: 6px;
+            border-radius: 50%;
+            background: currentColor;
+            opacity: 0.5;
+            flex-shrink: 0;
+        }
+        #clean-mode-btn.active .cm-dot {
+            opacity: 1;
+            background: #9A7E64;
+        }
+
         @media (max-width: 768px) {
             /* Tắt nhiễu hạt SVG cực nặng, chỉ dùng gradient cơ bản */
             body {
@@ -550,9 +617,15 @@
                     <span class="absolute -bottom-2 left-0 w-0 h-[1px] bg-accent transition-all duration-300 group-hover:w-full"></span>
                 </a>
             </div>
-            <button class="md:hidden text-ink-light hover:text-accent focus:outline-none transition-colors" id="mobile-menu-btn">
-                <svg class="w-7 h-7" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M4 6h16M4 12h16M4 18h16"></path></svg>
-            </button>
+            <div class="flex items-center gap-3">
+                <button id="clean-mode-btn" title="Tắt animation & hiệu ứng nền">
+                    <span class="cm-dot"></span>
+                    <span>Nhanh</span>
+                </button>
+                <button class="md:hidden text-ink-light hover:text-accent focus:outline-none transition-colors" id="mobile-menu-btn">
+                    <svg class="w-7 h-7" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M4 6h16M4 12h16M4 18h16"></path></svg>
+                </button>
+            </div>
         </div>
         <div class="md:hidden hidden bg-paper border-b border-divider/50 shadow-lg absolute w-full left-0 origin-top animate-[fade-in-down_0.3s_ease-out]" id="mobile-menu">
             <div class="px-6 py-6 flex flex-col space-y-6 text-center text-sm tracking-[0.2em] uppercase text-ink-light">
@@ -1136,7 +1209,10 @@
             normal:'blur(2px) brightness(0.75) saturate(1.1)',
         };
 
+        let cleanMode = false;  // clean mode state — updated by toggle button
+
         async function applyTheme(theme) {
+            if (cleanMode) return;   // clean mode: bỏ qua mọi theme
             if (currentTheme === theme) return;
             currentTheme = theme;
 
@@ -1430,6 +1506,39 @@
         }
 
         document.addEventListener('DOMContentLoaded', () => {
+            // ── CLEAN MODE ──
+            const cleanBtn = document.getElementById('clean-mode-btn');
+
+            function applyCleanMode(active) {
+                cleanMode = active;
+                if (active) {
+                    document.body.classList.add('clean-mode');
+                    cleanBtn.classList.add('active');
+                    cleanBtn.title = 'Bật lại animation & hiệu ứng nền';
+                    // Dọn sạch các layer đang chạy
+                    stopParticles();
+                    bgImageLayer.style.opacity = '0';
+                    bgImageLayerB.style.opacity = '0';
+                    bgOverlayLayer.classList.remove('active');
+                    themeLayer.style.opacity = '0';
+                    currentTheme = 'default';
+                } else {
+                    document.body.classList.remove('clean-mode');
+                    cleanBtn.classList.remove('active');
+                    cleanBtn.title = 'Tắt animation & hiệu ứng nền';
+                }
+                localStorage.setItem('cleanMode', active ? '1' : '0');
+            }
+
+            cleanBtn.addEventListener('click', () => {
+                applyCleanMode(!cleanMode);
+            });
+
+            // Khôi phục trạng thái từ lần trước
+            if (localStorage.getItem('cleanMode') === '1') {
+                applyCleanMode(true);
+            }
+
             document.getElementById('year').textContent = new Date().getFullYear();
 
             observer = new IntersectionObserver((entries, observer) => {
