@@ -618,11 +618,8 @@ Trên đường đi từ đâu đó về trường, mình đặt xe và được
 Rồi thì nhìn lại mình, hóa ra bản thân cũng có cái mong muốn đó từ lâu, mình biết mình thuộc về nơi đó, cớ sao phải vượt sóng gió chỉ để làm những thứ chính mình không hề thích nhỉ? Mặt khác, mình luôn nghĩ cho tương lai bản thân, cho những cá thể mà mình biết mình cần có họ. Vì vậy cái "đủ" của mình cũng phải trải qua cả những thứ mình không thích ở mức nào đó, có được thứ mình cần có, rồi hãy nghĩ tới những thứ mình nên có. Bởi:
 
 Để giữ cho trời xanh
-
 Cây phải vùi trong đất,
-
 Để nụ cười được "thật"
-
 Phải đổi bằng lo toan.
 
 _4_
@@ -715,11 +712,8 @@ _5_
 Mình tự hỏi những chú vịt không biết trú mưa chăng? Tại sao chúng vẫn thản nhiên trên nước, quẫy chiếc đuôi nhỏ xinh và làm mấy trò linh tinh. Mình đã thử quan sát nhiều giống khác nhau, và hóa ra đó lại là một điểm chung của chúng, có lẽ vì lông của chúng có một lớp dầu, nên chúng xem nhẹ những giọt mưa như tơ không nhỉ? Mình cứ nhìn chúng, trên một hàng dài cây xanh bên vệ đất, mà nếu không có những khung cảnh này, thì mình đã đâu muốn dành thời gian thư giãn ở đây. Nhìn phía sau hồ giờ xác xơ, phía sau suối giờ tan hoang, chẳng còn mống Keo thân gỗ nào, lá cũng không còn bay, hương thôi thoang thoảng, cơn bão bươm bướm cũng từ đó lặng mất...
 
 Mất thật rồi, những ngày mưa xanh ngắt
-
 Đến độ đầu Thu con suối mát dịu hiền
-
 Những bờ đất tạo nên hình dáng nhỏ
-
 Ngày dưới bóng mát cả bầu trời ước mơ!
 
 Hai chú vịt thế giới ấy lạch bạch dưới hàng dừa, hai chú vịt thế giới này say sưa bên đồng cỏ lau, thứ mà cũng thường xuyên bị san phẳng hết sạch! Bởi vậy, nếp sống của loài người đã trở nên  khác biệt qua từng ngày, sự tử tế mà người đang nghĩ cũng đã bị ăn mòn bởi chúng. Làm sao để nói cho người biết mình đã lỡ dành hết phần chân thành cho thiên nhiên mất rồi!` },
@@ -733,20 +727,14 @@ Công nhận món xôi mẹ hay mua vẫn là ngon nhất. "Từ hồi về thà
 "Vị họa sĩ không thành danh nhờ chiếc cọ, mà chính nhờ đôi tay của họ". Trông sao trước mắt mình, lại có bóng hình một vị thi sĩ đang vẽ lại chính vóc dáng mình thuở ấy. Và hằng ngày mẹ mua cho một hộp xôi thịt, chẳng hề có thịt băm, không phủ pa-tê, không để nấm mèo. Nhưng cái hương vị ấy đủ để si mê đến hết những ngày tháng tìm về. Và còn đó, bóng mẹ còn đó, nghĩa mà mình còn được cảm nhận hương vị ấy, khung trời ấy. Làm sao kéo được sợi dây mà mình vốn chẳng hề được nắm lấy? Nhưng ít nhất trong mình, có thứ gì đó đang âm ỉ, thủ thỉ riêng thân, dù tự thân nhận thấy, nhưng chẳng có cách nào để người thấy, và hiểu được.
 
 Tán cây một ngày trời gió lộng,
-
 Động lay bên vệ chẳng ai hay,
-
 Sao tôi thấy, mà như chẳng thấy?
-
 Sao tôi nghe như tiếng dỗi hờn?
 
 
 Rồi ngày an yên bên tán lá
-
 Ngày trời hôm nay tỏa bóng mây.
-
 Chẳng uống lại thành kẻ say,
-
 Hay đâu bờ bến, tâm này chở che!` },
         { title: "Lối về - Ngoại đi", content: `_1_
 
@@ -772,11 +760,8 @@ _3_
 Giữa "tâm bão" đầu tiên mà mình đang trải, lớp 10. Thực đã quá lâu chưa có dịp ghé ngoại, vì giờ cũng đâu còn ở đây ăn cơm cùng ngoại, thi thoảng hãy còn qua ngắm nghía. Rồi sao tới một ngày, hàng Sứ đã đi mất, mình cũng quên mất chúng từng ở đây, chúng từng ngủ say giữa trưa hè nóng bức, từng ớt mưa cùng những đứa trẻ ngoài hiên, huyên thuyên với thằng bạn lỡ vội đi trước, giờ chỉ còn lại chúng... vậy cũng nên đi rồi nhỉ?
 
 Một ngày trời nắng hạ
-
 Người cũng chẳng còn ta,
-
 Một ngày trời trắng xóa
-
 Nằm ngủ dưới hiên nhà!
 
 _4_
