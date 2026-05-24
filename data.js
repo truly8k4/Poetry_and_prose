@@ -616,9 +616,13 @@ _3_
 
 Trên đường đi từ đâu đó về trường, mình đặt xe và được một chú trung niên trạc tuổi ba mình chở. Chú có hỏi mình học ngành gì, trường nào, ở đâu, thực là những câu hỏi xã giao qua loa. Và im lặng một hồi, rồi lại hỏi chú: "Vậy chú chạy xe vậy có mệt không chú, với tiền lương cũng không mấy dư giả để lo cho con mình đang học Quản trị kinh doanh?". - "Chú lúc trước cũng làm bảo vệ, nghe phèn phèn vậy chứ kiếm cũng khá đó con, nhưng mà chú lại không thích luật lệ gò bó, chú không hiểu biết nhiều, chú cũng muốn lo cho con chứ, nhưng công việc mà mình không thích, bản thân chú không muốn làm. Con thấy cái chạy xe dịch vụ này tuy vất vả, nhưng đối với chú, chú thấy nó tự do lắm con, chú chở khách đi cũng là chở chú đi, đi đến nơi chú chưa biết, riết cũng quen đường xá, rồi cứ ngắm nhìn đất Sài Gòn như vậy, tiền bạc với chú không còn quan trọng nữa, khó khăn xíu cũng được, lo đủ là được!"
 Rồi thì nhìn lại mình, hóa ra bản thân cũng có cái mong muốn đó từ lâu, mình biết mình thuộc về nơi đó, cớ sao phải vượt sóng gió chỉ để làm những thứ chính mình không hề thích nhỉ? Mặt khác, mình luôn nghĩ cho tương lai bản thân, cho những cá thể mà mình biết mình cần có họ. Vì vậy cái "đủ" của mình cũng phải trải qua cả những thứ mình không thích ở mức nào đó, có được thứ mình cần có, rồi hãy nghĩ tới những thứ mình nên có. Bởi:
+
 Để giữ cho trời xanh
+
 Cây phải vùi trong đất,
+
 Để nụ cười được "thật"
+
 Phải đổi bằng lo toan.
 
 _4_
@@ -711,8 +715,11 @@ _5_
 Mình tự hỏi những chú vịt không biết trú mưa chăng? Tại sao chúng vẫn thản nhiên trên nước, quẫy chiếc đuôi nhỏ xinh và làm mấy trò linh tinh. Mình đã thử quan sát nhiều giống khác nhau, và hóa ra đó lại là một điểm chung của chúng, có lẽ vì lông của chúng có một lớp dầu, nên chúng xem nhẹ những giọt mưa như tơ không nhỉ? Mình cứ nhìn chúng, trên một hàng dài cây xanh bên vệ đất, mà nếu không có những khung cảnh này, thì mình đã đâu muốn dành thời gian thư giãn ở đây. Nhìn phía sau hồ giờ xác xơ, phía sau suối giờ tan hoang, chẳng còn mống Keo thân gỗ nào, lá cũng không còn bay, hương thôi thoang thoảng, cơn bão bươm bướm cũng từ đó lặng mất...
 
 Mất thật rồi, những ngày mưa xanh ngắt
+
 Đến độ đầu Thu con suối mát dịu hiền
+
 Những bờ đất tạo nên hình dáng nhỏ
+
 Ngày dưới bóng mát cả bầu trời ước mơ!
 
 Hai chú vịt thế giới ấy lạch bạch dưới hàng dừa, hai chú vịt thế giới này say sưa bên đồng cỏ lau, thứ mà cũng thường xuyên bị san phẳng hết sạch! Bởi vậy, nếp sống của loài người đã trở nên  khác biệt qua từng ngày, sự tử tế mà người đang nghĩ cũng đã bị ăn mòn bởi chúng. Làm sao để nói cho người biết mình đã lỡ dành hết phần chân thành cho thiên nhiên mất rồi!` },
@@ -722,26 +729,25 @@ Ngày nọ, tôi vẫn lâng la trên chiếc xe đạp của mình, tìm bóng 
 
 _2_
 
-Chẳng ai nhớ chính xác mình đã bắt đầu thói quen nuốt những hòn đá vào bụng từ lúc nào. Có lẽ là từ một buổi chiều nào đó ở độ tuổi đôi mươi, khi một lời từ chối phũ phàng hay một sự hàm oan cay đắng trào lên cuống họng, và thay vì ném nó vào mặt kẻ đối diện, ta lại chọn cách mím chặt môi, nuốt ực nó xuống. Viên đá đầu tiên thường xước xát và khó trôi. Nó cào rách niêm mạc họng, để lại một vệt máu tươm ra tanh rình trong hơi thở, rồi trôi tuột xuống đáy dạ dày. Trái với dự đoán về một sự đau đớn bùng nổ, khi viên đá đã nằm yên dưới đó, ta lại thấy một sự tĩnh lặng kỳ lạ. Sự tĩnh lặng của việc không phải giải thích, không phải tranh cãi, không phải phơi bày sự yếu đuối của mình ra giữa thanh thiên bạch nhật. Và thế là, ta học được cách tàng hình nỗi đau.
-Theo thời gian, việc nuốt đá trở thành một phản xạ có điều kiện, một kỹ năng sinh tồn tuyệt hảo của những kẻ được xã hội dán nhãn là "trưởng thành". Bất cứ thứ gì không thể nói ra, không dám nói ra, hoặc biết rằng có nói ra cũng chẳng ai buồn đoái hoài, ta đều biến chúng thành đá và nuốt chửng. Đó có thể là một viên sỏi nhỏ bé của sự nhượng bộ vô lý nơi công sở. Đó có thể là một tảng đá nền của sự phản bội trong tình yêu mà ta cố tình nhắm mắt cho qua để giữ gìn một cái vỏ bọc êm ấm. Thậm chí, đó chỉ là những hạt sạn li ti của sự tủi thân vụn vặt tích tụ qua từng bữa cơm nguội lạnh. Ta nuốt hết đấy! Ta biến cơ thể mình thành một cái mỏ đá hoang tàn, một bãi rác đè nén vạn nghìn những thanh âm chưa bao giờ được cất lên.
-Đến với người, nhìn vào sự câm lặng ấy và ngợi khen ta là một kẻ điềm đạm, hiểu chuyện, biết nhẫn nhịn. Họ đâu biết rằng sự vững chãi, im lìm của ta không đến từ một nội tâm an lạc, mà đến từ sức nặng ngàn cân của một cái dạ dày chứa đầy sỏi đá đang kéo ghì ta xuống đất. Khi bạn mang trong bụng một khối lượng đá tảng khổng lồ, bạn tự nhiên sẽ đi đứng chậm lại, phản ứng trì trệ đi với một câu hỏi tưởng chừng bâng quơ, nụ cười ngày nào giờ cũng trở nên trĩu nặng. Cái mà người ta gọi là "bản lĩnh" hay "sự chín chắn", biết đâu chỉ là trạng thái tê liệt của một cái xác phàm đã bị nhồi nhét quá mức dung tích, không còn đủ sức để nhảy múa, để phù phiếm, hay để cố uốn lượn theo dòng chảy của tự nhiên đáng lý? Chúng ta "phải" tự hào vì mình giống như một cái mỏ neo bám chặt lấy đáy biển, nhưng lại quên mất rằng mỏ neo thì không bao giờ biết bơi.
-Nhưng bi kịch thực sự của việc nuốt đá nằm ở việc dạ dày con người được cấu tạo để tiêu hóa thức ăn, chứ không phải để bào mòn khoáng sản. Vì vậy chúng sẽ không bao giờ tan ra chỉ trong một kiếp. Chúng cứ nằm đó, ngổn ngang, chật chội. Mỗi khi ta hít thở sâu, hay mỗi khi có một biến cố mới va đập vào cuộc đời, những viên đá ấy lại ma sát vào nhau. Chúng cọ xát, tạo ra những âm thanh lục cục lạo xạo từ sâu bên trong khoang bụng. Cái cảm giác cồn cào, quặn thắt vào những đêm mất ngủ chẳng phải là bệnh lý gì của cơ thể, mà chính là lúc những cạnh sắc nhọn của viên đá cũ đang cứa nát ranh giới chịu đựng cuối cùng của hệ thần kinh.
-Đến một ngưỡng nào đó, sức chứa của khoang bụng cạn kiệt. Đáy dạ dày bị kéo căng đến mức trong suốt, dọa rách toạc bất cứ lúc nào. Đó là lúc những kẻ "hiểu chuyện" nhất bỗng nhiên phát điên chỉ vì một đôi đũa trên bàn ăn, hay một câu nói vô thưởng vô phạt. Người ngoài há hốc mồm kinh ngạc, cho rằng ta phản ứng thái quá trước một hạt cát. Nhưng họ đâu có mắt x-quang để nhìn thấy hàng núi đá tảng đang chực chờ sạt lở bên trong. Khoảnh khắc ấy, ta đứng trước một sự lựa chọn sinh tử, hoặc để mặc cho sức nặng ấy xé toạc nội tạng và kéo mình chìm nghỉm xuống lớp bùn lầy của sự uất hận, hoặc phải chấp nhận cúi gập người, thọc tay vào tận sâu cuống họng, và bắt đầu những cơn nôn khan tàn khốc.
-Việc nôn ra những viên đá đã nuốt từ mười năm, hai mươi năm trước là một cảnh tượng gớm ghiếc và trần trụi nhất của phận người. Nó đòi hỏi ta phải khạc nhổ sự kiêu hãnh của chính mình ra sàn nhà. Lẫn trong máu, trong nước mắt, trong dịch vị đắng ngắt, từng hòn đá của sự câm lặng lọt thỏm ra ngoài, vấy bẩn lên những mối quan hệ đang sạch sẽ, đập vỡ nát cái hình tượng điềm tĩnh mà ta đã tốn nửa đời người để xây dựng. Chẳng có gì đẹp đẽ trong sự bộc phát ấy cả. Nhưng kỳ lạ thay, sau mỗi lần nôn ra được một tảng đá, khoang ngực lại nhẹ bẫng đi một chút. Không khí ùa vào những khoảng trống vừa được giải phóng, lấp đầy cái dạ dày rỗng bằng thứ dưỡng khí của sự chân thật. Ta có thể sẽ mất đi vài mối quan hệ không chịu nổi mùi hương của sự thật, có thể sẽ bị xã hội tước đi cái danh hiệu "người lớn hiểu chuyện", nhưng đổi lại, bước chân ta bỗng nhẹ tênh. Trái Đất thì vẫn chòng chành, rồi vài canh giờ lại đi qua, nhưng ta thấy ta đã nhẹ nhõm vì sử dụng thành công khoảng thời gian lãng phí này!
-
-_3_
-
 Công nhận món xôi mẹ hay mua vẫn là ngon nhất. "Từ hồi về thành phố - Quen ánh điện cửa gương", mình cũng đã có cơ hội trải nghiệm khá nhiều hàng quán khác nhau, có chỗ thêm nấm tai mèo vào xôi, chỗ thêm thịt băm, hay ruốc bông và pa-tê. Một thức ăn sáng khá đầy đủ và chắc bụng, lại nhớ năm tháng chỉ ngủ chờ lá rụng.
 "Vị họa sĩ không thành danh nhờ chiếc cọ, mà chính nhờ đôi tay của họ". Trông sao trước mắt mình, lại có bóng hình một vị thi sĩ đang vẽ lại chính vóc dáng mình thuở ấy. Và hằng ngày mẹ mua cho một hộp xôi thịt, chẳng hề có thịt băm, không phủ pa-tê, không để nấm mèo. Nhưng cái hương vị ấy đủ để si mê đến hết những ngày tháng tìm về. Và còn đó, bóng mẹ còn đó, nghĩa mà mình còn được cảm nhận hương vị ấy, khung trời ấy. Làm sao kéo được sợi dây mà mình vốn chẳng hề được nắm lấy? Nhưng ít nhất trong mình, có thứ gì đó đang âm ỉ, thủ thỉ riêng thân, dù tự thân nhận thấy, nhưng chẳng có cách nào để người thấy, và hiểu được.
-"Tán cây một ngày trời gió lộng,
+
+Tán cây một ngày trời gió lộng,
+
 Động lay bên vệ chẳng ai hay,
+
 Sao tôi thấy, mà như chẳng thấy?
+
 Sao tôi nghe như tiếng dỗi hờn?
 
+
 Rồi ngày an yên bên tán lá
+
 Ngày trời hôm nay tỏa bóng mây.
+
 Chẳng uống lại thành kẻ say,
-Hay đâu bờ bến, tâm này chở che!"` },
+
+Hay đâu bờ bến, tâm này chở che!` },
         { title: "Lối về - Ngoại đi", content: `_1_
 
 Đồng hồ điểm 16:49 chiều, hẳn còn nhiều điều người chưa thể nói, người lại gói chặt trong những câu từ giản đơn. Điểm đầu con lớn, mẹ luôn chở tới nhà ngoại cùng chị, ngày ấy trời còn nắng gắt đến nóng cả sân đất trước hiên. Đó là cả một khu vui chơi nhỏ, những viên bi lăn va vào những viên đá, những ô chuông còn in dấu trượt ngã, dàn bụi Chiều Tím còn đang tỏa hương ngào ngạt, chen cả vào gốc Khế nhỏ xinh bên hẻm dẫn lối ra sau. Chị mình còn hay bứt lá của hàng Sứ trước cửa nhà, mủ còn dính đầy tay, mình lấy làm bút viết, điền con chữ tên tường. Hàng sứ ấy giờ đã mất đi một người tri kỷ đặc biệt.
@@ -766,8 +772,11 @@ _3_
 Giữa "tâm bão" đầu tiên mà mình đang trải, lớp 10. Thực đã quá lâu chưa có dịp ghé ngoại, vì giờ cũng đâu còn ở đây ăn cơm cùng ngoại, thi thoảng hãy còn qua ngắm nghía. Rồi sao tới một ngày, hàng Sứ đã đi mất, mình cũng quên mất chúng từng ở đây, chúng từng ngủ say giữa trưa hè nóng bức, từng ớt mưa cùng những đứa trẻ ngoài hiên, huyên thuyên với thằng bạn lỡ vội đi trước, giờ chỉ còn lại chúng... vậy cũng nên đi rồi nhỉ?
 
 Một ngày trời nắng hạ
+
 Người cũng chẳng còn ta,
+
 Một ngày trời trắng xóa
+
 Nằm ngủ dưới hiên nhà!
 
 _4_
