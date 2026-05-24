@@ -731,7 +731,6 @@ Tán cây một ngày trời gió lộng,
 Sao tôi thấy, mà như chẳng thấy?
 Sao tôi nghe như tiếng dỗi hờn?
 
-
 Rồi ngày an yên bên tán lá
 Ngày trời hôm nay tỏa bóng mây.
 Chẳng uống lại thành kẻ say,
