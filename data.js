@@ -793,6 +793,19 @@ _5_
 "Dạ..."
 
 (Con yêu bà nhiều lắm~)` },
+        { title: "Tóc rối - Hoa trôi", content: `_1_
+
+Trường mình dạo trước có trồng thêm cây Én hồng, một ý tưởng tuyệt vời cho khung cảnh tản bộ thêm sức sống. Phần đẹp nhất của cây này không phải nằm ở cánh hoa, thứ phổ biến mà người ta thường đem ra so sánh giữa các loại cây cảnh, mà ở phần hoa giả của chúng. Phần xung quanh đóa hoa là những chiếc lá có màu hồng nhạt, nhìn sơ qua tựa như những đàn bướm đang dịu dàng đậu trên cành hoa vậy. Rất giống với hoa Giấy, thứ mà người ở vùng quê xưa hay trồng làm cảnh trước cửa nhà.
+
+Mình cũng chưa thấy loài Én hồng này xuất hiện nhiều ở các vùng quê, nên cái mác "cây cảnh công nghiệp" có lẽ còn phải mất một thời gian dài nữa mới gỡ xuống được. Mà nếu có thì bản thân chúng cũng cần phải cạnh tranh để tạo ra giá trị sử dụng so với các loài hoa truyền thống cũng đẹp không kém cạnh ở các vùng quê đấy. Tạo hóa luôn ban cho thiên nhiên những vẻ đẹp kỳ bí!
+
+_2_
+
+Tháng 5 nữa rồi sao, lại là tháng 5 lần thứ 22 trong đời. Mùa xoài lại trĩu quả, bơ nhà thì úa tàn nhưng vẫn rất nghị lực, những quả mận trắng tinh cũng đã hóa hồng đượm. Dạo bước quanh những cung đường mòn như mọi khi, đã thấy rõ hàng dừa lớn hơn mình nhiều phần rồi, điều đó nghĩa là mảnh đất này cũng nhỏ đi nhiều phần. Nhưng thật may mắn khi hàng ổi năm nào vẫn còn đó, từ ổi hồng, ổi trắng cho đến cây ổi rừng, khác nhau về hình dáng, giống nhau về cảm xúc.
+
+Bước đi trên một quãng xa để đến bên cây sơ ri thân thuộc, chúng vẫn ngọt như ngày nào dù quả còn ửng xanh, chỉ có một cây lẻ bóng, nhưng quanh đây... cây nào mà chẳng lẻ bóng? Nhìn xem, cam, bưởi, xoài, đu đủ, na, mãng cầu,... đều đang đứng trụ một mình thế kia. Vậy là đủ rồi, dù cho có một mình, chúng vẫn chẳng cô đơn!
+
+Khi thấy được nhiều sinh thể còn khỏe mạnh như thế, mình cũng trở nên mạnh mẽ, và cho phép mình tựa vào cây, hòa vào hương hoa, nghe tiếng ve ngân nga, và lặng yêu mùa Hạ nhiều hơn nữa!` },
     ],
     chamNgon: [
         { title: "Nhớ Lại", content: `Có những khoảng trời làm tôi thấy nhẹ lòng hơn rất nhiều, cũng là lý do để tôi luôn nhìn lại, dù trải nghiệm bao nhiêu, mon men bước chân tìm kiếm những thứ mới mẻ, xa lạ phía bên kia. Nhưng khi nhớ về chốn thân thuộc ấy, cảm giác như mình lại muốn hoàn sinh, trở về nơi ta thuộc về...
