@@ -605,16 +605,19 @@ Chú cừu kia hôm nay thật ngoan, mọi ngày còn hoài rong chơi mà nay 
         { title: "Yên bình - Của tôi", content: `_1_
 
 Thằng bé ngày nào trong lớp chọn xã hội chưa một lần muốn đọc cuốn sách gì, giờ đây cũng đã có cho mình vài khoảng trời của bản thân, bước qua bao dòng đời, không sao kể xiết. Có lẽ người ta chẳng phải ghét căm gì việc trải qua những thứ mà họ không muốn động vào, có chăng chỉ là chưa đến lúc, chưa đúng cách, chưa đến bến của những dấu chân to lớn hơn phía bên kia cánh cửa.
+
 Khoảnh cách chưa bao giờ là vấn đề, đúng thế! Người ta thường đi chùa để dịu tâm, khoảng ấy, người chẳng màng đang nơi đâu, đơn giản vì người muốn vậy, và người cũng cần một nơi như vậy để đi. Hồi bé, tôi hay tự rong chơi một mình, cả ba anh, chị, em đều đi chăn bò cùng nhau, chơi đùa cùng lá rơi bao mùa... Những lần đó, thi thoảng có hứng lại tự tách ra đi tới một nơi mà đứa trẻ ấy cho là thật xa, ngắm khoảng trời bao la phía cuối con đường.
 
 _2_
 
 Dưới chân đồi, mình nhìn thấy ánh nắng chói chang, những chú kiến lạc đàn đang bò loạn xạ, dòng nước thấm mát cả tâm hồn. Bên lưng đồi, mình nhận ra gió cũng bắt đầu đổi thay, mát mẻ hơn, trong lành hơn, nhìn được khung cảnh xa xôi hơn. Trên đỉnh đồi, gió thổi làm bay mái tóc của mình, theo tiếng gió, mình ngửi được cả sự sống của mọi sinh vật nơi đây, những hoang hoải của thời gian có thể thấy rõ bằng mắt thường, dưới kia những căn nhà dường như chỉ sánh bằng những hòn đá, những con suối chỉ bé bằng nốt ruồi trên tay mình. Ở nơi nông thôn ban sơ thuở ấy, đâu có chi nhà tầng đèn sáng khoảng đường, chỉ có những đám mây trắng vẫn trôi theo gió, mưa một chiều ướt lối nhỏ về nhà...
+
 Yên bình biết bao, nhìn chú chó theo sau, ngân nga tiếng hát ngô nghê, nghe kể những chuyện trưa hè, bên rặng tre xanh ngắt... yên bình của tôi là vậy, nếu tôi không thuộc về đây, còn thuộc về thế giới nào nữa?
 
 _3_
 
 Trên đường đi từ đâu đó về trường, mình đặt xe và được một chú trung niên trạc tuổi ba mình chở. Chú có hỏi mình học ngành gì, trường nào, ở đâu, thực là những câu hỏi xã giao qua loa. Và im lặng một hồi, rồi lại hỏi chú: "Vậy chú chạy xe vậy có mệt không chú, với tiền lương cũng không mấy dư giả để lo cho con mình đang học Quản trị kinh doanh?". - "Chú lúc trước cũng làm bảo vệ, nghe phèn phèn vậy chứ kiếm cũng khá đó con, nhưng mà chú lại không thích luật lệ gò bó, chú không hiểu biết nhiều, chú cũng muốn lo cho con chứ, nhưng công việc mà mình không thích, bản thân chú không muốn làm. Con thấy cái chạy xe dịch vụ này tuy vất vả, nhưng đối với chú, chú thấy nó tự do lắm con, chú chở khách đi cũng là chở chú đi, đi đến nơi chú chưa biết, riết cũng quen đường xá, rồi cứ ngắm nhìn đất Sài Gòn như vậy, tiền bạc với chú không còn quan trọng nữa, khó khăn xíu cũng được, lo đủ là được!"
+
 Rồi thì nhìn lại mình, hóa ra bản thân cũng có cái mong muốn đó từ lâu, mình biết mình thuộc về nơi đó, cớ sao phải vượt sóng gió chỉ để làm những thứ chính mình không hề thích nhỉ? Mặt khác, mình luôn nghĩ cho tương lai bản thân, cho những cá thể mà mình biết mình cần có họ. Vì vậy cái "đủ" của mình cũng phải trải qua cả những thứ mình không thích ở mức nào đó, có được thứ mình cần có, rồi hãy nghĩ tới những thứ mình nên có. Bởi:
 
 Để giữ cho trời xanh
@@ -629,7 +632,9 @@ Chẳng ai nghe cây lớn, lại nghe tiếng cây đổ. Chẳng ai nhìn lá 
 _5_
 
 Cũng đã giữa Đông rồi sao? Bão số 15 từ ngoài biển Đông vào, khiến khắp chốn Sài Gòn giờ đây ngập tràn không khí se lạnh của mùa Tết. Hiếm lắm mới có một mùa lạ lùng như vậy sảy ra, nhưng cũng không mấy vui vẻ khi nhìn vào tác nhân gây ra, miền Trung đã chịu đủ rồi, hãy thôi cái câu chuyện không hồi kết này lại đi, xin đừng làm khó những mảnh đời vô tội, mảng đất hiền hậu này nữa.
+
 Bước đi dưới cái khí se lạnh, trên kia tán cây cũng đong đưa qua lại cho ấm người, rồi thì lác đác ánh vàng còn sót lại của mùa Thu, xuyên qua tán mây, một bầu trời xanh thẳm. Sao trông lạ mà quen, chẳng phải cái không gian này, mình đã từng thấy rất nhiều lần rồi sao? Lối về nhà mình, có hàng cây Bạch Đàn xanh thắm, loang lổ vết trắng nâu trên thân, cũng nghiêng nghiêng bao mùa như vậy mỗi lần gió thổi. Mà sao những buổi trời Hạ oi ả, lại có những dòng nước tươi mát toả ra ở đây nhỉ? Khiến cho cả tôi và người đều muốn tránh sang một bên vậy! Rồi cây Vông hoa hẹp cũng rực đỏ đầu nhánh, làm tôi và chị tôi ngày xưa cứ tưởng rằng đây là loài hoa mà người thường dùng để chế ra màu mực đỏ. Thân chúng rất xấu, nhiều gai, nhưng hoa lại đẹp đến mức hiếm thấy có kẻ so bằng.
+
 Đường dưới nhà cũ, lối về suối nương, nơi sâu xa tìm thấy nhà mình cũng trồng nhiều cây Keo thân gỗ trên đường đi, thậm chí có 2 rừng cây Keo, hoa vàng, bụi hoa khẽ bay như hạt kim tuyến giữa khoảng trời thoảng gió heo may. Thử nheo mắt lại nhìn chúng, cũng khá giống bụi vàng đang bay trong gió ấy chứ! Nhưng vào thu là mùa sinh trưởng của loài sâu, nỗi sợ duy nhất đã khiến tôi hình thành một phản xạ có điều kiện khá mạnh mẽ mỗi lần bị chúng hù trên những thân Keo tưởng chừng vô hại. Rồi thì một gốc Trôm to lớn hai người ôm, mùi hoa nồng nặc, có chút khó chịu khi đứng gần, người cũng có thể liên tưởng đến Hoa Sữa, may mà tôi là người chịu được hương nồng này, nên trái với anh chị, tôi rất thích chúng. Lần ấy em và anh hai thi nhau lấy cây chọc đổ những nải quả trên cao tít, cứ sợ nó rớt xuống đầu, nhưng sau khi có được những hạt Trôm, đây là trò chơi hết sức tiêu khiển nếu như người có biết đến “hạt nóng”. Khi ma sát với bề mặt nhám đủ lâu, chúng sẽ tăng nhiệt độ lên đáng kể, khi này chỉ cần chạm nhẹ lên da là cảm giác như bị chích bởi một cây kim vậy, dù biết nó không lành mạnh lắm, nhưng những đứa trẻ ấy chơi vui biết bao. Rồi thì cây Kèn cổ thụ, cây Cối Xay buổi “Mưa Thu”, tất cả gom góp thành một tuổi thơ tràn ngập tiếng cười và hạnh phúc, mà giờ đây đã mất trong tôi một nửa cứ mỗi khi tôi nhớ nhà. Thứ mà người người ngoài kia có lẽ vẫn đang ngày ngày mong mỏi tìm về.
 
 _6_
@@ -654,6 +659,7 @@ Năm 11, mình được xếp vào lớp chọn xã hội, nơi có những thà
 _4_
 
 Năm 12, dịch Covid vẫn đang diễn biến phức tạp, có một người bạn của mình, bạn tên Lan Anh, mình biết qua việc một người bạn nam chơi chung với mình nhắc rằng có bạn mới vừa chuyển đến trong học kỳ này, chứ bản thân mình lúc đó không hề biết chuyện. Rồi thì cũng hữu duyên quen nhau, và tiếp tục lại là câu chuyện “bạn cùng bàn của mình sẽ luôn là nữ”. Lớp học mình ngoài bạn ấy ra thì tất cả vẫn như cũ, và một vài người không ảnh hưởng tới mình cũng đã biến mất. Dù sao, đến giữa học kì I, bạn đã về tại nơi học chính, tức là mình sẽ phải ngồi một mình, nhưng không, người chị bất đắc dĩ của mình đã ngồi vào chỗ trống ấy, bởi người chị ấy cũng đã trải quả những điều mà mình luôn thấy rõ.
+
 Trong suốt năm tháng học tập ấy, những người duy nhất mà mình yêu quý, đó là đồng học Nhung, Lan Anh, cô Lệ dạy văn, cô Đoan dạy nhạc. Còn lại, tất cả mọi-thứ-đều-vô-nghĩa. Luôn có câu nói rằng: “Khi bạn trưởng thành rồi, bạn luôn nhớ về những năm học ấy và muốn quay trở lại!”, có lẽ chân lý tương đối đã hoạt động với mình, đâu đó trên đời, có những mầm xanh chưa từng muốn trở lại năm tháng “ác mộng” kia. Cảm ơn mình vì đã chọn đúng nền văn minh như bây giờ, xuất phát từ những điều có thể khiến mình trở thành phản diện, nhưng lớn lên với gốc con người thật sự của mình, đã giúp mình lựa chọn những lối đúng đắn, sống một cách thật đáng sống, làm những điều tích cực, và trở thành một con người tốt đẹp mà bản thân mình luôn hướng tới.
 
 _5_
@@ -662,6 +668,7 @@ Năm lớp 8, trường có hoạt động gửi một số học sinh xuất s�
         { title: "Giấc mơ - Của người", content: `_1_
 
 Đồng cỏ lau bên cạnh trường RMIT kia hôm nay đã bị san phẳng. Những ngày mưa hay gió mạnh, rặng xanh ấy nghiêng qua nghiêng lại theo nhịp, tự bao kiếp sống ngân nga tiếng hát giữa cơn gió. Chúng đã có cho mình những bông hoa, tung bay phấp phơi giữa đất trời, nhưng chẳng ai biết chúng đang cất lời ca vang, rằng chúng sẽ ở đây, ở kia, và khắp chân trời xa xôi. Vòng xoắn ốc của sự sống là không thể ngăn cản, dù đôi chân ta đạp lên chúng, đôi tay ta lấy đi những bông hoa, làm đẹp trong khung ảnh, chúng vẫn vẹn nguyên chẳng tàn, chẳng màn thời gian.
+
 "Nhiều năm qua, trong những đêm bão giông gió lớn, mình đã trở thành ngọn đèn soi sáng cho con đường mình đi. Không một ai biết mình đã trải qua điều gì, không một ai hiểu thấu những nỗi đau mình có." Đây là lời cuối trong cuốn "Một đời dài rộng, hãy thương lấy mình" của tác giả Phương Thảo. Con đường ấy có chăng quá dài, quá nhiều mất mát, nhưng nó rất đẹp, thực đẹp biết bao, bởi khi ấy, những bông hoa nở rộ sẽ thực sự có những câu chuyện để kể, những mảnh tâm hồn luôn tồn tại. Một sớm mai, người vẫn hạnh phúc vì người đã mất đi nhiều, đã khóc, đã đứng lên cho bản thân, vững đôi chân từng găm bởi vô vàn nỗi đau, gieo tiếp một mầm cây mới, với niềm tin vĩnh hằng, với bao yêu dấu chưa từng có được cho bản thân, viết tiếp cho thế hệ sau, một bức tranh màu sắc tươi sáng, soi dấu chân người giữa đêm đen.
 
 _2_
@@ -679,20 +686,26 @@ Có lẽ, lựa chọn ở lại cũng là một cách gìn giữ, giữ cho m�
         { title: "Khi về - Kể lại", content: `_1_
 
 Ở một thế giới có bao nhiêu màu sắc, chắc rằng có những người biết mình màu gì. Người ta ghét quạ, vì chúng mang lại xui xẻo, hay giản đơn vì màu sắc không mấy tích cực của chúng cho sự sống này... vậy mà đâu đó, chúng lại nhớ rõ ai đã giúp đỡ chúng, ai đã phản bội và hãm hại chúng. Nếu ta cho chúng một miếng ăn, chúng sẽ cho trao ta sự tin tưởng.
+
 Con người cũng bởi những gam màu ấy, lắm khi lại sống trái với lời tựa của mình, vô tình đạp vào vũng lầy tệ bạc, nhưng vì nó quá êm ái, như chiếc giường trải dài tấm nệm, khiến họ không nhận ra họ đã vừa làm điều gì bất công. Những lời nói luôn là minh chứng rõ ràng nhất cho sự chính trực, cũng là bằng chứng cho sự mâu thuẫn nội tâm, dạy cho người ta biết bao nhiêu bài học mà đáng ra người học phải là chính họ.
+
 Người ơi, trái tim người cũng ấm áp lắm, cũng biết hạnh phúc, biết khổ đau, biết màu sắc ấy của mình. Xin đừng đem những điều lạnh băng kia tỏa xa khắp một bến bờ đầy nắng Hạ, họ đau lắm đấy. Nhưng họ vẫn vì một gam màu của họ, chọn cho mình một con đường lý trí chứa bản thể thật duy nhất, hằng đêm, vẫn tỏa ra một hơi ấm khắp chốn về, vì họ biết, họ đã phải làm gì, thay vì đã viết những gì, trên đôi môi họ.
 
 _2_
 
 "Đôi khi nhầm một chuyến xe, lại đưa chúng ta về nơi muốn đến". Andiez đã viết lên những lời nhạc mà chính mình cũng rất cảm phục. Ba mình dẫn chị mình đi bắt dế cơm, loại này là loại dế mà ta có thể ăn được, chiên giòn lên và cuộn xà lách chấm mắm ớt, tuyệt hảo! Mình ban đầu nghĩ đi bắt dế khá dễ, bởi mình cũng hay bắt được, nhưng được là bởi mình chỉ bắt đơn, còn một bữa ăn thì phải hàng chục con trở lên, đó là điều không thể với mình lúc đó.
+
 Nhưng với cái tôi cao hơn núi đá vôi của mình lúc đó, mình liền xách công cụ đi bắt dế, thoạt đầu thì bắt được vài chú dế mèn, thoạt sau xui xẻo bắt được thêm một mớ dế mèn nữa, buồn làm sao khi loại này không ăn được nên có bắt cũng đành thả đi thôi. Khóc một hồi, than lỗi do ba đã bắt sạch khu đó, mình liền đi tới xó xỉnh nào, vừa đi vừa khóc như muốn mấy con dế thương cảm và tự chui vào giỏ đựng của mình.
+
 Đi đến hồi chân mỏi, quay lại đám đất trống chưa trồng hoa màu của nhà bên, nói là nhà bên nhưng ở đây là miền rẫy nương, rất rộng và cách xa nhau. Trên đầu trái đào (điều) rơi bụp xuống đầu mình, tự giọt nước tràn ly, mình không đi đào nữa, lững thững lối mòn ngoảnh về. Rồi xa xa, một khúc gỗ hương khá lớn, lúc đó mình không biết nó dùng để làm gì, chỉ biết nó khá đắt và hiếm so với gỗ thông thường, mình liền lôi về nhà, tấm thân này chưa đủ nặng trĩu sao?
 Lê lết đi về, thân mình thì bê bết, người thì cười lớn, muốn cười thì cười, dù sao cũng đã cố rồi, khóc cũng đã khóc rồi! 
+
 - "Mày đem đâu khúc hương này về vậy?"
 --"Xa lắm. Bên kia kìa!"
 - "Rồi mắc gì mày qua đó lôi cái này về dậyy?"
 Cũng không biết trả lời sao, thôi thì nhịn chút, trước mặt là một mâm rau quả bánh tráng, chỉ còn đợi món dế cơm chiên giòn là vào việc. Nhưng tôi cũng lười cả ăn, dẫu sao cũng đã tìm dế, chỉ là hơi ngoài ý muốn, và tôi cũng không giỏi như ba, tôi thừa biết điều đó, khúc gỗ này là minh chứng cho sự kiên trì của một đứa trẻ rồi.
 - "Khúc hương này than cháy lâu lắm nha, để chiều ba lấy đốt nướng thịt ăn cho đã!"
+
 Ừm thì biết sao giờ? Coi như sự đền đáp ngoài ý muốn này cũng là một dạng thành quả nhỉ? Thịt nướng hôm ấy ngon bá cháy!
 
 _3_
@@ -716,10 +729,12 @@ Mất thật rồi, những ngày mưa xanh ngắt
 Những bờ đất tạo nên hình dáng nhỏ
 Ngày dưới bóng mát cả bầu trời ước mơ!
 
-Hai chú vịt thế giới ấy lạch bạch dưới hàng dừa, hai chú vịt thế giới này say sưa bên đồng cỏ lau, thứ mà cũng thường xuyên bị san phẳng hết sạch! Bởi vậy, nếp sống của loài người đã trở nên  khác biệt qua từng ngày, sự tử tế mà người đang nghĩ cũng đã bị ăn mòn bởi chúng. Làm sao để nói cho người biết mình đã lỡ dành hết phần chân thành cho thiên nhiên mất rồi!` },
+Hai chú vịt thế giới ấy lạch bạch dưới hàng dừa, hai chú vịt thế giới này say sưa bên đồng cỏ lau, thứ mà cũng thường xuyên bị san phẳng hết sạch! Bởi vậy, nếp sống của loài người đã trở nên khác biệt qua từng ngày, sự tử tế mà người đang nghĩ cũng đã khác đi. Làm sao để nói cho người biết mình đã lỡ dành nhiều phần chân thành cho thiên nhiên mất rồi!` },
         { title: "Điều gì - Lãng quên", content: `_1_
 
-Ngày nọ, tôi vẫn lâng la trên chiếc xe đạp của mình, tìm bóng hình của sự bình yên khắp nơi quê nhà. Con đường sau nhà tôi nay đã lát nền xi măng, nhưng cũng chỉ một đoạn ngắn, người thường có động lực rất nhiều khi mới bắt đầu, nhưng rồi nếu không đủ kiên trì, người sẽ lại bỏ đi giữa chừng. Lăn bánh xe đạp cũ kỹ của nhiều năm trước, bên những vùng trời của nhiều năm trước, ngay từ lần đầu tiên đi đến đây, nơi này thật xa lạ, ở đó, có một cây cầu nhỏ bằng bê tông cốt thép đã bỏ hoang rất lâu, xung quanh vẫn còn vẹn nguyên chưa vết nứt đổ. Đứng nhìn từ trên xuống, ở phía dưới người đã tự tạo cho mình một con đường mòn "chính" nho nhỏ, nói là chính bởi có lẽ sẽ rất lâu về sau mới có điều gì đó thay đổi con đường ấy ở đây, cây cầu này, chưa một lần than vãn những người đã bỏ nó, tôi lần đầu bước lên cũng có chút sợ hãi, phải chăng người cũng vậy? Cây cầu này quá nhỏ hẹp, không phải vì nó không đủ vững chắc, chỉ là người không thể hằng ngày qua lại được cùng những thứ cồng kềnh kia của mình. Nhưng dù sao, đó cũng là tất cả những gì mà nó có, xung quanh cây cối đã um tùm, như thể chúng chẳng hề tồn tại trong mắt người. Rồi lại lăn bánh xe cũ kỹ của nhiều năm trước, nhưng không còn nhìn thấy vùng trời ấy nữa, lanh quanh một thoáng đã sáu năm, cây cầu kia, ngoài vết rêu phủ đầy chân cầu, có vẻ nó vẫn đứng vững như thể muốn ai đó biết được nó không hề là kẻ mới chập chững, nhìn ngắm muôn vạn đổi thay, từ đất đá, cây cỏ, đến con người.
+Ngày nọ, tôi vẫn lâng la trên chiếc xe đạp của mình, tìm bóng hình của sự bình yên khắp nơi quê nhà. Con đường sau nhà tôi nay đã lát nền xi măng, nhưng cũng chỉ một đoạn ngắn, người thường có động lực rất nhiều khi mới bắt đầu, nhưng rồi nếu không đủ kiên trì, người sẽ lại bỏ đi giữa chừng. Lăn bánh xe đạp cũ kỹ của nhiều năm trước, bên những vùng trời của nhiều năm trước, ngay từ lần đầu tiên đi đến đây, nơi này thật xa lạ, ở đó, có một cây cầu nhỏ bằng bê tông cốt thép đã bỏ hoang rất lâu, xung quanh vẫn còn vẹn nguyên chưa vết nứt đổ. Đứng nhìn từ trên xuống, ở phía dưới người đã tự tạo cho mình một con đường mòn "chính" nho nhỏ, nói là chính bởi có lẽ sẽ rất lâu về sau mới có điều gì đó thay đổi con đường ấy ở đây, cây cầu này, chưa một lần than vãn những người đã bỏ nó, tôi lần đầu bước lên cũng có chút sợ hãi, phải chăng người cũng vậy? Cây cầu này quá nhỏ hẹp, không phải vì nó không đủ vững chắc, chỉ là người không thể hằng ngày qua lại được cùng những thứ cồng kềnh kia của mình. Nhưng dù sao, đó cũng là tất cả những gì mà nó có, xung quanh cây cối đã um tùm, như thể chúng chẳng hề tồn tại trong mắt người.
+
+Rồi lại lăn bánh xe cũ kỹ của nhiều năm trước, nhưng không còn nhìn thấy vùng trời ấy nữa, lanh quanh một thoáng đã sáu năm, cây cầu kia, ngoài vết rêu phủ đầy chân cầu, có vẻ nó vẫn đứng vững như thể muốn ai đó biết được nó không hề là kẻ mới chập chững, nhìn ngắm muôn vạn đổi thay, từ đất đá, cây cỏ, đến con người.
 
 _2_
 
@@ -768,6 +783,7 @@ _4_
 Người ấy mà anh Cam gai nói đến là ai nhỉ?
 
 Năm 2022, mình lên Thành Phố học, bước chân vào ngôi trường còn xa lạ, rồi dần già cũng sẽ thành quen. Chị họ mình, người chịu trách nhiệm chính trông nom ngoại, nói đơn giản vì chị họ mình chưa chồng, cả họ hỗ trợ chị kinh phí, còn việc chăm sóc ngoại phần lớn nhờ chị. Cậu Đen, người con trai cuối cùng của ngoại, từ nhỏ đến lớn bên cạnh ngoại cũng ở đây bên ngoại. Thi thoảng mình cùng mẹ, những Dì khác cũng vậy, đem bánh trái, thức ăn, rau, đồ cúng (ông ngoại) tới. Sẵn tiện hỏi thăm tình hình sức khỏe ngoại ra sao.
+
 Hơn sáu giờ sáng, chị mình tới trước tiên, đang thay đồ cho ngoại, nghe lấy có tiếng ngoại thốt rất hoảng hốt, chắc ngoại đang rất sợ hãi, vì đã một khoảng kể từ lần cuối bác sĩ giúp mọi người chấp nhận sự thật này. Một lúc sau, quá trình đau đớn ấy dần nguôi ngoai, bà cũng dần xuôi tay, ánh mắt không vẻ động lay. Cậu Đen vội lấy tay đặt lên mũi bà: "Bà già chớt rầu, bà già chớt rầuuuu!!!", chị mình cũng cố gắng thay cho xong bộ đồ của ngoại, rồi gọi cả họ tới, khoảng đó dì Như là ở gần nhất, vì Dì đang mua đồ ăn sáng cho cả nhà. Lần cuối cùng mình nhìn thấy ngoại đã quá lâu rồi... Lần đầu tiên mình biết Cậu Đen "có biết" khóc.
 
 _5_
