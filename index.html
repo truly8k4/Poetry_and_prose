@@ -1330,12 +1330,20 @@
                             </div>
                         `;
                     } else {
-                        // Render văn bản tản văn, dùng drop-cap cho đoạn chữ đầu tiên của một phần
-                        if(isFirstTextPara && !trimmed.startsWith('“') && !trimmed.startsWith('"')) {
-                            contentHtml += `<p class="drop-cap text-lg md:text-[1.2rem] leading-[2] mb-8 text-ink-light text-justify">${trimmed}</p>`;
-                            isFirstTextPara = false;
+                        // Nhận diện đoạn thơ xen kẽ: có \n và các dòng đều ngắn
+                        const lines = trimmed.split('\n');
+                        const isPoetryBlock = lines.length > 1 && lines.every(l => l.trim().length < 80);
+
+                        if (isPoetryBlock) {
+                            contentHtml += `<p class="whitespace-pre-line text-lg md:text-[1.1rem] leading-[2] mb-8 text-ink-light text-center italic font-display">${trimmed}</p>`;
                         } else {
-                            contentHtml += `<p class="text-lg md:text-[1.2rem] leading-[2] mb-8 text-ink-light text-justify">${trimmed}</p>`;
+                            const rendered = trimmed.replace(/\n/g, '<br>');
+                            if(isFirstTextPara && !trimmed.startsWith('"') && !trimmed.startsWith('“')) {
+                                contentHtml += `<p class="drop-cap text-lg md:text-[1.2rem] leading-[2] mb-8 text-ink-light text-justify">${rendered}</p>`;
+                                isFirstTextPara = false;
+                            } else {
+                                contentHtml += `<p class="text-lg md:text-[1.2rem] leading-[2] mb-8 text-ink-light text-justify">${rendered}</p>`;
+                            }
                         }
                     }
                 });
@@ -1374,7 +1382,11 @@
                 const paragraphs = quote.content.split('\n\n').filter(p => p.trim() !== '');
                 let contentHtml = paragraphs.map(p => {
                     if(p.startsWith('"') && p.endsWith('"')) return `<p class="italic font-display text-2xl md:text-3xl text-ink leading-relaxed mb-6 mt-6 text-center">" ${p.replace(/"/g, '')} "</p>`;
-                    return `<p class="text-ink-light leading-[2] text-lg text-justify">${p}</p>`;
+                    const pLines = p.split('\n');
+                    const isPoemBlock = pLines.length > 1 && pLines.every(l => l.trim().length < 80);
+                    if(isPoemBlock) return `<p class="whitespace-pre-line text-lg md:text-[1.1rem] leading-[2] mb-6 text-ink-light text-center italic font-display">${p}</p>`;
+                    const rendered = p.replace(/\n/g, '<br>');
+                    return `<p class="text-ink-light leading-[2] text-lg text-justify">${rendered}</p>`;
                 }).join('');
 
                 const html = `

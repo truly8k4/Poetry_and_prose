@@ -673,10 +673,7 @@ Năm lớp 8, trường có hoạt động gửi một số học sinh xuất s�
 
 _2_
 
-Tác giả La Vy từng viết: 
-"Cuội nói, ta buồn làm chi!
-Trần gian vui có mấy khi?
-Chẳng ham sống nơi đô thị, có trăm ánh đèn quên một vầng trăng."
+Tác giả La Vy từng viết: "Cuội nói, ta buồn làm chi! Trần gian vui có mấy khi? Chẳng ham sống nơi đô thị, có trăm ánh đèn quên một vầng trăng."
 
 Đúng là đô thị ấy rực rỡ và cầu kỳ, mình có thể thấy rõ mặt đồng hồ liên tục cuồn cuộn chảy, bất kể đêm ngày, cuốn theo cả những dòng người vội vã. Ở đó, có chăng người thấy mình buộc phải thuộc về một nhịp đập chung, thấy được sưởi ấm bởi hơi người và những câu chuyện nối nhau không thể dừng. Mình thừa hiểu, cái khao khát được hòa vào, được sẻ chia, được thấy mình trong mắt người khác giữa phố xá tưng bừng thực vui sướng biết bao. Với người, có thể hiện hữu là nỗi cô đơn giữa biển người, nhưng chí ít vẫn dễ chịu hơn nỗi cô đơn tuyệt đối giữa mênh mông đất trời.
 
@@ -700,10 +697,10 @@ Nhưng với cái tôi cao hơn núi đá vôi của mình lúc đó, mình li�
 Đi đến hồi chân mỏi, quay lại đám đất trống chưa trồng hoa màu của nhà bên, nói là nhà bên nhưng ở đây là miền rẫy nương, rất rộng và cách xa nhau. Trên đầu trái đào (điều) rơi bụp xuống đầu mình, tự giọt nước tràn ly, mình không đi đào nữa, lững thững lối mòn ngoảnh về. Rồi xa xa, một khúc gỗ hương khá lớn, lúc đó mình không biết nó dùng để làm gì, chỉ biết nó khá đắt và hiếm so với gỗ thông thường, mình liền lôi về nhà, tấm thân này chưa đủ nặng trĩu sao?
 Lê lết đi về, thân mình thì bê bết, người thì cười lớn, muốn cười thì cười, dù sao cũng đã cố rồi, khóc cũng đã khóc rồi! 
 
-- "Mày đem đâu khúc hương này về vậy?"
---"Xa lắm. Bên kia kìa!"
-- "Rồi mắc gì mày qua đó lôi cái này về dậyy?"
+- "Mày đem đâu khúc hương này về vậy?" --"Xa lắm. Bên kia kìa!" - "Rồi mắc gì mày qua đó lôi cái này về dậyy?"
+
 Cũng không biết trả lời sao, thôi thì nhịn chút, trước mặt là một mâm rau quả bánh tráng, chỉ còn đợi món dế cơm chiên giòn là vào việc. Nhưng tôi cũng lười cả ăn, dẫu sao cũng đã tìm dế, chỉ là hơi ngoài ý muốn, và tôi cũng không giỏi như ba, tôi thừa biết điều đó, khúc gỗ này là minh chứng cho sự kiên trì của một đứa trẻ rồi.
+
 - "Khúc hương này than cháy lâu lắm nha, để chiều ba lấy đốt nướng thịt ăn cho đã!"
 
 Ừm thì biết sao giờ? Coi như sự đền đáp ngoài ý muốn này cũng là một dạng thành quả nhỉ? Thịt nướng hôm ấy ngon bá cháy!
@@ -739,6 +736,7 @@ Rồi lại lăn bánh xe cũ kỹ của nhiều năm trước, nhưng không c�
 _2_
 
 Công nhận món xôi mẹ hay mua vẫn là ngon nhất. "Từ hồi về thành phố - Quen ánh điện cửa gương", mình cũng đã có cơ hội trải nghiệm khá nhiều hàng quán khác nhau, có chỗ thêm nấm tai mèo vào xôi, chỗ thêm thịt băm, hay ruốc bông và pa-tê. Một thức ăn sáng khá đầy đủ và chắc bụng, lại nhớ năm tháng chỉ ngủ chờ lá rụng.
+
 "Vị họa sĩ không thành danh nhờ chiếc cọ, mà chính nhờ đôi tay của họ". Trông sao trước mắt mình, lại có bóng hình một vị thi sĩ đang vẽ lại chính vóc dáng mình thuở ấy. Và hằng ngày mẹ mua cho một hộp xôi thịt, chẳng hề có thịt băm, không phủ pa-tê, không để nấm mèo. Nhưng cái hương vị ấy đủ để si mê đến hết những ngày tháng tìm về. Và còn đó, bóng mẹ còn đó, nghĩa mà mình còn được cảm nhận hương vị ấy, khung trời ấy. Làm sao kéo được sợi dây mà mình vốn chẳng hề được nắm lấy? Nhưng ít nhất trong mình, có thứ gì đó đang âm ỉ, thủ thỉ riêng thân, dù tự thân nhận thấy, nhưng chẳng có cách nào để người thấy, và hiểu được.
 
 Tán cây một ngày trời gió lộng,
@@ -793,6 +791,7 @@ _5_
 "Hồi xưa thì có chứ giờ hết rồi á bà~"
 -- "Một thoáng nữa bà mất... mà con nhìn thấy bà ở đâu đó... con đừng có sợ nha, bà luôn phù hộ cho con, sẽ soi sáng cho con mỗi khi con đi lạc... vậy nên con đừng quên bà nhaaa?"
 "Dạ..."
+
 (Con yêu bà nhiều lắm~)` },
     ],
     chamNgon: [
