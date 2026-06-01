@@ -735,6 +735,16 @@ Rồi lại lăn bánh xe cũ kỹ của nhiều năm trước, nhưng không c�
 
 _2_
 
+Hoa mười giờ giờ đây thật rộng lượng nhỉ?
+Giống như những người trẻ bây giờ, thói hoa ngủ rất lâu, cứ nhắm mắt im lìm đến tận thời điểm mặt trời gần giữa đỉnh đầu. Cái nắng chói chang ấy mới làm chúng vực dậy, thôi khép mình và nở những đóa hồng đối diện ánh nắng kia.
+Nói loài hoa này khó chiều cũng không sai, bởi khi trời râm mát, hay mây tụ, chúng thậm chí chẳng thèm nở ra cho đến tận giác chiều. Và để chống lại lối hoa nở cá biệt này, người đã tiếp tục lai tạo chúng với nhiều giống tương tự nhưng cho sản phẩm đẹp hơn, dễ nở hơn. Đó chính là những bụi mười giờ bên vệ đường hay công viên mà ta hay gặp.
+Nào! Bây giờ hãy quay lại 12 năm trước, khi đó mình mới tròn 10 tuổi. Vẫn ở nơi suối nương thân thuộc, trong bao buổi chiều Hạ thả những con diều giấy mong manh. Mình bắt gặp một khu vườn hoa mười giờ dại mọc bên đất hàng xóm, đây là đất rẫy và để trống. Lý do là vì đất rất xấu, cứng, thô ráp và nhiều hố sụp sâu hóm trông khá đáng sợ với một đứa trẻ 10 tuổi. Lạ thay, đây là vùng được chọn để sinh trưởng của hội hoa mười giờ ấy, chúng đã thích nghi tại nơi thô ráp, cứng cáp và trơ trọi này. Bộ lá và rễ của cây nhỏ gấp ba lần, và hoa của chúng nhỏ hơn nhiều so với hoa mười giờ mà người thường thấy ngày nay.
+Có lẽ dinh dưỡng của mảnh đất này là nguyên nhân khiến chúng sinh trưởng kém như vậy. Hay có chăng trái tim của chúng đã luôn nhỏ bé như vậy vào thuở ban sơ? Và khái niệm "mười giờ" thực chất đã kẹt lại tại đây như một ký ức đã nhiều phần bị chìm vào quên lãng. Sớm nở tối tàn rất nhanh chóng, và người lắc đầu một cách rất nhanh chóng.
+Có xứng đáng không? Đóa hoa ấy nhiều phần nhỏ bé, và cũng nhiều phần rực rỡ, đứng bên bờ đối diện ở khoảnh cách rất xa, mình luôn có thể nhận ra chúng vẫn đang nở rộ nhờ những chấm hồng rực rỡ giữa những khoảng xanh nhạt và trắng xóa. Ở góc nhìn đó, chúng mới thức sự là những nàng tiên hữu hình. Khoảng cách không gian đã làm rõ hơn nhận thức của người. Còn khoảng cách thời gian thì có nhiệm vụ lu mờ đi nhận thức của người.
+Như bao nàng tiên khác, chúng đã hết thời mất rồi, không phải vì chúng đã biến mất, mà vì người đã nhòa phai dần sự thật ấy từ hai chữ "mười giờ".
+
+_3_
+
 Công nhận món xôi mẹ hay mua vẫn là ngon nhất. "Từ hồi về thành phố - Quen ánh điện cửa gương", mình cũng đã có cơ hội trải nghiệm khá nhiều hàng quán khác nhau, có chỗ thêm nấm tai mèo vào xôi, chỗ thêm thịt băm, hay ruốc bông và pa-tê. Một thức ăn sáng khá đầy đủ và chắc bụng, lại nhớ năm tháng chỉ ngủ chờ lá rụng.
 
 "Vị họa sĩ không thành danh nhờ chiếc cọ, mà chính nhờ đôi tay của họ". Trông sao trước mắt mình, lại có bóng hình một vị thi sĩ đang vẽ lại chính vóc dáng mình thuở ấy. Và hằng ngày mẹ mua cho một hộp xôi thịt, chẳng hề có thịt băm, không phủ pa-tê, không để nấm mèo. Nhưng cái hương vị ấy đủ để si mê đến hết những ngày tháng tìm về. Và còn đó, bóng mẹ còn đó, nghĩa mà mình còn được cảm nhận hương vị ấy, khung trời ấy. Làm sao kéo được sợi dây mà mình vốn chẳng hề được nắm lấy? Nhưng ít nhất trong mình, có thứ gì đó đang âm ỉ, thủ thỉ riêng thân, dù tự thân nhận thấy, nhưng chẳng có cách nào để người thấy, và hiểu được.
