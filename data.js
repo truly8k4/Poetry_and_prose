@@ -604,17 +604,31 @@ _5_
 Chú cừu kia hôm nay thật ngoan, mọi ngày còn hoài rong chơi mà nay đã biết yên phận bên bãi cỏ xanh. Sao trời đã qua cơn Đông mà bàn tay này lại đang mùa lạnh buốt? Nhìn kìa, giờ đây đã có những con cừu khác phía vườn Cẩm Chướng, sao còn hoài mong mỏi điều gì? Nhưng rồi cũng phải đi qua trăm dặm, cũng không sợ ai nhìn thấy, chỉ sợ chẳng ai thấy, chẳng ai nghe. Vì vậy chú muốn nghe nhiều hơn, muốn thấy nhiều hơn, nên chú lại đi tiếp, nhìn quanh đàn cừu này, cũng đang dần tiến về phía xa xa gió thoảng trời xanh, cứ kề nhau mà bước cho ấm, cừu ạ! Vẫn thấy còn nhiều lần lỡ bước, mà lần nào cũng là lần xa nhau. Rồi mưa ba ngày cũng tạnh, gió buốt lạnh vẫn ngưng, nên nếu còn thấy những hạt mưa ấy, là còn bước bên từng rặng mây đỏ đầy trời.` },
         { title: "Yên bình - Của tôi", content: `_1_
 
+Trong giấc mơ, nghe tiếng lá rơi xuống tắt trên đôi môi mình, e ấp những thanh âm vô hình. Chạy theo hướng Đông để về phía trên đồi, đưa tóc bay bay cùng những cơn gió nhẹ nhàng ấy. Như một cuốn phim tua chậm, mờ ảo hiện ra một khung cảnh lúc nắng, lúc mưa.
+
+Phương ngang, nghiêng mình trên sàn, mặt đất phẳng hòa với ánh nắng, chiếu sáng tới xa xăm chân cầu ấy.
+
+Trong một khoảnh khắc, ta còn tưởng đó là nơi đông đúc, nơi chen chúc những mảnh đời đang vật lộn với sự sống. Thực may, khi đến đây, ánh nắng vẫn soi chiếu qua chân cầu và muôn trùng lớp lá phủ, trả về cho ta một bức họa tuyệt đẹp. 
+
+Mở mắt ra một lần nữa, vẫn thấy ta đang nằm trên mái ngói ngả đen, bên cạnh là một cây ổi trĩu quả, người bạn năm ấy, những giấc mơ kỳ lạ cứ thế mà tuôn ra.
+
+Và những mùa Hạ oi ả, cây Chò đổ "mồ hôi" hay tiếng "khóc" xa? Mặt đất lấm lem dấu thời gian, nhưng cây thì đã mỏi, đã mỏi qua bao lần chống mưa chịu nắng, vết đồi mồi trên kia là minh chứng rất rõ, những mầm non phía dưới là minh chứng rất rõ. Để ta tựa vào, như tì lên tấm phản mục, bất lặng. Bởi dẫu sao lời ru vẫn còn mãi, trong giấc ngủ vẫn có lời hát ru, dù chỉ là giấc mơ cũng sẽ còn.
+
+Vì vậy, khi gió làm một chiếc lá ngả về đôi môi ấy, có lẽ người chỉ đang vỗ về tôi bằng những tiếng lòng vẫn còn hoài bao la.
+
+_2_
+
 Thằng bé ngày nào trong lớp chọn xã hội chưa một lần muốn đọc cuốn sách gì, giờ đây cũng đã có cho mình vài khoảng trời của bản thân, bước qua bao dòng đời, không sao kể xiết. Có lẽ người ta chẳng phải ghét căm gì việc trải qua những thứ mà họ không muốn động vào, có chăng chỉ là chưa đến lúc, chưa đúng cách, chưa đến bến của những dấu chân to lớn hơn phía bên kia cánh cửa.
 
 Khoảnh cách chưa bao giờ là vấn đề, đúng thế! Người ta thường đi chùa để dịu tâm, khoảng ấy, người chẳng màng đang nơi đâu, đơn giản vì người muốn vậy, và người cũng cần một nơi như vậy để đi. Hồi bé, tôi hay tự rong chơi một mình, cả ba anh, chị, em đều đi chăn bò cùng nhau, chơi đùa cùng lá rơi bao mùa... Những lần đó, thi thoảng có hứng lại tự tách ra đi tới một nơi mà đứa trẻ ấy cho là thật xa, ngắm khoảng trời bao la phía cuối con đường.
 
-_2_
+_3_
 
 Dưới chân đồi, mình nhìn thấy ánh nắng chói chang, những chú kiến lạc đàn đang bò loạn xạ, dòng nước thấm mát cả tâm hồn. Bên lưng đồi, mình nhận ra gió cũng bắt đầu đổi thay, mát mẻ hơn, trong lành hơn, nhìn được khung cảnh xa xôi hơn. Trên đỉnh đồi, gió thổi làm bay mái tóc của mình, theo tiếng gió, mình ngửi được cả sự sống của mọi sinh vật nơi đây, những hoang hoải của thời gian có thể thấy rõ bằng mắt thường, dưới kia những căn nhà dường như chỉ sánh bằng những hòn đá, những con suối chỉ bé bằng nốt ruồi trên tay mình. Ở nơi nông thôn ban sơ thuở ấy, đâu có chi nhà tầng đèn sáng khoảng đường, chỉ có những đám mây trắng vẫn trôi theo gió, mưa một chiều ướt lối nhỏ về nhà...
 
 Yên bình biết bao, nhìn chú chó theo sau, ngân nga tiếng hát ngô nghê, nghe kể những chuyện trưa hè, bên rặng tre xanh ngắt... yên bình của tôi là vậy, nếu tôi không thuộc về đây, còn thuộc về thế giới nào nữa?
 
-_3_
+_4_
 
 Trên đường đi từ đâu đó về trường, mình đặt xe và được một chú trung niên trạc tuổi ba mình chở. Chú có hỏi mình học ngành gì, trường nào, ở đâu, thực là những câu hỏi xã giao qua loa. Và im lặng một hồi, rồi lại hỏi chú: "Vậy chú chạy xe vậy có mệt không chú, với tiền lương cũng không mấy dư giả để lo cho con mình đang học Quản trị kinh doanh?". - "Chú lúc trước cũng làm bảo vệ, nghe phèn phèn vậy chứ kiếm cũng khá đó con, nhưng mà chú lại không thích luật lệ gò bó, chú không hiểu biết nhiều, chú cũng muốn lo cho con chứ, nhưng công việc mà mình không thích, bản thân chú không muốn làm. Con thấy cái chạy xe dịch vụ này tuy vất vả, nhưng đối với chú, chú thấy nó tự do lắm con, chú chở khách đi cũng là chở chú đi, đi đến nơi chú chưa biết, riết cũng quen đường xá, rồi cứ ngắm nhìn đất Sài Gòn như vậy, tiền bạc với chú không còn quan trọng nữa, khó khăn xíu cũng được, lo đủ là được!"
 
@@ -625,11 +639,11 @@ Cây phải vùi trong đất,
 Để nụ cười được "thật"
 Phải đổi bằng lo toan.
 
-_4_
+_5_
 
 Chẳng ai nghe cây lớn, lại nghe tiếng cây đổ. Chẳng ai nhìn lá héo, nhìn đóa hoa thắm tươi. Vậy lần tới, hãy thử áp tai vào thân cây xem sao?
 
-_5_
+_6_
 
 Cũng đã giữa Đông rồi sao? Bão số 15 từ ngoài biển Đông vào, khiến khắp chốn Sài Gòn giờ đây ngập tràn không khí se lạnh của mùa Tết. Hiếm lắm mới có một mùa lạ lùng như vậy sảy ra, nhưng cũng không mấy vui vẻ khi nhìn vào tác nhân gây ra, miền Trung đã chịu đủ rồi, hãy thôi cái câu chuyện không hồi kết này lại đi, xin đừng làm khó những mảnh đời vô tội, mảng đất hiền hậu này nữa.
 
@@ -637,7 +651,7 @@ Bước đi dưới cái khí se lạnh, trên kia tán cây cũng đong đưa q
 
 Đường dưới nhà cũ, lối về suối nương, nơi sâu xa tìm thấy nhà mình cũng trồng nhiều cây Keo thân gỗ trên đường đi, thậm chí có 2 rừng cây Keo, hoa vàng, bụi hoa khẽ bay như hạt kim tuyến giữa khoảng trời thoảng gió heo may. Thử nheo mắt lại nhìn chúng, cũng khá giống bụi vàng đang bay trong gió ấy chứ! Nhưng vào thu là mùa sinh trưởng của loài sâu, nỗi sợ duy nhất đã khiến tôi hình thành một phản xạ có điều kiện khá mạnh mẽ mỗi lần bị chúng hù trên những thân Keo tưởng chừng vô hại. Rồi thì một gốc Trôm to lớn hai người ôm, mùi hoa nồng nặc, có chút khó chịu khi đứng gần, người cũng có thể liên tưởng đến Hoa Sữa, may mà tôi là người chịu được hương nồng này, nên trái với anh chị, tôi rất thích chúng. Lần ấy em và anh hai thi nhau lấy cây chọc đổ những nải quả trên cao tít, cứ sợ nó rớt xuống đầu, nhưng sau khi có được những hạt Trôm, đây là trò chơi hết sức tiêu khiển nếu như người có biết đến “hạt nóng”. Khi ma sát với bề mặt nhám đủ lâu, chúng sẽ tăng nhiệt độ lên đáng kể, khi này chỉ cần chạm nhẹ lên da là cảm giác như bị chích bởi một cây kim vậy, dù biết nó không lành mạnh lắm, nhưng những đứa trẻ ấy chơi vui biết bao. Rồi thì cây Kèn cổ thụ, cây Cối Xay buổi “Mưa Thu”, tất cả gom góp thành một tuổi thơ tràn ngập tiếng cười và hạnh phúc, mà giờ đây đã mất trong tôi một nửa cứ mỗi khi tôi nhớ nhà. Thứ mà người người ngoài kia có lẽ vẫn đang ngày ngày mong mỏi tìm về.
 
-_6_
+_7_
 
 Trời đang nắng chang chang, thế mà nhìn về hướng Tây vẫn còn thấy mảng mây xám xịt, phải chăng chỉ một khoảng lặng nữa thôi bầu trời lại hạ nhiệt? Những tháng ngày nghỉ ngơi đầu Xuân như thế này không còn gì thích hơn việc nằm trên một chiếc võng, giữ đôi ba tán cây xanh thẳm, ngả nghiêng nghe gió hát, làm người cũng muốn xua tan muộn phiền theo. Mong mỏi mọi giây phút trôi qua đều dịu dàng như thế, như mẹ thiên nhiên đang ru mình ngủ. Phía chậu cây, Hướng Dương cũng đã lên một mầm nhỏ, chúng cũng đang được đưa nôi đấy! Hàng dừa xanh mướt cũng yêu bầu trời của riêng chúng, cây dừa này bị mất ngọn, cây dừa kia bị xoăn lá, còn cây thì khỏe mạnh trong thế gian này. Chúng đều có một điểm chung là đang sống và đang được sống. Dù ở bao vùng trời, cây đang sống và đã sống rồi sẽ nhận ra chính chúng cũng đã rất kiên cường khi có thể tồn tại dù chỉ một phút giây.` },
         { title: "Mái trường - Vết thương", content: `_1_
@@ -742,9 +756,10 @@ Giống như những người trẻ bây giờ, thói hoa ngủ rất lâu, cứ
 Nói loài hoa này khó chiều cũng không sai, bởi khi trời râm mát, hay mây tụ, chúng thậm chí chẳng thèm nở ra cho đến tận giác chiều. Và để chống lại lối hoa nở cá biệt này, người đã tiếp tục lai tạo chúng với nhiều giống tương tự nhưng cho sản phẩm đẹp hơn, dễ nở hơn. Đó chính là những bụi mười giờ bên vệ đường hay công viên mà ta hay gặp.
 
 Nào! Bây giờ hãy quay lại 12 năm trước, khi đó mình mới tròn 10 tuổi. Vẫn ở nơi suối nương thân thuộc, trong bao buổi chiều Hạ thả những con diều giấy mong manh. Mình bắt gặp một khu vườn hoa mười giờ dại mọc bên đất hàng xóm, đây là đất rẫy và để trống. Lý do là vì đất rất xấu, cứng, thô ráp và nhiều hố sụp sâu hóm trông khá đáng sợ với một đứa trẻ 10 tuổi. Lạ thay, đây là vùng được chọn để sinh trưởng của hội hoa mười giờ ấy, chúng đã thích nghi tại nơi thô ráp, cứng cáp và trơ trọi này. Bộ lá và rễ của cây nhỏ gấp ba lần, và hoa của chúng nhỏ hơn nhiều so với hoa mười giờ mà người thường thấy ngày nay.
+
 Có lẽ dinh dưỡng của mảnh đất này là nguyên nhân khiến chúng sinh trưởng kém như vậy. Hay có chăng trái tim của chúng đã luôn nhỏ bé như vậy vào thuở ban sơ? Và khái niệm "mười giờ" thực chất đã kẹt lại tại đây như một ký ức đã nhiều phần bị chìm vào quên lãng. Sớm nở tối tàn rất nhanh chóng, và người lắc đầu một cách rất nhanh chóng.
 
-Có xứng đáng không? Đóa hoa ấy nhiều phần nhỏ bé, và cũng nhiều phần rực rỡ, đứng bên bờ đối diện ở khoảnh cách rất xa, mình luôn có thể nhận ra chúng vẫn đang nở rộ nhờ những chấm hồng rực rỡ giữa những khoảng xanh nhạt và trắng xóa. Ở góc nhìn đó, chúng mới thức sự là những nàng tiên hữu hình. Khoảng cách không gian đã làm rõ hơn nhận thức của người. Còn khoảng cách thời gian thì có nhiệm vụ lu mờ đi nhận thức của người.
+Có xứng đáng không? Đóa hoa ấy nhiều phần nhỏ bé, và cũng nhiều phần rực rỡ, đứng bên bờ đối diện ở khoảnh cách rất xa, mình luôn có thể nhận ra chúng vẫn đang nở rộ nhờ bao chấm hồng rực rỡ giữa một khoảng xanh nhạt và trắng xóa rộng lớn. Ở góc nhìn đó, chúng mới thức sự là những nàng tiên hữu hình. Khoảng cách không gian đã làm rõ hơn nhận thức của người. Còn khoảng cách thời gian thì có nhiệm vụ lu mờ đi nhận thức của người.
 
 Như bao nàng tiên khác, chúng đã hết thời mất rồi, không phải vì chúng đã biến mất, mà vì người đã nhòa phai dần sự thật ấy từ hai chữ "mười giờ".
 
