@@ -693,7 +693,23 @@ Tác giả La Vy từng viết: "Cuội nói, ta buồn làm chi! Trần gian vu
 
 Chàng Cuội trong bài hát đã chọn ở lại, nhưng nào phải chàng chê bai niềm vui của nhân thế kia, chàng chọn ở lại vì một lời tự vấn sâu thẳm: “nếu ta đi rồi, ai cùng vầng trăng?”. Hình thành trong chàng là một trách nhiệm hiện sinh, một sự chung thủy với giấc mơ ban đầu đã đưa chàng đi. Có những người sinh ra để hòa mình vào bao dòng chảy, cũng sẽ có những người sinh ra để làm ngọn hải đăng, đứng yên và soi chiếu, họ giữ lại một điều gì đó mà thế gian vội vã đang dần lãng quên. Đâu đó những nẻo đường, dường như ánh trăng vẫn sáng khắp lối nhỏ, nơi yên ắng ấy, đã thấy dấu chân chỉ còn đếm trên đầu ngón tay.
 
-Có lẽ, lựa chọn ở lại cũng là một cách gìn giữ, giữ cho một khoảng trời xanh thẳm, cho những ai đôi lúc cần ngước lên để thấy mình không lạc lối...` },
+Có lẽ, lựa chọn ở lại cũng là một cách gìn giữ, giữ cho một khoảng trời xanh thẳm, cho những ai đôi lúc cần ngước lên để thấy mình không lạc lối...
+
+_3_
+
+"Trong mưa bão, những cánh tay dễ dàng nắm lấy nhau hơn, điều ấy không có gì lạ." - Phạm Thảo Ly.
+
+Khoảng 250 triệu năm trước, có một cuộc đại tuyệt chủng lớn nhất trên Trái Đất. Lúc này, khí hậu trở nên cực kỳ khô hạn và nóng bức, các mạch núi lửa phun trào liên tục và đã hủy hoại hơn 90% sự sống.
+
+Lúc bấy giờ, loài bò sát răng thú, tổ tiên của động vật có vú ngày nay đã phải đào hang để "ngủ hè", nhưng nói chính xác hơn là để chống chọi với tử thần. Và ở một khoảng đất nhỏ, có một sinh vật lưỡng cư đang bị thương rất nặng, cố gắng tìm nơi trú ẩn trước một trận lũ quét tiềm tàng.
+
+Trùng hợp thay, hang của loài răng thú này cũng ở gần đó, dù có hơi do dự, nhưng không còn cách nào khác, nó đã tiến vào trong hang để trú ẩn. Thật không may, đã có một con bò sát răng thú nằm sẵn bên trong. Chuyện thông thường sẽ xảy ra là nó coi loài lưỡng cư này như một nguồn dinh dưỡng di động.
+
+Lạ thay, có lẽ đang trong giai đoạn "ngủ hè", dù nó vẫn đủ tỉnh táo, nhưng lại không chọn tấn công sinh vật này. Bằng chứng là trên xương chỉ có vết gãy do chấn thương và đang hồi phục, chứ không có vết cắn nào từ loài răng thú. Và cứ thế, chúng nằm cạnh nhau.
+
+Rồi một cơn lũ quét ghé qua, cùng lớp bùn dày đặc, nhấn chìm mọi thứ nơi đây, để lại hai kẻ độc lập hóa thạch thành một viên đá lớn mà ngày nay các nhà khoa học đã tìm được.
+
+Năm 2013, bằng phương pháp chụp X-quang rất mạnh xuyên qua tảng hóa thạch này. Họ phát hiện ra hai sinh vật cổ đại này đã nằm lại đúng trạng thái của 250 triệu năm trước, ôm lấy nhau, từ lúc đó cho tới bây giờ, và mãi mãi về sau!` },
         { title: "Khi về - Kể lại", content: `_1_
 
 Ở một thế giới có bao nhiêu màu sắc, chắc rằng có những người biết mình màu gì. Người ta ghét quạ, vì chúng mang lại xui xẻo, hay giản đơn vì màu sắc không mấy tích cực của chúng cho sự sống này... vậy mà đâu đó, chúng lại nhớ rõ ai đã giúp đỡ chúng, ai đã phản bội và hãm hại chúng. Nếu ta cho chúng một miếng ăn, chúng sẽ cho trao ta sự tin tưởng.
@@ -858,7 +874,7 @@ Thi thoảng tôi lại gặp, đôi khi tôi lại nhớ, có vài điều tôi
         { title: "Hạnh Phúc", content: `Hạnh phúc có thể sảy ra khi ta có được thứ gì đó, nhưng loại hạnh phúc bền vững nhất là khi ta cảm thấy bình yên dù đôi khi có những chuyện tiêu cực ngoài ý muốn, ta không cần phải bù lại bởi bất cứ thứ gì cả. Đó là lý do vì sao chỉ cần nhìn thấy điều ta yêu quý, ta lại ngập tràn hạnh phúc, nó xuất phát từ bên trong, bền vững và có thể gìn giữ đến vô tận-tích tắc.
 
 "Ánh nắng mặt trời hôm nay thật oi bức, ta không cần thiết phải chà xát bàn tay ấy để giữ ấm nữa!"` },
-        { title: "Cột Mốc", content: `Tôi đã làm những gì tôi muốn, tôi đã làm những gì tôi có thể, bằng một cách mà tôi nghĩ đã là tử tế nhất. Hy vọng rằng cánh cửa bước qua thế giới ấy sẽ mở ra, một lần, hoặc là không... đây là cách duy nhất tôi có thể làm... từ bây giờ, tôi sẽ giữ nguyên như vậy, rồi cũng đến một ngày cánh của đó sẽ được nhìn thấy ánh sáng, cho dù là của sự mở đầu hay kết thúc, tôi vẫn không hối hận!
+        { title: "Cột Mốc", content: `Tôi đã làm những gì tôi muốn, tôi đã làm những gì tôi có thể, bằng một cách mà tôi nghĩ đã là tử tế nhất. Hy vọng rằng cánh cửa bước qua thế giới ấy sẽ mở ra, một lần, hoặc là không... đây là cách duy nhất tôi có thể làm... từ bây giờ, tôi sẽ giữ nguyên như vậy, rồi cũng đến một ngày cánh cửa đó sẽ được nhìn thấy ánh sáng, cho dù là của sự mở đầu hay kết thúc, tôi vẫn không hối hận!
 
 "Có những bức tranh không thể chạm tới, nhưng sẽ luôn lung linh!"` },
     ]
