@@ -737,7 +737,7 @@ Bạn mình kể rằng cậu người yêu cũ của bạn ấy ngày đó rấ
 
 Có một tổ ong mật nơi tán cây nhỏ, tiết đầu Đông, đôi khi trên đường về tổ, luồng khí lạnh đổ về, cộng dồn với bản chất của loài máu lạnh (biến nhiệt), chúng sẽ có khả năng bị cứng cơ. Nặng hơn, khi sương về hoặc trời còn mưa ẩm thấp này, hạt sương bám lên đôi cánh nhỏ bé khiến chúng trở nên nặng trĩu, bởi vậy, không ít lần chúng "ngã ngựa" trước khi đi lấy mật vào sáng sớm hoặc đang trên đường về tổ lúc chiều tà, hiện tượng này được gọi là "hôn mê lạnh". Mình đã chứng kiến câu chuyện này tới ba lần, và cả ba lần, chúng đều mạnh mẽ vượt qua, không có con nào phải đi xa. Trong đêm tối ấy, chúng vẫn không ngừng vùng vẫy, hoạt động cơ ngực để làm ấm cơ thể, người nhìn vào tưởng chúng đang tới hồi cuối cùng của sự sống. Nhưng không, sớm mai trời nắng đẹp, trưa mai cái ấm bừng lên, giúp chúng tăng nhiệt độ cơ thể, làm bay hơi lớp sương đọng trên cánh, và cứ thế một câu chuyện tưởng chừng kết thúc, nhưng thực ra là đi vào chương mới của cuộc đời sau giông bão.
 
-Hóa ra, cuộc đời vốn dĩ không có ai đỡ ta đứng dậy, cũng chẳng ai sưởi ấm ta qua đêm dài. Chỉ khi lồng ngực ta tự biết rung lên những nhịp đập kiên cường, thì đôi cánh tự do mới đủ khô ráo để đón ánh bình minh nơi phía xa.
+Nghĩ lại, cuộc đời vốn dĩ không có ai đỡ ta đứng dậy, cũng chẳng ai sưởi ấm ta qua đêm dài. Chỉ khi lồng ngực ta tự biết rung lên những nhịp đập kiên cường, thì đôi cánh tự do mới đủ khô ráo để đón ánh bình minh nơi phía xa.
 
 _4_
 
