@@ -875,7 +875,8 @@ Thi thoảng tôi lại gặp, đôi khi tôi lại nhớ, có vài điều tôi
 "Có những bức tranh không thể chạm tới, nhưng sẽ luôn lung linh!"` },
     ],
 	truyenDai: [
-        { title: "Thế chiến II", content: `-- PHẦN 1 --
+        { title: "Thế chiến II", content: `[ Thế chiến II ]
+-- Phần 1 --
 Chương 1: Vệt máu trên khối thép lạnh
 Địa điểm: Sân bay quân sự dã chiến Nieder-Ellguth, giáp biên giới Ba Lan.
 Thời gian: 4 giờ 15 phút sáng, ngày 1 tháng 9 năm 1939.
@@ -946,7 +947,7 @@ Hans khẽ liếc nhìn. Cậu tặc lưỡi, phớt lờ thứ rác rưởi vô
 Chiếc bình tông nhôm nhẹ bẫng. Không còn giọt nước nào bên trong. Hans thở hắt ra một hơi bực dọc, ném cạch thứ đồ vô dụng vào vách hào rồi lầm lũi bước tiếp.
 Chàng lính trẻ xốc lại quai súng trường trên vai. Ánh mắt mệt mỏi của cậu hướng về phía những cột khói ngùn ngụt bốc lên từ tàn tích Wieluń. Đằng sau lưng cậu, mảnh thép nhọn hoắt chìm hẳn vào bóng tối, mang theo những mảnh đời vĩnh viễn không bao giờ được nhắc tới nữa.
 Hôm nay mới chỉ là ngày đầu tiên của tháng Chín. Vòng quay khổng lồ của cuộc thế chiến vừa lạo xạo nghiền những vòng đầu tiên. Đất châu Âu sẽ còn ngập chìm trong máu, trong bùn lầy cùng vô vàn những mảnh thép lạnh lẽo như thế trong suốt sáu năm dài ròng rã phía trước.
--- PHẦN 2 --
+-- Phần 2 --
 Chương 1: Vết sẹo dưới trời tuyết
 Địa điểm: Sân bay Pitomnik, vòng vây Stalingrad, Liên Xô.
 Thời gian: 10 giờ sáng, ngày 12 tháng 1 năm 1943.
@@ -1012,7 +1013,8 @@ Hơi lạnh len lỏi qua từng nếp áo, xâm chiếm huyết quản. Elias l
 Một quả đạn cối rít lên chói tai rồi nổ tung cách đó không xa. Khối đất tuyết bùng lên mù mịt, dội rào rào xuống tấm lưng gầy gò. Elias không buồn nhúc nhích. Bờ mi nặng trĩu. Cảm giác đau buốt dần tan biến, thay bằng một hơi ấm kỳ lạ mơn man quanh lồng ngực. Ảo giác êm ái của cơn hạ thân nhiệt ập đến, ru ngủ trí óc rệu rã.
 Tuyết vẫn rơi lả tả, dày đặc, vô tình. Chỉ vài giờ nữa thôi, thân thể bất động của gã thợ máy sẽ hoàn toàn biến mất dưới lớp áo choàng trắng xóa. Giống như vệt máu khô nứt nẻ găm mình dưới bùn lầy Wieluń, giống như nửa mảnh thẻ bài nhôm nằm bơ vơ trên mặt bàn gỗ trong căn hầm chỉ huy phe đối địch, mọi thứ đều chìm vào khoảng không trống rỗng.
 Chiến tranh chưa bao giờ bận tâm đến những cái tên. Kẻ chế tạo vũ khí, kẻ bóp cò súng, hay những phận người vô tội chạy trốn trong hoảng loạn, rốt cuộc đều hội ngộ tại một kết cục duy nhất. Họ nát vụn, tan biến, trở thành một phần của lớp đất đá dưới bánh xích tàn khốc của một guồng máy điên rồ không thể cản bước.` },
-        { title: "Hậu tận thế", content: `-- PHẦN 1 --
+        { title: "Hậu tận thế", content: `[ Hậu tận thế ]
+-- Phần 1 --
 Chương 1: Mùa đông không tàn
 Bầu trời Berlin tháng 11 năm 1945 mang một màu xám xịt, trĩu nặng. Băng giá bám chặt vào những thanh thép xoắn nhô ra khỏi đống đổ nát của ga tàu điện ngầm Friedrichstraße. Elias hắt ra một hơi dài, làn khói trắng đục ngay lập tức tan vào cái lạnh thấu xương của mùa đông đầu tiên thời hậu chiến.
 Thành phố này đã chết. Hậu quả của chiến dịch tổng tấn công hồi tháng Tư vẫn còn nguyên vẹn. Hàng triệu quả đạn pháo đã cày xới thủ đô nước Đức, biến mọi công trình kiến trúc kiêu hãnh thành một bãi rác khổng lồ bằng gạch và tro tàn. Những kẻ sống sót giờ đây lay lắt như những bóng ma, chui rúc trong các hố bom, tầng hầm hoặc những đường ống ngầm ngập nước. Cả một nền văn minh rực rỡ sụp đổ, chừa lại sự man rợ nguyên thủy cho những ai chưa bỏ mạng. Không có cứu trợ. Không có trật tự mới. Đội quân chiến thắng đã rút đi sau khi vét sạch mọi thứ có giá trị, bỏ mặc hàng triệu con người chết chìm trong cái đói và bệnh tật.
@@ -1036,7 +1038,7 @@ Cuốn sổ tay nằm gọn trong túi chiếc áo đó, chứa kín những tra
 Tiếng móng vuốt cào xạo xạo vang lên từ ngách hầm tối đen.
 Mikhail nín thở. Hắn từ từ kéo bệ khóa nòng khẩu súng trường. Tiếng kim loại va đập khô khốc vọng lại giữa không gian chật hẹp. Bên trong băng đạn rỉ sét chỉ còn đúng một viên đạn. Hắn áp má vào báng súng nứt nẻ, hướng mũi ruồi về phía nguồn phát ra tiếng động.
 Một cái bóng lướt qua dưới tia sáng xám xịt hắt xuống từ miệng nắp cống hở. Trông không giống người. Một con chuột cống to bằng bắp chân, bộ lông ướt sũng nhơ nhớp lầm lũi bò dọc mép tường, cái mõm ướt át khịt khịt tìm kiếm thức ăn.
-Hắn nuốt khan. Cơn đói dâng lên làm mờ cả mắt, lấn át mọi suy nghĩ logic. Ngón tay trỏ chai sạn siết nhẹ cò súng. Viên đạn đạn duy nhất này vốn là thứ hắn cẩn thận giữ lại cho chính mình khi không thể chịu đựng thêm sự đày đọa của thế giới hoang phế này nữa.
+Hắn nuốt khan. Cơn đói dâng lên làm mờ cả mắt, lấn át mọi suy nghĩ logic. Ngón tay trỏ chai sạn siết nhẹ cò súng. Viên đạn duy nhất này vốn là thứ hắn cẩn thận giữ lại cho chính mình khi không thể chịu đựng thêm sự đày đọa của thế giới hoang phế này nữa.
 Đoàng!
 Tia chớp tóe ra từ nòng súng xé toạc màn đêm. Tiếng nổ đinh tai nhức óc dội vào vách tường, dội thẳng vào màng nhĩ. Con chuột nổ tung, máu và thịt vụn văng tung tóe lên mặt đất bùn lầy.
 Mikhail buông thõng khẩu súng chìm nghỉm vào vũng nước. Hắn lê bước còng lưng, bò rạp về phía xác con vật. Hai bàn tay nứt nẻ vơ vét những mảng thịt nhầy nhụa, nhét thẳng vào miệng. Vị tanh tưởi xộc lên tận óc. Hắn nhắm nghiền mắt lại, nhai ngấu nghiến phần xác sống lẫn cả lông và đất cát. Nước mắt hắn trào ra, nóng hổi, hòa lẫn vào cái lạnh cắn da cắn thịt. Dưới lớp đất sâu của Berlin, một người lính gác cổng từng thuộc về đạo quân chiến thắng đang cố bám víu lấy sự sống thêm một ngày, trả giá bằng chút nhân tính cuối cùng sót lại.
@@ -1072,7 +1074,7 @@ Bản năng sinh tồn yếu ớt hối thúc mụ tìm một nơi chắn gió. 
 Bóng tối bên trong đặc quánh. Mùi máu tươi nồng nặc lấn át đi mùi xú uế cũ kỹ. Mụ lần mò bước lên cầu thang vương vãi đạn pháo dẫn lên tầng hai. Giữa căn phòng ngổn ngang bông băng và kính vỡ, một gã đàn ông mặc quân phục đang nằm gục vắt vẻo bên vách tường. Hắn đã tắt thở. Gương mặt trắng bệch, đôi mắt đờ đẫn trợn trừng nhìn vào khoảng không. Vũng máu đen ngòm đông cứng lại quanh phần chân trái bị cưa đứt lìa. Chiếc cưa xương chuôi gỗ lăn lóc ngay sát bàn tay cứng đờ của hắn. Kẻ tàn tạ này đã chết một cách khốn nạn nhất, cô độc và đớn đau tột cùng.
 Marta lùi lại, để mặc tấm lưng trượt theo bức tường rồi ngồi sụp xuống nền xi măng lạnh ngắt. Mụ thu người, bọc kín thân hình gầy gò bằng tấm rèm cửa rách nát.
 Bên ngoài, bão tuyết lấp kín các lối vào pháo đài. Từng lớp bông tuyết xám đè lên đống đổ nát trên mặt đất, phủ kín miệng cống ngầm, lấp đầy các khe hở thông xuống hệ thống tàu điện dưới lòng đất. Nhiệt độ sụt giảm xuống mức không một sinh vật nào có thể chống chọi. Marta nhắm nghiền mắt lại. Hơi thở mỏng manh tan nhanh vào không khí. Cỗ máy nghiền nát của chiến tranh cuối cùng cũng ngừng quay, bỏ lại một thành phố chết im lìm dưới màn đêm bất tận.
--- PHẦN 2 --
+-- Phần 2 --
 Chương 1: Những cỗ quan tài sắt
 Tháng 12 năm 1946. Vùng đồng bằng ngoại ô Brest chìm sâu dưới màn bão tuyết mù mịt. Một cỗ xe lửa khổng lồ nằm bất động trên đường ray rỉ sét. Lớp tuyết dày đặc phủ kín từng toa hàng. Ống khói đầu máy lạnh tanh, không một gợn khói bốc lên. Toàn bộ hệ thống đường sắt của Liên bang Xô viết đã ngừng hoạt động từ sáu tháng trước. Nạn đói lịch sử năm 1946 quét qua càn quét mọi ngóc ngách, đánh sập những tàn dư cuối cùng của một bộ máy chính quyền vốn đã kiệt quệ sau chiến tranh.
 Yevgeny nện mạnh báng súng trường bọc thép vào lớp băng đóng tảng trên chốt cửa toa xe. Bàn tay trái mất đi hai ngón út và áp út nhức nhối. Hắn thở hổn hển. Làn khói trắng phả ra từ miệng nhanh chóng bị gió buốt thổi bạt đi mất. Tiếng kim loại va đập vang lên khô khốc giữa vùng hoang mạc trắng xóa. Lớp băng vỡ vụn. Chốt cửa văng ra. Yevgeny dùng bờ vai gầy gò dồn sức đẩy mạnh cánh cửa gỗ trượt sang một bên.
@@ -1131,7 +1133,8 @@ Yevgeny ngồi bất động. Mắt trái ráo hoảnh. Hắn đưa tay sờ lê
 Than củi chớp lên vài tia sáng yếu ớt rồi tắt ngấm.
 Bóng tối ập xuống, đặc quánh. Yevgeny thản nhiên lượm mảng da thuộc Grigory bỏ lại, nhét nốt vào miệng. Hắn kéo cao vạt áo choàng che kín khuôn mặt chằng chịt sẹo. Ngay cạnh bếp lò lạnh ngắt, cơ thể Oksana cũng ngừng run rẩy. Góa phụ mất chồng cuộn tròn người lại như một tảng đá vô tri. Hơi thở của bà đã ngừng từ lúc nào chẳng ai hay.
 Tuyết bắt đầu phủ kín các lối đi. Băng giá phong tỏa mảng ván mục nát làm cửa. Một giấc ngủ vùi kéo dài vĩnh viễn bao trùm lấy ngôi nhà gỗ giữa đồng bằng hoang phế. Cỗ máy nghiền nát của chiến tranh đã ngừng quay. Dưới lớp băng tuyết tàn nhẫn của mùa đông, hàng triệu thân xác hóa thành cát bụi, khép lại một kỷ nguyên diệt vong chìm trong sự tĩnh lặng vô tận.` },
-        { title: "Đại dịch Covid-19", content: `-- PHẦN 1 --
+        { title: "Đại dịch Covid-19", content: `[ Đại dịch Covid-19 ]
+-- Phần 1 --
 Chương 1: Tiếng gầm của động cơ Diesel
 Ngày 18 tháng 3 năm 2020. Tiếng động cơ diesel gầm gừ phá vỡ sự tĩnh lặng của màn đêm Bergamo. Qua lăng kính mờ sương của cửa sổ tầng ba bệnh viện Papa Giovanni XXIII, Matteo đứng lặng lẽ. Từng đoàn xe tải quân sự màu xanh ô liu bò chậm chạp trên đường cao tốc. Phía sau những tấm bạt bọc kín là hàng dài quan tài. Lò hỏa táng thành phố đã quá tải từ tuần trước. Nghĩa trang bọc trong lớp sương mù lạnh lẽo không còn đủ chỗ chứa thêm bất kỳ ai.
 Hồi tháng Một, tạp chí y khoa The Lancet công bố loạt ca nhiễm đầu tiên về một loại virus corona mới gây hội chứng hô hấp cấp tính nặng. Giới chức trách liên tục trấn an công chúng. Tỷ lệ tử vong ban đầu được báo cáo ở mức rất thấp, loanh quanh một đến hai phần trăm. Đa số ca bệnh chỉ có triệu chứng nhẹ. Người ta vẫn tụ tập uống cà phê ở các quảng trường ngập nắng. Những trận bóng đá vẫn diễn ra cuồng nhiệt. Trận đấu giữa Atalanta và Valencia vào ngày 19 tháng 2 đã biến thành một quả bom sinh học thực thụ, phát tán mầm bệnh đi khắp miền bắc nước Ý.
@@ -1182,7 +1185,7 @@ Tiếng ho sặc sụa cắt ngang lời thông báo. Giọng nói ấy thở d�
 Máy thu rít lên một hồi bíp dài chói tai, vạn vật xung quanh lại chìm vào sự im lặng nghẹt thở.
 Matteo buông thõng hai tay. Lời cáo chung của thế giới phát ra từ chiếc loa rè đã dập tắt vĩnh viễn thứ ảo vọng ngu ngốc đang nhen nhóm trong đầu anh bấy lâu nay. Chẳng có bến đỗ bình yên nào chờ đợi ở phía bên kia dãy núi. Chỉ có tuyết trắng, sự cô độc và cái chết chầu chực dưới mọi ngóc ngách.
 Anh đưa hai bàn tay cáu bẩn lên vuốt mặt, cảm nhận rất rõ từng nếp nhăn khô ráp hằn sâu dưới kẽ ngón tay. Cơn đói lại cuộn lên từng đợt cắn xé dạ dày. Anh tháo chiếc ba lô vải bạt xẹp lép xuống sàn, lặng lẽ lôi ra thanh sắt quen thuộc dắt vào thắt lưng. Bóng tối vội vã bao trùm lấy căn phòng nhỏ hẹp. Băng giá rục rịch bò lên từng bậc thềm bốt gác. Kỷ nguyên rực rỡ của loài người đã khép lại. Bầu trời đêm đen ngòm trước mắt anh mở ra một thời kỳ sinh tồn hoang dã, tàn khốc, nơi nước mắt là thứ xa xỉ cấm kỵ.
--- PHẦN 2 --
+-- Phần 2 --
 Chương 1: Khối độc dược phân rã
 Tháng Mười Một, năm 2025. Gần bốn năm trôi qua tính từ khoảnh khắc cái radio trên trạm thu phát sóng biên giới Thụy Sĩ tắt ngấm. Mùa đông trên dãy Alps mang một màu xám xịt ảm đạm. Màng bụi từ vô số trận cháy rừng tự phát quyện vào những đám mây tuyết, trút xuống thị trấn Zermatt những hạt mưa đá đen ngòm. Lớp băng vĩnh cửu trên đỉnh Matterhorn lở dần theo từng mảng lớn. Khí hậu biến đổi cực đoan đập nát mọi nỗ lực sinh tồn nhỏ nhoi nhất.
 Matteo nấp kín sau quầy thu ngân của một hiệu thuốc rách nát nằm sâu dưới hầm ga tàu. Anh mặc ba lớp áo len cáu bẩn, bên ngoài khoác thêm chiếc áo da lột được từ một thi thể chết cóng trên triền dốc tuần trước. Lớp vải thấm đầy mùi mốc meo nồng nặc. Bắp chân phải của anh rỉ máu. Vết cứa từ mảnh kính vỡ vài ngày trước đang sưng tấy lên từng cục đỏ ửng. Cơn sốt hầm hập thiêu đốt thân nhiệt. Anh cần thuốc kháng sinh.
@@ -1251,7 +1254,8 @@ Tiếng kim loại cọ xát xuống nền xi măng sột soạt. Anya chậm r�
 "Đi đi," Matteo thì thào, âm thanh mỏng dính tan ngay vào khoảng không.
 Anya chống thanh tuýp sắt xuống sàn gượng đứng thẳng dậy. Ả lột chiếc áo khoác da của anh, khoác bọc thêm bên ngoài bộ đồ trượt tuyết rách rưới. Một luồng hơi ấm mỏng manh vừa vặn ấp lấy cơ thể gầy gò xơ xác. Ả quay gót bước ra mép cửa, lầm lũi rời đi không mảy may ngoái đầu nhìn lại.
 Matteo tựa gáy vào vách tường lạnh ngắt. Bóng dáng người phụ nữ thu nhỏ dần rồi biến mất hẳn vào màn sương mù trắng đục đang giăng kín ngoài cửa trạm cáp treo. Nhịp đập nơi lồng ngực anh thưa thớt, yếu ớt rồi chìm sâu vào cõi vĩnh hằng. Bão tuyết lại bắt đầu gào thét, kiên nhẫn vùi lấp nốt những dấu vết mục rỗng của kỷ nguyên loài người.` },
-        { title: "Bốn mùa", content: `-- PHẦN 1 --
+        { title: "Bốn mùa", content: `[ Bốn mùa ]
+-- Phần 1 --
 Chương 1: Cơn bão muộn ở Narita
 Màn hình điện tử tại nhà ga số 1 sân bay Narita nhấp nháy dòng chữ đỏ rực: "Canceled". Cơn bão nhiệt đới ập đến vùng Kanto sớm hơn dự báo báo đài đưa tin sáng nay. Mưa đập dồn dập vào những tấm kính cường lực khổng lồ. Hàng ngàn con người kẹt lại trong không gian ngột ngạt quyện lẫn mùi cà phê pha máy và hơi người.
 Kenji thu mình ở một góc khuất của quán cà phê gần cổng lên máy bay. Cốc Americano bốc khói nghi ngút trước mặt đã nguội dần. Người đàn ông 47 tuổi vừa tiễn con gái sang Canada du học cách đây hai tiếng. Chuyến bay của con bé may mắn cất cánh vừa vặn ngay trước khi lệnh phong tỏa không phận được ban hành. Giờ đây, ông chưa muốn ra bến tàu điện ngầm. Căn hộ ở Setagaya rộng thênh thang chỉ có Yumi, vợ ông. Yumi có lẽ đang cắm cúi chăm chút mấy chậu thực vật thủy sinh ngoài ban công. Giữa hai vợ chồng từ lâu đã tồn tại một khoảng không tĩnh lặng vô hình. Họ không cãi vã lớn tiếng. Họ chỉ đơn giản là ngừng chia sẻ mọi chuyện.
@@ -1376,7 +1380,7 @@ Antoine ngẩng đầu lên, bắt gặp ánh mắt Linh giấu sau ống kính.
 Những lời chỉ trích sắc lẹm của nữ tổng biên tập Celine hồi sáng vẫn còn văng vẳng trong đầu cô. Celine nói đúng. Người ta chẳng thể xách balo bỏ chạy cả đời. Khi con người dám đứng lại đối diện với nỗi lo sợ của chính mình, lăng kính nhìn đời tự nhiên thay đổi theo. Sự thấu cảm bắt đầu len lỏi vào từng khung hình.
 Linh vươn tay vuốt ve lớp bìa nhám của cuốn sổ tay bọc da nằm ngoan ngoãn trên mép bàn. Antoine bước ra khỏi quầy thu ngân, tiến về phía cô. Anh đưa tay ra. Linh nắm lấy bàn tay to lớn ấy, đứng dậy khỏi bậu cửa sổ.
 Hành trình trốn chạy vô định của cô gái trẻ mang hai dòng máu cuối cùng đã khép lại, nhường chỗ cho một sự khởi đầu mới ngay giữa lòng thành phố nhộn nhịp này. Mảnh ghép đầu tiên của một bức tranh rộng lớn hơn vừa vặn khớp vào nhau.
--- PHẦN 2 --
+-- Phần 2 --
 Chương 1: Tuyết đầu mùa ở Montreal
 Cái lạnh buốt giá của vùng Bắc Mỹ xuyên qua lớp áo phao dày cộm. Yui đẩy mạnh cánh cửa kính của phòng tranh Plateau, bước vội vào trong để trốn những bông tuyết đầu mùa đang thi nhau rơi xuống đường phố Montreal. Lò sưởi chạy bằng gas trong góc phòng tỏa ra hơi ấm dìu dịu. Cô tháo đôi găng tay len ướt sũng, xoa xoa hai lòng bàn tay vào nhau cho bớt cóng.
 Đã năm tháng kể từ ngày cô vội vã kéo vali chạy lên chuyến bay tránh bão ở sân bay Narita. Cuộc sống du học sinh không trải đầy hoa hồng như những bộ phim truyền hình hay chiếu vào khung giờ vàng. Mọi thứ đều đắt đỏ. Ngôn ngữ đan xen giữa tiếng Anh và tiếng Pháp rắc rối lộn xộn.
@@ -1476,7 +1480,8 @@ Nắng chiều lấp loáng hắt qua tán cây dẻ gai ở ngoại ô Montreui
 Bàn tay thô ráp luồn vào túi áo, lấy ra một cuốn sổ tay mới tinh, bìa da màu nâu sáng. Bút máy lướt êm trên mặt giấy trắng muốt. Kenji ghi chú lại một vài công thức pha màu nước vừa học được ở lớp mỹ thuật người cao tuổi sáng nay.
 Vòng lặp hai mươi năm nhàm chán đã vỡ vụn. Một cơn bão muộn ở Narita vô tình hất tung những người xa lạ ra khỏi quỹ đạo an toàn, xô họ va vào nhau. Từ những mảnh ghép rời rạc, lạc lõng, mỗi con người tự tìm thấy trục tọa độ mới cho riêng mình. Nơi họ mạnh mẽ đứng lên sau những đổ vỡ lại chính là nơi tỏa sáng rực rỡ nhất.
 Kenji khép sổ lại. Đôi mắt già nua nhăn nheo híp lại tận hưởng làn gió xuân mơn trớn. Bầu trời Paris trong vắt, hứa hẹn một ngày mai hoàn toàn khác biệt.` },
-        { title: "Những cây cầu gãy", content: `-- PHẦN 1 --
+        { title: "Những cây cầu gãy", content: `[ Những cây cầu gãy ]
+-- Phần 1 --
 Chương 1: Khi Sarajevo nín thở
 Sarajevo, ngày 5 tháng 4 năm 1992.
 Hơi lạnh của mùa đông dường như vẫn cứ ngoan cố bám víu lấy những đỉnh núi bao quanh thung lũng. Elma kéo cao cổ chiếc áo khoác len sờn mép, nhét sâu hai bàn tay đang run rẩy vào túi áo. Cô cố bước thật nhanh qua những con hẻm hẹp lát đá cuội của khu phố cổ Baščaršija. Bình thường, giờ này khu chợ sẽ sực nức mùi cà phê đun trong những chiếc ấm đồng nhỏ xíu và tiếng thợ rèn gõ lanh canh. Nhưng hôm nay, mọi thứ im ắng đến rợn người. Bầu không khí quánh lại. Nặng nề. Mùi rác thải chưa được thu dọn bốc lên chua loét, quyện với mùi khói thuốc lá khét lẹt lởn vởn quanh những trạm gác mới dựng vội đêm qua.
@@ -1567,7 +1572,7 @@ Sân bay đang do lực lượng gìn giữ hòa bình Liên Hợp Quốc kiểm
 Một tiếng rít xé tai lướt qua. Vệt đạn lửa đỏ lựng vạch một đường thẳng tắp trong đêm sương. Một bóng người loắt choắt vừa liều mạng lao ra khỏi bìa rừng lập tức ngã nhào xuống lớp băng mỏng. Im lìm. Chẳng có tiếng la hét nào cất lên. Chiếc ba lô vải trên lưng người đó bung ra, vài bắp ngô khô lăn lóc trên mặt đất. Chiếc xe thiết giáp của Liên Hợp Quốc chầm chậm lăn bánh tới, hờ hững chiếu đèn pha vào cái xác vô hồn vài giây rồi lại nổ máy bỏ đi. Chẳng một ai bước xuống thu dọn.
 Tarik bấu chặt mười ngón tay trầy xước vào mép gạch rát buốt. Khoảng cách địa lý giờ đây thu hẹp lại tới mức anh có thể nhìn thấy những đốm lửa leo lét hắt ra từ vài ô cửa sổ hiếm hoi bên kia đường băng. Thành phố quê hương nằm ngay trước mắt. Anh ngửi thấy mùi khét của khói củi, mùi thuốc súng quen thuộc vương vấn trong không khí lạnh buốt. Thế nhưng anh hoàn toàn bất lực.
 Một bức tường vô hình tàn nhẫn được dựng lên bằng kẽm gai, đạn đạo và sự thờ ơ của thế giới bên ngoài. Nó cắt ngang thung lũng, chia lìa hai nửa sinh tử. Tarik gục trán xuống lớp tuyết bẩn, hơi thở nghẹn lại trong lồng ngực. Bàn tay anh run rẩy siết chặt bức ảnh gấp tư đã nhàu nát bươm, phó mặc cho những bông tuyết bắt đầu rơi lả tả đắp lên vai áo.
--- PHẦN 2 --
+-- Phần 2 --
 Chương 1: Những con chuột ở Dobrinja
 Dobrinja, tháng 7 năm 1993.
 Bóng tối quánh đặc. Đậm đặc đến mức Haris có cảm giác như đang bơi trong một vũng hắc ín. Cậu thiếu niên mười sáu tuổi vung nhát cuốc chim găm thẳng vào vách đất sét cứng ngắc. Bùn nhão bắn tung tóe lên gò má lem luốc. Dưới chân, nước ngập đến bắp chân, sền sệt, hôi rình mùi cống rãnh.

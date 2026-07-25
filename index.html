@@ -586,7 +586,49 @@
             .theme-night::before, .theme-night::after {
                 animation: none !important;
             }
-        }
+			
+			}
+			
+			/* ═══════════════════════════════════════════════
+			   CHẾ ĐỘ ĐỌC TRUYỆN (READING MODE) 
+			═══════════════════════════════════════════════ */
+			body.reading-mode {
+				background-color: #1F1B19 !important; /* Màu nền nâu đen tĩnh lặng */
+				background-image: none !important; /* Tắt nhiễu hạt giảm mỏi mắt */
+			}
+			/* Chỉnh thanh Menu tối màu */
+			body.reading-mode #navbar {
+				background-color: rgba(31, 27, 25, 0.95) !important;
+				border-bottom-color: rgba(255,255,255,0.05) !important;
+			}
+			body.reading-mode #navbar a { color: #9A8E83 !important; }
+			body.reading-mode #navbar a:hover, body.reading-mode #navbar a.active { color: #D4C3B3 !important; }
+			body.reading-mode #navbar svg { color: #9A8E83 !important; }
+			body.reading-mode #clean-mode-btn { border-color: rgba(255,255,255,0.1); color: #9A8E83; }
+			
+			/* Chỉnh màu chữ nội dung truyện (Đã làm sáng hơn) */
+			body.reading-mode h2, body.reading-mode h3 { color: #F4EFE6 !important; } /* Tên to: Sáng rõ, sang trọng */
+			body.reading-mode h4 { color: #D6C5B3 !important; } /* Tên mục [ ]: Vàng kem */
+			body.reading-mode h5 { color: #CFC8C0 !important; } /* Tên Chương */
+			body.reading-mode p { color: #EAE4DD !important; } /* Chữ truyện: Sáng, dễ đọc, cực êm mắt */
+			
+			/* Chỉnh màu chữ Gradient ở Tiêu đề to */
+			body.reading-mode .gradient-text {
+				background: linear-gradient(135deg, #E3D9CC 0%, #A89F94 100%);
+				-webkit-background-clip: text;
+				-webkit-text-fill-color: transparent;
+			}
+			
+			/* Làm tối các đường gạch ngang */
+			body.reading-mode .bg-gradient-to-r, body.reading-mode .bg-gradient-to-l, body.reading-mode .bg-accent {
+				opacity: 0.2;
+			}
+			body.reading-mode svg { opacity: 0.5; }
+			
+			/* Box chứa truyện */
+			body.reading-mode .story-article {
+				background-color: transparent !important;
+			}
     </style>
 </head>
 <body class="font-serif antialiased leading-relaxed overflow-x-hidden relative">
@@ -1425,31 +1467,28 @@
 		function renderTruyenDai() {
 			const container = document.getElementById('truyendai-container');
 			contentData.truyenDai.forEach((item, index) => {
-        const theme = determineTheme(item.title, item.content);
-        const paragraphs = item.content.split('\n').filter(p => p.trim() !== '');
-			let contentHtml = '';
+				
+				const paragraphs = item.content.split('\n').filter(p => p.trim() !== '');
+				let contentHtml = '';
 
 				paragraphs.forEach((p) => {
 					const trimmed = p.trim();
 					const lowerCaseTr = trimmed.toLowerCase();
 
-				// 1. Nhận diện TÊN TRUYỆN (-- TÊN TRUYỆN --)
-				if (trimmed.startsWith('--') && trimmed.endsWith('--')) {
-					contentHtml += `<h3 class="font-display text-4xl md:text-5xl font-bold text-center text-ink mt-12 mb-8">${trimmed}</h3>`;
-				}
-				// 2. Nhận diện PHẦN ([ PHẦN 1 ])
-				else if (trimmed.startsWith('[') && trimmed.endsWith(']')) {
-					contentHtml += `<h4 class="font-display text-xl md:text-2xl font-semibold text-center text-accent tracking-[0.2em] mt-12 mb-6">${trimmed}</h4>`;
-				}
-				// 3. Nhận diện CHƯƠNG (Chương 1: Abcd...)
-				else if (lowerCaseTr.startsWith('chương')) {
-					contentHtml += `<h5 class="font-display text-2xl md:text-3xl font-medium text-center text-ink-light italic mt-10 mb-6">${trimmed}</h5>`;
-				}
-				// 4. Các đoạn văn bình thường (Tự động căn đều 2 bên: text-justify)
-				else {
-					contentHtml += `<p class="text-lg md:text-[1.15rem] leading-[2.2] mb-6 text-ink-light text-justify">${trimmed}</p>`;
-				}
-			});
+					if (trimmed.startsWith('--') && trimmed.endsWith('--')) {
+					const text = trimmed.substring(2, trimmed.length - 2).trim();
+					contentHtml += `<h3 class="font-display text-4xl md:text-5xl font-medium text-center text-ink mt-14 mb-10">${trimmed}</h3>`;
+					}
+					else if (trimmed.startsWith('[') && trimmed.endsWith(']')) {
+						contentHtml += `<h4 class="font-sans text-sm md:text-base font-semibold uppercase text-center text-accent tracking-[0.4em] mt-12 mb-6">${trimmed}</h4>`;
+					}
+					else if (lowerCaseTr.startsWith('chương')) {
+						contentHtml += `<h5 class="font-display text-2xl md:text-3xl font-medium text-center text-ink-light mt-10 mb-6">${trimmed}</h5>`;
+					}
+					else {
+						contentHtml += `<p class="text-lg md:text-[1.15rem] leading-[2.2] mb-6 text-ink-light text-justify">${trimmed}</p>`;
+					}
+				});
 
 				const isLast = index === contentData.truyenDai.length - 1;
 				const dividerHtml = isLast ? '' : `
@@ -1461,8 +1500,8 @@
 				`;
 
 				const html = `
-					<article id="truyendai-item-${index}" class="fade-in-up hover-trigger px-4 sm:px-8 py-6 rounded-3xl transition-colors duration-500 hover:bg-white/40" data-theme="${theme}">
-						<div class="prose-content pointer-events-none">
+					<article id="truyendai-item-${index}" class="py-8">
+						<div class="prose-content">
 							${contentHtml}
 						</div>
 					</article>
@@ -1470,7 +1509,6 @@
 				`;
 				container.insertAdjacentHTML('beforeend', html);
 			});
-			attachThemeListeners(container);
 		}
 
         function renderMucLuc() {
@@ -1559,7 +1597,7 @@
         const navTabs = document.querySelectorAll('.nav-tab');
         const tabSections = document.querySelectorAll('.tab-section');
 
-        function switchTab(tabId) {
+		function switchTab(tabId) {
             renderTabContent(tabId);
             tabSections.forEach(sec => sec.classList.add('hidden'));
 
@@ -1581,6 +1619,13 @@
                     tab.classList.remove('active');
                 }
             });
+
+            // THÊM LOGIC ĐỔI MÀU NỀN TẠI ĐÂY
+            if (tabId === 'truyendai') {
+                document.body.classList.add('reading-mode'); // Bật nền tối
+            } else {
+                document.body.classList.remove('reading-mode'); // Trở lại nền sáng
+            }
 
             const mainElement = document.querySelector('main');
             window.scrollTo({ top: mainElement.offsetTop - 80, behavior: 'smooth' });
