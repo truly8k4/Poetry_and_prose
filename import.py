@@ -11,12 +11,14 @@ current_filepath = ""
 all_entries = {}
 editing_index = None
 
-CAT_MAP = {"Thơ": "tho", "Tản Văn": "tanVan", "Suy Nghĩ": "chamNgon"}
+# Đã thêm "Sự Kiện"
+CAT_MAP = {"Thơ": "tho", "Tản Văn": "tanVan", "Suy Nghĩ": "chamNgon", "Sự Kiện": "truyenDai"}
 
 def parse_data_js(text):
     result = {}
     for cat_key in CAT_MAP.values():
-        pattern = rf'{re.escape(cat_key)}:\s*\[(.*?)\]'
+        # SỬA LỖI: Chỉ dừng lại khi dấu ] đi kèm với dấu phẩy hoặc dấu ngoặc nhọn của code JS
+        pattern = rf'{re.escape(cat_key)}:\s*\[(.*?)\]\s*(?=[,\}}])'
         m = re.search(pattern, text, re.DOTALL)
         if not m:
             result[cat_key] = []
@@ -24,7 +26,6 @@ def parse_data_js(text):
         block = m.group(1)
         entries = []
         for em in re.finditer(r'\{\s*title:\s*"(.*?)"\s*,\s*content:\s*`(.*?)`\s*\}', block, re.DOTALL):
-            # Chuyển \n literal → newline thật để hiển thị trong textbox
             raw_content = em.group(2).replace("\\n", "\n")
             entries.append({"title": em.group(1), "content": raw_content})
         result[cat_key] = entries
@@ -35,13 +36,14 @@ def rebuild_data_js(original_text, entries_dict):
     for cat_key, entries in entries_dict.items():
         items_str = ""
         for e in entries:
-            # Chuyển newline thật → \n literal khi ghi vào file JS
             safe = e["content"].replace("`", "\\`").replace("\n", "\\n")
             items_str += f'\n        {{ title: "{e["title"]}", content: `{safe}` }},'
         if items_str:
             items_str += "\n    "
-        pattern = rf'({re.escape(cat_key)}:\s*\[)(.*?)(\])'
-        replacement = rf'\g<1>{items_str}\3'
+        
+        # Áp dụng bộ quét an toàn để thay thế nội dung
+        pattern = rf'({re.escape(cat_key)}:\s*\[)(.*?)(\]\s*(?=[,\}}]))'
+        replacement = rf'\g<1>{items_str}\g<3>'
         new_text = re.sub(pattern, replacement, new_text, flags=re.DOTALL)
     return new_text
 
@@ -162,89 +164,92 @@ def clear_form():
 # ══════════════════════════════════════════════════════════════
 # GIAO DIỆN
 # ══════════════════════════════════════════════════════════════
-root = ctk.CTk()
-root.title("Tru Ly — Quản Trị Nội Dung")
-root.geometry("900x700")
-root.minsize(800, 600)
+try:
+    root = ctk.CTk()
+    root.title("Tru Ly — Quản Trị Nội Dung")
+    root.geometry("900x700")
+    root.minsize(800, 600)
 
-ctk.CTkLabel(root, text="QUẢN TRỊ NỘI DUNG", font=ctk.CTkFont(size=22, weight="bold")).pack(pady=(18, 4))
+    ctk.CTkLabel(root, text="QUẢN TRỊ NỘI DUNG", font=ctk.CTkFont(size=22, weight="bold")).pack(pady=(18, 4))
 
-frame_file = ctk.CTkFrame(root)
-frame_file.pack(fill="x", padx=20, pady=(0, 12))
-ctk.CTkButton(frame_file, text="📂 Chọn file data.js", command=select_file,
-              font=ctk.CTkFont(weight="bold"), fg_color="#d97706", hover_color="#b45309",
-              width=180).pack(side="left", padx=16, pady=12)
-lbl_file_status = ctk.CTkLabel(frame_file, text="Chưa kết nối file...", text_color="gray")
-lbl_file_status.pack(side="left", padx=8)
+    frame_file = ctk.CTkFrame(root)
+    frame_file.pack(fill="x", padx=20, pady=(0, 12))
+    ctk.CTkButton(frame_file, text="📂 Chọn file data.js", command=select_file,
+                  font=ctk.CTkFont(weight="bold"), fg_color="#d97706", hover_color="#b45309",
+                  width=180).pack(side="left", padx=16, pady=12)
+    lbl_file_status = ctk.CTkLabel(frame_file, text="Chưa kết nối file...", text_color="gray")
+    lbl_file_status.pack(side="left", padx=8)
 
-frame_main = ctk.CTkFrame(root, fg_color="transparent")
-frame_main.pack(fill="both", expand=True, padx=20, pady=(0, 12))
-frame_main.columnconfigure(0, weight=1)
-frame_main.columnconfigure(1, weight=2)
-frame_main.rowconfigure(0, weight=1)
+    frame_main = ctk.CTkFrame(root, fg_color="transparent")
+    frame_main.pack(fill="both", expand=True, padx=20, pady=(0, 12))
+    frame_main.columnconfigure(0, weight=1)
+    frame_main.columnconfigure(1, weight=2)
+    frame_main.rowconfigure(0, weight=1)
 
-# ─── CỘT TRÁI ───
-frame_left = ctk.CTkFrame(frame_main)
-frame_left.grid(row=0, column=0, sticky="nsew", padx=(0, 8))
+    frame_left = ctk.CTkFrame(frame_main)
+    frame_left.grid(row=0, column=0, sticky="nsew", padx=(0, 8))
 
-frame_left_top = ctk.CTkFrame(frame_left, fg_color="transparent")
-frame_left_top.pack(fill="x", padx=12, pady=(12, 4))
-ctk.CTkLabel(frame_left_top, text="Danh sách bài viết", font=ctk.CTkFont(weight="bold")).pack(side="left")
-lbl_count = ctk.CTkLabel(frame_left_top, text="0 bài viết", text_color="gray", font=ctk.CTkFont(size=12))
-lbl_count.pack(side="right")
+    frame_left_top = ctk.CTkFrame(frame_left, fg_color="transparent")
+    frame_left_top.pack(fill="x", padx=12, pady=(12, 4))
+    ctk.CTkLabel(frame_left_top, text="Danh sách bài viết", font=ctk.CTkFont(weight="bold")).pack(side="left")
+    lbl_count = ctk.CTkLabel(frame_left_top, text="0 bài viết", text_color="gray", font=ctk.CTkFont(size=12))
+    lbl_count.pack(side="right")
 
-category_var = ctk.StringVar(value="Thơ")
-seg = ctk.CTkSegmentedButton(frame_left, values=["Thơ", "Tản Văn", "Suy Nghĩ"],
-                              variable=category_var, command=on_category_change)
-seg.pack(fill="x", padx=12, pady=(0, 8))
+    category_var = ctk.StringVar(value="Thơ")
+    seg = ctk.CTkSegmentedButton(frame_left, values=["Thơ", "Tản Văn", "Suy Nghĩ", "Sự Kiện"],
+                                  variable=category_var, command=on_category_change)
+    seg.pack(fill="x", padx=12, pady=(0, 8))
 
-lb_frame = ctk.CTkFrame(frame_left, fg_color="transparent")
-lb_frame.pack(fill="both", expand=True, padx=12, pady=(0, 4))
-listbox = tk.Listbox(lb_frame, selectmode="single", activestyle="none",
-                     font=("Segoe UI", 12), relief="flat", bd=0,
-                     selectbackground="#2FA572", selectforeground="white",
-                     highlightthickness=0)
-scrollbar = tk.Scrollbar(lb_frame, orient="vertical", command=listbox.yview)
-listbox.config(yscrollcommand=scrollbar.set)
-scrollbar.pack(side="right", fill="y")
-listbox.pack(fill="both", expand=True)
-listbox.bind("<<ListboxSelect>>", on_select)
+    lb_frame = ctk.CTkFrame(frame_left, fg_color="transparent")
+    lb_frame.pack(fill="both", expand=True, padx=12, pady=(0, 4))
+    listbox = tk.Listbox(lb_frame, selectmode="single", activestyle="none",
+                         font=("Segoe UI", 12), relief="flat", bd=0,
+                         selectbackground="#2FA572", selectforeground="white",
+                         highlightthickness=0)
+    scrollbar = tk.Scrollbar(lb_frame, orient="vertical", command=listbox.yview)
+    listbox.config(yscrollcommand=scrollbar.set)
+    scrollbar.pack(side="right", fill="y")
+    listbox.pack(fill="both", expand=True)
+    listbox.bind("<<ListboxSelect>>", on_select)
 
-ctk.CTkButton(frame_left, text="➕ Thêm bài mới",
-              command=lambda: [clear_form(), tabview.set("✏️ Nội dung")],
-              fg_color="#16a34a", hover_color="#15803d", height=36).pack(fill="x", padx=12, pady=(4, 12))
+    ctk.CTkButton(frame_left, text="➕ Thêm bài mới",
+                  command=lambda: [clear_form(), tabview.set("✏️ Nội dung")],
+                  fg_color="#16a34a", hover_color="#15803d", height=36).pack(fill="x", padx=12, pady=(4, 12))
 
-# ─── CỘT PHẢI ───
-frame_right = ctk.CTkFrame(frame_main)
-frame_right.grid(row=0, column=1, sticky="nsew")
+    frame_right = ctk.CTkFrame(frame_main)
+    frame_right.grid(row=0, column=1, sticky="nsew")
 
-tabview = ctk.CTkTabview(frame_right)
-tabview.pack(fill="both", expand=True, padx=8, pady=8)
-tab = tabview.add("✏️ Nội dung")
+    tabview = ctk.CTkTabview(frame_right)
+    tabview.pack(fill="both", expand=True, padx=8, pady=8)
+    tab = tabview.add("✏️ Nội dung")
 
-lbl_mode = ctk.CTkLabel(tab, text="Chế độ: THÊM MỚI", text_color="#2FA572",
-                         font=ctk.CTkFont(size=12, weight="bold"))
-lbl_mode.pack(anchor="w", padx=4, pady=(4, 8))
+    lbl_mode = ctk.CTkLabel(tab, text="Chế độ: THÊM MỚI", text_color="#2FA572",
+                             font=ctk.CTkFont(size=12, weight="bold"))
+    lbl_mode.pack(anchor="w", padx=4, pady=(4, 8))
 
-ctk.CTkLabel(tab, text="Tiêu đề:", font=ctk.CTkFont(weight="bold")).pack(anchor="w", padx=4)
-entry_title = ctk.CTkEntry(tab, placeholder_text="Ví dụ: Ký Ức Mùa Thu...", height=38)
-entry_title.pack(fill="x", padx=4, pady=(4, 12))
+    ctk.CTkLabel(tab, text="Tiêu đề:", font=ctk.CTkFont(weight="bold")).pack(anchor="w", padx=4)
+    entry_title = ctk.CTkEntry(tab, placeholder_text="Ví dụ: Ký Ức Mùa Thu...", height=38)
+    entry_title.pack(fill="x", padx=4, pady=(4, 12))
 
-ctk.CTkLabel(tab, text="Nội dung:", font=ctk.CTkFont(weight="bold")).pack(anchor="w", padx=4)
-text_content = ctk.CTkTextbox(tab, wrap="word")
-text_content.pack(fill="both", expand=True, padx=4, pady=(4, 12))
+    ctk.CTkLabel(tab, text="Nội dung:", font=ctk.CTkFont(weight="bold")).pack(anchor="w", padx=4)
+    text_content = ctk.CTkTextbox(tab, wrap="word")
+    text_content.pack(fill="both", expand=True, padx=4, pady=(4, 12))
 
-frame_btns = ctk.CTkFrame(tab, fg_color="transparent")
-frame_btns.pack(fill="x", padx=4, pady=(0, 4))
+    frame_btns = ctk.CTkFrame(tab, fg_color="transparent")
+    frame_btns.pack(fill="x", padx=4, pady=(0, 4))
 
-btn_delete = ctk.CTkButton(frame_btns, text="🗑  XÓA BÀI NÀY", command=delete_entry,
-                            fg_color="#dc2626", hover_color="#b91c1c",
-                            font=ctk.CTkFont(size=13, weight="bold"), height=44, state="disabled")
-btn_delete.pack(side="left", expand=True, fill="x", padx=(0, 6))
+    btn_delete = ctk.CTkButton(frame_btns, text="🗑  XÓA BÀI NÀY", command=delete_entry,
+                                fg_color="#dc2626", hover_color="#b91c1c",
+                                font=ctk.CTkFont(size=13, weight="bold"), height=44, state="disabled")
+    btn_delete.pack(side="left", expand=True, fill="x", padx=(0, 6))
 
-btn_save = ctk.CTkButton(frame_btns, text="➕  LƯU BÀI VIẾT MỚI", command=save_data,
-                          fg_color="#16a34a", hover_color="#15803d",
-                          font=ctk.CTkFont(size=13, weight="bold"), height=44)
-btn_save.pack(side="left", expand=True, fill="x")
+    btn_save = ctk.CTkButton(frame_btns, text="➕  LƯU BÀI VIẾT MỚI", command=save_data,
+                              fg_color="#16a34a", hover_color="#15803d",
+                              font=ctk.CTkFont(size=13, weight="bold"), height=44)
+    btn_save.pack(side="left", expand=True, fill="x")
 
-root.mainloop()
+    root.mainloop()
+except Exception as e:
+    import traceback
+    traceback.print_exc()
+    input("\nBấm Enter để thoát...")
