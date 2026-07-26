@@ -1660,7 +1660,7 @@ Tarik đan những ngón tay thô ráp của mình vào tay Elma. Bọn họ đi
 Khung cảnh thành phố phơi bày sự tàn phá khủng khiếp. Thư viện quốc gia chỉ còn là bộ khung đen thui nham nhở. Những tòa nhà cao tầng lỗ chỗ vết đạn pháo trông giống hệt những tổ ong khổng lồ bằng bê tông mục nát. Bức tường vô hình từng bóp nghẹt thung lũng đã sụp đổ, nhường chỗ cho một thực tại tàn tạ mà họ sẽ phải dọn dẹp trong suốt phần đời còn lại.
 Elma rúc mặt vào cổ áo khoác của Tarik. Mùi hôi thối của bùn lầy dưới hầm ngầm dường như vẫn bám chặt lấy lớp vải sờn cũ này, vĩnh viễn không thể giặt sạch. Những ký ức kinh hoàng về xác người nằm la liệt ở chợ Markale sẽ rình rập giấc ngủ của cô cho đến lúc nhắm mắt xuôi tay. Tổn thương tâm lý đã ăn sâu vào từng tế bào, biến thành những vết thương vĩnh viễn không bao giờ lành lại.
 Tuy nhiên, nhịp đập trái tim của Tarik dưới lớp áo len mỏng manh lại rõ ràng hơn bao giờ hết. Sự ấm áp chân thực truyền qua kẽ tay. Anh vẫn đứng đây, hít thở bầu không khí pha lẫn mùi khói củi và tuyết tan. Bọn họ đã sống sót. Cái giá phải trả đắt đỏ bằng cả thanh xuân và máu thịt của hàng chục ngàn người, nhưng cuối cùng họ cũng bước qua được đêm đen. Không có phép màu nào xóa bỏ được thảm kịch đã qua. Chỉ có hai con người kiệt quệ đang tựa vào nhau giữa đống đổ nát, cắn răng bước tiếp về phía trước để bắt đầu lại phần đời còn lại.` },
-        { title: "Những kẻ lạc lõng", content: `[ Những kẻ lạc lõng ]
+        { title: "Hướng về rừng thông", content: `[ Hướng về rừng thông ]
 -- Phần 1 --
 Chương 1: Mặt phẳng bê tông
 Tháng Giêng năm 2000. Bão Lothar vừa càn quét qua châu Âu cách đây mười ngày.
