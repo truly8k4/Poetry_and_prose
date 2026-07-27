@@ -2212,6 +2212,6 @@ Hạ bước tới quầy thanh toán. Cô đặt tiền lên mặt gỗ.
 "Cảm ơn anh vì đĩa bánh nhé. Tuần sau em đi học lại, chắc ít ghé quán được," cô nói.
 Vũ nhận tiền, thối lại tiền lẻ. Anh nhìn cô chừng một giây. "Lúc nào rảnh thì cứ ghé. Quán vẫn ở đây, không dọn đi đâu hết."
 Cô gật đầu chào hai người con trai, đẩy cổng sắt bước ra ngoài. Chiếc xe máy lăn bánh, chìm vào dòng xe cộ đang nhích từng chút một trên cầu Chà Và. Phía sau lưng cô, quán cà phê vỉa hè vẫn nằm nép mình trong con hẻm nhỏ. Phong ngồi lại ở chiếc bàn góc tường, tay mân mê ly nước đá đã tan quá nửa. Vũ đứng xả nước bồn rửa, tiếng róc rách đều đặn lấp đầy không gian vắng lặng.
-Kỳ học mới, những bộ hồ sơ thực tập và vòng xoay tìm việc đang chực chờ phía trước. Ba người bọn họ quay trở về quỹ đạo riêng của mình. Quán nước khép lại một khoảng thời gian rảnh rỗi hiếm hoi. Mọi thứ lửng lơ, không hứa hẹn, không gượng ép. Chút rung động vừa chớm nở đành tạm cất vào một góc. Đôi khi, việc đi lướt qua nhau giữa những ngã rẽ ồn ã của Sài Gòn đã là một kiểu sắp đặt trọn vẹn nhất, để lại vệt ký ức mờ nhạt nhưng dai dẳng về một mùa hè bình thường.` },
+Kỳ học mới, những bộ hồ sơ thực tập và vòng xoay tìm việc đang chực chờ phía trước.` },
     ]
 };
