@@ -1916,7 +1916,7 @@ Gã đưa tay nhấc dải lụa lên. Loại vải dệt kiểu phương nam n�
 Tiếng quạ kêu quang quác vẳng lại từ nóc nhà thờ. Nghĩa địa ngoài thành đã hết chỗ. Người ta đào những hố to giữa quảng trường, hất chục cái xác xuống cùng một lúc. Không có đám rước. Không có chuông báo tử. Linh mục sống sót khóa chặt cửa trốn trong nhà. Mikhail ho khan vài tiếng. Cổ họng gã khô khốc. Gã chống tay vào vách tường để đứng dậy. Đầu gối run bần bật.
 Cơn đau nhói ập đến từ nách trái. Một khối hạch sưng tấy chèn ép lấy các thớ cơ. Mikhail lảo đảo bước ra bậu cửa sổ. Gã nhìn xuống đường phố lầy lội. Khắp nẻo đường châu Âu, từ những vũng nước đọng ở cảng Messina, xưởng may Florence, hố chôn ở London cho tới tận căn buồng gỗ lạnh lẽo đất Moscow này, vệt máu đen đã càn quét hàng triệu sinh mạng. Dải lụa sẫm màu nằm im lìm trong túi áo Mikhail. Gã gục đầu vào khung cửa. Hơi thở rít lên từng cơn nghèn nghẹt rồi tắt lịm giữa bầu trời xám xịt.` },
         { title: "Khói trên đồng khoai", content: `[ Khói trên đồng khoai ]
--- Phần 1 –
+-- Phần 1 --
 Chương 1: Lòng đất ươm bệnh
 Bàn tay Liam cào lớp đất ẩm. Móng tay anh cáu bẩn bùn đất. Tiếng cuốc sắt lách cách đập trúng đá mồ côi. Gió từ đại dương thổi bạt vào hạt Mayo, kéo theo sương mù rít buốt. Tháng Chín năm 1845. Trên cánh đồng, hàng chục người đang cúi rạp lưng. Không ai lên tiếng. Họ cắm mặt đào xới hối hả.
 Gió cuộn qua mang theo một thứ mùi lạ lẫm. Lợm giọng. Khai và bốc mùi như thịt rữa.
@@ -1976,7 +1976,7 @@ Liam nhìn đồng xu. Chừng này tiền đủ mua một nhúm bột ngô. Anh
 Đột nhiên, tiếng quát tháo vang lên xé toạc không khí ảm đạm.
 Từ phía ngã tư, chiếc xe kéo chở rác của dinh thự bá tước phanh gấp. Một tay quản gia vung tay xô mạnh. Maeve ngã nhào xuống vũng nước đọng. Bùn bắn tung tóe lên khuôn mặt sưng phù vết bầm. Mụ bếp trưởng phát hiện ra vụ trộm mỡ thừa đêm qua. Cô bị đuổi việc tắp lự, tước sạch tiền lương và chiếc áo khoác len giữ ấm. Maeve lồm cồm bò dậy. Ánh mắt cô đờ đẫn lướt qua những bóng người tiều tụy quanh đài phun nước cạn.
 Bốn con người xa lạ vô tình đứng chung trong một khoảng sân gạch lở loét. Chẳng ai cất tiếng chào hỏi hay thương xót ai. Nỗi đau thể xác bào mòn mọi cảm xúc. Gió bấc từ biển thốc ngược vào đất liền. Những bông tuyết đầu mùa buốt giá bắt đầu rơi rải rác. Mùa đông khắc nghiệt nhất lịch sử đã đổ ập xuống, chôn vùi hàng triệu sinh mạng dưới những luống khoai rữa nát.
--- Phần 2 –
+-- Phần 2 --
 Chương 1: Con đường đá vụn
 Nhát búa giáng xuống tảng đá vôi. Tiếng chát chúa dội vào vách núi. Mảnh văng sượt qua gò má Eamon, rướm máu. Anh không đưa tay lau. Bàn tay anh dính chặt vào cán búa gỗ, buốt cóng. Tháng Mười một năm 1846. Tuyết phủ xám xịt ngọn đồi hoang cách xa thị trấn Westport hàng chục dặm.
 Hàng trăm người dàn thành hàng dài dọc sườn dốc. Họ nện búa. Đào bới. Xúc đất bùn. Đây là công trường nhà nước. Hàng ngàn lao động đục đẽo vách núi mở một tuyến đường cắt ngang đầm lầy. Tuyến đường này vắt qua bãi hoang rồi kết thúc ở một vách đá cụt. Nó không dẫn đi đâu cả. Kế hoạch cứu trợ quy định trả tiền công để người dân có việc làm, miễn là công việc đó không sinh lời hay cạnh tranh với giới chủ tư nhân. Lao động chân tay đổi lấy vài đồng xu lẻ.
@@ -2049,7 +2049,7 @@ Nora nhặt đồng xu bạc lên. Cô nhét nó vào sâu trong lớp áo. Xung
 Gió bấc quất vào mặt. Tuyết rơi dày đặc, phủ trắng con đường đất dẫn ra khỏi rặng thông. Dọc hai bên vệ đường, thi thể nằm la liệt biến thành những ụ tuyết nhỏ nhấp nhô. Quạ đen bay lượn vòng tròn trên nền trời vẩn đục. Hàng ngàn bóng người tiều tụy vẫn lầm lũi bước đi, lết về phía bến cảng Westport. Bọn họ bấu víu vào một con tàu, một vùng đất xa xôi chưa từng biết tới.
 Nora hòa vào dòng người đó. Bước chân trần đạp lên đá nhọn. Dạ dày cô cồn cào. Đói khát vẫn giày vò từng tế bào. Bến bờ phía trước là sự sống hay cái chết trên những chuyến tàu quan tài nổi lềnh bềnh giữa đại dương, không một ai hay biết. Cô cứ thế cắm cúi đi thẳng.` },
         { title: "Giao lộ cũ", content: `[ Giao lộ cũ ]
--- Phần 1 –
+-- Phần 1 --
 Chương 1: Tháng sáu để lại
 Cuối tháng sáu năm 2025, sân trường Đại học Khoa học Xã hội và Nhân văn vắng người qua lại. Tiếng ve kêu râm ran trên mấy vòm cây dầu dọc con đường Đinh Tiên Hoàng. Hạ gom mấy cuốn giáo trình trên mặt bàn, nhét gọn vào chiếc túi vải canvas. Lớp học kỳ hè môn Ngôn ngữ học so sánh chỉ lác đác mười lăm sinh viên. Giảng viên vừa bước ra khỏi cửa, đám đông bên dưới liền tản đi mất.
 Hạ bước xuống cầu thang khu B. Nắng dội thẳng xuống mặt sân bê tông. Sinh viên năm tư rục rịch chuẩn bị khóa luận, còn đám sinh viên mới hết năm ba như cô thì kẹt lại giữa những tín chỉ học bù và lịch làm thêm. Giảng đường mùa hè mang một nhịp điệu uể oải. Người ta đến lớp, chép bài, rồi vội vã rời đi tìm chỗ trốn nóng.
@@ -2122,7 +2122,7 @@ Phong bước lùi lại, tìm chỗ đứng tránh nắng. Kế bên tiệm s�
 Người quản lý bưng ly thủy tinh đặt lên bàn. Nước lạnh tươm mồ hôi bên ngoài thành ly. Hai người chạm mặt, gật đầu chào nhau theo phép lịch sự. Không ai nói thêm câu nào. Tiếng cờ lê va vào niềng xe lách cách vang lên đều đặn. Phong uống cạn nửa ly nước, tựa lưng vào vách tường nhắm mắt nghỉ mệt. Gió từ rạch thổi vào làm lay động mép bạt.
 Không gian ở đây mang lại một cảm giác tĩnh lặng. Trên mặt bàn vẫn còn vệt nước đọng lại từ ly cà phê của vị khách ghé qua hồi sáng. Phong không biết rằng, ngay tại chỗ cậu đang ngồi, vài giờ trước có một người con gái vừa ôm máy tính gõ những dòng chữ về thành phố này. Ba con người, ba quỹ đạo sống riêng biệt, vô tình đặt chân lên cùng một tọa độ không gian. Bọn họ lướt qua nhau trong những khoảnh khắc vụn vặt nhất của một ngày bình thường.
 Tiếng bơm hơi rít lên từng hồi. Ông cụ thợ sửa xe vỗ tay vào yên xe, gọi lớn báo đã vá xong. Phong đứng dậy, móc ví trả tiền ly trà đá. Cậu quay sang gật đầu chào người quản lý quán một lần nữa rồi dắt xe xuống lề đường. Động cơ xe nổ giòn giã. Bánh xe lăn đều trên mặt nhựa đường, bỏ lại sau lưng ngã ba hẻm yên ắng. Mấy chiếc lá bàng khô cuộn tròn bay theo gió. Tháng sáu khép lại.
--- Phần 2 –
+-- Phần 2 --
 Chương 1: Mặt bàn gỗ Pallet
 Giữa tháng bảy, lịch học kỳ hè của đa số sinh viên rục rịch kết thúc. Khu nhà trọ sâu trong hẻm Phạm Thế Hiển vắng hẳn tiếng xe cộ ra vào. Mấy đứa sinh viên năm nhất, năm hai lục tục gom đồ về quê. Bầu không khí chùng xuống, im ắng. Hạ quấn mớ tóc vướng víu lên cao, ghim lại bằng một chiếc kẹp nhựa. Hôm nay cô thức dậy khá muộn. Đêm qua cô thức trắng để chạy cho xong bài phỏng vấn mấy người công nhân vệ sinh làm ca đêm.
 Cô bưng ly nước lọc ra ban công. Nắng xói thẳng xuống nền xi măng bỏng rát. Chậu cây nha đam khô héo mấy lá chân. Hạ tưới một ít nước, xoay người bước vào phòng. Công việc tự do mang lại sự chủ động nhưng dễ làm người ta mất khái niệm về ngày tháng. Cô lật sổ tay. Kế hoạch tuần này trống trơn. Chị trưởng nhóm vừa nhắn tin thông báo ban biên tập cho nghỉ xả hơi vài hôm, đợi đến đầu tháng tám mới lên đề cương cho chuỗi bài mới.
