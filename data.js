@@ -1254,7 +1254,7 @@ Tiếng kim loại cọ xát xuống nền xi măng sột soạt. Anya chậm r�
 "Đi đi," Matteo thì thào, âm thanh mỏng dính tan ngay vào khoảng không.
 Anya chống thanh tuýp sắt xuống sàn gượng đứng thẳng dậy. Ả lột chiếc áo khoác da của anh, khoác bọc thêm bên ngoài bộ đồ trượt tuyết rách rưới. Một luồng hơi ấm mỏng manh vừa vặn ấp lấy cơ thể gầy gò xơ xác. Ả quay gót bước ra mép cửa, lầm lũi rời đi không mảy may ngoái đầu nhìn lại.
 Matteo tựa gáy vào vách tường lạnh ngắt. Bóng dáng người phụ nữ thu nhỏ dần rồi biến mất hẳn vào màn sương mù trắng đục đang giăng kín ngoài cửa trạm cáp treo. Nhịp đập nơi lồng ngực anh thưa thớt, yếu ớt rồi chìm sâu vào cõi vĩnh hằng. Bão tuyết lại bắt đầu gào thét, kiên nhẫn vùi lấp nốt những dấu vết mục rỗng của kỷ nguyên loài người.` },
-        { title: "Bốn mùa lâng la", content: `[ Bốn mùa muôn phương ]
+        { title: "Bốn mùa lâng la", content: `[ Bốn mùa lâng la ]
 -- Phần 1 --
 Chương 1: Cơn bão muộn ở Narita
 Màn hình điện tử tại nhà ga số 1 sân bay Narita nhấp nháy dòng chữ đỏ rực: "Canceled". Cơn bão nhiệt đới ập đến vùng Kanto sớm hơn dự báo báo đài đưa tin sáng nay. Mưa đập dồn dập vào những tấm kính cường lực khổng lồ. Hàng ngàn con người kẹt lại trong không gian ngột ngạt quyện lẫn mùi cà phê pha máy và hơi người.

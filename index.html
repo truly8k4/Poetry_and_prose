@@ -761,6 +761,7 @@
 			</div>
 			<div class="max-w-3xl mx-auto space-y-32" id="truyendai-container">
 			</div>
+
 		</section>
 
         <section id="mucluc" class="tab-section hidden pt-20 pb-20 relative">
@@ -811,6 +812,23 @@
     <button id="back-to-top" class="fixed bottom-8 right-8 md:bottom-10 md:right-10 bg-white/80 backdrop-blur-md border border-divider/60 p-4 rounded-full shadow-elegant text-ink opacity-0 pointer-events-none transition-all duration-500 hover:bg-ink hover:text-white hover:scale-110 z-50 group">
         <svg class="w-5 h-5 transition-transform duration-300 group-hover:-translate-y-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M5 10l7-7m0 0l7 7m-7-7v18"></path></svg>
     </button>
+
+    <button id="next-novel-fab" class="fixed bottom-28 right-8 md:bottom-32 md:right-10 bg-[#2A2421] border border-[#9A7E64]/50 p-4 rounded-full shadow-elegant text-[#E8DCCB] opacity-0 pointer-events-none scale-75 transition-all duration-500 hover:bg-[#9A7E64] hover:text-[#1F1B19] hover:scale-110 z-50 group" title="Tiểu thuyết tiếp theo">
+        <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M13 5l7 7-7 7M5 5l7 7-7 7"></path></svg>
+    </button>
+
+    <div id="next-novel-modal" class="fixed inset-0 z-[60] flex items-center justify-center px-6 opacity-0 pointer-events-none transition-opacity duration-300">
+        <div id="next-novel-modal-backdrop" class="absolute inset-0 bg-black/70 backdrop-blur-sm"></div>
+        <div id="next-novel-modal-card" class="relative bg-[#241F1D] border border-[#9A7E64]/30 rounded-2xl shadow-elegant-hover px-8 py-9 max-w-sm w-full text-center transform scale-95 transition-transform duration-300">
+            <p class="text-xs uppercase tracking-[0.25em] text-[#C5A98A] font-semibold mb-4">Chuyển tiểu thuyết</p>
+            <p class="font-display text-lg text-[#C5B8A8] italic mb-1">Bạn có muốn đọc tiếp:</p>
+            <p id="next-novel-modal-title" class="font-display text-2xl text-[#F4EFE6] italic mb-8"></p>
+            <div class="flex items-center justify-center gap-3">
+                <button id="next-novel-cancel-btn" class="px-5 py-2.5 rounded-full border border-[#9A8E83]/40 text-[#C5B8A8] font-serif text-sm hover:bg-white/5 transition-colors">Để sau</button>
+                <button id="next-novel-confirm-btn" class="px-6 py-2.5 rounded-full bg-[#9A7E64] text-[#1F1B19] font-serif text-sm font-medium hover:bg-[#C5B4A3] transition-colors">Có, đọc tiếp →</button>
+            </div>
+        </div>
+    </div>
 
     <script>
         
@@ -1341,6 +1359,8 @@
 
         let observer;
         let renderedTabs = { tho: false, tanvan: false, chamngon: false, truyendai: false, mucluc: false };
+        let currentTruyenIndex = 0;
+        let nextNovelTargetIndex = null;
 
         function renderTho() {
             const container = document.getElementById('tho-container');
@@ -1464,51 +1484,109 @@
             attachThemeListeners(container);
         }
 		
-		function renderTruyenDai() {
+		function renderTruyenDai(index) {
+			if (typeof index !== 'number') index = currentTruyenIndex;
+			currentTruyenIndex = index;
+
 			const container = document.getElementById('truyendai-container');
-			contentData.truyenDai.forEach((item, index) => {
-				
-				const paragraphs = item.content.split('\n').filter(p => p.trim() !== '');
-				let contentHtml = '';
+			container.innerHTML = '';
 
-				paragraphs.forEach((p) => {
-					const trimmed = p.trim();
-					const lowerCaseTr = trimmed.toLowerCase();
+			const item = contentData.truyenDai[index];
+			if (!item) return;
 
-					if (trimmed.startsWith('--') && trimmed.endsWith('--')) {
-					const text = trimmed.substring(2, trimmed.length - 2).trim();
+			const paragraphs = item.content.split('\n').filter(p => p.trim() !== '');
+			let contentHtml = '';
+
+			paragraphs.forEach((p) => {
+				const trimmed = p.trim();
+				const lowerCaseTr = trimmed.toLowerCase();
+
+				if (trimmed.startsWith('--') && trimmed.endsWith('--')) {
 					contentHtml += `<h3 class="font-display text-4xl md:text-5xl font-medium text-center text-ink mt-14 mb-10">${trimmed}</h3>`;
-					}
-					else if (trimmed.startsWith('[') && trimmed.endsWith(']')) {
-						contentHtml += `<h4 class="font-sans text-sm md:text-base font-semibold uppercase text-center text-accent tracking-[0.4em] mt-12 mb-6">${trimmed}</h4>`;
-					}
-					else if (lowerCaseTr.startsWith('chương')) {
-						contentHtml += `<h5 class="font-display text-2xl md:text-3xl font-medium text-center text-ink-light mt-10 mb-6">${trimmed}</h5>`;
-					}
-					else {
-						contentHtml += `<p class="text-lg md:text-[1.15rem] leading-[2.2] mb-6 text-ink-light text-justify">${trimmed}</p>`;
-					}
-				});
-
-				const isLast = index === contentData.truyenDai.length - 1;
-				const dividerHtml = isLast ? '' : `
-					<div class="flex items-center justify-center gap-4 py-16 opacity-40">
-						<div class="w-24 h-[1px] bg-gradient-to-r from-transparent to-ink"></div>
-						<svg class="w-4 h-4 text-ink transform rotate-45" fill="currentColor" viewBox="0 0 24 24"><rect width="10" height="10" x="7" y="7"/></svg>
-						<div class="w-24 h-[1px] bg-gradient-to-l from-transparent to-ink"></div>
-					</div>
-				`;
-
-				const html = `
-					<article id="truyendai-item-${index}" class="py-8">
-						<div class="prose-content">
-							${contentHtml}
-						</div>
-					</article>
-					${dividerHtml}
-				`;
-				container.insertAdjacentHTML('beforeend', html);
+				}
+				else if (trimmed.startsWith('[') && trimmed.endsWith(']')) {
+					contentHtml += `<h4 class="font-sans text-sm md:text-base font-semibold uppercase text-center text-accent tracking-[0.4em] mt-12 mb-6">${trimmed}</h4>`;
+				}
+				else if (lowerCaseTr.startsWith('chương')) {
+					contentHtml += `<h5 class="font-display text-2xl md:text-3xl font-medium text-center text-ink-light mt-10 mb-6">${trimmed}</h5>`;
+				}
+				else {
+					contentHtml += `<p class="text-lg md:text-[1.15rem] leading-[2.2] mb-6 text-ink-light text-justify">${trimmed}</p>`;
+				}
 			});
+
+			const html = `
+				<article id="truyendai-item-${index}" class="py-8">
+					<div class="prose-content">
+						${contentHtml}
+					</div>
+				</article>
+			`;
+			container.insertAdjacentHTML('beforeend', html);
+
+			updateNextNovelFab(index);
+		}
+
+		function updateNextNovelFab(index) {
+			const fab = document.getElementById('next-novel-fab');
+			if (!fab) return;
+
+			const hasNext = index < contentData.truyenDai.length - 1;
+			nextNovelTargetIndex = hasNext ? index + 1 : null;
+
+			const truyenSection = document.getElementById('truyendai');
+			const isActiveTab = truyenSection && !truyenSection.classList.contains('hidden');
+
+			if (hasNext && isActiveTab) {
+				fab.classList.remove('opacity-0', 'pointer-events-none', 'scale-75');
+				fab.classList.add('opacity-100', 'pointer-events-auto', 'scale-100');
+			} else {
+				fab.classList.add('opacity-0', 'pointer-events-none', 'scale-75');
+				fab.classList.remove('opacity-100', 'pointer-events-auto', 'scale-100');
+			}
+		}
+
+		function openNextNovelModal() {
+			if (nextNovelTargetIndex === null) return;
+			const nextItem = contentData.truyenDai[nextNovelTargetIndex];
+			const titleEl = document.getElementById('next-novel-modal-title');
+			if (titleEl) titleEl.textContent = nextItem.title;
+
+			const modal = document.getElementById('next-novel-modal');
+			const card = document.getElementById('next-novel-modal-card');
+			if (!modal || !card) return;
+			modal.classList.remove('opacity-0', 'pointer-events-none');
+			modal.classList.add('opacity-100', 'pointer-events-auto');
+			card.classList.remove('scale-95');
+			card.classList.add('scale-100');
+		}
+
+		function closeNextNovelModal() {
+			const modal = document.getElementById('next-novel-modal');
+			const card = document.getElementById('next-novel-modal-card');
+			if (!modal || !card) return;
+			modal.classList.add('opacity-0', 'pointer-events-none');
+			modal.classList.remove('opacity-100', 'pointer-events-auto');
+			card.classList.add('scale-95');
+			card.classList.remove('scale-100');
+		}
+
+		function goToNovel(index) {
+			if (index < 0 || index >= contentData.truyenDai.length) return;
+			renderTruyenDai(index);
+
+			setTimeout(() => {
+				const element = document.getElementById('truyendai-item-' + index);
+				if (element) {
+					const y = element.getBoundingClientRect().top + window.scrollY - 100;
+					window.scrollTo({ top: y, behavior: 'smooth' });
+				}
+				const section = document.getElementById('truyendai');
+				section.querySelectorAll('.fade-in-up').forEach(el => {
+					el.classList.remove('visible');
+					observer.observe(el);
+				});
+			}, 50);
 		}
 
         function renderMucLuc() {
@@ -1524,7 +1602,7 @@
             categories.forEach(cat => {
                 let listHtml = cat.data.map((item, index) => 
                     `<li>
-                        <a href="#" class="toc-link group flex items-center justify-between text-ink-light hover:text-accent transition-colors py-1.5" data-target-tab="${cat.id}" data-target-id="${cat.id}-item-${index}">
+                        <a href="#" class="toc-link group flex items-center justify-between text-ink-light hover:text-accent transition-colors py-1.5" data-target-tab="${cat.id}" data-target-id="${cat.id}-item-${index}" data-index="${index}">
                             <span class="font-serif text-lg group-hover:translate-x-1 transition-transform whitespace-nowrap shrink-0">${item.title}</span>
                             <div class="w-full mx-4 border-b border-dashed border-divider/50 group-hover:border-accent/50 transition-colors"></div>
                         </a>
@@ -1547,8 +1625,13 @@
                     e.preventDefault();
                     const targetTab = link.getAttribute('data-target-tab');
                     const targetId = link.getAttribute('data-target-id');
+                    const targetIndex = parseInt(link.getAttribute('data-index'), 10);
                     
                     switchTab(targetTab);
+
+                    if (targetTab === 'truyendai') {
+                        renderTruyenDai(targetIndex);
+                    }
                     
                     setTimeout(() => {
                         const element = document.getElementById(targetId);
@@ -1623,9 +1706,16 @@
             // THÊM LOGIC ĐỔI MÀU NỀN TẠI ĐÂY
             if (tabId === 'truyendai') {
                 document.body.classList.add('reading-mode'); // Bật nền tối
+                updateNextNovelFab(currentTruyenIndex);
             } else {
                 document.body.classList.remove('reading-mode'); // Trở lại nền sáng
+                const fab = document.getElementById('next-novel-fab');
+                if (fab) {
+                    fab.classList.add('opacity-0', 'pointer-events-none', 'scale-75');
+                    fab.classList.remove('opacity-100', 'pointer-events-auto', 'scale-100');
+                }
             }
+            closeNextNovelModal();
 
             const mainElement = document.querySelector('main');
             window.scrollTo({ top: mainElement.offsetTop - 80, behavior: 'smooth' });
@@ -1668,6 +1758,32 @@
             }
 
             document.getElementById('year').textContent = new Date().getFullYear();
+
+            const nextNovelFab = document.getElementById('next-novel-fab');
+            if (nextNovelFab) {
+                nextNovelFab.addEventListener('click', () => {
+                    openNextNovelModal();
+                });
+            }
+
+            const nextNovelConfirmBtn = document.getElementById('next-novel-confirm-btn');
+            if (nextNovelConfirmBtn) {
+                nextNovelConfirmBtn.addEventListener('click', () => {
+                    const target = nextNovelTargetIndex;
+                    closeNextNovelModal();
+                    if (target !== null) goToNovel(target);
+                });
+            }
+
+            const nextNovelCancelBtn = document.getElementById('next-novel-cancel-btn');
+            if (nextNovelCancelBtn) {
+                nextNovelCancelBtn.addEventListener('click', closeNextNovelModal);
+            }
+
+            const nextNovelModalBackdrop = document.getElementById('next-novel-modal-backdrop');
+            if (nextNovelModalBackdrop) {
+                nextNovelModalBackdrop.addEventListener('click', closeNextNovelModal);
+            }
 
             observer = new IntersectionObserver((entries, observer) => {
                 entries.forEach(entry => {
