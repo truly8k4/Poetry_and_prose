@@ -629,6 +629,18 @@
 			body.reading-mode .story-article {
 				background-color: transparent !important;
 			}
+			
+			body.reading-mode #back-to-top.opacity-100,
+			body.reading-mode #next-novel-fab.opacity-100 {
+				opacity: 0.2 !important; /* Chỉnh mức độ mờ tại đây (0.25 = 25%) */
+				transition: opacity 0.3s ease, transform 0.5s ease, background 0.3s ease !important;
+			}
+
+			/* Khi người dùng rê chuột vào nút, nút sẽ sáng rõ lại 100% */
+			body.reading-mode #back-to-top.opacity-100:hover,
+			body.reading-mode #next-novel-fab.opacity-100:hover {
+				opacity: 1 !important; 
+			}
     </style>
 </head>
 <body class="font-serif antialiased leading-relaxed overflow-x-hidden relative">
