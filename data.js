@@ -2490,345 +2490,419 @@ Mika quay lưng bước đi. Băng qua những hố bom cũ đã thành vũng n�
 Cuộc sơ tán dài nửa thế kỷ, cuối cùng, cũng đã kết thúc.` },
         { title: "Bước qua cánh cửa", content: `[ Bước qua cánh cửa ]
 Chương 1: Giao lộ vô thanh và cánh cửa đỏ
-Viên gạch rơi từ giàn giáo tầng sáu.
-Đó là điều cuối cùng Dakia nhận thức được ở thế giới thực. Anh đang đứng dưới đất, cắm cúi gạch xóa trên bản vẽ thi công. Lớp nhựa polycarbonate của chiếc mũ bảo hộ đã vỡ nát ngay khi va chạm. Một lực ép bạo liệt giáng xuống hộp sọ, đẩy đốt sống cổ anh gập xuống. Mùi vữa nồng nặc. Vị máu tanh trong vòm miệng. Và rồi, tầm nhìn của anh bị bóng tối nuốt chửng.
-Dakia mở mắt.
-Anh không thấy trần nhà trắng của phòng cấp cứu. Anh không ngửi thấy mùi thuốc sát trùng. Dưới đế giày anh là mặt đường rải sỏi.
-Dakia đứng dậy, phủi bụi trên áo khoác. Cơ thể anh không đau đớn. Anh đưa tay sờ lên đầu, nơi viên gạch lẽ ra đã nghiền nát hộp sọ. Tóc anh khô ráo, nguyên vẹn. Không có vết thương nào.
-Anh đảo mắt nhìn quanh. Đây là một giao lộ. Những khối nhà xây bằng gạch nung đứng sừng sững hai bên đường, mang đậm đường nét kiến trúc của Copenhagen. Các cột đèn đường bằng gang đúc đang tỏa ra thứ ánh sáng vàng vọt, nhưng ánh sáng đó dường như không chạm được xuống mặt đường. Chúng lơ lửng, đông đặc lại như những vệt sương mù.
-Dakia ngước nhìn lên. Bầu trời không có mây, cũng không có mặt trời. Không gian phía trên các nóc nhà là một mảng xám trắng chớp giật liên hồi, giống hệt màn hình của một chiếc tivi cũ mất sóng.
-Tuyệt nhiên không có một âm thanh nào.
-Một thành phố châu Âu giữa ban ngày lẽ ra phải có tiếng còi xe, tiếng lốp ma sát trên nhựa đường, tiếng gót giày gõ nhịp, hay chí ít là tiếng gió hú qua các khe cửa. Nhưng ở đây, sự im lặng có trọng lượng. Nó ép chặt vào màng nhĩ Dakia. Anh thử hít một hơi sâu. Không khí tràn vào phổi nhưng không mang theo hơi ấm, không có độ ẩm, không có sự sống.
-Bản năng của một kiến trúc sư buộc Dakia phải quan sát kỹ hơn cấu trúc xung quanh. Anh bước về phía dãy phố trước mặt. Có một cửa hàng tiện lợi ở góc đường, kế tiếp là một tiệm bánh, và bên kia đường là lối dẫn xuống ga tàu điện ngầm. Mọi thứ đều được xây dựng chuẩn xác về mặt tỷ lệ.
-Nhưng có một điểm sai lệch.
-Tất cả các cánh cửa.
-Dakia tiến sát lại lối vào của cửa hàng tiện lợi. Cửa làm bằng khung nhôm và kính cường lực. Nhưng mặt kính không trong suốt. Ai đó đã dùng sơn quét kín bề mặt kính, cả mặt trong lẫn mặt ngoài. Lớp sơn đặc quánh, phẳng lỳ.
-Cánh cửa của cửa hàng tiện lợi được sơn màu Đỏ. Cánh cửa tiệm bánh bên cạnh mang màu Xanh lục. Lối xuống ga tàu điện ngầm bị bịt kín bởi một cánh cửa sắt sơn màu Đen.
-Mọi ô cửa sổ ở các tầng trên, mọi lối ra vào của các tòa nhà dọc con phố, đều bị phủ kín bằng những lớp sơn đơn sắc. Chúng chặn đứng mọi ánh sáng và tầm nhìn, biến những công trình kiến trúc này thành những chiếc hộp đóng kín không thể thấu thị.
-"Có ai không?" Dakia lên tiếng.
-Giọng anh rơi tõm vào không gian, không tạo ra dù chỉ một tiếng vang.
-Anh cần một chiếc điện thoại. Anh cần liên lạc với công trường hoặc bệnh viện. Đứng trước cánh cửa màu Đỏ của cửa hàng tiện lợi, Dakia nhận thấy tay nắm cửa bằng nhôm không bị khóa. Anh vươn tay, nắm lấy gờ kim loại lạnh toát, và đẩy mạnh.
-Cánh cửa mở ra. Dakia bước qua bậu cửa.
-Xoạp.
-Nước tràn vào giày anh. Dakia sững người.
-Bên trong không có kệ hàng, không có quầy thu ngân, không có ánh đèn neon. Thay vào đó, anh đang đứng trong một không gian trải dài khuất tầm mắt. Những cây cột bê tông thô kệch, rỉ nước mọc lên từ một vũng nước đục ngòm ngập đến mắt cá chân.
-Từ trần nhà – nơi cao đến mức không thể nhìn thấy điểm kết thúc – buông xuống vô số những sợi dây xích sắt. Treo lơ lửng trên đó là những tảng thịt. Chúng không phải là bò, lợn, hay bất cứ sinh vật nào Dakia từng biết. Chúng là những khối mô cơ đỏ hỏn, không có da, không có hình thù xác định, to bằng cả một chiếc ô tô. Nước từ những tảng thịt nhỏ tong tỏng xuống mặt sàn tạo thành những gợn sóng lan tỏa.
-Tâm trí Dakia khựng lại. Cửa hàng tiện lợi này ở bên ngoài chỉ rộng chừng năm mươi mét vuông. Nhưng cái không gian bên trong cánh cửa này rộng bằng cả một nhà chứa máy bay. Định luật về không gian và thể tích ở đây đã bị xé bỏ.
-Một mùi hương xộc thẳng vào mũi anh. Không phải mùi máu tươi. Đó là mùi của rỉ sét và thịt đang phân hủy.
-Cơn buồn nôn ập đến. Bản năng sinh tồn gào thét trong đầu Dakia. Anh lùi lại, vấp chân vào mặt nước lõng bõng, loạng choạng ngã ngửa ra phía sau, văng trở lại mặt đường lát sỏi của giao lộ.
-Anh vung tay kéo mạnh cánh cửa. Rầm.
-Cánh cửa màu Đỏ đóng sập lại.
-Dakia ngồi bệt trên mặt đường, thở dốc. Nước trong giày anh lạnh buốt. Quần anh ướt sũng. Chuyện vừa rồi không phải ảo giác. Anh nhìn chằm chằm vào mặt kính bị sơn đỏ. Nhịp tim anh đập thình thịch trong lồng ngực. Bộ não logic của một người làm kỹ thuật cố gắng tìm kiếm một lời giải thích.
-Một cái kho ngầm? Một thiết kế giật cấp? Không thể nào.
-Để chứng minh rằng mình đã nhìn lầm, Dakia đứng dậy. Anh nuốt nước bọt, nắm lấy tay nắm cửa một lần nữa. Lần này, anh kéo cánh cửa về phía mình.
-Không có nước. Không có những cây cột bê tông. Không có những tảng thịt khổng lồ.
-Hiện ra trước mắt Dakia là một dãy hành lang trải nhựa vinyl. Hai bên là những bức tường ốp gạch men trắng. Trên trần, những bóng đèn huỳnh quang nhấp nháy liên tục, phát ra tiếng kêu è è cơ học. Hành lang kéo dài tít tắp thành một đường thẳng, xa đến mức hai mép tường như chụm lại vào nhau ở một điểm vô cực.
-Một cơn gió lùa từ trong hành lang hắt ra mặt phố, mang theo mùi cồn y tế cay xè và mùi thuốc tẩy rửa.
-Dakia đứng chôn chân trên bậu cửa. Tay anh vẫn nắm chặt tay nắm nhôm. Anh đưa mắt nhìn con phố vắng lặng sau lưng mình, rồi lại nhìn dãy hành lang bệnh viện dài vô tận trước mặt.
-Bên dưới lớp sơn Đỏ, không gian đã bị thay đổi.
-Chương 2: Định lý của sự phi lý
-Dakia buông tay. Cánh cửa nhôm tự động khép lại bằng một tiếng cạch khô khốc.
-Anh lùi lại ba bước, đứng ra giữa lòng đường. Gió không thổi, nhưng mồ hôi lạnh rịn ra dọc sống lưng. Bộ não của một người được đào tạo để tính toán lực chịu tải, kết cấu không gian và vật liệu của anh đang vận hành hết công suất. Nhưng mọi phương trình đều vô nghĩa.
-Bên ngoài là một cửa hàng tiện lợi bằng gạch nung. Bên trong là một lò mổ ngập nước. Bên ngoài không thay đổi. Nhưng lần mở cửa thứ hai, bên trong lại là hành lang bệnh viện.
-Dakia nhận ra một quy luật ở thế giới này: Kiến trúc ngoại thất chỉ là một lớp vỏ rỗng tuếch. Những cánh cửa bị sơn đặc kia không dẫn vào bên trong tòa nhà. Chúng là những điểm trung chuyển đứt gãy. Mỗi lần vặn tay nắm cửa là một lần ném xúc xắc.
-Anh bắt đầu bước đi. Quần áo ẩm ướt bám sát lấy da thịt. Dakia đi dọc theo vỉa hè. Những ô gạch lát vỉa hè màu xám xếp so le hoàn hảo. Mọi thứ quá nguyên vẹn. Không có rác, không có vết nứt, không có cỏ dại mọc qua khe hở. Một sự hoàn hảo chết chóc.
-Dạ dày anh thắt lại. Cảm giác khát nước dâng lên cổ họng. Dakia cần tìm một manh mối, hay ít nhất là một nguồn nước sạch. Anh đi qua hàng chục tòa nhà. Cửa tiệm, nhà băng, bưu điện... Tất cả đều bị bịt kín bởi những cánh cửa sơn màu vàng, cam, tím, nâu. Anh không dám chạm tay vào bất cứ tay nắm cửa nào nữa.
-Đột nhiên, đầu anh nhói lên.
-Một âm thanh xé rách không gian câm lặng vang lên ngay trong màng nhĩ. Kééééttt!
-Tiếng lốp xe ma sát cháy khét trên mặt đường. Dakia khuỵu gối, ôm lấy đầu. Một hình ảnh vụt qua đáy mắt: Đêm tối. Những bông tuyết rơi xoáy vào ánh đèn pha ô tô chói lóa. Và một tiếng va đập trầm đục.
-Hình ảnh biến mất nhanh như khi nó xuất hiện. Giao lộ vắng lặng lọt lại vào tầm nhìn. Không có tuyết. Chỗ anh bị gạch rơi trúng là công trường giữa tháng Tám. Từ đâu ra tuyết? Và tiếng phanh xe đó là gì?
-Dakia thở dốc, đứng thẳng dậy. Tâm trí anh bắt đầu xuất hiện những vết rạn. Nếu cứ đi bộ trên con phố dài vô tận này, anh sẽ kiệt sức trước khi hiểu chuyện gì đang xảy ra. Anh phải thử một lần nữa.
-Anh dừng lại trước một căn nhà nhỏ hai tầng. Nó mang dáng dấp của những khu dân cư ngoại ô Copenhagen. Cánh cửa gỗ trước nhà được phủ một lớp sơn màu Xanh lục. Bề mặt sơn không tì vết.
-Dakia hít một hơi, nắm lấy chốt cửa bằng đồng, vặn mạnh và đẩy vào trong.
-Không có sàn gỗ. Không có thảm chùi chân.
-Đế giày của anh giẫm lên lớp đất bùn mềm nhão. Tiếng lá khô gãy vụn dưới gót chân vang lên rõ mồn một. Dakia trừng mắt. Phía trước anh không phải là phòng khách. Đó là một khu rừng.
-Những thân cây bạch dương trắng muốt vươn thẳng lên trời, lớp vỏ bong tróc như những mảnh giấy rách. Không gian bị bao trùm bởi một màn sương mù dày đặc. Mùi nhựa thông và nấm mốc xộc thẳng vào mũi. Đứng từ vỉa hè rải sỏi, Dakia đang nhìn thẳng vào tâm của một khu rừng hoang vu.
-Anh thử bước một chân qua bậu cửa. Nhiệt độ giảm đột ngột. Khí lạnh luồn qua lớp áo khoác.
-Dakia quay đầu nhìn lại. Cánh cửa gỗ màu Xanh lục đứng trơ trọi giữa không gian rừng rậm. Nhìn qua khung cửa, anh vẫn thấy con phố gạch nung quen thuộc. Nhưng khi nhìn ra ngoài khung cửa, chỉ có sương mù và cây cối.
-Anh bước thêm hai bước nữa vào trong lớp sương. Và rồi, anh cảm nhận được nó.
-Một thứ bản năng nguyên thủy báo động cho Dakia biết: Anh không ở đây một mình. Sự vắng lặng của con phố đã biến mất, thay vào đó là một áp lực vô hình đè nặng lên các giác quan.
-Từ trong lớp sương mù đục ngầu, cách anh chừng hai mươi mét, một bóng đen hiện ra.
-Dakia khựng lại. Anh nín thở. Bóng đen đó đứng bất động sau một gốc bạch dương. Nó mang hình dáng của một con người, cao lớn, nhưng không có trang phục, không có da thịt. Toàn thân nó là một màu đen đặc thù, như thể ai đó đã khoét một mảng không gian hình người rồi ném vào khoảng không.
-Một bóng đen thứ hai xuất hiện bên trái. Rồi bóng thứ ba ở bên phải. Chúng đứng lẩn khuất sau những gốc cây, bao vây lấy hướng đi của Dakia.
-Không có mắt. Không có mũi. Ở vị trí đáng lẽ là khuôn mặt, chỉ có một hốc sâu hoắm, lõm vào trong đầu chúng như một miệng phễu.
-Và rồi, âm thanh bắt đầu lọt ra từ những cái hốc đó.
-Không phải tiếng nói. Không phải tiếng gầm gừ. Đó là tiếng còi xe cấp cứu.
-Nhưng âm thanh đã bị bóp méo. Nó nghèn nghẹt, đứt quãng, giống như phát ra từ một chiếc loa nằm sâu dưới đáy nước. Tiếng còi vang lên rền rĩ, thê lương, dội vào màng nhĩ Dakia, kéo theo một cơn đau xé óc. Những bóng đen không bước đi. Chúng lướt. Khoảng cách giữa chúng và anh đang thu hẹp lại một cách phi logic, dù chân chúng không hề cử động.
-Nỗi sợ hãi nguyên thủy bóp nghẹt tim Dakia.
-Anh xoay người, lao thục mạng về phía khung cửa gỗ đang lơ lửng giữa rừng sương. Tiếng còi xe cấp cứu đột ngột rít lên chói tai sau lưng anh. Cảm giác ớn lạnh phả ngay sát gáy.
-Dakia vung tay nắm lấy khung cửa, quăng mình qua bậu cửa rơi trở lại mặt vỉa hè gạch nung. Anh dùng chân đạp mạnh. Cánh cửa màu Xanh lục đóng sầm lại.
-Tiếng còi cấp cứu bị cắt đứt tức tưởi. Sương mù và rừng bạch dương biến mất. Trước mắt Dakia lại là mảng sơn Xanh lục vô hồn.
-Anh nằm ngửa trên vỉa hè, lồng ngực phập phồng liên hồi. Giao lộ xám xịt, vắng lặng bao quanh anh lúc này bỗng trở thành một pháo đài an toàn. Nỗi kinh hoàng từ khu rừng vẫn còn bám dính lấy nhịp tim anh.
-Dakia nhìn dọc con phố, nơi hàng vạn cánh cửa với hàng vạn màu sơn khác nhau đang im lìm đóng kín. Đây không phải là một thế giới ngẫu nhiên. Đây là một cái bẫy.
-Và anh vừa phát hiện ra, ở thế giới này, anh chính là con mồi.
-Chương 3: Sinh vật "thợ săn hình học"
-Cơn khát bắt đầu cào xé vòm họng. Dakia loạng choạng bước đi trên mặt đường. Cái lạnh từ vũng nước trong cửa hàng thịt bám chặt vào ống quần, trong khi tâm trí anh vẫn kẹt lại với những bóng đen vỡ nát trong khu rừng sương mù.
-Anh cần nghỉ ngơi, nhưng đứng giữa giao lộ trống không này khiến anh có cảm giác mình là tấm bia tập bắn. Anh liếc nhìn dãy nhà bên phải. Một cánh cửa sắt sơn màu Vàng đặc quánh lọt vào tầm mắt. Nó giống lối dẫn xuống hầm trú ẩn hoặc trạm tàu điện.
-Không suy nghĩ thêm, Dakia vặn tay nắm, đẩy cửa bước vào.
-Tiếng kim loại rít lên. Dakia lách người qua. Cánh cửa sập lại phía sau.
-Mùi ozone và rỉ sắt xộc vào mũi. Dakia chớp mắt, cố thích nghi với thứ ánh sáng huỳnh quang chói lóa. Nhưng ngay khi tầm nhìn rõ ràng, đầu gối anh khuỵu xuống. Một cơn buồn nôn bạo liệt ập đến.
-Bộ não của một kiến trúc sư trong anh đang gào thét. Trực quan không gian của anh bị xé nát.
-Đây là một trạm tàu điện ngầm rộng lớn, ốp gạch men trắng. Nhưng không có mặt đất cố định. Những dãy cầu thang đâm xuyên vào nhau theo các góc chín mươi độ. Lối đi bộ vặn xoắn như dải băng Möbius, uốn lượn từ mặt sàn lên trần nhà rồi vòng ngược lại. Có những băng ghế chờ lộn ngược trên đỉnh đầu. Những cây cột chịu lực đâm ngang từ tường này sang tường kia. Mọi thứ đan chéo nhau một cách phi lý, phá vỡ hoàn toàn định luật trọng lực, hệt như một bức tranh của M.C. Escher.
-Dakia bám chặt lấy lan can thép gần nhất. Anh nhận ra trọng lực ở đây không hướng xuống dưới. Nó bám theo bề mặt mà anh đang đứng.
-Đúng lúc đó, không gian vang lên một tiếng rạn nứt.
-Rắc... Rắc...
-Âm thanh giống hệt tiếng kính cường lực bị ép đến ngưỡng phá hủy. Dakia ngước nhìn lên một bệ ga nằm vắt ngang trên trần nhà. Ở đầu kia của bệ ga, không gian đang vỡ ra. Những mảng gạch men bong tróc, bay lơ lửng rồi tan biến vào những khoảng đen tĩnh lặng.
-Từ trong khoảng đen đó, một thực thể trườn ra.
-Nó không có da thịt. Không có chân tay. Nó là một tập hợp các khối hình học bằng kim loại đen nhám – những khối lập phương, khối chóp, và đa diện – liên tục va đập, trượt lên nhau và tự tái tạo. Các góc cạnh sắc lẹm xoay chuyển không ngừng, tạo ra tiếng nghiến ma sát chói tai. Mỗi khi một khối hình vươn tới phía trước, không gian quanh nó bị cắt xẻ, nứt toác.
-Nó di chuyển dọc theo mặt tường thẳng đứng, những khối nhọn cắm phập vào bê tông để tạo điểm tựa. Không có mắt, không có tai. Nhưng Dakia cảm nhận được một áp lực kinh hoàng ép thẳng vào màng nhĩ.
-Nhịp tim anh đập thình thịch. Lồng ngực phập phồng.
-Thực thể hình học đột ngột khựng lại. Khối đa diện lớn nhất của nó quay ngoắt về hướng Dakia. Nó rung lên. Những mảng không gian quanh nó rạn nứt dữ dội hơn.
-Nó không dùng thị giác. Nó săn bằng sự sợ hãi. Nhịp tim đang tăng tốc của Dakia chính là mồi lửa dẫn đường cho nó.
-Dakia ép mình nín thở. Anh nhắm mắt, cố làm dịu nhịp đập trong ngực. Nhưng nỗi sợ là phản xạ vật lý. Càng cố ép, tim anh càng đập dồn dập.
-Xoẹt!
-Thực thể lao tới. Tốc độ của nó xé gió. Nó phóng qua khoảng không giữa hai bệ ga, phá nát một cột trụ bê tông, tạo ra một cơn mưa gạch đá rơi tứ tung theo nhiều hướng trọng lực khác nhau.
-Bản năng sinh tồn tát mạnh vào nhận thức của Dakia. Anh buông tay khỏi lan can, cắm đầu bỏ chạy.
-Anh lao theo một bậc cầu thang dẫn ngược lên tường. Khoảnh khắc chân anh chạm vào bậc thang nằm ngang, trọng lực bẻ gập lại. Dakia ngã dập vai xuống nền gạch, đau điếng, nhưng anh không dám dừng. Ngay sau lưng anh, mặt sàn bị những khối chóp sắc nhọn băm vằm thành từng mảnh.
-"Tránh ra!" Dakia hét lên, vung tay gạt những mảnh vỡ bay trong không trung.
-Trạm tàu điện này là một mê cung tử thần. Anh chạy dọc theo một lối đi xoắn ốc, lao qua những băng ghế đảo chiều. Khối hình học liên tục biến đổi, giãn nở để nuốt trọn khoảng không phía sau anh. Tiếng không gian vỡ vụn kề sát gáy.
-Phía cuối lối đi đang thu hẹp, Dakia nhìn thấy một bậu cửa.
-Nó nằm vắt vẻo trên một mặt phẳng nghiêng, không có cầu thang dẫn tới. Phía dưới là một khoảng không sâu hoắm. Không quan trọng cửa màu gì. Không quan trọng đằng sau nó là gì. Con quái vật đã vươn một lưỡi dao hình học khổng lồ lên ngay trên đỉnh đầu anh.
-Dakia lấy đà, đạp chân vào mép lan can và quăng mình vào khoảng không.
-Anh lao tới cánh cửa. Lưỡi dao bằng kim loại chém sượt qua gót giày anh, cắt đứt hoàn toàn bệ mặt sàn phía dưới. Lực ly tâm quật thân hình Dakia đập mạnh vào mặt cửa gỗ. Bàn tay anh đập trúng chốt vặn. Cửa bật mở.
-Dakia rơi tự do vào bên trong.
+Tiếng mưa xối xả đập vào mặt nhựa đường Copenhagen tắt ngấm. Không có sự nhỏ dần nào. Nó bị cắt đứt. Giống như ai đó vừa rút phích cắm của một chiếc đài radio.
+Trước đó, Dakia chỉ nhớ mùi bêtông ướt. Cần cẩu số ba xoay trục. Một tiếng thét chói tai từ tầng sáu. Cảm giác va đập không mang theo đau đớn ngay lập tức, mà là một lực ép nghẹt thở giáng thẳng xuống đỉnh đầu, bất chấp lớp nhựa tổng hợp cứng cáp của chiếc mũ bảo hộ. Một tiếng "rắc" khô khốc âm vang trong hộp sọ. Rồi hắc ín. Rồi bóng tối.
+Anh chớp mắt.
+Đế giày da lạo xạo trên mặt đá cuội. Dakia đứng thẳng người, hai bàn tay vô thức đưa lên sờ nắn đỉnh đầu. Không có máu. Không có vết lõm. Không có chiếc mũ bảo hộ nào cả. Anh đang mặc chiếc áo măng-tô màu ghi nhạt, loại áo anh thường khoác khi rời văn phòng kiến trúc sư vào những chiều muộn.
+Dakia lia mắt nhìn quanh. Một ngã tư. Bốn ngả đường rải đá cuội vươn dài rồi nuốt chửng bởi sương mờ ở phía xa. Hai bên phố là những dãy nhà xây bằng gạch nung đỏ rực, kiểu kiến trúc cổ điển của Bắc Âu với những bậu cửa sổ trạm trổ và ban công bằng sắt uốn. Những ngọn đèn đường đúc gang vẫn đang sáng, hắt xuống mặt đường những vũng ánh sáng vàng vọt, quánh đặc.
+Mọi thứ đều quen thuộc đến gai người, nhưng lại sai lệch hoàn toàn.
+Không có tiếng động cơ xe. Không có tiếng giày gõ trên vỉa hè. Không một bóng người. Ngay cả gió cũng không tồn tại; những tấm bạt che nắng trước cửa hàng rủ xuống im lìm như bị đóng băng. Dakia nuốt nước bọt, cổ họng khô khốc. Anh thử vỗ tay. Âm thanh lọt thỏm và chết yểu ngay trong bán kính nửa mét, không hề tạo ra tiếng vang dội vào các bức tường gạch.
+Anh ngẩng đầu. Dạ dày Dakia thắt lại.
+Bầu trời không có mây, cũng không có màu xanh rỗng tuếch. Nền trời phía trên các mái nhà là một dải nhiễu sóng xám trắng li ti, chuyển động hỗn loạn và vô thanh như màn hình của một chiếc tivi cổ bị mất tín hiệu. Nhìn lâu vào đó, hốc mắt anh bắt đầu nhói buốt.
+Mình đang ở đâu? Bệnh viện? Hôn mê?
+Một cơn nhói buốt chạy dọc thái dương khiến Dakia lảo đảo. Trong tích tắc, vòm họng anh trào lên mùi nước hoa hương hổ phách pha lẫn với mùi khói gắt của cao su cháy. Anh lắc đầu, ép hình ảnh một vệt sáng chói lóa từ đèn pha ô tô chìm xuống đáy tâm trí. Không phải lúc này.
+Dakia lê bước về phía vỉa hè, tiếp cận một cửa hàng tiện lợi quen thuộc nằm ở góc ngã tư. Bảng hiệu quen thuộc, nhưng đèn neon bên trong đã tắt ngúm. Anh bám tay vào khung cửa kính.
+Đó là lúc anh nhận ra điểm kỳ dị.
+Mặt kính của cánh cửa không trong suốt. Nó bị phong tỏa. Ai đó, hoặc một thế lực nào đó, đã dùng một lớp sơn đặc, quánh như nhựa đường, phết kín mặt kính từ bên trong. Không có lấy một khe hở để ánh sáng lọt qua. Cánh cửa của cửa hàng tiện lợi này mang một màu Đỏ rực. Màu đỏ của tĩnh mạch sưng tấy.
+Dakia quay đầu nhìn dọc con phố. Cửa tiệm bánh mì cách đó mười bước chân: mặt kính bị bịt kín bằng sơn màu Xanh lam. Lối xuống ga tàu điện ngầm ở bên kia đường: được quây lại bằng những cánh cửa sơn màu Vàng ệch. Quán cà phê phía xa: màu Đen kịt.
+Mọi lối ra vào của cái thế giới này đều đã bị bịt mắt.
+Có tiếng sột soạt. Rất khẽ.
+Dakia áp tai vào lớp kính sơn màu đỏ của cửa hàng tiện lợi. Phía sau lớp sơn, có thứ gì đó vừa va vào một giá để hàng? Hay một người nào đó đang trốn bên trong?
+Anh nắm lấy tay nắm cửa bằng đồng. Nó lạnh buốt, làm bỏng rát lòng bàn tay. Dakia nhấn chốt, dồn sức đẩy mạnh.
+Bản lề không kêu. Cánh cửa mở toang.
+Không có luồng khí điều hòa mát mẻ. Không có mùi của những gói bánh snack hay cà phê pha sẵn. Một mùi hôi thối đặc quánh xộc thẳng vào xoang mũi Dakia - mùi của rỉ sét, của nội tạng để lâu ngày, và vị mặn chát của thứ chất lỏng tanh nồng.
+Dakia bước một chân vào. Nước băng giá tràn qua mắt cá chân, thấm ướt đôi giày da. Anh cúi xuống. Không phải nước. Chất lỏng dưới chân anh có màu sẫm xỉn, lợn cợn những vệt váng đục ngầu.
+Anh ngẩng lên, đồng tử co rút hết cỡ.
+Không gian bên trong cửa hàng không tồn tại. Nó đã bị thay thế bởi một lò mổ khổng lồ. Những bức tường bê tông loang lổ vết ố kéo dài tít tắp lên cao, vượt xa giới hạn vật lý của một tòa nhà ba tầng nhìn từ bên ngoài. Trần nhà cong vẹo ở những góc độ khiến não bộ con người buồn nôn. Từ bóng tối tít trên cao, vô số sợi xích sắt rủ xuống. Móc trên những sợi xích đó là những tảng thịt khổng lồ, vô định hình, đang rỉ dịch xuống mặt nước.
+Tách. Tách.
+Tiếng giọt gianh rơi xuống vang vọng trong không gian méo mó. Ở đây có âm thanh. Và âm thanh đang dội vào màng nhĩ anh như những nhát búa. Đâu đó giữa những tảng thịt treo lơ lửng, một dải lụa trắng, giống như một dải ruy băng trên váy cưới - vướng vào một móc sắt, rung rinh dù không có gió.
+Cảm giác buồn nôn ập đến. Đầu gối Dakia nhũn ra. Khái niệm về không gian, về trên và dưới, đang bị bẻ gãy ngay trước mắt anh. Những tảng thịt dường như đang từ từ xoay tròn, hướng về phía anh.
+Anh lùi lại. Gót giày vấp phải bậu cửa. Dakia ngã ngửa ra mặt đường đá cuội, tay quờ quạng túm lấy nắm đấm cửa và kéo mạnh.
 Rầm!
-Anh đập lưng xuống một mặt sàn cứng ngắc. Cánh cửa trên đỉnh đầu đóng sập lại, cắt đứt hoàn toàn tiếng nghiến kim loại và tiếng không gian vỡ vụn.
-Sự tĩnh lặng quay trở lại. Lạnh lẽo và đặc quánh.
-Dakia cuộn người trên mặt sàn, ho sặc sụa. Phổi anh cháy rát. Toàn thân đau nhức như bị bẻ gãy. Anh nằm ngửa, nhìn chằm chằm lên khoảng không mờ mịt phía trên.
-Ký ức lại dội về. Viên gạch rơi. Tiếng phanh xe. Sự vô lý của mặt không gian. Cơn đói, khát, nhưng cơ thể lại không có một vết xước nào từ tai nạn lao động.
-Một ý nghĩ nứt mầm trong đầu Dakia, lạnh lẽo hơn mọi thứ anh vừa trải qua.
-Anh đưa tay sờ lên ngực áo. Tim vẫn đập. Nhưng đây không phải là thế giới của người sống.
-"Mình đã chết rồi sao?" Dakia thều thào.
-Chương 4: Tiếng vọng từ copenhagen
-Dakia chống tay xuống mặt sàn tĩnh lặng. Bề mặt gỗ sồi nhám, có những vết xước mờ dọc theo mép tường.
-Anh ngẩng đầu. Không gian không lật ngược. Không có mùi sương mù, cũng không có những lưỡi dao hình học.
-Anh đang ở trong căn hộ của mình tại Copenhagen.
-Dakia từ từ đứng dậy. Mọi thứ hiện diện ở đúng vị trí của nó. Chiếc sô-pha nỉ xám đặt giữa phòng. Bàn vẽ kiến trúc kê sát vách tường. Cốc cà phê sứ sứt quai nằm cạnh xấp giấy nháp. Sự thân thuộc ập đến, nhưng không mang theo hơi ấm. Nó dội một gáo nước lạnh vào dọc sống lưng anh. Cảm giác hoàn hảo ở một nơi phi lý là điều đáng sợ nhất.
-Anh xoay người. Cánh cửa anh vừa ngã xuyên qua là cửa chính của căn hộ, mặt kính bị quét một lớp sơn đặc màu Trắng.
-Anh bước tới kệ sách, rút cuốn sổ tay kiến trúc. Mở trang bất kỳ. Mắt anh lướt qua các mặt giấy. Không có từ vựng nào cả. Các ký tự bị xáo trộn, lộn ngược, chồng chéo lên nhau như một đoạn mã lỗi máy tính.
-Dakia vứt cuốn sổ, bước nhanh tới bàn làm việc và mở nắp laptop. Màn hình sáng lên. Toàn bộ tên thư mục, văn bản, biểu tượng đều là những vạch đen vô nghĩa.
-Thế giới này không thể tái tạo được văn bản. Nó chỉ là một bản sao từ bộ nhớ thị giác của anh, rỗng tuếch và chắp vá. Não bộ con người không thường đọc chữ trong giấc mơ.
-Đột nhiên, tầm mắt anh khựng lại.
-Giữa đống bản vẽ lộn xộn trên bàn, một tờ giấy note màu vàng lệch khỏi tập tài liệu. Trên đó có chữ. Những ký tự duy nhất có thể đọc được trong toàn bộ không gian này. Nét chữ viết tay, sắc lẹm, được viết bằng một thứ chất lỏng màu đỏ thẫm. Nó chưa khô hẳn, tỏa ra mùi rỉ sắt.
-Mày đã làm gì cô ấy?
-Dakia lùi lại, hông va vào mép bàn. Cô ấy. Não bộ anh giật nảy. Một cơn đau buốt đâm xuyên màng tang. Hình ảnh kính chắn gió vỡ vụn lướt qua đầu anh. Tiếng thét của một người phụ nữ bị cắt đứt bởi tiếng kim loại va đập. Bàn tay anh run rẩy. Hơi thở đứt quãng. Anh ôm lấy ngực trái, nơi nhịp tim đang dội lên từng hồi đau đớn.
-Rắc.
-Một âm thanh khô khốc vang lên. Dakia ngẩng đầu. Bức tường đối diện kệ sách vừa dịch chuyển. Bụi vữa rớt xuống sàn.
-Cạch. Cạch.
-Lần này là trần nhà. Nó hạ thấp xuống chừng mười centimet. Đèn trần khẽ đung đưa.
-Không gian đang co rút.
-Dakia lao ra lối đi chính – cánh cửa màu Trắng. Anh nắm tay vặn, kéo mạnh. Chốt cửa kẹt cứng. Bức tường sau lưng anh tiếp tục trượt tới, ép chiếc sô-pha ma sát vào mặt sàn tạo thành tiếng rít chát chúa. Tủ sách đổ ập xuống, gãy nát dưới áp lực của trần nhà đang ép sát.
-Căn phòng đang muốn nghiền nát anh.
-Không khí bị bóp nghẹt. Mảnh gỗ và kính thủy tinh từ các khung ảnh vỡ vụn bắn tung tóe. Dakia cúi gập người, chạy về phía cửa sổ duy nhất trong phòng.
-Anh đưa tay kéo phăng tấm rèm rủ. Không có bầu trời xám xịt của Copenhagen. Không có đèn đường, không có các nóc nhà lân cận. Toàn bộ mặt kính cửa sổ bị phủ kín bởi một lớp sơn màu Tím. Đây không phải cửa sổ. Nó là một lối thoát khác.
-Bức tường phía sau lưng trượt đến, chỉ còn cách anh chưa đầy hai mét. Bàn vẽ bị lực ép gãy gập làm đôi, văng vụn vào không trung.
-Dakia lùi lại, lấy cùi chỏ nện hết sức vào mặt kính cửa sổ. Nó không vỡ. Nó bật mở ra ngoài như một cánh cửa bản lề.
-Khoảng cách bức tường thu lại còn nửa mét. Trần nhà cọ sát vào tóc anh.
-Không do dự, Dakia trèo lên bậu, quăng người qua khung cửa màu Tím ngay khoảnh khắc căn hộ ép lại thành một khối đặc, nghiền nát mọi thứ bên trong tiếng gãy vụn kinh hoàng.
-Chương 5: Kẻ lang thang mù
-Dakia văng ra khỏi khung cửa màu Tím, rơi nện vai xuống một nền gạch cứng.
-Anh nằm cuộn người, thở dốc. Phổi anh đón lấy một luồng không khí nặc mùi hóa chất. Không có tiếng tường gãy vụn. Không có áp lực đè nén. Dakia từ từ mở mắt, chống tay ngồi dậy.
-Dưới tay anh là gạch men lục giác nhỏ xíu. Trước mặt anh là một khoảng không hình chữ nhật khoét sâu xuống lòng đất.
-Đó là một bể bơi trong nhà khổng lồ. Không có nước. Đáy bể khô khốc, để lộ những đường kẻ phân làn sẫm màu. Xung quanh là các bệ nhảy cầu bằng thép nhô ra một cách cô độc. Đèn huỳnh quang trên trần tỏa ánh sáng xanh lợt, soi rõ từng lớp cặn canxi bám trên mép gạch. Sự tĩnh lặng ở đây có độ vang, tạo cảm giác không gian này đang kéo giãn ra vô tận.
-Lẹp xẹp.
-Dakia nín thở. Âm thanh cọ xát của đế giày trên nền gạch. Có người.
-Từ phía bờ đối diện của bể bơi, một bóng người đang bước đi. Dakia lùi người vào bóng râm của một bệ nhảy cầu. Anh căng mắt quan sát. Đó là một người đàn ông, khoác bộ vest đã rách tươm ở hai cùi chỏ và gấu quần. Hắn đi men theo mép bể, dáng điệu cứng đờ, gót chân kéo lê trên mặt gạch tạo ra âm thanh lẹp xẹp đều đặn.
-Khi gã đàn ông đi vòng qua góc bể và tiến về phía có ánh sáng, dạ dày Dakia quặn lại.
-Gã không có khuôn mặt. Toàn bộ phần đầu từ cằm lên đến đỉnh trán bị quấn chặt bởi nhiều vòng băng dính đen. Lớp băng dính ép sát vào hốc mắt, sống mũi, tạo thành những đường nét gồ ghề phi tự nhiên. Không có khe hở nào để thở hay nhìn. Thế nhưng, gã vẫn bước đi, chính xác dọc theo mép vực của bể bơi cạn nước, không chệch một centimet.
-Hắn lầm bầm. Âm thanh nghèn nghẹt phát ra xuyên qua lớp băng dính.
-Dakia nhích người ra khỏi bóng râm. Anh vểnh tai. Giọng nói trầm đều, vô cảm, như một đoạn băng lặp lại.
-"55 độ 40 phút Bắc... 12 độ 34 phút Đông... 55 độ 40 phút Bắc... 12 độ 34 phút Đông..."
-Tọa độ. Dakia là một kiến trúc sư, anh nhạy bén với những con số. Đó là vĩ độ và kinh độ của trung tâm Copenhagen.
-"Này..." Dakia lên tiếng. Giọng anh vang vọng khắp không gian bể bơi, đập vào các bức tường và dội lại.
-Gã đàn ông không phản ứng. Hắn vẫn lặp lại hệ tọa độ đó, chân đều đặn kéo lê. Dakia đánh liều bước tới. Sau những bóng đen vô diện, những sinh vật hình học chết chóc, đây là thực thể mang dáng dấp con người nhất mà anh bắt gặp.
-"Anh nghe tôi nói không? Đây là đâu?" Dakia dừng lại cách gã đàn ông chừng năm mét.
-Kẻ lang thang mù vẫn tiếp tục lộ trình của mình. Hắn đi ngang qua Dakia, hoàn toàn bỏ qua sự tồn tại của anh, giống như một đoạn mã lỗi trong trò chơi điện tử - một NPC bị kẹt trong vòng lặp vô nghĩa của chính mình.
-Dakia bực dọc. Sự ức chế và hoang mang lên đến đỉnh điểm. Anh đưa tay ra, định nắm lấy vai gã đàn ông để buộc gã dừng lại.
-Nhưng ngay khi ngón tay Dakia chỉ còn cách lớp vải vest chừng vài phân, Kẻ lang thang mù khựng lại.
-Toàn thân gã đông cứng. Âm thanh lầm bầm tắt ngấm. Mọi thứ rơi vào tĩnh lặng tuyệt đối.
-Gã đàn ông quay cổ lại. Chuyển động giật cục, vang lên tiếng khớp xương kêu lục cục. Hốc mắt lõm sâu dưới lớp băng dính đen hướng thẳng vào Dakia. Cánh tay gã từ từ đưa lên, ngón trỏ chỉ thẳng vào mặt anh.
-Lớp băng dính quanh miệng gã phồng lên, rách toạc một đường nhỏ.
-Và rồi, âm thanh phát ra không phải là giọng đàn ông trầm đục ban nãy.
-Đó là giọng của một người phụ nữ.
-Trong trẻo. Sợ hãi. Và mang theo sự tuyệt vọng tột cùng. Một giọng nói mà Dakia biết rõ hơn bất cứ điều gì trên đời.
-"Đừng mở cửa màu Đen! Trong đó có sự thật!"
-Giọng nói ấy như một mũi khoan xuyên thẳng vào sọ Dakia. Nhịp tim anh ngừng một nhịp. Ký ức về tờ giấy note rỉ máu ở căn hộ dội về. Mày đã làm gì cô ấy?
-Ngay khi lời cảnh báo vừa dứt, cơ thể gã đàn ông bắt đầu rạn nứt. Từ đầu ngón tay đang chỉ vào Dakia, lớp da thịt biến thành lớp tro xám. Sự phân rã lan nhanh qua cánh tay, nuốt lấy thân mình, bẻ vụn cổ và đầu gã. Chỉ trong một cái chớp mắt, bộ vest rách nát đổ sụp xuống mặt gạch, kéo theo một đám bụi tro xám lả tả rơi xuống đáy bể bơi cạn nước.
-Dakia lùi lại, ôm lấy đầu. Anh không thể thở.
-Đó là giọng của cô ấy. Giọng của vợ chưa cưới của anh.
-Sự thật.
-Nó đang bị chôn vùi ở đâu đó. Bộ não anh đã tạo ra cái không gian vô lý này, tạo ra những sinh vật săn đuổi này, và tạo ra cả những cánh cửa bị sơn kín để làm gì? Để ngăn anh tìm thấy điều gì?
-Dakia nhìn lên bệ nhảy cầu cao nhất ở cuối bể bơi. Phía sau nó, cắm vào bức tường trắng toát, là một cánh cửa sắt.
-Bề mặt của nó được phủ kín một lớp sơn màu Đen.
-Chương 6: Quy mô của ác mộng
-Dakia đứng chôn chân trước cánh cửa màu Đen.
-Lớp sơn phẳng lỳ, nuốt chửng ánh sáng từ những ngọn đèn huỳnh quang lợt lạt. Lời cảnh báo của gã đàn ông mù vẫn dội lại trong hộp sọ anh. Sự thật. Hai từ đó có trọng lượng. Nó đè lên lồng ngực, tước đi dưỡng khí. Đôi tay Dakia run lên. Anh vươn ngón tay về phía tay nắm bằng đồng rỉ sét, nhưng cách vài milimet thì khựng lại.
-Bản năng chối bỏ trỗi dậy. Nhịp tim anh đập loạn. Anh chưa sẵn sàng.
-Dakia lùi lại, quay lưng bỏ chạy. Anh lao ra khỏi không gian bể bơi, đẩy bừa một cánh cửa màu Xám nằm khuất góc hành lang.
-Nhịp độ của sự kinh hoàng bắt đầu chậm lại, nhưng sức nặng tâm lý thì tăng lên gấp bội. Dakia bước vào một siêu thị. Không có quầy thực phẩm, không có kệ hàng. Chỉ có hàng vạn con ma-nơ-canh bằng nhựa đục đứng xếp lớp trải dài khuất tầm mắt. Chân tay chúng vặn vẹo, đan chéo vào nhau theo những tư thế trái khoáy. Cổ gập ngược ra sau. Không một cử động, không một âm thanh, nhưng Dakia có cảm giác hàng vạn đôi mắt nhựa mù lòa ấy đang dõi theo từng bước chân mình.
-Anh cắm đầu đi xuyên qua siêu thị, tìm một lối thoát khác. Một cánh cửa màu Nâu sẫm đưa anh bước vào một giáo đường Gothic. Băng ghế gỗ trống trơn. Không khí đặc quánh mùi trầm hương pha lẫn mùi mục rữa. Đứng giữa bục giảng là những bức tượng điêu khắc đá cẩm thạch trắng. Từ khóe mắt của các bức tượng, những dòng chất lỏng đen ngòm, đặc quánh như hắc ín rỉ xuống, nhỏ giọt lên mặt sàn tạo thành tiếng tí tách nhức nhối.
-Dakia đi qua hết không gian này đến không gian khác. Thời gian mất đi ý nghĩa. Cơn đói khát vật lý lùi lại, nhường chỗ cho sự kiệt quệ của hệ thần kinh. Mọi thứ trong thế giới này đều méo mó, lặp lại, và chết chóc.
-Cuối cùng, anh đẩy một cánh cửa màu Lam mờ, bước vào một căn phòng ít ánh sáng.
-Không gian này không rộng lớn. Nó là một căn phòng trần thấp, mùi giấy cũ, bụi phấn và mực in xộc vào mũi. Dọc theo hai vách tường là những chiếc tủ sắt đựng tài liệu. Ở giữa phòng xếp hàng chục chiếc bàn nghiêng – loại bàn vẽ kỹ thuật chuyên dụng của dân kiến trúc.
-Dakia bước tới chiếc bàn gần nhất. Một cuộn giấy A0 đang mở dang dở, bị đè lên bởi một thước chữ T.
-Anh cúi xuống nhìn. Tròng mắt anh giãn ra.
-Đó là bản vẽ thi công. Nhưng không phải của một công trình bình thường. Mặt giấy dày đặc các đường nét thể hiện mặt cắt của một trạm tàu điện ngầm. Những dãy cầu thang đâm xuyên góc chín mươi độ. Lối đi vặn xoắn. Cột chịu lực đâm ngang. Mọi chi tiết phi lý mà anh vừa bỏ mạng chạy trốn đều được tính toán và vẽ lại bằng độ chính xác tuyệt đối.
-Dakia giật phăng cuộn giấy. Bên dưới là một bản vẽ khác.
-Mặt bằng của một lò mổ ngập nước ẩn sau lớp vỏ cửa hàng tiện lợi. Cấu trúc chịu tải để treo những tảng thịt khổng lồ.
-Bàn tay Dakia run lẩy bẩy. Anh đi điên cuồng sang các bàn vẽ khác, lật tung từng xấp tài liệu. Sơ đồ điện của giáo đường hắc ín. Mặt cắt của bể bơi cạn nước. Quy hoạch của khu rừng bạch dương lồng trong căn nhà gỗ.
-Tất cả đều nằm ở đây. Từng góc phố vắng lặng. Từng hàng gạch nung. Từng tỷ lệ không gian bị bóp méo.
-Dakia dừng lại trước một bản vẽ chi tiết. Mắt anh khóa chặt vào góc dưới cùng bên phải của khung tên. Nơi ghi chú thông tin người thiết kế.
-Kiến trúc sư: Dakia. Nét chữ viết tay quen thuộc. Nét chữ của chính anh.
-Giấy tờ tuột khỏi tay, rơi lả tả xuống sàn gỗ. Dakia lùi lại, vấp vào chân bàn, ngã quỵ xuống. Hai tay ôm lấy đầu. Một tiếng nấc khô khốc bật ra khỏi cổ họng.
-Sự thật ập đến tàn nhẫn hơn mọi con quái vật. Anh không lạc vào một chiều không gian siêu nhiên nào cả. Không có thực thể ma quỷ nào kéo anh vào đây.
-Tâm trí anh chính là Kiến trúc sư.
-Bộ não của anh, để tự bảo vệ mình khỏi một sự thật khủng khiếp nào đó ở đời thực, đã tự động xây nên cái địa ngục Liminal này. Nó dùng kiến thức của anh để dựng lên hàng vạn cánh cửa, hàng vạn không gian vô nghĩa, bóp méo trọng lực, tạo ra ma-nơ-canh, tạo ra tượng đá khóc hắc ín, chỉ để đánh lạc hướng ý thức của chính anh. Mê cung này là sự chối bỏ vĩ đại nhất mà một con người có thể tự tạo ra cho mình.
-Anh đang bị giam cầm trong chính vỏ não của mình.
-Và nếu toàn bộ thế giới này được tạo ra để giấu đi một bí mật duy nhất, thì bí mật đó phải kinh hoàng đến mức nào?
-Dakia từ từ đứng dậy. Ánh mắt anh không còn sự hoảng loạn của một kẻ đi lạc. Thay vào đó là sự lạnh lẽo của một người quyết tâm phá sập công trình của chính mình.
-Anh xoay người lại. Ở góc phòng lưu trữ, một cánh cửa bằng thép kiên cố đang đứng im lìm.
-Mặt kính của nó bị phủ kín bởi một lớp sơn màu Đen.
-Chương 7: Sinh vật "mẹ khóc"
-Bức tường phía sau lưng Dakia nứt toác.
-Âm thanh rách nát của không gian lại vang lên, xé toạc sự tĩnh lặng của phòng lưu trữ. Những mảng trần thạch cao lở lói, rơi lả tả xuống sàn rồi bị hút tuột vào một khoảng đen vô tận vừa mở ra bên dưới. Căn phòng đang tự tiêu hủy. Những bản vẽ, tủ tài liệu, bàn làm việc bị cuốn phăng vào hố sâu như những mảnh rác vô giá trị.
-Lực hút kéo giật vạt áo khoác của Dakia. Anh không còn đường lui. Trước mặt anh là cánh cửa phủ sơn màu Đen đặc quánh. Gã lang thang mù đã cảnh báo. Bản năng tự vệ của bộ não đã cất giấu nó kỹ lưỡng. Nhưng cái chết không gian đang ép anh phải lựa chọn.
-Dakia nắm lấy tay nắm cửa, vặn mạnh và gieo mình qua bậu cửa ngay khi toàn bộ căn phòng sập xuống.
-Không có tiếng va đập. Không có cảm giác rơi.
-Dakia lơ lửng. Xung quanh anh là một khoảng không vô tận. Không có trần nhà, không có vách tường, không có mặt đất. Bóng tối đặc quánh, lạnh ngắt và tĩnh lặng đến mức anh có thể nghe rõ tiếng máu chảy rần rật trong thái dương.
-Một vệt sáng trắng nhợt nhạt từ trên cao rọi thẳng xuống trung tâm của khoảng không. Nằm trọn trong vệt sáng đó là một vật thể bằng kim loại.
-Một chiếc ô tô.
-Nó không đậu trên mặt đất mà lơ lửng giữa không trung. Toàn bộ phần đầu xe đã bị vò nát, ép gập vào tận ghế lái. Cửa kính vỡ vụn. Khung sườn biến dạng hoàn toàn, rỉ sét và rỏ xuống những giọt chất lỏng sẫm màu.
-Dakia cố bơi trong khoảng không, nhích lại gần chiếc xe. Ngay khi anh cách mui xe chừng ba mét, một thực thể từ phía sau bệ sắt vụn từ từ vươn lên.
-Dạ dày Dakia quặn thắt. Cổ họng anh nghẹn cứng.
-Nó khổng lồ, cao gấp ba lần con người. Nhưng nó không có hình khối rõ ràng, cũng không mang sự sắc lạnh của sinh vật hình học. Cơ thể nó là một mớ hỗn độn được ghép lại từ hàng ngàn mảnh kính chắn gió vỡ nát. Các khớp nối đan bện bằng những sợi dây đai an toàn tưa lụa, xám xịt.
-Sinh vật trườn qua thân xe. Nó dang hai cánh tay dài ngoẵng, gầy guộc, mang đầy những mảnh kính sắc nhọn rủ xuống, ôm trọn lấy chiếc xe vỡ nát. Cử động của nó chậm chạp, vuốt ve lớp tôn bẹp dúm như một người mẹ đang ôm ấp thi hài đứa con tàn tật. Tiếng các mảnh kính cọ xát vào nhau tạo ra một âm thanh rền rĩ, giống hệt tiếng khóc nghẹn ngào của đàn bà.
-Nó không lao vào Dakia. Nó không săn đuổi anh.
-Cái đầu cấu tạo từ những dải ruy-băng an toàn xoắn xuýt từ từ quay về phía Dakia. Không có mắt, nhưng anh biết nó đang nhìn xuyên thấu vào cốt tủy anh.
-Một luồng áp lực vô hình phóng thẳng từ thực thể đó vào giữa trán Dakia.
-BÙM!
-Không gian tối tăm vỡ nát. Nhận thức của Dakia bị lôi tuột khỏi khoảng không vô định, ném mạnh vào một thực tại khác.
-Mùi cồn xộc thẳng vào mũi. Vị cay xè của rượu Whiskey trào lên cuống họng.
-Dakia thấy tay mình đang nắm chặt vô lăng. Không phải ở công trường. Đêm tối. Mưa rào quất xối xả vào kính chắn gió. Cần gạt nước chém qua chém lại nhưng không gạt nổi màn nước đục ngầu. Chân anh đạp mạnh chân ga. Chiếc xe lao đi với tốc độ điên cuồng trên cao tốc ngoại ô Copenhagen.
-Anh đang say. Đầu óc váng vất. Mọi thứ nhòe đi trong ánh đèn đường nhấp nháy.
-"Dakia, chậm lại đi!"
-Giọng nói vang lên ngay bên tai phải. Dakia ngoái đầu. Vợ chưa cưới của anh đang ngồi ở ghế phụ. Cô ấy bấu chặt tay vào thành cửa, mặt tái mét. Sự hoảng loạn hằn rõ trong đôi mắt. Cô ấy đã cầu xin anh dừng lại không biết bao nhiêu lần.
-"Anh kiểm soát được!" Bản thân anh ở trong ảo giác gắt gỏng đáp lại, tay đánh lái vượt qua một chiếc xe tải.
-Chiếc vô lăng trơn trượt. Lốp xe mất độ bám trên mặt nhựa đường ngập nước.
-Một khúc cua gắt hiện ra. Ánh đèn pha của một chiếc xe đi ngược chiều dội thẳng vào võng mạc, chói lóa.
-"Dakia!" Tiếng thét xé ruột gan của cô ấy vang lên.
-Anh đạp phanh. Đã quá muộn. Tiếng cao su mài trên mặt đường chát chúa. Chiếc xe quay ngang, mất kiểm soát hoàn toàn. Khối kim loại nặng hơn một tấn lao tự do, đâm sầm vào dải phân cách bê tông.
-Lực va đập xé rách màng nhĩ. Kính chắn gió nổ tung thành hàng vạn mảnh vụn sắc lẹm. Khung xe ép gập lại. Bóng tối ập xuống.
-Hộc.
-Ảo giác bị rút cạn. Dakia văng trở lại khoảng không tối tăm.
-Anh gục đầu, lơ lửng trước mặt "Mẹ Khóc" và xác chiếc ô tô bẹp dúm. Nước mắt trào ra từ hai hốc mắt anh, nóng hổi và mặn chát. Khớp hàm anh run lên bần bật.
-Không có viên gạch nào rơi ở công trường. Không có tai nạn lao động nào cả.
-Anh nhớ ra rồi. Đêm đó, anh đã uống say. Anh đã cãi nhau với cô ấy. Anh khăng khăng tự cầm lái thay vì gọi taxi.
-Sinh vật "Mẹ Khóc" vẫn ôm chặt lấy chiếc xe, tiếp tục phát ra thứ âm thanh cọ xát rền rĩ, bi thương. Nó đang khóc cho sự thật mà anh đã giấu kín. Sự thật tàn khốc nhất mà anh tự lừa dối mình để tiếp tục tồn tại.
-Anh không ở trong xe một mình. Cô ấy đã ở đó. Và vì sự kiêu ngạo, hèn nhát cùng men rượu của anh, anh đã tự tay kết liễu người con gái mình yêu thương nhất.
-Chương 8: Cấu trúc của sự chối bỏ
-Sự thật vừa được cởi trói. Ngay lập tức, thế giới Liminal phản ứng.
-Khoảng không tĩnh lặng quanh Dakia rung lắc dữ dội. Một tiếng rít xé tai dội lên, tựa như hàng vạn tấm kính bị cào xước cùng lúc. Chiếc ô tô bẹp dúm nứt toác. Sinh vật "Mẹ Khóc" ngẩng phắt cái đầu kết bằng dây an toàn lên. Mớ âm thanh rền rĩ bi thương phút chốc biến thành tiếng gào thét phẫn nộ của kim loại và thủy tinh.
-Hệ thống phòng vệ của tâm trí Dakia đã vỡ lở. Nó đang tự hủy.
-Khoảng đen vô định rạn nứt, để lộ những mảng kiến trúc chắp vá. Trọng lực lật ngược, kéo tuột Dakia qua một khe hở. Anh rơi rầm xuống sàn gỗ của một không gian phòng khách. Nhưng chưa kịp đứng dậy, một khối nước biển mặn chát từ trần nhà đổ ập xuống. Đại dương tràn vào, mang theo tảo bẹ và rác rưởi, dìm ngập chiếc sô-pha nỉ xám.
-Dakia ngoi lên, ho sặc sụa. Anh quẫy đạp trong dòng nước đục, lao về phía cánh cửa trước mặt. Cánh cửa đang điên cuồng đổi màu. Từ Đỏ sang Lục, từ Tím sang Vàng, chớp nháy liên hồi như một bảng đèn neon chập mạch.
-Anh đẩy bừa bậu cửa, nhào sang một không gian khác.
-Lò mổ. Nơi anh từng vấp ngã ở lần đầu tiên. Nhưng lần này, nước dưới chân đã đóng băng. Những tảng thịt lơ lửng bị phủ kín bởi một lớp tuyết dày. Bầu trời nhiễu sóng của Copenhagen hiện ra ngay bên dưới mặt sàn. Các chiều không gian đang chập vào nhau, gặm nhấm lẫn nhau.
-Xoảng!
-Bức tường gạch nung phía sau anh nổ tung.
-"Mẹ Khóc" bứt phá khỏi khoảng không, lao thẳng vào lò mổ. Nó không còn chậm chạp hay bi thương. Cơ thể khổng lồ trườn qua các trụ bê tông với tốc độ kinh hoàng. Những cánh tay mảnh khảnh vung lên, chém đứt phăng các dải xích sắt. Thịt đông lạnh rớt xuống mặt băng tạo ra chấn động đinh tai.
-Nó đang săn đuổi anh. Không phải để ăn thịt anh. Nó là hiện thân của một vỏ não đang hoảng loạn, đang dùng bạo lực để dập tắt sự thức tỉnh, ép anh chìm lại vào cõi vô thức.
-Dakia cắm đầu chạy, trượt dài trên mặt băng. Anh lách qua một cánh cửa khác, rơi xuống bệ ga của trạm tàu điện ngầm. Hắc ín từ trần nhà xối xả tuôn xuống. Anh ngã lăn lông lốc trên các bậc cầu thang đâm ngang tường, mảng bám của quái vật hình học vẫn còn vương vãi. Phía sau, tiếng rít gào của sinh vật kính vỡ tiếp tục cào nát mọi thứ nó đi qua.
-Giữa sự sụp đổ điên cuồng ấy, tư duy logic của Dakia đột nhiên trở nên sắc lạnh. Mọi phương trình phi lý cuối cùng cũng tìm được đáp án.
-Anh liếc nhìn những cánh cửa đang rỏ mồ hôi sơn loang lổ. Anh hiểu rồi.
-Lớp sơn đặc quánh kia. Chẳng có ác quỷ nào cất công sơn chúng cả. Đó là cơ chế tự vệ của bộ não. Là cấu trúc của sự Chối Bỏ.
-Mỗi lần vặn tay nắm cửa, anh từng run rẩy không biết đằng sau là gì. Nhưng thực chất, tâm trí anh đã chủ động bịt kín mọi tầm nhìn, khước từ việc nhìn ra thế giới thực. Nó nhồi nhét những khu rừng, những lò mổ, những mê cung vào không gian này để đánh lạc hướng. Nó tung ra những bóng đen vô diện, dọa nạt anh bằng nỗi sợ vật lý nông cạn, buộc anh phải chạy trốn liên tục.
-Tất cả chỉ để anh không còn thời gian dừng lại, không thể chạm vào nỗi sợ cốt lõi: Tội lỗi.
-Cái chết của cô ấy. Sự hèn nhát của chính anh.
-Bộ não của một kiến trúc sư đã xây dựng cả một kiệt tác Liminal này, thiết kế từng bản vẽ chi tiết, chỉ để giam lỏng một sự thật. Màu sơn càng sặc sỡ, sự trốn tránh càng sâu sắc. Anh không dám nhìn sự thật, nên não bộ đã sơn kín mọi lối đi.
-"Đủ rồi," Dakia thì thầm.
-Anh cắm gót giày xuống mặt gạch men, dừng phắt lại giữa một hành lang đang lở lói. Các mảng bê tông rớt xuống khoảng không trắng lóa. Phía cuối hành lang, "Mẹ Khóc" chồm lên. Những dải đai an toàn quấn chặt lấy vách tường, kéo khối cơ thể sắc nhọn hướng thẳng về phía anh. Nó gào thét – một âm thanh pha trộn giữa tiếng còi cảnh sát và tiếng thét tuyệt vọng của phụ nữ.
-Dakia không bỏ chạy. Anh đứng thẳng, quay lưng lại với sinh vật đang chực chờ nghiền nát mình. Ánh mắt anh lướt qua hàng loạt cánh cửa đang điên cuồng chớp tắt màu sơn hai bên bờ tường.
-Sơn màu là sự lừa dối. Không gian phía sau chúng là ảo ảnh.
-Để thoát khỏi vòng lặp này, anh phải gạt bỏ sự chối bỏ. Anh cần một cánh cửa không màu. Một tấm kính trong suốt. Anh cần đối mặt với thực tại, dù nó có tàn khốc đến mức nào.
-Chương 9: Căn phòng bệnh viện thực tại
-Tiếng kim loại miết vào mặt sàn rít lên chói tai. Sinh vật "Mẹ Khóc" chồm tới. Hơi lạnh từ hàng vạn mảnh kính vỡ phả vào gáy Dakia.
-Anh mở to mắt, quét ánh nhìn dọc theo hành lang đang đổ sụp. Xanh, đỏ, tím, vàng. Những mảng màu liên tục bóc tách, nhấp nháy, nỗ lực tuyệt vọng của bộ não nhằm che giấu hiện thực ở giây phút cuối cùng.
-"Không," Dakia nghiến răng.
-Phía cuối hành lang, góc khuất nhất của không gian đứt gãy, một khung cửa nhôm hiện ra. Nó lọt thỏm giữa những mảng tường đang bốc cháy hắc ín. Không có lớp sơn đặc. Mặt kính cường lực trong suốt, phản chiếu ánh sáng huỳnh quang lợt lạt.
-Dakia lao về phía khung cửa. Phía sau lưng, một mảng trần bê tông sập xuống, đè nát một nửa cơ thể của quái vật kính. Nó gào rống, vươn những ngón tay bằng dải an toàn rách bươm hòng tóm lấy cổ chân anh.
-Dakia nhào tới, áp hai bàn tay lên mặt kính.
-Thế giới tĩnh lặng.
-Xuyên qua lớp kính, anh không thấy đại dương, không thấy lò mổ. Anh thấy một căn phòng hồi sức tích cực (ICU). Không gian chật hẹp, sặc mùi cồn y tế. Hệ thống máy thở và máy theo dõi nhịp tim phát ra những tiếng bíp, bíp đều đặn, cơ học.
-Trên giường bệnh, một người đàn ông nằm bất động. Đầu quấn băng gạc trắng toát, rỉ một vệt máu mờ. Hàng chục đường ống nhựa cắm vào mũi, miệng và dọc cánh tay.
-Đó là anh. Thân xác thực sự của Dakia ở Copenhagen.
-Gục đầu bên mép giường là một người phụ nữ lớn tuổi. Tóc bà điểm bạc, đôi vai gầy run lên từng nhịp nấc. Mẹ anh.
-Dakia đưa mắt tìm kiếm khắp căn phòng. Không có ai khác. Không có bóng dáng người con gái thường tựa cằm vào vai anh mỗi lúc anh vẽ bản vẽ. Cô ấy không ở đây.
-Sự vắng mặt đó khẳng định tất cả.
-Tiếng kính vỡ nát ngay sát màng nhĩ kéo Dakia khỏi cơn thẫn thờ. Quái vật "Mẹ Khóc" đã áp sát. Nó há cái miệng tạo bằng vụn thủy tinh, chực nuốt chửng anh.
-Dakia ấn tay nắm cửa. Không có khóa.
-Anh bước qua bậu cửa, đi vào phòng ICU.
+Cánh cửa Đỏ đóng sầm lại.
+Dakia nằm sóng soài trên vỉa hè, thở dốc. Phổi anh rít lên bần bật. Nước từ bên trong không hề tràn ra ngoài ngưỡng cửa. Giao lộ vẫn im lìm dưới bầu trời nhiễu sóng.
+Anh cắn chặt môi đến bật máu để dùng cơn đau xua đi ảo giác. "Chỉ là chấn động não. Do viên gạch. Mình đang nằm trong viện. Mở cửa ra, mở mắt ra." Anh tự lầm bầm.
+Dakia lồm cồm bò dậy, hai tay nắm chặt vào nhau để ngăn cơn run rẩy. Anh nhìn chằm chằm vào cánh cửa màu Đỏ. Đằng sau nó là một cửa hàng tiện lợi. Nó phải là một cửa hàng tiện lợi. Phải có nhân viên thu ngân. Phải có điện thoại để gọi cấp cứu.
+Lần này, anh nắm tay nắm cửa, nhắm nghiền mắt lại, và giật mạnh.
+Anh bước vào, chờ đợi cảm giác nhớp nháp của nước ngập dưới chân.
+Không có. Đế giày anh chạm vào một bề mặt khô ráo, cứng cáp. Sàn linoleum.
+Dakia từ từ hé mắt.
+Lò mổ đã biến mất. Những tảng thịt không còn. Bóng tối ngột ngạt được thay thế bằng thứ ánh sáng trắng toát, nhấp nháy liên hồi từ những dãy đèn huỳnh quang gắn trên trần thạch cao.
+Trước mắt anh, kéo dài đến tận đường chân trời, là một hành lang bệnh viện hẹp và sâu hun hút. Mùi cồn sát trùng và thuốc tẩy xộc vào mũi, nồng nặc đến mức làm cay xè sống mắt. Dọc hai bên hành lang là những cánh cửa phòng bệnh đóng kín, và mặt kính của mỗi cánh cửa nhỏ đó... đều được sơn đặc một màu.
+Dakia quay đầu nhìn lại. Cánh cửa sau lưng anh - lối ra duy nhất dẫn về ngã tư im lìm - đang từ từ khép lại. Mặt trong của nó không dính lớp sơn đỏ nào cả. Nó là một mặt phẳng nhẵn thín không có tay nắm.
+Click.
+Chốt cửa đóng lại. Âm thanh khô khốc vang vọng dọc theo hành lang vô tận. Khóa chết.
+Chương 2: Định lý của sự phi lý
+Ánh đèn huỳnh quang trên trần thạch cao nhấp nháy, phát ra những tiếng rè rè như ruồi nhặng. Dakia đứng đối diện với bức tường phẳng lì vừa mới là một cánh cửa sau lưng mình.
+Anh bắt đầu chạy.
+Đế giày vã xuống nền gạch linoleum. Hai bên hành lang, những cánh cửa sơn đủ màu vút qua tầm mắt. Mùi cồn y tế đặc quánh xộc thẳng vào cuống phổi. Hai chân anh mỏi nhừ, nhưng dãy hành lang không hề có dấu hiệu thu hẹp khoảng cách hay dẫn đến một ngã rẽ nào.
+Không thể chạy mãi. Dakia dừng lại trước một cánh cửa có mặt kính sơn màu Xám tro. Bàn tay đầy mồ hôi của anh siết lấy tay nắm inox, vặn mạnh và lao bừa về phía trước.
+Mùi cồn biến mất ngay tắp lự.
+Mũi giày anh vấp phải bề mặt gồ ghề. Dakia loạng choạng lao ra trước, hai bàn tay chà xát xuống nền đất lạnh buốt để giữ thăng bằng. Lòng bàn tay rớm máu. Khi ngẩng lên, không còn dãy hành lang bệnh viện nào cả.
+Anh đang quỳ trên một con hẻm rải đá cuội.
+Bầu trời phía trên vẫn là một mảng nhiễu sóng xám trắng tẻ nhạt. Hai bên hẻm là những bức tường gạch bám đầy rêu khô. Dakia quay đầu. Phía sau anh không có bệnh viện. Chỉ có một bức tường gạch kín mít, với một cánh cửa gỗ xập xệ đang từ từ khép lại.
+Anh ngồi phịch xuống mặt đường, luồn mười ngón tay vào tóc, kéo căng da đầu. Nhịp tim đập thình thịch gõ từng nhịp lên thái dương. Não bộ anh, vốn được rèn luyện để xây dựng các bản vẽ không gian chính xác đến từng milimet, đang gào thét trước sự phi lý của thế giới này.
+Một định lý mới được xác lập: Kiến trúc bên ngoài là một lời nói dối.
+Ngôi nhà, cửa tiệm, ga tàu – vỏ bọc của chúng không có ý nghĩa gì. Cánh cửa chính là một cuộn xúc xắc. Lớp sơn đặc bịt kín mặt kính là lời cảnh báo cho một ván bài lật ngửa, nơi không gian vật lý phía sau bị bóp méo, chắp vá và ném vào những chiều kích hỗn loạn.
+Dakia vịn tường đứng dậy. Dạ dày anh sôi lên từng chặp, tiết ra dịch vị chua loét. Anh cần nước. Khát khao sinh học cơ bản kéo anh bước tiếp dọc theo con hẻm dẫn ra một con phố rộng hơn.
+Gió ở đây không tồn tại, nhưng cơ thể anh đột ngột run lên bần bật.
+Một cơn ớn lạnh không đến từ nhiệt độ, mà trồi lên từ rãnh sâu của vỏ não. Sống mũi anh cay xè. Mùi sương muối. Mùi cao su cháy.
+Kéééttt!
+Một âm thanh rít lên xé toạc màng nhĩ vang vọng trong đầu anh. Dakia nhắm nghiền mắt. Trong khoảng không tối tăm của mí mắt, anh thấy những bông tuyết lao ầm ầm vào kính chắn gió. Vô lăng ô tô trơn trượt dưới lớp da bọc. Hai bàn tay anh gồng lên, gân xanh nổi dọc mu bàn tay. Một giọng nữ cất lên bên tai, chìm nghỉm trong tiếng va đập kim loại vỡ nát.
+Dakia mở bừng mắt, thở hắt ra.
+Con phố trống trơn. Bầu trời nhiễu sóng tĩnh lặng. Bàn tay anh đang bấu chặt vào mép áo măng-tô, các khớp ngón tay trắng bệch.
+Anh lắc đầu, ép mảnh ký ức đó chìm xuống. Phải tìm lối thoát.
+Bên kia đường là một dãy nhà liền kề sơn tường màu kem. Cánh cửa gỗ sồi của căn nhà số 42 có những ô kính nhỏ. Chúng được phủ đặc một lớp sơn màu Xanh lục. Màu của lá cây chết.
+Dakia tiến lại gần. Anh không thể lang thang trên những con phố vô tận này đến lúc gục ngã vì kiệt sức. Anh chạm tay vào bề mặt lớp sơn xanh lồi lõm trên kính, cảm nhận sự thô ráp. Chốt cửa bằng đồng lạnh toát.
 Cạch.
-Cánh cửa đóng lại. Sinh vật khổng lồ đập mặt vào lớp kính trong suốt, vỡ vụn thành bọt nước rồi tan biến. Cấu trúc Liminal ngoài kia sụp đổ, trôi tuột vào bóng tối hư vô.
-Dakia đứng giữa phòng bệnh. Mùi thuốc sát trùng xộc vào mũi. Anh bước từng bước nặng nhọc đến cạnh giường. Mẹ anh vẫn gục khóc, không hề hay biết ý thức của con trai mình đang đứng ngay bên cạnh.
-Dakia nhìn xuống bản thể đang hôn mê của mình. Bàn tay cắm đầy kim truyền dịch tái nhợt, lạnh lẽo. Anh từ từ vươn tay ra. Ngón tay anh chạm vào mu bàn tay của thân xác trên giường.
-Xẹt!
-Một dòng điện chạy dọc sống lưng. Khoảnh khắc hai bản thể chạm vào nhau, bức tường ngăn cách ký ức sụp đổ hoàn toàn. Sự thật không còn bị bóp méo, không còn bị ẩn sau những lớp sơn màu. Nó dội thẳng vào não bộ anh, nguyên vẹn, sắc cạnh.
-Anh nhớ lại khoảnh khắc sau tiếng va chạm.
-Chiếc xe biến dạng. Mùi xăng bốc lên nồng nặc. Cơn đau xé rách lồng ngực. Dakia mở mắt. Anh vẫn tỉnh. Máu chảy ròng ròng từ trán xuống mắt, nhưng anh vẫn nhận thức được mọi thứ.
-Anh nhìn sang ghế phụ. Cô ấy nằm đó. Khối sắt thép ép nát khoang xe. Lồng ngực cô ấy không còn phập phồng. Ánh mắt mở to, vô hồn, nhìn chằm chằm vào khoảng không. Cô ấy đã chết ngay lập tức.
-Dakia trong ký ức thò tay vào túi áo khoác. Chiếc điện thoại vẫn nguyên vẹn. Màn hình sáng lên. Số gọi khẩn cấp 112 hiện rõ.
-Nhưng ngón tay anh khựng lại.
-Nếu anh gọi, cảnh sát sẽ đến. Họ sẽ ngửi thấy mùi rượu. Họ sẽ đo nồng độ cồn. Anh sẽ bị kết tội ngộ sát. Sự nghiệp kiến trúc sư đang thăng tiến sẽ tiêu tùng. Bản án tù giam, sự phỉ báng của xã hội, nỗi nhục nhã của gia đình... tất cả lướt qua tâm trí anh.
-Nỗi sợ hãi nuốt chửng nhân tính.
-Anh nhìn thi thể vợ chưa cưới. Rồi anh buông điện thoại xuống sàn xe.
-Dakia chọn sự im lặng. Anh nhắm mắt lại, ngả đầu ra sau ghế, giả vờ ngất xỉu. Anh cố tình để thời gian trôi qua, mặc kệ máu chảy, mặc kệ cái lạnh của cơn mưa đêm Đan Mạch, mặc kệ người phụ nữ anh yêu đang lạnh dần bên cạnh. Anh chờ đợi một ai đó đi ngang qua phát hiện, để anh đóng trọn vai một nạn nhân bất tỉnh do tai nạn ngoài ý muốn.
-Anh diễn vai kẻ ngất xỉu, cho đến khi cơ thể mất máu quá nhiều và rơi vào hôn mê thật.
-Trở lại phòng ICU, Dakia rút tay về. Hai đầu gối anh khuỵu xuống mặt sàn lát gạch vinyl.
-Không có vụ rơi gạch nào ở công trường. Đó cũng chỉ là một ký ức giả do anh tự dựng lên.
-Tội lỗi của anh không chỉ là mất lái gây tai nạn. Tội lỗi lớn nhất, tàn ác nhất, là sự ích kỷ trong khoảnh khắc sinh tử. Anh đã đặt danh dự và sự an toàn của bản thân lên trên cái chết của cô ấy.
-Dakia gục mặt xuống sàn. Anh há miệng gào thét, nhưng cổ họng nghẹn đắng. Sự hối hận cấu xé từng tấc tế bào. Anh muốn tỉnh lại. Anh phải tỉnh lại để nói ra sự thật, để nhận án phạt, để chuộc lại sự hèn nhát tởm lợm của mình.
-"Mẹ ơi..." Dakia thều thào, nhắm nghiền mắt, dồn toàn bộ sức mạnh ý chí để kéo ý thức hòa làm một với thân xác trên giường. "Cho con tỉnh lại."
+Anh đẩy cửa.
+Không có sàn gỗ. Không có thảm chùi chân.
+Mũi giày Dakia lún sâu xuống một lớp lá khô mục nát và đất ẩm. Không khí giảm đột ngột xuống mức đóng băng. Anh bước qua ngưỡng cửa, cơ thể lập tức bị chìm vào một lớp sương mù đặc quánh, trắng đục như sữa.
+Phía sau anh, tiếng cánh cửa đóng sầm vang lên rồi tắt lịm, nhường chỗ cho một sự im lặng ướt át.
+Dakia đưa tay ra trước mặt. Sương mù len lỏi qua từng kẽ ngón tay. Bao quanh anh là hàng ngàn thân cây bạch dương trắng toát, mọc vươn thẳng lên không trung mà không có ngọn, biến mất vào tầng sương mù phía trên. Lớp vỏ cây nứt nẻ, bong tróc như những lớp da người hoại tử.
+Anh vừa bước từ một con phố châu Âu vào giữa một khu rừng nguyên sinh ngập sương.
+Dakia hít một hơi sâu. Không khí tràn vào phổi lạnh buốt, mang theo mùi nấm mốc và mùi rêu ẩm ướt. Anh bắt đầu bước đi. Tiếng lá khô gãy vụn dưới đế giày vang lên rõ mồn một. Rắc. Rắc.
+Mười bước. Hai mươi bước.
+Anh dừng lại. Gáy anh râm ran. Lông tơ trên cánh tay dựng đứng dưới lớp áo len.
+Có thứ gì đó đang nhìn anh.
+Dakia từ từ xoay người, nín thở. Ánh mắt anh quét qua những kẽ hở giữa các gốc bạch dương. Sương mù cuộn lên từng đợt.
+Cách anh khoảng hai chục mét, phía sau một thân cây lớn, một mảng tối tách ra khỏi lớp vỏ trắng.
+Đó là một bóng người.
+Nó đứng thẳng đứng, cao ngang ngực anh, khoác trên mình một thứ gì đó rách nát giống như áo choàng đen rủ xuống chạm đất. Dakia nheo mắt, cố nhìn xuyên qua màn sương. Khi sương mỏng đi một chút, dạ dày anh cuộn trào.
+Thực thể đó không có khuôn mặt. Nơi đáng lý ra là mắt, mũi, miệng, chỉ có một hốc sâu hoắm, nhẵn thín, xám xịt như thạch cao chưa khô.
+Nó không di chuyển. Nó chỉ đứng đó, đối diện với anh.
+Rắc.
+Tiếng động phát ra từ phía bên phải. Dakia quay gắt sang. Một bóng đen khác vừa bước ra từ sau gốc cây. Rồi thêm một cái bóng nữa ở phía trước. Bốn. Năm cái bóng xuất hiện rải rác xung quanh anh, tạo thành một vòng tròn lỏng lẻo. Tất cả đều không có khuôn mặt. Tất cả đều bất động.
+Và rồi, âm thanh bắt đầu.
+Nó không phát ra từ dây thanh quản. Nó dội ra từ những hốc sâu hoắm trên khuôn mặt nhẵn thín của chúng.
+U-e-u-e-u-e...
+Âm thanh rè rè, ngắt quãng, lúc to lúc nhỏ, giống hệt tiếng còi xe cấp cứu bị bóp nghẹt dưới một lớp nước dày đặc. Tiếng còi hú xoáy thẳng vào thính giác, mang theo sự lạnh lẽo của kim loại và mùi máu tanh tưởi ở phòng cấp cứu.
+Các bóng đen bắt đầu nhấc chân lên. Chúng trượt trên lớp lá khô, lướt về phía anh. Tiếng còi xe cấp cứu từ những hốc mặt vô hình ngày một lớn dần, chồng chéo lên nhau tạo thành một mớ tạp âm hỗn loạn, khoan thẳng vào não bộ.
+Dakia quay đầu, bỏ chạy thục mạng về phía ngược lại.
+Anh không quan tâm phương hướng. Anh lao qua những gốc bạch dương, gạt những cành cây khô sắc nhọn đâm vào mặt. Sương mù tạt vào mắt cay xè. Tiếng còi hú bám sát phía sau gót giày, dính chặt lấy tâm trí anh như một bầy đỉa đói.
+Phía trước mặt, một bề mặt phẳng hiện ra giữa hai thân cây bạch dương. Một cánh cửa. Mặt kính sơn màu Vàng ệch.
+Dakia không chần chừ. Anh lao cả người vào cánh cửa, vặn chốt và ngã nhào qua ngưỡng cửa ngay trước khi tiếng còi cấp cứu ré lên sát bên lỗ tai.
+Chương 3: Thợ săn hình học
+Dakia ngã nhào xuống một bề mặt cứng cáp. Bờ vai đập mạnh. Tiếng còi xe cấp cứu bị chặt đứt ngay khoảnh khắc cánh cửa Vàng đóng sập lại.
+Anh nằm cuộn tròn, há miệng đớp lấy không khí. Mùi ozone khét lẹt và bụi kim loại xộc vào khoang mũi. Hơi lạnh từ mặt sàn thấm qua lớp áo sơ mi. Sàn gạch men. Những viên gạch lục giác màu xám tro ghép khít vào nhau.
+Dakia chống tay ngồi dậy. Bụng anh quặn lên một cơn buồn nôn dữ dội.
+Phía trước anh là một sân ga tàu điện ngầm. Những dải băng cảnh báo màu vàng chạy dọc mép vực. Tuy nhiên, đường ray không nằm dưới đất. Nó uốn cong một góc chín mươi độ, chạy ngược lên vách tường, rồi vắt ngang qua trần nhà.
+Dakia nheo mắt. Ở phía vách tường đối diện, một dải cầu thang bộ xoắn ốc bẻ gãy mọi quy tắc vật lý, vặn xoắn như một dải ruy băng rồi đâm thẳng vào trần thạch cao. Tại đó, những chiếc ghế chờ bằng nhôm, bảng giờ tàu chạy, và một dãy máy bán nước tự động đang treo ngược. Một tờ báo cũ rớt khỏi băng ghế, rơi ngược lên phía trên và bám chặt vào mặt trần nhà.
+Trọng lực ở đây đã bị cắt vụn. Không gian vỡ vụn và đan chéo vào nhau như một bức tranh quang học tàn nhẫn.
+Rắc!
+Một âm thanh khô khốc vang lên từ phía đường hầm tối om. Không phải tiếng bước chân. Nó giống như tiếng một tấm gương khổng lồ vừa bị bẻ gãy.
+Dakia nín thở, ép lưng vào vách tường gạch men.
+Từ trong họng đường hầm, không khí bắt đầu rạn nứt. Những vết nứt màu đen lan dọc theo không gian tĩnh lặng, để lại những tia lửa điện xanh lè. Rồi thực thể đó trườn ra.
+Nó không có da thịt, không có mắt mũi, cũng không có hình thù cố định. Đó là một cụm những khối hình học sắc nhọn  -  các mặt phẳng tam giác, những khối lập phương, những hình chóp đa giác cấu tạo từ một loại vật liệu nhám đen như hắc ín. Chúng liên tục tự tháo rời, lộn ngược từ trong ra ngoài, đâm xuyên qua nhau rồi lại hợp nhất thành những cấu trúc mới.
+Mỗi lần khối hình học khổng lồ đó chuyển động tịnh tiến, không gian xung quanh nó biến dạng. Lớp gạch men trên vách tường nổ tung, vỡ vụn thành bột mịn trước khi nó kịp chạm vào.
+Dakia nuốt nghẹn. Lồng ngực anh phập phồng. Quả tim gõ từng nhịp dồn dập vào mạn sườn. Thình thịch. Thình thịch.
+Ngay lập tức, khối hình học khựng lại.
+Hàng ngàn mặt phẳng đang xoay tròn điên cuồng bỗng chốc đóng băng. Những đỉnh chóp nhọn hoắt đồng loạt hướng thẳng về phía vách tường nơi Dakia đang đứng. Không. Chúng đang chĩa thẳng vào ngực trái của anh.
+Nó không nhìn anh. Nó đang nghe nhịp tim của anh. Nó đánh hơi được sự hoảng loạn.
+Dakia lấy tay bưng chặt miệng. Anh cố đè nén hơi thở.
+Thình thịch... thình thịch...
+Khối hình học bắt đầu bung nở. Những lưỡi dao không gian găm vào nền gạch, kéo lê toàn bộ cấu trúc khổng lồ đó về phía anh. Tốc độ của nó tỷ lệ thuận với nhịp tim trong lồng ngực Dakia. Nó lướt đi, xé toạc mặt sàn, để lại một rãnh sâu hoắm đen ngòm.
+Dakia bung người bỏ chạy.
+Anh lao về phía dãy cầu thang xoắn ốc vắt ngang tường. Ngay khi mũi giày chạm vào bậc thang đầu tiên, trọng lực đột ngột đảo chiều. Dạ dày anh lộn nhào. Dakia loạng choạng, ngã sấp mặt xuống bậc thang kim loại, tay bấu chặt vào tay vịn. Cả cơ thể anh giờ đang nằm ngang so với mặt sàn ban đầu.
+Phía dưới, tiếng không gian rạn nứt nổ ra đinh tai. Thực thể hình học lao tới chân cầu thang. Các khối chóp tách ra, cắn xé những trụ thép nâng đỡ cầu thang thành từng mảnh vụn.
+Dakia bò bằng cả hai tay hai chân, leo lên cao. Nhịp tim anh gào thét. Bơm máu. Bơm nỗi sợ hãi. Thực thể bên dưới phản ứng lại bằng một tốc độ kinh hoàng. Nó leo lên vách tường, các khối lập phương liên tục lật mở, cắt gọt mọi thứ cản đường. Khoảng cách thu hẹp. Lưỡi không gian sắc lẹm lướt qua gót giày Dakia, chém đứt phăng phần đế da.
+Anh trèo lên đến đỉnh cầu thang và bước hụt.
+Trọng lực lại bị bẻ gãy. Cơ thể anh rơi tự do vào khoảng không, văng ngược lên mặt trần nhà. Lưng anh đập mạnh xuống một sàn gạch men lật úp. Không khí bị tống sạch khỏi phổi.
+Ngay phía trước, cạnh một máy bán nước tự động, là một cánh cửa. Mặt kính của nó được sơn đặc một màu Trắng toát.
+Tiếng kim loại vặn xoắn rít lên sau gáy. Những lưỡi chóp đen ngòm chọc thủng mặt sàn gạch ngay dưới chân anh. Không gian bắt đầu sụp đổ.
+Dakia không kịp đứng dậy. Anh trườn người tới, vươn tay đập thẳng vào thanh chắn mở cửa, hất tung cánh cửa Trắng ra.
+Anh lao đầu vào khoảng không phía sau, dùng tay đóng sập cánh cửa lại.
+Đoàng!
+Một chấn động dội thẳng vào mặt bên kia cánh cửa. Lớp kính sơn trắng nứt toác một đường chân chim, nhưng chốt khóa vẫn trụ vững. Tiếng vỡ vụn của không gian lùi dần rồi tắt hẳn.
+Dakia nằm cuộn tròn trên sàn nhà xa lạ, cả cơ thể run lên từng đợt không kiểm soát. Mồ hôi lạnh túa ra ướt đẫm áo sơ mi. Lồng ngực đau nhói như bị xé rách sau mỗi nhịp thở.
+Anh nhìn chằm chằm vào hai bàn tay đang trầy xước rớm máu của mình. Sự đau đớn quá chân thực. Nỗi sợ hãi đặc quánh đến mức có thể nếm được vị đắng chát trong miệng.
+Anh áp hai tay lên ôm lấy đầu, nơi viên gạch từ tầng sáu đã giáng xuống. Không có vết thương.
+"Mình..." Dakia thều thào, giọng nói khản đặc dội lại từ những bức tường kín. "...đã chết rồi sao?"
+Không có tiếng trả lời. Chỉ có tiếng kim đồng hồ tíc tắc gõ nhịp trong tĩnh lặng.
+Chương 4: Tiếng vọng từ Copenhagen
+Tíc tắc. Tíc tắc.
+Âm thanh nhịp nhàng kéo Dakia khỏi cơn hoảng loạn. Anh nhíu mày, mở mắt.
+Ánh sáng vàng dịu hắt ra từ chao đèn đọc sách bọc vải linen. Sàn nhà dưới lưng anh không phải là nền gạch men lạnh lẽo của nhà ga vỡ nát, mà là gỗ sồi nhám. Đầu ngón tay anh rà dọc theo mép ván sàn, chạm vào một vệt xước dài – vết lõm do chính tay anh vô tình tạo ra khi cố kéo chiếc kệ sách bằng gỗ lim hồi tháng trước.
+Dakia chống tay đứng dậy, xương khớp kêu răng rắc.
+Ghế sofa bọc da lộn màu nâu đất. Bàn trà mặt kính cường lực. Máy pha cà phê góc bếp sáng đèn đỏ chờ đợi. Bức tranh trừu tượng treo hơi lệch trên mảng tường xám. Mọi thứ hiện diện trước mắt anh chính xác đến từng nếp nhăn trên chiếc gối tựa.
+Đây là căn hộ của anh ở Copenhagen. Nơi anh đã khóa cửa rời đi lúc bảy giờ sáng.
+Nhưng sự hoàn hảo này lại bóp nghẹt lồng ngực anh. Không có tiếng còi xe vọng lên từ ngã tư dưới phố. Không có tiếng máy sưởi chạy rầm rì. Không khí trong phòng đông đặc, quẩn quanh mùi cà phê rang xay nhưng hoàn toàn không mang theo hơi ấm của sự sống.
+Anh bước về phía bàn làm việc cạnh cửa sổ. Chiếc laptop vẫn mở, quạt tản nhiệt im lìm. Cạnh đó là những cuốn sổ tay kiến trúc quen thuộc.
+Dakia cầm cuốn sổ gần nhất lên, lật ra. Con ngươi anh co lại.
+Không có chữ. Những dòng ghi chú trên trang giấy trắng tinh là một mớ hỗn độn của các ký tự chắp vá, méo mó. Chúng ngoằn ngoèo, không tuân theo bất kỳ một hệ thống ngôn ngữ nào của nhân loại. Anh chớp mắt, lật lùi vài trang. Vẫn là những ký tự lộn xộn nằm im lìm như những con côn trùng chết khô.
+Anh ném cuốn sổ xuống, cúi sát mặt vào màn hình laptop. Giao diện phần mềm AutoCAD biến mất, thay vào đó là những đoạn mã vô nghĩa chạy dọc màn hình, vỡ vụn và đảo lộn liên tục. Khối óc của anh dường như không thể kết xuất được văn bản trong cái chiều không gian chắp vá này.
+Ngay lúc đó, khoé mắt anh bắt được một điểm sai lệch.
+Giữa đống bản vẽ nhàu nát trên bàn, có một mảnh giấy ghi chú màu vàng. Nó không bị nhiễu loạn. Những nét chữ trên đó cực kỳ sắc nét.
+Dakia đưa tay nhặt mảnh giấy lên. Bề mặt giấy nhám ráp. Nét mực sẫm màu, hơi dính, bốc lên một mùi ngai ngái của sắt gỉ.
+Dòng chữ viết tay đập thẳng vào võng mạc anh:
+"Mày đã làm gì cô ấy?"
+Dakia lùi lại. Hông anh va mạnh vào thành bàn. Mảnh giấy rơi lả tả xuống sàn gỗ. Một luồng điện chạy dọc sống lưng, khoan thẳng vào một mảng tối tăm dưới đáy thùy trán. Mùi cao su cháy khét lẹt. Bàn tay đeo chiếc nhẫn bạc lấp lánh. Tiếng kính vỡ lạo xạo cắm vào da thịt.
+"Không..." Anh ôm lấy thái dương, lầm bầm.
+Rắc... Ầm.
+Một chấn động trầm đục dội lên từ dưới móng nhà. Tiếng tíc tắc của chiếc đồng hồ treo tường đột ngột tăng tốc. Tíc-tíc-tíc-tíc-tíc. Kim giây quay cuồng như một mũi khoan phát rồ.
+Dakia ngẩng lên. Bức tường treo bức tranh trừu tượng đang nhích lại gần.
+Không phải ảo giác. Trần nhà đang từ từ hạ xuống. Không gian của toàn bộ căn hộ đang co rút lại, nghiến nát chính nó.
+Anh quay phắt người, lao về phía cánh cửa chính màu Trắng mà anh vừa dùng để bước vào. Khung cửa gỗ đã biến mất. Nó đã tan chảy, hòa làm một với bức tường bê tông cốt thép. Bức tường ấy đang lầm lũi tiến tới, ủi chiếc ghế sofa trượt xước trên mặt sàn gỗ, phát ra những tiếng rít chói tai.
+Choang!
+Chiếc bàn trà nổ tung khi bị hai bức tường đối diện ép sát vào nhau. Những mảnh kính cường lực văng rào rào vào mặt Dakia, để lại một vệt cắt rỉ máu vắt ngang gò má.
+Lối thoát duy nhất còn lại là khung cửa sổ lớn ở cuối phòng khách.
+Dakia lao qua đống đồ nội thất đang bị vặn gãy, băng qua căn phòng chật hẹp. Trần nhà hạ thấp, ép sát đỉnh đầu, bắt anh phải khom lưng, rồi cúi rạp người xuống. Khi tay anh chạm đến mép cửa sổ, anh nhận ra bề mặt nó không trơn nhẵn như kính. Toàn bộ mặt kính đã bị phủ đặc một lớp sơn màu Tím bầm.
+Nó không phải là cửa sổ để nhìn ra thành phố. Nó là một cánh cửa khác. Và nó có một tay nắm bằng đồng.
+Phía sau lưng, bộ khung gỗ của chiếc tủ sách gãy gập, mạt cưa bắn tung tóe. Không gian sống chỉ còn lại chưa đầy một mét vuông. Hơi lạnh của bức tường bê tông đã chạm vào lớp vải sau lưng áo măng-tô của anh. Bụi thạch cao rơi lả tả.
+Dakia túm lấy tay nắm cửa, vặn mạnh.
+Anh dùng toàn bộ sức lực của bờ vai hất tung cánh cửa màu Tím ra, quăng mình vào bóng tối mịt mùng ngay khoảnh khắc căn hộ khép lại hàm răng khổng lồ, ép nát mọi thứ thành một khối bê tông và gỗ vụn đặc quánh.
+Chương 5: Kẻ lang thang mù
+Dakia rơi tự do qua khung cửa màu Tím và đáp xuống một bề mặt gồ ghề. Cú va chạm ép luồng không khí cuối cùng trong phổi anh bật ra thành một tiếng ho khan. Âm thanh đó lập tức dội lại từ trên cao, vang rền, nhân bản thành hàng chục tiếng vọng chồng chéo.
+Mùi clo cũ rích xộc thẳng vào khoang mũi.
+Anh chống tay, từ từ mở mắt. Dưới lớp da lòng bàn tay là những viên gạch men nhỏ xíu hình vuông màu xanh lơ. Dakia ngẩng đầu.
+Một bể bơi trong nhà khổng lồ. Rộng bằng hai sân bóng đá ghép lại. Không có một giọt nước. Lòng bể sâu hoắm phơi ra những rãnh thoát nước hoen gỉ. Ánh sáng nhợt nhạt hắt xuống từ trần vòm kính cong vút phía trên – nơi bầu trời nhiễu sóng xám trắng vẫn đang lặng lẽ sôi sục.
+Lẹt xẹt. Lẹt xẹt.
+Tiếng đế giày cao su miết xuống mặt gạch men vang lên đều đặn từ phía bên kia thành bể.
+Dakia căng cơ bắp, ép sát lưng vào thành tường gạch. Con ngươi anh quét dọc mép bể bơi.
+Một bóng người đang đi lại.
+Đó là một gã đàn ông, trạc tuổi anh, mặc bộ vest màu xám tro. Vạt áo vest xé toạc, để lộ lớp sơ mi trắng dính những vết bẩn cáu cạnh. Gã đi dọc theo đường biên của bể bơi. Bước chân gã cứng đơ, lặp đi lặp lại một nhịp điệu máy móc: gót chân chạm đất, mũi giày lết đi.
+Dakia nheo mắt nhìn lên khuôn mặt gã, và dạ dày anh lại một lần nữa quặn thắt.
+Gã đàn ông không có khuôn mặt. Khắp phần đầu của gã, từ cằm lên đến đỉnh sọ, bị quấn chặt bởi nhiều vòng băng dính công nghiệp màu đen. Lớp băng dính siết chặt, hằn lên những đường nét mờ nhạt của hốc mắt và sống mũi, hoàn toàn bịt kín lối ra vào của dưỡng khí.
+Vậy mà lồng ngực dưới lớp sơ mi rách nát kia vẫn phập phồng.
+Từ dưới lớp băng dính đen đặc, một tràng âm thanh rầm rì phát ra. Gã đang lẩm bẩm.
+Dakia nắm chặt hai bàn tay, bước ra khỏi vòm tối. Anh bám mép gạch, nhích từng bước lại gần đường đi của gã đàn ông mù. Khi khoảng cách thu hẹp lại chưa đầy ba mét, những lời lẩm bẩm vỡ vụn bắt đầu lọt vào tai Dakia.
+"Năm mươi lăm độ... bốn mươi phút... Bắc... Mười hai độ... ba mươi tư phút... Đông..."
+Những tọa độ địa lý. Gã đàn ông đọc chúng bằng một chất giọng đều đều, vô hồn.
+"Này anh," Dakia lên tiếng.
+Giọng anh vang vọng khắp không gian bể bơi cạn. Gã đàn ông không phản ứng. Bước chân lẹt xẹt vẫn tiếp tục duy trì nhịp điệu cũ. Gã xoay người đúng chín mươi độ tại góc thành bể, đi men theo đường gạch kẻ sọc đỏ, miệng vẫn tuôn ra những vĩ độ và kinh độ vô nghĩa.
+"Anh có nghe tôi nói không?" Dakia sải bước, chắn ngang đường đi của gã.
+Gã đàn ông khựng lại. Mũi giày gã cách mũi giày Dakia nửa gang tay.
+Gã không ngẩng đầu. Gã đứng im lìm như một cỗ máy bị ngắt điện, lồng ngực vẫn phập phồng, mảng băng dính đen đặc hướng về phía ngực áo của Dakia. Cảm giác ớn lạnh bò dọc sống lưng anh. Gã đàn ông này không thuộc về thế giới sự sống, cũng chẳng mang ý thức của một kẻ đã chết. Gã giống hệt một tệp mã lỗi bị bỏ quên trong hệ thống. Một NPC vỡ nát.
+Dakia vươn tay, định chạm vào vai gã.
+Ngay khoảnh khắc đầu ngón tay Dakia cách lớp vải áo vest vài milimet, toàn bộ thân hình gã đàn ông giật nảy lên.
+Đầu gã ngẩng phắt dậy. Lớp băng dính đen nhăn nhúm lại như có một luồng cơ bắp bên dưới đang co rút dữ dội. Cánh tay phải của gã vung lên với một tốc độ dị thường, gãy gập ở khuỷu tay, ngón trỏ chĩa thẳng vào giữa trán Dakia.
+Miệng gã há rộng dưới lớp băng, xé toạc một mảng keo dính đen nhánh.
+Một âm thanh xé toạc bầu không khí tĩnh lặng. Nó không phải là giọng trầm đục của gã đàn ông.
+Đó là giọng của một người phụ nữ.
+Cao vút. The thé. Chứa đầy sự hoảng loạn tột độ và nỗi oán hận đặc quánh. Nó cào xé màng nhĩ Dakia, dội thẳng vào thùy trán, mang theo tiếng lốp xe trượt dài trên mặt đường đóng băng.
+"Đừng mở cửa màu Đen! Trong đó có sự thật!"
+Âm thanh dội vào các vách tường gạch men, va đập chát chúa vào nhau, tạo thành một cơn bão âm thanh xoáy sâu vào tâm trí Dakia. Anh ôm tai, lùi giật lùi về phía sau. Bờ vai va vào cột chống mái.
+Gã đàn ông vẫn chĩa ngón tay về phía anh.
+Rồi, từ đầu ngón tay đó, lớp da thịt bắt đầu phân rã. Quá trình diễn ra trong tích tắc. Lớp băng dính đen bốc khói, hóa thành tàn tro. Sợi vải áo vest vỡ vụn. Xương xẩu, cơ bắp rã ra thành những hạt cát xám xịt.
+Một cơn gió không tồn tại cuốn lấy thân hình gã. Gã đổ ụp xuống nền gạch men.
+Xào...
+Âm thanh khô khốc vang lên. Chỗ gã đàn ông mù vừa đứng, giờ chỉ còn là một đống tro tàn hình người, lẫn lộn vài mảnh băng dính cháy sém.
+Dakia trượt lưng theo thân cột, ngồi phịch xuống sàn. Mồ hôi lạnh vã ra như tắm. Lồng ngực anh đau thắt lại. Tiếng thét của người phụ nữ vẫn đang rền rĩ trong đầu anh. Giọng nói ấy... anh biết nó. Nó nằm kẹt ở một vách ngăn não bộ mà anh đã khóa chặt.
+Anh ngước mắt nhìn lên bức tường trống phía đối diện bể bơi.
+Ở đó, khảm sâu vào mảng gạch men xanh, là một cánh cửa đơn độc. Không có tay nắm. Mặt kính của nó bị phủ một lớp sơn đặc quánh, nuốt chửng mọi tia sáng.
+Cánh cửa màu Đen.
+Chương 6: Quy mô của ác mộng
+Cánh cửa Đen nằm im lìm trên bức tường gạch men, nhưng trong tâm trí Dakia, nó đang phình to ra, nuốt chửng mọi tia sáng le lói. Tiếng thét the thé của người phụ nữ vẫn cào xé màng nhĩ anh. Trong đó có sự thật.
+Dakia lùi lại. Gót giày lết trên sàn gạch lạo xạo. Anh chưa sẵn sàng. Cơ chế tự vệ sâu thẳm trong vỏ não anh giật phắt chốt an toàn, điều khiển đôi chân anh quay ngoắt đi. Anh bỏ chạy khỏi cánh cửa Đen, quăng mình vào một cánh cửa đôi làm bằng nhôm xước nằm khuất ở góc vách tường.
+Không gian chuyển đổi. Nhịp độ của những cuộc rượt đuổi sinh tồn đột ngột đứt gãy, nhường chỗ cho một sự nặng nề bức bối, nhớp nháp như nhựa đường tuôn chảy vào phế quản.
+Dakia đứng giữa một lối đi lát gạch vinyl bàn cờ. Đèn huỳnh quang trên trần nhà tỏa ra ánh sáng xanh xao, thỉnh thoảng giật chớp.
+Một siêu thị.
+Nhưng các kệ hàng kim loại không chứa thức ăn hay vật dụng. Xếp chật cứng dọc hai bên lối đi là hàng trăm con ma-nơ-canh bằng nhựa. Chúng không đứng thẳng. Khớp cổ của chúng bị vặn ngược ra sau, cằm hướng lên trần nhà. Những đôi tay nhựa gãy gập ở khuỷu, đan chéo vào nhau trong những tư thế quằn quại, dị hợm. Không có mắt, không có miệng, nhưng khi Dakia lách người bước qua lối đi chật hẹp, anh cảm nhận rõ rệt bề mặt nhựa trơn bóng của hàng trăm cái đầu không mặt đang đồng loạt hướng về phía mình.
+Anh cúi gầm mặt. Hơi thở anh rít qua kẽ răng.
+Băng qua khu vực thu ngân trống hoác, Dakia đẩy tung một cánh cửa kính được sơn vội vã màu Nâu đất.
+Ánh sáng vụt tắt. Mùi lưu huỳnh nồng nặc lấn át không khí.
+Mũi giày anh chạm vào một bậc thềm đá cẩm thạch lạnh ngắt. Trước mắt anh, những hàng ghế gỗ sồi dài nối tiếp nhau chìm trong tranh tối tranh sáng. Một giáo đường. Những vòm trần cao vút bị bóng tối nuốt chửng. Các ô cửa kính màu hai bên vách tường không hắt vào tia sáng nào, như thể bên ngoài giáo đường là một đại dương hắc ín.
+Dakia nhấc chân. Tiếng bước chân anh dội lên vòm mái, cô độc và tuyệt vọng.
+Anh tiến về phía bục án thư. Trên bệ đá cẩm thạch khổng lồ, một bức tượng điêu khắc bị đóng đinh. Bề mặt tượng nham nhở, rạn nứt.
+Toong... Toong...
+Một âm thanh đặc quánh vang lên nhịp nhàng. Dakia ngước nhìn lên khuôn mặt cúi gầm của bức tượng. Từ những hốc mắt khoét sâu bằng đá, một thứ chất lỏng đen kịt, quánh đặc như dầu thô, đang chậm rãi rỉ ra. Hắc ín tuôn dọc theo gò má đá cẩm thạch, nhỏ giọt xuống đọng thành một vũng đen ngòm dưới chân bệ thánh. Bức tượng đang khóc.
+Không gian giáo đường như ép chặt lồng ngực anh. Cảm giác tội lỗi – một thứ tội lỗi nguyên thủy, không tên gọi, không hình dáng – đè nặng lên hai vai, khiến đầu gối anh chùng xuống. Dakia vội vã ôm lấy ngực trái, lảo đảo bỏ chạy về phía hành lang cánh cung bên phải bục thánh, lao đầu vào một cánh cửa bằng gỗ sồi sẫm màu.
+Sự trốn chạy vấp phải một sự im lặng hoàn toàn khác.
+Không có ma-nơ-canh. Không có những bức tượng rỉ máu đen.
+Dakia tựa lưng vào cánh cửa vừa khép lại, thở hắt ra. Mùi hương quẩn quanh khoang mũi anh lập tức đánh thức một rãnh sâu trong trí nhớ. Mùi giấy than. Mùi mực in hăng hắc. Mùi cà phê để qua đêm đóng cặn ở đáy cốc.
+Một căn phòng rộng, trần thấp. Bốn bức tường được xếp kín bởi những dãy tủ sắt đựng hồ sơ. Ở giữa phòng, dưới ánh sáng duy nhất hắt ra từ một chiếc đèn kẹp bàn bọc chao thiếc, là một chiếc bàn vẽ kiến trúc cỡ lớn. Bề mặt nghiêng của nó phủ đầy những cuộn giấy A0.
+Dakia từ từ tiến lại gần. Sự quen thuộc đến gai người kéo anh bước đi như một kẻ mộng du.
+Anh đứng trước bàn vẽ. Ánh đèn hắt bóng anh đổ dài lên dãy tủ sắt. Tay anh run rẩy chạm vào bề mặt bản thiết kế đang trải bung trên mặt bàn.
+Đó là một bản vẽ mặt cắt không gian. Những đường nét chì 0.5mm sắc lẹm, dứt khoát. Cấu trúc của một mạng lưới tàu điện ngầm với các cầu thang vặn xoắn đan chéo vào nhau.
+Dakia nín thở. Ngón trỏ của anh miết dọc theo một đường chân tường trên bản vẽ.
+Ở góc ngã tư giao nhau của cầu thang, có một nét gạch chéo đứt đoạn để đánh dấu khớp chịu lực. Một thói quen sai tiêu chuẩn. Thầy giáo ở trường đại học từng gạch nát bản đồ án của anh vì lỗi này. Nhưng anh chưa bao giờ sửa.
+Mắt Dakia trượt xuống góc dưới cùng bên phải của tờ giấy trắng. Nằm đè lên khung chữ ký là một vết ố tròn màu nâu nhạt. Dấu vết của một chiếc cốc sứ đáy lồi bị đặt mạnh tay khi cà phê vẫn còn sánh.
+Đó là thói quen của anh. Đó là vết ố từ chiếc cốc của anh.
+Dakia vơ lấy cuộn giấy tiếp theo.
+Bản thiết kế mặt bằng của một lò mổ, với tỉ lệ trần nhà bị kéo giãn ra vô cực.
+Tiếp tục mở thêm một tờ nữa. Bản vẽ chi tiết một giao lộ vắng lặng với những mặt tiền cửa hàng bị đánh dấu bằng các mảng màu đặc. Màu Đỏ. Màu Xanh. Màu Vàng. Ghi chú bên lề viết bằng nét chữ của chính anh: "Phải bịt kín. Không được nhìn ra ngoài."
+Hơi thở của Dakia đứt quãng. Anh loạng choạng bước lùi lại, va vào dãy tủ sắt sau lưng.
+Anh giật mạnh tay nắm tủ. Hàng ngàn phong bì hồ sơ tràn ra, rớt lả tả xuống sàn gỗ. Những bản phác thảo rơi rụng. Bản vẽ một khu rừng bạch dương ngập sương. Bản vẽ một bể bơi cạn nước hình chữ nhật. Bản thiết kế một hành lang bệnh viện dài vô tận.
+Tất cả đều nằm ở đây. Từng viên gạch, từng vách tường, từng góc vặn xoắn của các định luật vật lý, tất cả đều được tính toán và vẽ ra bởi chính hệ thống nơ-ron thần kinh của anh.
+Hai chân Dakia không trụ nổi nữa. Anh trượt dài lưng xuống bề mặt lạnh lẽo của tủ sắt, ngồi phệt xuống đống bản vẽ nhàu nát.
+Anh đan mười ngón tay vào tóc, kéo mạnh đến ứa nước mắt. Sự im lặng trong căn phòng giờ đây gào thét một sự thật tàn khốc, đập nát mọi hi vọng về một thế giới siêu nhiên hay một chiều không gian song song nào đó.
+Anh không lạc vào thế giới của kẻ khác.
+Không có ác quỷ, không có thế lực huyền bí nào cả. Tâm trí của chính anh  -  một bộ não đang nằm thoi thóp trong phòng hồi sức tích cực  -  chính là vị Kiến trúc sư điên loạn đã xây nên cái địa ngục Liminal này. Hàng vạn cánh cửa, hàng ngàn không gian vặn vẹo kia là những phòng giam do tự tay anh thiết kế, để nhốt anh lại, để giấu đi một sự thật vấy máu mà anh không đủ can đảm để đối diện.
+Dakia ngước đôi mắt đỏ vằn lên trần nhà. Quanh quẩn trong không khí, anh lại nghe thấy nó. Tiếng lốp xe rít chát chúa trong đêm tuyết.
+Anh đã thiết kế ra mọi thứ. Trừ cánh cửa màu Đen.
+Chương 7: Mẹ khóc
+Sự thật vừa thành hình trong tâm trí Dakia thì thế giới Liminal lập tức phản ứng.
+Rắc... Rùng rùng.
+Nền gỗ dưới chân anh nứt toác. Bức tường treo những bản vẽ thiết kế bóp méo, lõm sâu vào trong như bị một quả nạng sắt khổng lồ đập trúng. Dãy tủ hồ sơ kim loại rú lên những tiếng rít chói tai, bị nghiến nát bởi một áp lực vô hình. Không gian căn phòng lưu trữ đang tự xóa sổ chính nó.
+Dakia vội vã lùi lại, nhưng mặt sàn sau lưng anh đã biến mất, lộ ra một hố sâu thăm thẳm sôi sục những mảng nhiễu sóng xám trắng. Trần nhà đổ ập xuống, nghiền nát chiếc bàn vẽ kiến trúc thành bột vụn. Lối thoát duy nhất còn lại là một bức tường đang nứt nẻ, nơi một khung cửa duy nhất vừa trồi ra từ đống đổ nát.
+Mặt kính của nó bị phủ một lớp sơn đặc, đen kịt, nuốt chửng mọi tia sáng xung quanh.
+Tiếng thét the thé của gã đàn ông mù văng vẳng dội về: "Đừng mở cửa màu Đen! Trong đó có sự thật!"
+Một mảng bê tông khổng lồ từ trần nhà dội thẳng xuống vị trí Dakia đang đứng. Không còn thời gian để sợ hãi. Anh lao người tới, túm lấy tay nắm cửa lạnh buốt, vặn chốt và quăng mình vào mảng tối đen như mực.
+Đoàng!
+Không gian sụp đổ bị chặt đứt ở phía bên kia cánh cửa.
+Dakia trượt dài trên một bề mặt vô hình, nhẵn thín. Xung quanh anh không có trần, không có tường, cũng không có sàn nhà. Chỉ có một màn đêm đặc quánh, vô tận. Không khí ở đây ngập ngụa mùi dầu nhớt rỉ sét và một thứ mùi tanh nồng, rỉn rỉn nơi cuống họng.
+Ở trung tâm của khoảng không, cách anh chừng mười mét, có một vật thể treo lơ lửng.
+Một chiếc ô tô.
+Nó đã bị nghiền nát phần đầu, kim loại dúm dó lại như một tờ giấy lộn. Cửa kính chắn gió vỡ vụn thành hàng vạn mảnh chân chim, nhưng vẫn dính chặt vào khung xe. Một bên đèn pha còn thoi thóp nhấp nháy, hắt ra luồng ánh sáng yếu ớt, chiếu rọi những hạt bụi lơ lửng trong không trung.
+Dakia chống tay đứng dậy. Đầu gối anh nhũn ra. Chiếc xe đó... mảng sơn màu xanh navy xước xát, biển số bị bẻ gập một nửa.
+Nó là xe của anh.
+Bóng tối bao quanh chiếc xe đột nhiên chuyển động.
+Một thực thể khổng lồ từ từ tách ra khỏi màn đêm, ôm trọn lấy bộ khung sắt vụn. Nó không có da thịt. Cơ thể nó được bện lại từ hàng trăm sợi dây an toàn màu xám xỉn, loang lổ những vết ố nâu sẫm. Lớp vỏ bên ngoài được cắm chi chít những mảnh kính cường lực sắc lẹm, phản chiếu thứ ánh sáng hấp hối của ngọn đèn pha. Nơi đáng lý ra là khuôn mặt, chỉ là một túi khí an toàn bung rách, rủ xuống những sợi nilon bết dính.
+Sinh vật đó dang những cánh tay dài ngoẵng, gầy guộc cấu tạo từ cốt thép, siết chặt lấy chiếc ô tô nát bét. Nó gục đầu lên nóc xe. Tư thế của nó không mang sự đe dọa. Đó là tư thế của một người mẹ đang ôm ấp đứa con đã chết.
+Nó không có miệng, nhưng một âm thanh nức nở, quặn thắt bắt đầu vang lên. Tiếng khóc không đi qua màng nhĩ, mà cắm phập thẳng vào rãnh tủy của Dakia.
+Anh lùi lại, đưa hai tay ôm chặt lấy đầu. "Dừng lại... Dừng lại..."
+Sinh vật "Mẹ Khóc" từ từ ngẩng đầu lên. Túi khí rách nát hướng về phía anh. Những sợi dây an toàn trên cơ thể nó bắt đầu trườn đi như bầy rắn. Chúng vươn dài ra không trung, lao về phía Dakia với tốc độ không thể né tránh.
+Dakia chưa kịp quay lưng, những sợi nilon thô ráp đã quấn chặt lấy cổ tay, cổ chân anh, kéo căng anh ra giữa khoảng không. Một sợi dây thô bạo quấn quanh thái dương, siết chặt.
+Nó không tấn công bằng bạo lực vật lý. Nó tống thẳng sự thật vào vỏ não anh.
+Vút.
+Bóng tối bị xé toạc.
+Tầm nhìn của Dakia tràn ngập ánh sáng vàng vọt của đèn cao áp. Anh không còn đứng trong khoảng không. Anh đang ngồi. Cảm giác vô lăng bọc da nhẵn bóng cọ sát vào lòng bàn tay. Hơi nóng từ hốc máy sưởi phả thẳng vào mặt.
+Và mùi hương.
+Mùi rượu mạch nha đắng ngắt trào ngược lên vòm họng. Đầu óc anh váng vất. Tiếng cần gạt nước gạt qua lại trên mặt kính chắn gió. Roẹt. Roẹt. Những bông tuyết lao ầm ầm vào cửa kính, bị ánh đèn pha biến thành hàng ngàn vệt sáng thôi miên.
+Anh không ở một mình.
+Khóe mắt anh cảm nhận được hơi ấm từ chiếc ghế phụ. Một bàn tay phụ nữ nhỏ nhắn, gác hờ lên bảng điều khiển trung tâm. Trên ngón áp út, một chiếc nhẫn bạc khảm đá sapphire phản chiếu ánh đèn đường nhấp nháy.
+"Dakia, chậm lại đi anh. Tuyết rơi dày quá rồi."
+Giọng nói cất lên, mềm mại, quen thuộc đến mức lồng ngực anh bị vặn xoắn lại. Giọng nói của cô ấy.
+Trong ảo giác, cơ thể anh tự hành động, hoàn toàn không tuân theo ý chí phản kháng của anh hiện tại. Đôi môi anh nhếch lên thành một nụ cười ngạo mạn của kẻ say. Mũi giày da của anh nhấn mạnh xuống chân ga.
+Kim đồng hồ tốc độ vọt lên. 80. 100. 120.
+Tiếng động cơ gầm rú. Những bông tuyết lao sầm sập vào kính.
+"Dakia! Cẩn thận!" Bàn tay đeo nhẫn sapphire chồm sang, níu lấy tay áo anh.
+Một khúc cua gắt hiện ra khỏi màn tuyết. Ngay khoảnh khắc đó, ánh đèn pha chói lòa của một chiếc xe tải ngược chiều quét thẳng vào cabin. Mắt anh lóa trắng. Bàn tay anh giật mạnh vô lăng trong cơn hoảng loạn.
+Bánh xe mất độ bám. Chiếc ô tô trượt ngang trên mặt đường đóng băng. Cảm giác trọng lượng cơ thể bị hất văng, dây an toàn siết nghẹt lồng ngực.
+Và rồi...
+RẦM!
+Tiếng kim loại va đập gào thét, xé rách mọi định luật vật lý. Kính chắn gió nổ tung thành hàng vạn mảnh vụn lao thẳng vào mặt. Khung xe bên phải bị trụ bê tông của giải phân cách nghiến nát, gập đôi lại. Mọi thứ tối sầm.
+Ảo giác bị nén lại trong một khoảnh khắc tĩnh lặng chết chóc. Tiếng rít của lốp xe tắt ngấm. Chỉ còn tiếng chất lỏng rỏ giọt. Tí tách. Tí tách.
+Trong ký ức đang bị cưỡng ép đó, Dakia mở mắt. Đầu anh gục trên vô lăng, máu nóng hổi chảy dọc từ thái dương xuống mí mắt. Anh khó nhọc quay đầu sang bên phải.
+Ghế phụ đã bị ép bẹp dí. Không còn hình dáng con người. Chỉ còn một mảng máu đỏ thẫm nhuộm kín chiếc túi khí. Bàn tay nhỏ nhắn kia buông thõng giữa đống kính vỡ, chiếc nhẫn sapphire biến dạng, kẹt cứng giữa những mảnh xương và kim loại vặn gãy.
+Sự thật đánh sập nốt lớp phòng ngự cuối cùng trong tâm trí anh.
+Đêm đó anh không đi một mình. Vợ chưa cưới của anh ngồi ở ghế phụ. Và anh đã say rượu.
+Những sợi dây an toàn của sinh vật "Mẹ Khóc" đột ngột buông lơi.
+Dakia rơi xuống bề mặt vô hình, hai đầu gối nện mạnh. Anh gục mặt xuống hai bàn tay, cổ họng bật ra một tiếng gào xé nát buồng phổi. Đó không phải là tiếng thét của sự sợ hãi. Đó là sự tuyệt vọng của một kẻ vừa bị ép phải mở to mắt nhìn vào đôi bàn tay nhuốm máu của chính mình, trong một thế giới do chính hắn xây nên để chối bỏ nó.
+Chương 8: Cấu trúc của sự chối bỏ
+Tiếng thét của Dakia vẫn chưa dứt thì thế giới Liminal bắt đầu sụp đổ.
+Không gian tối tăm vỡ vụn thành từng mảng lớn như một tấm gương khổng lồ bị nện bằng búa tạ. Sinh vật "Mẹ Khóc" rùng mình. Tiếng nức nở của nó biến thành một âm thanh rít chói tai, ma sát giữa kính vỡ và kim loại rỉ sét. Những sợi dây an toàn vặn xoắn vào nhau, quật điên cuồng vào khoảng không đang nứt toác.
+Ký ức bị phong ấn đã vỡ. Hệ thống phòng ngự của vỏ não Dakia đang rơi vào trạng thái hoảng loạn tột độ.
+Dakia loạng choạng đứng dậy. Trước mắt anh, khoảng không đen kịt bị xé rách, để lộ ra một hành lang nhấp nháy ánh đèn neon. Nhưng nó không cố định. Ngay giữa hành lang, một cánh cửa liên tục đổi màu. Lớp sơn đặc trên mặt kính sôi lên, sủi bọt. Đỏ. Xanh dương. Vàng. Tím. Chúng trộn lẫn vào nhau như một bảng màu bị đổ ập nước tẩy, nhớp nháp và bệ rạc.
+Anh lao tới, túm lấy tay nắm cửa và đẩy mạnh trước khi sinh vật kia kịp lao đến.
+Một luồng nước mặn chát tát thẳng vào mặt Dakia.
+Anh ngã nhào lên chiếc ghế sofa bọc da lộn màu nâu đất trong căn hộ của mình. Nhưng mọi thứ đã sai lệch hoàn toàn. Trần nhà thạch cao bị xé toạc. Hàng tấn nước biển đen ngòm, cuộn theo những dải tảo bẹ khổng lồ, đổ ập xuống ngay giữa phòng khách. Chiếc tivi màn hình phẳng nổ tung dưới áp lực nước. Bọt sóng sủi bọt trắng xóa trên mặt sàn gỗ sồi.
+Rầm!
+Cánh cửa phía sau lưng anh vỡ vụn. Sinh vật "Mẹ Khóc" chen cái cơ thể bằng sắt vụn và dây đai an toàn qua khung cửa nhỏ hẹp. Kính chắn gió vỡ nát trên đầu nó cào rách giấy dán tường. Túi khí rỉ máu hướng về phía anh, vươn những xúc tu nilon quấn lấy chân bàn trà.
+Dakia không dám dừng lại. Anh lội qua dòng nước biển đang ngập đến đầu gối, vấp ngã, sặc sụa mùi muối và mùi bùn đáy bùn lầy, lao về phía cửa phòng ngủ.
+Mặt kính của nó đang chuyển từ màu Cam sang Đen kịt, rồi lại phai thành Xám tro.
+Anh tông vai mở tung cánh cửa.
+Dòng nước biển lập tức đông cứng lại phía sau lưng. Không có giường ngủ. Mũi giày vã xuống mặt nước lợn cợn váng đục. Lò mổ. Nhưng nhiệt độ không ngột ngạt mùi máu như lần đầu.
+Một cơn gió cắt da lùa qua. Dakia ngước lên. Từ những vòm bê tông vặn vẹo trên cao, tuyết đang rơi. Những bông tuyết trắng muốt, tĩnh lặng, chậm rãi lả tả đáp xuống những tảng thịt vô định hình treo lơ lửng. Máu đỏ rỉ ra từ các tảng thịt bị tuyết phủ lên, đông cứng thành những vệt thạch anh đỏ sẫm.
+Cái lạnh buốt thấu xương đâm xuyên qua lớp áo măng-tô ướt sũng của anh. Đại dương tràn vào phòng khách. Tuyết rơi trong lò mổ. Các ranh giới vật lý, các nếp gấp của không gian đang bị vò nát và ném vào nhau.
+Phía trên cao, trần nhà của lò mổ nứt ra. Một chiếc cần cẩu công trường đâm xuyên qua lớp bê tông, gắp theo những thân cây bạch dương trắng toát ném xuống mặt nước.
+Roooạtt!
+Bức tường gạch bên phải nổ tung. "Mẹ Khóc" lao tới, nghiền nát những tảng thịt đông lạnh. Những sợi dây an toàn vươn ra, cắm phập vào các trụ bê tông, kéo khối kim loại khổng lồ mang hình hài chiếc xe tai nạn trườn về phía anh với một tốc độ kinh hoàng.
+Dakia chạy băng qua những móc sắt rỉ sét, trượt ngã trên mặt nước đóng băng. Lồng ngực phập phồng đớp lấy từng ngụm không khí buốt giá.
+Giữa mớ hỗn độn của tuyết, máu và bê tông vỡ, trí óc của người kiến trúc sư bỗng trở nên sắc lẹm đến đáng sợ. Mọi mảnh ghép đẫm máu cuối cùng cũng khớp lại vào nhau.
+Anh nhìn những cánh cửa đang lơ lửng giữa không trung, lớp sơn trên mặt kính chúng đang chảy rữa ra như sáp nến.
+Tại sao lại là những lớp sơn đặc? Tại sao lại bịt kín các mặt kính?
+Đó không phải là bẫy của quái vật. Đó là hệ thống cách âm, cách nhiệt của chính bộ não anh. Là những tấm vách thạch cao dựng tạm bợ để che đi phần móng nhà đang mục nát.
+Khi vụ tai nạn xảy ra, khi anh nhìn thấy người phụ nữ anh yêu chết thảm trên ghế phụ, tâm trí anh đã từ chối tiếp nhận thực tại. Nỗi đau quá sức chịu đựng đã kích hoạt một cơ chế phòng vệ cực đoan. Bộ não tự động bôi kín sơn lên mọi ô cửa sổ tâm hồn. Nó không cho anh nhìn ra ngoài, vì bên ngoài là hiện thực đẫm máu.
+Nó tạo ra những cánh cửa Đỏ, Xanh, Vàng. Nó xây nên một lò mổ không gian, một khu rừng u uất, một nhà ga lộn ngược trọng lực. Nó nặn ra những sinh vật hình học vô cảm, những bóng ma vô diện, gã đàn ông mù lẩm bẩm tọa độ.
+Tất cả sự điên rồ rùng rợn đó chỉ phục vụ đúng một mục đích duy nhất: Đánh lạc hướng.
+Não bộ bắt anh chạy trốn những quái vật viễn tưởng, bắt anh giải những câu đố không gian phi lý, để anh không còn thời gian, không còn tâm trí nào nhớ về hình ảnh chiếc xe nát bét trong đêm tuyết. Mỗi một lớp sơn màu là một tầng chối bỏ. Gã mù cảnh báo anh đừng mở cửa Đen, bởi vì Đen là màu của ký ức chưa bị tẩy xóa.
+"Mình đã tự nhốt mình..." Dakia lầm bầm, hơi thở hóa thành khói trắng. "...để trốn tránh cô ấy."
+Sinh vật "Mẹ Khóc" vươn một sợi dây an toàn quấn lấy cổ chân anh, giật mạnh.
+Dakia ngã sấp mặt xuống băng. Khung sườn kim loại của sinh vật chồm lên, bao trùm lấy tầm nhìn của anh. Túi khí nát bét áp sát vào mặt anh, truyền đến mùi rượu mạnh và mùi đồng thau của máu tươi. Nó không định ăn thịt anh. Nó đang bắt anh phải nhìn thẳng vào tội lỗi cốt lõi.
+Cấu trúc chối bỏ đã sụp đổ. Não bộ không thể sinh ra thêm bất kỳ cánh cửa sơn màu nào để giấu anh đi được nữa. Bầu trời nhiễu sóng xám trắng trên cao đang rách toạc ra, cuộn xoáy thành một lỗ đen khổng lồ, hút vạn vật vào bên trong.
+Dakia vùng vẫy. Mười ngón tay cấu chặt xuống lớp băng đẫm máu, tìm điểm tựa. Bằng tất cả sức lực tàn dư, anh đạp mạnh gót giày vào khối kim loại rỉ sét của sinh vật, gỡ được cuộn dây an toàn khỏi cổ chân.
+Anh vươn người dậy, lao về phía ranh giới đang tan rã của lò mổ, nơi chỉ còn lại một khoảng trống hoác của vô tận. Phải có một lối ra. Một lối ra không mang màu sắc của sự dối trá.
+Chương 9: Căn phòng bệnh viện thực tại
+Khoảng không dưới chân Dakia lở ra từng mảng lớn, rơi tuột vào khoảng không vô tận. Lò mổ, những gốc bạch dương, gạch men bể bơi – tất cả bị xay nhuyễn trong một cơn lốc xoáy khổng lồ của sự sụp đổ.
+Dakia chạy trên mép băng đang vỡ vụn. Khớp gối anh kêu răng rắc. Phía sau lưng, sinh vật "Mẹ Khóc" đang bị hút ngược vào vùng nhiễu sóng xám trắng, những sợi đai an toàn cào xé khoảng không, tạo ra tiếng thét rền rĩ cuối cùng.
+Phía trước anh, nơi rìa của thế giới đang tan biến, một khung cửa đơn độc cắm rễ giữa hư vô.
+Nó không có viền gỗ hay nhôm. Chỉ là một hình chữ nhật cắt thẳng vào không gian. Dakia lao người tới, áp cả hai lòng bàn tay lên mặt kính.
+Không có màu sơn nào cả. Mặt kính trong suốt hoàn toàn. Sự trong vắt của nó sắc lẹm, cắt đứt mọi ảo ảnh.
+Dakia ghé sát mặt. Hơi thở anh phả lên mặt kính tạo thành một lớp sương mờ. Anh vội vã dùng tay áo lau đi.
+Phía sau lớp kính không phải là một chiều không gian vặn vẹo. Nó là một căn phòng vuông vức. Tường ốp nhựa vinyl kháng khuẩn màu trắng ngà. Một ô cửa sổ lớn nhìn ra bầu trời Copenhagen xám xịt nhưng chân thực – bầu trời có những đám mây trôi, không phải màn hình tivi nhiễu sóng.
+Ở giữa phòng, một chiếc giường y tế đặt những thiết bị hỗ trợ sinh tồn phức tạp. Máy thở hoạt động nhịp nhàng, bơm không khí qua một ống nhựa gợn sóng. Màn hình monitor nhấp nháy những đỉnh nhọn màu xanh lục của nhịp tim. Bíp... Bíp... Bíp...
+Trên giường là một người đàn ông quấn đầy băng gạc, cắm chằng chịt kim truyền dịch. Làn da nhợt nhạt, râu ria lởm chởm.
+Dakia nín thở. Đó là thân xác anh. Viên gạch từ tầng sáu. Bệnh viện.
+Gục đầu bên mép giường, tay nắm chặt lấy bàn tay vô hồn của cơ thể đang hôn mê, là một người phụ nữ lớn tuổi. Tóc bà đã bạc trắng phần chân, khoác chiếc áo len mỏng manh. Đôi vai bà rung lên từng nhịp lầm lũi, câm lặng.
+Mẹ anh.
+Dakia đảo mắt quanh căn phòng. Ghế sofa dành cho người nhà góc phòng trống không. Trên tủ đầu giường chỉ có một lọ hoa ly trắng. Không có áo khoác lông chồn vắt trên lưng ghế. Không có mái tóc nâu rủ xuống bên mép giường. Không có chiếc nhẫn sapphire.
+Anh nắm lấy tay nắm cửa. Lạnh ngắt. Anh nhấn chốt, đẩy mạnh.
+Tiếng ầm ĩ của thế giới Liminal sụp đổ bị cắt phăng ngay tức khắc, thay bằng mùi cồn sát trùng và mùi nhựa y tế nồng nặc. Cánh cửa Không-Có-Màu đóng sập lại, tan biến vào bức tường vôi trắng.
+Dakia bước từng bước lảo đảo về phía chiếc giường y tế. Giày anh không phát ra tiếng động trên mặt sàn nhựa. Người mẹ đang khóc không hề ngẩng lên, hoàn toàn không nhận thức được một phiên bản linh hồn của con trai mình đang đứng ngay cạnh.
+Dakia vươn tay ra. Các ngón tay anh lướt qua khoảng không, hướng về phía bàn tay đang cắm ống truyền dịch của chính thân xác mình.
+"Mình phải tỉnh lại." Anh lầm bầm, cổ họng khô khốc. "Mình phải thức dậy."
+Đầu ngón tay anh chạm vào mu bàn tay lạnh lẽo của cơ thể thực.
+Đoàng.
+Một dòng điện hàng vạn vôn giật tung vỏ não. Không gian ICU tối sầm. Lớp màng lọc ký ức cuối cùng bị xé toạc. Lần này, không còn những mảnh ghép rời rạc hay ảo giác từ sinh vật. Nó là một cuộn phim chân thực, sắc nét đến tàn nhẫn, tống thẳng vào ý thức anh.
+...
+Chiếc xe đập vào giải phân cách. Đèn pha nổ tung.
+Không gian chìm trong tiếng kính vỡ lạo xạo và tiếng xì hơi của két nước làm mát.
+Dakia mở bừng mắt. Đầu đau như búa bổ, máu ấm nóng chảy dọc chân mày. Anh không hôn mê. Dây an toàn ghim chặt anh vào ghế lái, nhưng tay chân anh vẫn cử động được.
+Anh quay đầu sang phải.
+Khu vực ghế phụ bị nghiền nát. Vợ chưa cưới của anh gục đầu trên bảng điều khiển. Cô ấy không chết ngay. Bàn tay nhỏ nhắn vướng đầy kính vỡ đang co giật yếu ớt. Khớp ngón tay cào nhẹ lên lớp da bọc ghế, tạo ra âm thanh sột soạt.
+Trong túi áo khoác của Dakia, chiếc điện thoại rung lên bần bật. Ánh sáng từ màn hình hắt ra một vùng sáng nhỏ xíu trong cabin tối tăm. Nút gọi khẩn cấp (112) nằm ngay trên màn hình khóa.
+Bàn tay phải của Dakia run rẩy thò vào túi. Anh chạm vào viền kim loại của chiếc điện thoại. Khóe môi anh khô khốc. Anh nghe tiếng thở dốc, ứ máu từ phía ghế phụ.
+"Dakia..." Một âm thanh thều thào, mỏng như tơ nhện cất lên.
+Ngón cái của anh đặt lên nút gọi.
+Nhưng rồi, mùi rượu mạch nha xộc lên mũi anh. Một luồng suy nghĩ sắc lạnh, logic và tàn nhẫn của một gã kiến trúc sư loé lên trong bóng tối: Cồn trong máu vượt ngưỡng. Án phạt tù. Bằng cấp bị tước bỏ. Tương lai của một giám đốc công ty thiết kế nát vụn. Cuộc đời anh sẽ chấm dứt đằng sau song sắt.
+Ngón cái của anh lơ lửng trên màn hình kính.
+Bàn tay bên ghế phụ co giật mạnh hơn, cố vươn về phía anh. Khớp xương gãy lìa. Máu đỏ sẫm nhỏ giọt xuống thảm lót sàn. Tí tách.
+Dakia nuốt nước bọt. Dạ dày anh co thắt.
+Anh từ từ rút tay khỏi túi áo. Trượt chiếc điện thoại sâu xuống đáy ghế. Bỏ tay ra khỏi nút gọi khẩn cấp.
+Anh nhắm nghiền mắt lại. Tựa đầu ra sau ghế. Thả lỏng cơ bắp. Anh điều chỉnh nhịp thở, để lồng ngực phập phồng đều đặn. Anh đóng kịch.
+Trong sự im lặng của đêm tuyết, Dakia nhắm mắt giả vờ bất tỉnh, nằm im lìm nghe nhịp thở ứ nghẹn của người phụ nữ anh sắp cưới thưa dần, thưa dần... rồi tắt hẳn.
+...
+Cuộn phim kết thúc.
+Dakia đổ gục xuống sàn nhựa của phòng ICU. Hai đầu gối đập mạnh xuống đất. Anh há miệng, vươn cổ ra nôn khan dữ dội. Không có thức ăn nào trào ra, chỉ có những tiếng ọe khan cào rách dây thanh quản. Mười ngón tay anh cào xé nền nhà, móng tay rớm máu.
+Không phải vụ tai nạn giao thông giam giữ tâm trí anh.
+Không phải nỗi đau mất mát đẩy anh vào Liminal.
+Sự hèn nhát tột cùng. Sự ích kỷ tàn độc ẩn sau vỏ bọc của một cơn hoảng loạn. Hắn không hề thương xót cô ấy. Hắn chỉ thương xót chính cái tương lai hoàn hảo của hắn. Hắn đã giết cô ấy bằng sự im lặng đê hèn nhất.
+Viên gạch ở công trường chỉ là một ngòi nổ vật lý tống hắn vào hôn mê. Còn chính bản thân hắn đã tự tay xây nên cái nhà tù Liminal này, bôi kín mọi lối thoát, để giấu nhẹm đi hình ảnh một gã đàn ông ngồi nhắm mắt mặc kệ vợ chưa cưới chảy máu đến chết bên cạnh mình.
+Dakia nằm cuộn tròn trên sàn nhà, hai tay bóp nghẹt cổ họng chính mình, cổ họng trào lên những âm thanh nghẹn ứ. Ngay khoảnh khắc đó, nhịp tim trên màn hình monitor bắt đầu đập loạn nhịp.
+Cơ thể thực trên giường bệnh đang phản ứng lại với sự sụp đổ của linh hồn.
 Chương 10: Vòng lặp
 Bíp... bíp... bíp...
-Âm thanh cơ học vang lên đều đặn. Chói tai. Khô khốc. Nhưng với Dakia lúc này, nó là âm thanh của sự sống.
-Mí mắt anh trĩu nặng như đeo chì. Anh dùng toàn bộ sức lực, nhíu mày và từ từ hé mở. Ánh sáng trắng từ đèn trần dội vào võng mạc khiến anh nhăn mặt. Đau đớn ập tới. Không phải cái đau trừu tượng trong tâm trí, mà là cơn đau vật lý thực sự. Lồng ngực anh bị ép chặt. Cổ họng khô rát, vướng víu bởi một dị vật.
-Anh đang đeo mặt nạ dưỡng khí.
-"Dakia? Dakia! Ôi lạy Chúa..."
-Một bàn tay ấm áp, run rẩy nắm lấy tay anh. Dakia chớp mắt, tầm nhìn dần rõ nét. Mẹ anh đang đứng bên cạnh. Bà già đi nhiều. Đôi mắt sưng húp, hằn sâu những nếp nhăn của sự tuyệt vọng nay bừng lên tia sáng. Bà áp mặt vào mu bàn tay anh, nức nở.
-Cảm giác tội lỗi như một tảng đá đè nát lồng ngực Dakia. Anh đã trở về. Thế giới Liminal chết chóc, hàng vạn cánh cửa vô nghĩa, những quái vật hình học... tất cả đã biến mất. Anh đang ở đời thực. Ở Copenhagen.
-Nước mắt ứa ra từ khóe mắt Dakia, lăn dài xuống lớp nhựa của mặt nạ dưỡng khí. Sự hối hận tột cùng cào xé ruột gan anh. Anh phải nói ra. Anh không thể tiếp tục lừa dối. Cái chết của vợ chưa cưới, sự hèn nhát của anh trong đêm mưa ấy – mọi thứ phải được phơi bày. Anh sẵn sàng trả giá. Tù đày. Sự khinh miệt. Bất cứ điều gì, miễn là anh được thoát khỏi bản án lương tâm này.
-Tiếng bước chân vội vã vang lên ngoài hành lang.
-Một vị bác sĩ mặc áo blouse trắng bước nhanh vào phòng, theo sau là một y tá.
-"Cậu ấy tỉnh rồi! Thật là một kỳ tích," bác sĩ nói, bước đến sát mép giường.
-Dakia cố gắng cử động môi. Anh phát ra những âm thanh rên rỉ nghèn nghẹt qua lớp mặt nạ. Anh muốn thú tội. Ngay bây giờ.
-"Bình tĩnh nào, cậu Dakia. Nhịp tim đang tăng quá nhanh," bác sĩ cúi xuống. "Để tôi gỡ mặt nạ ra cho cậu dễ thở hơn. Cậu an toàn rồi."
-Bàn tay đeo găng cao su của bác sĩ vươn tới, chạm vào chốt nhựa sau gáy Dakia. Mặt nạ được nhấc ra khỏi mặt. Không khí mát lạnh của phòng bệnh tràn vào phổi. Dakia hít một hơi sâu, há miệng, dồn hết sức lực để phát âm từng chữ:
-"Tôi... đã... giết..."
-Nhưng lời thú tội khựng lại nơi cuống họng.
-Dakia mở to mắt, nhìn thẳng vào khuôn mặt của vị bác sĩ đang cúi sát mình.
-Nhịp tim trên màn hình máy đo đột ngột vọt lên, biến thành một hồi còi rít dài chói lóa. Títttt!
-Không có đôi mắt nào đang nhìn anh. Không có sống mũi. Không có bờ môi đang mỉm cười trấn an.
-Khuôn mặt của vị bác sĩ chỉ là một khối phẳng lỳ. Nó bị phủ kín bởi một lớp sơn đặc quánh, ướt sũng.
+Âm thanh chát chúa của máy đo nhịp tim xé toạc màn sương mù đặc quánh trong não bộ.
+Dakia giật nảy lồng ngực. Một luồng không khí lạnh buốt, mang theo vị mặn của dung dịch muối y tế và mùi cồn sát trùng, tràn thẳng vào hai lá phổi đang khô quắt. Cảm giác nghẹt thở ập đến, chân thực đến mức anh phải vươn cổ lên, há miệng đớp khí.
+Một vật cản bằng nhựa cứng ép chặt quanh mũi và miệng anh. Mặt nạ dưỡng khí.
+Anh mở bừng mắt.
+Ánh đèn huỳnh quang từ trần nhà dội vào võng mạc khiến tầm nhìn trắng lóa trong vài giây. Khi tiêu cự mắt dần ổn định, những mảng màu mờ ảo bắt đầu kết khối. Trần thạch cao có những khe thông gió. Vách tường ốp nhựa vinyl màu trắng ngà. Tiếng gót giày y tế chạy lách cách ngoài hành lang.
+Anh đang nằm trên giường bệnh. Sức nặng của trọng lực kéo trì các thớ cơ. Đầu anh quấn một lớp băng gạc dày cộm, nhói buốt từng nhịp theo nhịp đập của quả tim.
+"Dakia... Ôi Chúa ơi, Dakia!"
+Một tiếng nấc nghẹn ngào vang lên ngay bên tai phải. Bàn tay gầy guộc, ấm nóng và run rẩy nắm chặt lấy những ngón tay đang cắm đầy kim luồn của anh. Dakia khó nhọc quay đầu sang.
+Mẹ anh. Bà tiều tụy đi nhiều so với trong ký ức cuối cùng của anh. Quầng mắt thâm quầng, nếp nhăn xô lại xót xa. Bà gục mặt xuống cánh tay anh, khóc nức nở như một đứa trẻ, những giọt nước mắt nóng hổi thấm ướt vạt áo bệnh nhân của anh.
+Cảm giác ấm áp của da thịt. Hơi thở của sự sống. Nỗi đau vật lý. Tất cả đều quá chân thực.
+Dakia nhắm nghiền mắt lại. Một giọt nước mắt trào ra từ khóe mi, lăn dài xuống lớp nhựa của chiếc mặt nạ dưỡng khí.
+Anh đã tỉnh lại. Anh đã thoát khỏi cái địa ngục Liminal vặn vẹo kia. Những cánh cửa, những con quái vật, những ảo giác phi lý đã ở lại phía sau màn sương hôn mê.
+Nhưng cùng với sự thức tỉnh, khối tội lỗi đen kịt cũng trồi lên, nặng nề đè nát buồng phổi anh. Ký ức về bàn tay đẫm máu cào xé lớp da bọc ghế. Tiếng thều thào gọi tên anh bị bỏ mặc trong tiếng rít của gió tuyết. Sự im lặng đê hèn của chính anh.
+Dakia siết nhẹ tay mẹ. Cổ họng anh phát ra những tiếng rên rỉ nghẹn ứ. Anh phải nói ra. Anh phải thú tội. Dù cho bản án có là ngục tù, dù cho cả thế giới có phỉ nhổ, anh không thể tiếp tục ôm cái bí mật nhơ nhuốc này thêm một giây phút nào nữa. Sự trừng phạt của luật pháp còn nhân từ hơn sự trừng phạt của lương tâm.
+"Bác sĩ! Con trai tôi tỉnh rồi! Xin hãy giúp nó!" Mẹ anh hoảng hốt ngẩng lên khi thấy ngực anh phập phồng dữ dội, cố gắng phát âm qua lớp mặt nạ. Bà vội vã nhấn nút gọi đầu giường.
+Tiếng bước chân gấp gáp dội vào phòng. Một người đàn ông mặc áo blouse trắng bước tới mép giường. Tiếng sột soạt của găng tay cao su y tế.
+"Bệnh nhân có dấu hiệu kích động. Để tôi gỡ mặt nạ ra kiểm tra đường thở." Giọng nam giới trầm ấm vang lên.
+Bóng của vị bác sĩ đổ xuống, che khuất ánh đèn trần. Hai bàn tay đeo găng cao su xanh chạm vào quai đeo bằng chun phía sau gáy Dakia, nhẹ nhàng nới lỏng rồi nhấc chiếc mặt nạ nhựa ra khỏi mặt anh.
+Luồng khí mát lạnh ùa vào. Dakia hé môi. Hai từ "Con giết..." chuẩn bị bật ra khỏi dây thanh quản.
+Anh mở mắt, ngước lên nhìn người đối diện để tìm kiếm sự cứu rỗi từ ánh nhìn của một đồng loại.
+Khẩu hình miệng của Dakia cứng đờ. Không khí trong phổi đột ngột đông đặc.
+Người đàn ông mặc áo blouse trắng đang cúi xuống nhìn anh. Nhưng hắn không có mắt. Không có mũi. Không có miệng.
+Toàn bộ khuôn mặt của vị bác sĩ – từ trán xuống tận cằm – là một mặt phẳng nhẵn thín. Và nó bị phủ kín bởi một lớp sơn đặc quánh, ướt sũng.
 Màu Đỏ.
-Giống hệt cánh cửa của cửa hàng tiện lợi nơi anh bước vào lần đầu tiên.
-Da đầu Dakia tê dại. Máu trong huyết quản anh đông cứng. Anh quay phắt đầu sang bên cạnh. Mẹ anh vẫn đang nắm tay anh, vẫn khóc nức nở, nhưng khuôn mặt bà cũng bị trát kín bởi một lớp sơn màu Vàng rực. Bà không có mặt. Không ai ở đây có mặt cả.
-"Không... Không thể nào..." Dakia gào lên, âm thanh vỡ vụn, run rẩy.
-Bản năng sinh tồn ép anh bật dậy, dứt phăng kim truyền dịch trên mu bàn tay. Máu rỉ ra, nhưng anh không thấy đau. Anh ném mình về phía trước, đưa mắt nhìn ra ô cửa sổ lớn của phòng bệnh.
-Anh tìm kiếm bầu trời u ám của Copenhagen. Anh tìm kiếm dòng xe cộ, những tòa nhà gạch nung.
-Nhưng bên ngoài lớp kính cửa sổ không có thành phố nào cả.
-Đập vào mắt Dakia là một hành lang trải thảm mục nát. Nó u tối, nặc mùi ẩm mốc, kéo dài sâu vào bóng tối vô cực. Và dọc theo hai bên bờ tường của cái hành lang vô tận ấy, là hàng vạn, hàng vạn cánh cửa đóng kín.
-Cửa màu Lục. Cửa màu Xám. Cửa màu Tím. Cửa màu Đen.
-Chúng xếp san sát nhau, im lìm, chực chờ được mở ra.
-Dakia lùi lại, va lưng vào bức tường phòng bệnh. Đầu gối anh khụy xuống.
+Giống hệt mặt kính của cánh cửa cửa hàng tiện lợi ở ngã tư vô thanh.
+"Suỵt..." Âm thanh xì xào phát ra từ lớp sơn đỏ ệch đang sủi bọt, không đi qua miệng, mà cộng hưởng thẳng vào bầu không khí của căn phòng.
+Da đầu Dakia tê rần. Máu trong tĩnh mạch như biến thành hàng ngàn mũi kim châm. Khớp hàm anh run lên bần bật, nhưng âm thanh thú tội đã bị nghiền nát từ trong cổ họng.
+Hắn liếc đôi mắt mở trừng trừng tột độ sang bên cạnh. Mẹ anh vẫn đang quỳ đó, nhưng hình dáng bà bắt đầu nhòe đi, những tiếng nấc của bà biến dạng thành tiếng rít vỡ vụn của đài radio mất sóng.
+Dakia ngoặt đầu nhìn về phía ô cửa sổ lớn của phòng bệnh – nơi chỉ một phút trước còn là bầu trời xanh xám của Copenhagen.
+Lớp kính trong suốt đã biến mất. Cửa sổ giờ đây là một lỗ hổng đục khoét vào không gian. Bên ngoài khung cửa đó không có bệnh viện, không có thành phố.
+Đó là một hành lang trải thảm rêu mốc, vặn vẹo và u tối. Nó kéo dài vô tận đến mức điểm tụ biến mất vào bóng tối. Dọc hai bên hành lang là hàng vạn, hàng triệu cánh cửa gỗ xếp sát rạt vào nhau. Mặt kính của chúng bị sơn đủ mọi màu sắc lốm đốm, bệnh hoạn, phồng rộp lên như những vết lở loét của không gian.
+Không khí sực nức mùi cồn sát trùng lập tức bị thay thế bởi mùi thịt rữa và mùi ozone khét lẹt.
 Anh chưa từng tỉnh lại.
-Cánh cửa kính trong suốt anh vừa bước qua không dẫn về thế giới thực. Nó chỉ là một lớp ngụy trang tinh vi hơn. Căn phòng hồi sức tích cực này, vị trí này, cảm giác đau đớn này... tất cả chỉ là một không gian khác, nằm sau một cánh cửa khác, trong cái thế giới Liminal khổng lồ do chính não bộ anh tự sinh ra.
-Tâm trí anh đã tạo ra một "mộng trung mộng". Nó cho anh ảo tưởng về sự thức tỉnh, ảo tưởng về việc đối mặt với sự thật, chỉ để khóa anh chặt hơn vào mê cung.
-Sự chối bỏ quá lớn. Anh không bao giờ có thể tự mình thức dậy.
-Bác sĩ mặt Đỏ và người mẹ mặt Vàng từ từ tiến lại gần anh. Họ không tấn công. Họ chỉ đứng nhìn anh bằng những mảng sơn đặc quánh, vô hồn.
-Hình phạt lớn nhất dành cho kẻ trốn tránh sự thật không phải là cái chết. Hình phạt lớn nhất là hắn sẽ mãi mãi tự nhốt mình trong những mê cung do chính hắn xây nên, không ngừng hy vọng rồi lại rơi vào tuyệt vọng, vĩnh viễn không có lối thoát.
-Giữa căn phòng chật hẹp, Dakia há hốc miệng. Đôi mắt anh trừng lớn, phản chiếu lại hàng vạn cánh cửa sơn màu từ ngoài cửa sổ.
-Một tiếng la hét xé rách lồng ngực anh.
-Nhưng trong thế giới này, sự vắng lặng mới là quy luật. Tiếng thét của Dakia bị nuốt chửng hoàn toàn.
-Không một âm thanh nào phát ra.` },
+Cánh cửa trong suốt không màu mà anh lầm tưởng là lối ra thực tại... thực chất chỉ là một lớp vỏ bọc tinh vi nhất. Căn phòng ICU này, cảm giác đau đớn này, những giọt nước mắt này... tất cả chỉ là một không gian nằm sau một cánh cửa khác trong cái cấu trúc Liminal vô tận do chính bộ não anh thiết kế.
+Hắn tưởng đã chạm tới sự thật để được giải thoát, nhưng sự thật đó lại chỉ là một món mồi nhử để ném hắn vào một vòng lặp sâu hơn.
+Bởi vì Kiến trúc sư của thế giới này là sự Chối Bỏ. Và hình phạt tàn khốc nhất cho kẻ hèn nhát không dám đối mặt với tội ác, không phải là sự phán xét của một phiên tòa rực sáng.
+Hình phạt lớn nhất, là hắn sẽ vĩnh viễn bị giam cầm trong chính những mê cung dối trá do mình tự tay xây dựng lên. Tầng tầng lớp lớp. Cửa nối tiếp cửa. Không bao giờ có điểm dừng.
+Khuôn mặt màu Đỏ của vị bác sĩ từ từ ghé sát vào tai Dakia. Khung cảnh phòng bệnh bắt đầu sụp đổ, những bức tường tan chảy thành dòng hắc ín đặc quánh.
+Dakia há miệng hết cỡ, cơ cổ căng hằn những đường gân xanh ngắt. Anh thét lên. Một tiếng thét chứa đựng toàn bộ sự kinh hoàng, hối hận và tuyệt vọng của một linh hồn bị đày đọa vĩnh hằng.
+Nhưng trong cái thế giới bị tước đoạt sự sống này, tiếng thét ấy không thể tạo ra bất kỳ gợn sóng âm thanh nào.
+Chỉ có một sự câm lặng vĩnh cửu.` },
     ]
 };
