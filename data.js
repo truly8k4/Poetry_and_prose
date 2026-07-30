@@ -2491,7 +2491,7 @@ Cuộc sơ tán dài nửa thế kỷ, cuối cùng, cũng đã kết thúc.` },
         { title: "Bước qua cánh cửa", content: `[ Bước qua cánh cửa ]
 Chương 1: Giao lộ vô thanh và cánh cửa đỏ
 Tiếng mưa xối xả đập vào mặt nhựa đường Copenhagen tắt ngấm. Không có sự nhỏ dần nào. Nó bị cắt đứt. Giống như ai đó vừa rút phích cắm của một chiếc đài radio.
-Trước đó, Dakia chỉ nhớ mùi bêtông ướt. Cần cẩu số ba xoay trục. Một tiếng thét chói tai từ tầng sáu. Cảm giác va đập không mang theo đau đớn ngay lập tức, mà là một lực ép nghẹt thở giáng thẳng xuống đỉnh đầu, bất chấp lớp nhựa tổng hợp cứng cáp của chiếc mũ bảo hộ. Một tiếng "rắc" khô khốc âm vang trong hộp sọ. Rồi hắc ín. Rồi bóng tối.
+Trước đó, Dakia chỉ nhớ mùi bê-tông ướt. Cần cẩu số ba xoay trục. Một tiếng thét chói tai từ tầng sáu. Cảm giác va đập không mang theo đau đớn ngay lập tức, mà là một lực ép nghẹt thở giáng thẳng xuống đỉnh đầu, bất chấp lớp nhựa tổng hợp cứng cáp của chiếc mũ bảo hộ. Một tiếng "rắc" khô khốc âm vang trong hộp sọ. Rồi hắc ín. Rồi bóng tối.
 Anh chớp mắt.
 Đế giày da lạo xạo trên mặt đá cuội. Dakia đứng thẳng người, hai bàn tay vô thức đưa lên sờ nắn đỉnh đầu. Không có máu. Không có vết lõm. Không có chiếc mũ bảo hộ nào cả. Anh đang mặc chiếc áo măng-tô màu ghi nhạt, loại áo anh thường khoác khi rời văn phòng kiến trúc sư vào những chiều muộn.
 Dakia lia mắt nhìn quanh. Một ngã tư. Bốn ngả đường rải đá cuội vươn dài rồi nuốt chửng bởi sương mờ ở phía xa. Hai bên phố là những dãy nhà xây bằng gạch nung đỏ rực, kiểu kiến trúc cổ điển của Bắc Âu với những bậu cửa sổ trạm trổ và ban công bằng sắt uốn. Những ngọn đèn đường đúc gang vẫn đang sáng, hắt xuống mặt đường những vũng ánh sáng vàng vọt, quánh đặc.
