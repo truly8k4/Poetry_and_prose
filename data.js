@@ -575,6 +575,27 @@ Tôi nhớ lời ai bên thềm trước
 Ba dặm người vây kín trời Thu
 Lắm lúc chỉ muốn mộng du
 Bên người mãi ấy, yên ru tháng ngày!` },
+        { title: "Điểm mù", content: `Giấu đô thị, ta trôi thành dĩ vãng,
+Chạm tay vào, rớt lại một khoảng không.
+Câu xin lỗi đã tan vào buổi sáng,
+Mắt hững hờ lướt vội giữa đám đông.
+
+Có giọt đắng vừa rơi vào quên lãng,
+Có cơn gió khẽ lạnh buốt bờ vai.
+Có người bước nghe tim mình quặn thắt,
+Mất thứ gì... một vết phủ mờ phai
+
+Đành vậy nhé, cán cân chìm đáy tối,
+Trả cho người một hơi thở bình minh.
+Ta xin bán cả một thời nông nổi,
+Đổi một đời làm sinh thể lặng thinh.
+
+Cứ an yên bước về miền rực rỡ,
+Ngã tư này vĩnh viễn chẳng đường giao.
+Ta ngoảnh mặt, giấu đi ngàn mảnh vỡ,
+Một hình bóng... không nhớ nổi năm nào.
+
+(Lời kết cho tiểu thuyết "Định luật lãng quên")` },
     ],
     tanVan: [
         { title: "Mưa ngủ - Mây mơ", content: `_1_
