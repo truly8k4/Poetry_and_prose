@@ -739,9 +739,10 @@ _2_
 
 "Đôi khi nhầm một chuyến xe, lại đưa chúng ta về nơi muốn đến". Andiez đã viết lên những lời nhạc mà chính mình cũng rất cảm phục. Ba mình dẫn chị mình đi bắt dế cơm, loại này là loại dế mà ta có thể ăn được, chiên giòn lên và cuộn xà lách chấm mắm ớt, tuyệt hảo! Mình ban đầu nghĩ đi bắt dế khá dễ, bởi mình cũng hay bắt được, nhưng được là bởi mình chỉ bắt đơn, còn một bữa ăn thì phải hàng chục con trở lên, đó là điều không thể với mình lúc đó.
 
-Nhưng với cái tôi cao hơn núi đá vôi của mình lúc đó, mình liền xách công cụ đi bắt dế, thoạt đầu thì bắt được vài chú dế mèn, thoạt sau xui xẻo bắt được thêm một mớ dế mèn nữa, buồn làm sao khi loại này không ăn được nên có bắt cũng đành thả đi thôi. Khóc một hồi, than lỗi do ba đã bắt sạch khu đó, mình liền đi tới xó xỉnh nào, vừa đi vừa khóc như muốn mấy con dế thương cảm và tự chui vào giỏ đựng của mình.
+Nhưng với cái tôi của mình lúc đó, mình liền xách công cụ đi bắt dế, thoạt đầu thì bắt được vài chú dế mèn, thoạt sau xui xẻo bắt được thêm một mớ dế mèn nữa, buồn làm sao khi loại này không ăn được nên có bắt cũng đành thả đi thôi. Khóc một hồi, than lỗi do ba đã bắt sạch khu đó, mình liền đi tới xó xỉnh nào, vừa đi vừa khóc như muốn mấy con dế thương cảm và tự chui vào giỏ đựng của mình.
 
 Đi đến hồi chân mỏi, quay lại đám đất trống chưa trồng hoa màu của nhà bên, nói là nhà bên nhưng ở đây là miền rẫy nương, rất rộng và cách xa nhau. Trên đầu trái đào (điều) rơi bụp xuống đầu mình, tự giọt nước tràn ly, mình không đi đào nữa, lững thững lối mòn ngoảnh về. Rồi xa xa, một khúc gỗ hương khá lớn, lúc đó mình không biết nó dùng để làm gì, chỉ biết nó khá đắt và hiếm so với gỗ thông thường, mình liền lôi về nhà, tấm thân này chưa đủ nặng trĩu sao?
+
 Lê lết đi về, thân mình thì bê bết, người thì cười lớn, muốn cười thì cười, dù sao cũng đã cố rồi, khóc cũng đã khóc rồi! 
 
 - "Mày đem đâu khúc hương này về vậy?" --"Xa lắm. Bên kia kìa!" - "Rồi mắc gì mày qua đó lôi cái này về dậyy?"
