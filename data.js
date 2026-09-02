@@ -3793,26 +3793,29 @@ Chương 12: Bánh răng quay ngược
 Bầu không khí xung quanh cái giếng gang rỉ sét như bị rút kiệt. Gió Viễn Đông mang theo hơi buốt cũng ngừng rít. Ông lão trưởng ga lảo đảo lùi lại nửa bước rồi hai đầu gối khuỵu hẳn xuống lớp đá dăm lởm chởm. Những mảnh đá nhọn hoắt cứa vào nếp quần vải thô sờn cũ nhưng ông chẳng màng bận tâm. Đôi môi bợt bạt, nứt nẻ của người đàn ông già cả rùng lên từng nhịp đứt quãng, cố gắng chắp vá những thanh âm nghẹn ngào.
 "Hai mươi ba năm trước..." Giọng ông lão mỏng dính, vỡ vụn hệt như một chiếc lá sồi khô khốc bị gót giày nghiến nát. "Một đêm bão tuyết mù mịt... Có một thằng bé bản địa đã bám theo lốp chiếc xe ngựa chở than để trốn khỏi cái làng chết đói... Chiếc xe tàn tạ, do một con ngựa mù một mắt oằn lưng kéo..."
 Người trưởng ga ngước lên. Nước mắt trào ra từ hai hốc mắt sâu hoắm, đục ngầu, chảy tràn qua những nếp nhăn xếp lớp xô lệch trên gò má.
-"Thằng bé đó... nó cũng phát âm chữ 'R' y hệt như cậu vừa nói."
-Cục xà phòng tơi tả tuột khỏi lòng bàn tay Ilya. Chiếc khăn lau đẫm bọt rơi đánh thịch xuống vũng bùn lầy lội dưới chân.
-Những mảnh vỡ ký ức chắp vá, méo mó từng bị chôn vùi dưới muôn vàn lớp than đá nay ồ ạt đội mồ sống dậy. Chúng va đập vào nhau chan chát. Bãi bùn lầy ngập ngụa. Con ngựa già khọm mù lòa. Tiếng vút roi xé gió tàn nhẫn. Từng mảng màu u ám, rời rạc rốt cuộc đã khớp nối lại thành một bức tranh hoàn chỉnh, tàn nhẫn cào xé tâm trí. Cỗ máy thời gian vô hình lẩn khuất trong đầu gã thợ máy vĩ đại đột ngột bị giật ngược bánh răng, điên cuồng lùi về quá khứ.
-Ilya đứng lặng im, trân trân nhìn ông lão một lúc thật lâu.
-Anh không phải người Moscow. Cái hộ tịch đăng ký ở trạm số bốn thủ đô sầm uất lấp lánh ánh đèn rốt cục chỉ là một tờ giấy lộn dối trá. Anh là đứa trẻ của rừng Taiga. Một mầm sống nhơ nhuốc chạy trốn khỏi nạn đói năm xưa, tự tay lột bỏ lớp da thịt cội nguồn để khoác lên mình thứ vỏ bọc văn minh kiêu hãnh của chốn thành thị. Suốt ngần ấy năm, anh cặm cụi dùng bụi than bít kín lỗ chân lông. Dùng tiếng ồn đinh tai nhức óc của động cơ hơi nước để đập nát tiếng gọi của núi rừng, tự tẩy não chính mình hòng chôn vùi nỗi đau rứt ruột rứt gan ngày bỏ xứ.
-Tiếng xình xịch của con quái vật sắt thép vang lên phía sau lưng bỗng trở nên rỗng tuếch. Nó chẳng còn mang thứ uy lực gầm gào thống trị như trước. Lúc này, lọt vào màng nhĩ anh chỉ thuần túy là những nhịp va đập vô hồn, khô khốc của đám kim loại vô tri vô giác.
+"Thằng bé đó... nó cũng phát âm chữ 'R' y hệt như cậu vừa nói. Và nó có một vết bớt hình cây thông gãy trên vai."
+Cục xà phòng trong tay Ilya khựng lại. Nước lạnh buốt vẫn rỏ tong tong từ mái tóc bết dính xuống sống lưng, nhưng anh không còn cảm thấy lạnh. Một cơn ớn lạnh khác, sâu thẳm và đáng sợ hơn, vừa vươn vòi bạch tuộc siết chặt lấy thanh quản anh.
+Ảo ảnh về bãi bùn lầy lội, cỗ xe gỗ gãy vụn và con ngựa mù lòa vừa chớp tắt ở trạm bơm nước hôm qua lại ập về. Chúng cào xé màng nhĩ anh bằng tiếng vút roi xé gió.
+Nhưng rồi, cơ chế phòng vệ được rèn giũa suốt hơn hai thập kỷ giữa tiếng búa đe chát chúa của xưởng cơ khí thủ đô bỗng chốc gồng lên phản kháng. Trùng hợp. Một giọng nói lạnh lẽo, gai góc vang lên trong đầu gã thợ máy. Ở cái xứ khốn kiếp này, năm nào nạn đói chẳng đẩy hàng ngàn đứa trẻ lên xe chở than? Mù lòa hay gãy chân, ngựa nghèo ở đâu chẳng thế? Còn cái bớt... chỉ là một mảng hắc tố dị dạng ngu ngốc do xác suất sinh học thêu dệt nên.
+Sự hoài nghi giương lên tấm khiên kiên cố nhất. Ilya không dám, và cũng không muốn tin. Anh đã là Ilya của Moscow. Anh là người nắm giữ sinh mệnh của cỗ máy vĩ đại nhất đế quốc này. Lột bỏ lớp vỏ bọc ấy đi, anh chẳng còn gì ngoài một khoảng không trống rỗng, mục nát.
+Ilya cúi xuống, nhặt vội chiếc áo bảo hộ bằng bạt rách bươm, bám đầy bùn đất vắt lên vai, che lấp đi vết bớt sẫm màu. Vải bạt ướt sũng, lạnh ngắt ốp vào da thịt khiến anh khẽ rùng mình, nhưng cái lạnh vật lý ấy giúp anh tỉnh táo lại.
+Anh nhìn xuống ông lão đang quỳ trên nền tuyết, ánh mắt màu xám tro lấy lại vẻ dửng dưng, cằn cỗi quen thuộc.
+"Ở vùng Viễn Đông chó đẻ này, ngày nào chẳng có chục thằng ranh chết gục trên đường ray hở ông già?" Ilya nhếch mép, giọng nói trầm đục, vang lên đều đều. "Giữ lấy những câu chuyện cổ tích ướt át của ông mà kể cho lũ quý tộc rửng mỡ ở toa hạng nhất ấy. Chúng nó thích nghe lắm."
+Không đợi ông lão phản ứng, Ilya lách người bước qua mớ dụng cụ vương vãi.
 "Chú Ilya!"
-Một tiếng gọi lanh lảnh xé toạc mớ suy nghĩ ngổn ngang. Thằng bé trốn vé lạch bạch chạy từ trên bậc thềm đầu máy xuống. Đôi giày quá khổ giẫm lạo xạo trên mặt tuyết. Nó lao đến, hai tay túm chặt lấy vạt quần bạt ướt sũng của Ilya, lay lay liên hồi.
-"Lên tàu thôi chú! Lão thanh tra độc ác kia đang đi tìm chú lôi thôi kìa!"
-Ilya cúi đầu. Giữa khung cảnh xám ngoét của ga xép tồi tàn, anh nhìn xuống hình hài bé nhỏ đang nép sát chân mình. Vạt áo bông vá chằng vá đụp, đôi bàn tay gầy nhom bám đầy nhọ nồi. Chẳng cần phải kiếm tìm đâu xa, anh thấy trọn vẹn hình bóng chính mình của hai mươi ba năm về trước đang đứng đó, lấm lem và đầy sợ hãi.
-Bàn tay to lớn, ướt đẫm nước lạnh vươn ra. Anh khẽ khàng đặt lòng bàn tay thô ráp xoa nhẹ lên mái tóc xơ xác đầy bụi than của thằng bé.
-Không nói một lời, Ilya cúi người xuống. Anh nhặt từng chiếc cờ lê, kìm sắt vương vãi trên nền tuyết, xếp gọn gàng vào hộp dụng cụ tôn rỉ sét của ông lão trưởng ga. Xách chiếc hộp nặng trịch lên, anh quay gót, chậm rãi sải bước về phía đầu tàu.
-Grigori đang lóng ngóng đứng tựa vào cửa buồng lái, ngơ ngác nhìn bộ dạng trần trụi nửa thân trên của người đàn anh.
-Ilya vung tay, dúi mạnh chiếc hộp dụng cụ vào ngực gã thợ phụ.
-"Cậu lái nó về Moscow đi, Grigori."
-Anh buông lời, thản nhiên quay lưng lại với cỗ máy khổng lồ mà mình đã bán mạng gắn bó vắt kiệt mồ hôi.
-Grigori luống cuống ôm lấy hộp đồ nghề, cuống cuồng gọi giật lại. "Anh điên à? Anh đi đâu giữa cái chốn khỉ ho cò gáy này?"
-Ilya không dừng bước. Đôi bốt da bò đều đặn đạp lên nền tuyết trắng, rẽ ra một lối đi thẳng tắp.
-"Tôi hết ca trực rồi. Tạm biệt!"
-Một hồi còi dài sắc lẹm rú lên xé rách bầu trời u ám. Đầu máy rùng mình vặn bánh, ống khói xả ra một cột bụi đen đặc quánh mù mịt che lấp không gian. Cỗ xe kéo theo những toa hành khách nặng nề lăn bánh, tiếp tục hành trình vô tận lao về phương Đông xa xôi.
-Sân ga tồi tàn thoắt cái trở nên vắng lặng. Lớp tuyết trắng xóa cuộn lên theo từng đợt gió rít vùn vụt. Nơi đó chỉ còn lại một người đàn ông để trần nửa thân trên, mang trên vai hình dáng tán thông của đất mẹ, sừng sững chôn chân giữa cuồng phong. Anh nhắm mắt đón trọn hơi lạnh lan tỏa khắp da thịt. Không cần phải gồng mình chạy trốn thêm một phút giây nào nữa. Rốt cuộc, cỗ máy hỗn loạn bên trong lồng ngực anh đã tìm thấy bến đỗ bình yên.` },
+Một tiếng gọi lanh lảnh xé toạc không gian. Thằng bé đi lậu vé lạch bạch chạy từ trên bậc thềm đầu máy xuống. Đôi giày quá khổ giẫm lạo xạo trên mặt tuyết. Nó lao đến, hai tay túm chặt lấy vạt áo bạt rách của Ilya, đảo mắt nhìn dáo dác.
+"Lên tàu thôi chú! Lão thanh tra béo ịch kia đang gõ gậy đi tìm chú kìa. Cháu nấp trên nóc toa, lão xém thì tóm được cháu!"
+Ilya cúi đầu nhìn sinh linh bé nhỏ, bẩn thỉu đang nép sát vào chân mình. Một tia mềm mỏng xẹt qua đáy mắt gã thợ máy vạm vỡ, nhưng bị đè nát ngay tức khắc. Anh vươn bàn tay thô ráp, xoa mạnh lên mái tóc rối bù đầy bụi than của thằng bé, đẩy nhẹ nó về phía đoàn tàu.
+"Rúc sâu vào khoang chứa phụ ấy. Đừng có để tiếng ngáy của mày lọt ra ngoài, tao ném thẳng xuống gầm tàu đấy, rõ chưa?"
+Thằng bé gật đầu cái rụp, co cẳng chạy biến vào trong bóng tối của cỗ máy thép.
+Ilya sải bước về phía buồng lái. Grigori đang lóng ngóng đứng trước nắp van xả rạn nứt, không biết làm sao với luồng hơi nóng đang phụt ra từng đợt phì phò.
+"Cờ lê cữ lớn đâu?" Ilya quát khẽ, gạt phăng gã thợ phụ sang một bên.
+Anh chồm tới, ngậm chặt quai hàm, dùng đôi bàn tay trần đầy vết chai sạn vặn nghiến con ốc khóa. Hơi nước nóng rẫy xì ra, tạt thẳng vào mảng da thịt trần trụi trước ngực, nhưng Ilya không hề chớp mắt. Tiếng kim loại rít lên chát chúa dưới sức lực cơ bắp cuồn cuộn. Một tiếng "cạch" chắc nịch vang lên. Van xả đã được đóng kín. Áp suất ổn định trở lại.
+Sự lao động chân tay thô bạo, mùi dầu mỡ và nhiệt độ hầm hập của buồng hơi dần bọc kín lấy Ilya, đưa anh trở về với vương quốc thực tại của mình.
+"Cấp đủ than đi! Chúng ta muộn mười lăm phút rồi!" Ilya ra lệnh, bàn tay nắm lấy cần gạt khởi động.
+Một hồi còi dài sắc lẹm rú lên xé rách bầu trời u ám của dãy Viễn Đông. Đầu máy rùng mình vặn bánh, ống khói xả ra một cột bụi đen đặc quánh mù mịt che lấp không gian. Cỗ xe kéo theo những toa hành khách nặng nề lăn bánh, bỏ lại trạm xép tồi tàn, bỏ lại cái giếng gang rỉ sét và cả ông lão trưởng ga vẫn đang đứng chết lặng giữa làn mưa tuyết lất phất.
+Bên trong buồng lái, Grigori hì hục xúc từng xẻng than ném vào lò. Ilya đứng bất động trước bảng điều khiển. Bàn tay anh siết chặt vô lăng bằng đồng.
+Đoàn tàu lại nghiến bánh trên đường ray, lao về phương Đông xa xôi. Khung cảnh rừng Taiga rậm rạp trôi tuột qua ô cửa sổ bám đầy muội than. Lẽ ra lúc này, tiếng ồn ào của động cơ phải giúp Ilya chôn vùi mọi tạp âm trong đầu như nó vẫn làm suốt hai mươi năm qua. Nhưng không. Lần đầu tiên trong đời gã thợ máy vĩ đại, tiếng pít-tông đập rầm rập không còn là một tấm khiên vững chãi nữa. Nó giống hệt những tiếng gõ nhịp lặp đi lặp lại của một chiếc lồng sắt bủa vây lấy anh.
+Mảng da trên bả vai trái nơi có vết bớt hình cây thông gãy bỗng trở nên ngứa ngáy, ran rát. Ilya khẽ nghiêng đầu nhìn ra màn sương trắng xóa ngoài cửa sổ. Anh vẫn làm công việc của mình, vẫn là một bánh răng hoàn hảo đẩy cỗ máy tiến về phía trước. Nhưng ở một khoảng không tối tăm vô định sâu thẳm trong lồng ngực, có một thứ gì đó vừa nứt toác ra, mãi mãi không thể nào hàn gắn lại được.` },
     ]
 };
