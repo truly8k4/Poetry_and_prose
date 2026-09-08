@@ -3817,7 +3817,7 @@ Một hồi còi dài sắc lẹm rú lên xé rách bầu trời u ám của d�
 Bên trong buồng lái, Grigori hì hục xúc từng xẻng than ném vào lò. Ilya đứng bất động trước bảng điều khiển. Bàn tay anh siết chặt vô lăng bằng đồng.
 Đoàn tàu lại nghiến bánh trên đường ray, lao về phương Đông xa xôi. Khung cảnh rừng Taiga rậm rạp trôi tuột qua ô cửa sổ bám đầy muội than. Lẽ ra lúc này, tiếng ồn ào của động cơ phải giúp Ilya chôn vùi mọi tạp âm trong đầu như nó vẫn làm suốt hai mươi năm qua. Nhưng không. Lần đầu tiên trong đời gã thợ máy vĩ đại, tiếng pít-tông đập rầm rập không còn là một tấm khiên vững chãi nữa. Nó giống hệt những tiếng gõ nhịp lặp đi lặp lại của một chiếc lồng sắt bủa vây lấy anh.
 Mảng da trên bả vai trái nơi có vết bớt hình cây thông gãy bỗng trở nên ngứa ngáy, ran rát. Ilya khẽ nghiêng đầu nhìn ra màn sương trắng xóa ngoài cửa sổ. Anh vẫn làm công việc của mình, vẫn là một bánh răng hoàn hảo đẩy cỗ máy tiến về phía trước. Nhưng ở một khoảng không tối tăm vô định sâu thẳm trong lồng ngực, có một thứ gì đó vừa nứt toác ra, mãi mãi không thể nào hàn gắn lại được.` },
-        { title: "Bên kia hồ nước - Ngoại truyện", content: `Bên kia hồ nước - Ngoại truyện
+        { title: "Bên kia hồ nước - NT", content: `Bên kia hồ nước - Ngoại truyện
 Chương 1: Mùi cà phê giấy lọc
 Trời Lahti tháng Mười mang màu xám lạnh ngắt. Gió từ hồ Vesijärvi thổi thốc vào trung tâm thành phố, mang theo hơi ẩm ướt của những chiếc lá rụng đang rữa ra trên mặt nhựa đường. Janne đỗ chiếc Saab 900 cũ sát vỉa hè cạnh bến xe trung tâm rồi tắt máy. Tiếng động cơ chìm nghỉm vào không gian tĩnh lặng của buổi chiều muộn. Mọi người trên phố đều di chuyển thật nhanh, rúc sâu cằm vào cổ áo khoác dạ.
 Janne nhìn đồng hồ. Chuyến xe khách từ biên giới phía Đông vừa bẻ lái vào bãi đỗ.
