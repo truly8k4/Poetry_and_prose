@@ -596,6 +596,40 @@ Ta ngoảnh mặt, giấu đi ngàn mảnh vỡ,
 Một hình bóng... không nhớ nổi năm nào.
 
 (Lời kết cho tiểu thuyết "Định luật lãng quên")` },
+        { title: "Karelian", content: `Gió lạnh tràn qua rặng bạch dương
+Mặt hồ phủ kín lớp mù sương
+Rìu vung, chèo gõ, lò nhen lửa
+Băng nứt ầm vang xé dặm trường
+
+Đại bác phương Đông bỗng dội tới
+Đạn bom cày xới nát vùng quê
+Bánh mì bỏ lại trong lò gạch
+Bão tuyết đi đày buốt tái tê
+
+Khói lửa vừa tan, vội trở về
+Cửa nhà sụp đổ, cảnh hoang mang
+Nhặt từng viên gạch nề ống sưởi
+Gắn chặt linh hồn giữa trái ngang
+
+Năm bốn mươi tư mang bão đạn
+Xe tăng nghiền nát đời lang thang
+Cửa sồi xô ngỏ, đi không khóc
+Bỏ lại quê hương, quá muộn màng!
+
+Đất khách sỏi khô, hồn sông ấy
+Ngư ông đan lưới giữa hư không
+Thợ bào tay nát, dầm rớm máu
+Chết ngạt trên bờ giữa tiết đông
+
+Nửa thế kỷ sau trở về trước
+Rừng già nuốt chửng cả làng quê
+Bệ lò lọt thỏm màu xây xước
+Nắm đất quê người vỗ giấc mê
+
+Đời cháu giờ đây chốn thị thành
+Đèn pha, ván ép sáng long lanh
+Bào xưa rỉ sét thành nghệ thuật
+Ký ức ngủ vùi giấc mỏng manh.` },
     ],
     tanVan: [
         { title: "Mưa ngủ - Mây mơ", content: `_1_
