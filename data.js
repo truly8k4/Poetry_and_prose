@@ -628,7 +628,7 @@ Nắm đất quê người vỗ giấc mê
 
 Đời cháu giờ đây chốn thị thành
 Đèn pha, ván ép sáng long lanh
-Bào xưa rỉ sét thành nghệ thuật
+Bào xưa rỉ sét thành vật kỷ
 Ký ức ngủ vùi giấc mỏng manh.` },
     ],
     tanVan: [
