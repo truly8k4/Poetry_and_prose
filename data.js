@@ -4181,5 +4181,356 @@ Tro bụi lại hóa mầm xanh
 Vòng đời khép mở, chòng chành hư vô
 Năm ngày phá vỡ nấm mồ
 Còn hơn thế kỷ nằm khô giữa đời.` },
+        { title: "Định luật lãng quên – TT", content: `[ Định luật lãng quên – Tiền truyện: Bản tình ca luân hồi ]
+Chương 1: Tiếng đàn trong cõi chết
+Bầu trời vỡ ra thành những mảng xám ngoét. Không có mặt trời. Không có khái niệm về thời gian, ngoại trừ nhịp điệu thối rữa của xác thịt.
+Tích. Tích.
+Mùi máu tanh tưởi quánh lại, đặc sệt. Gió rít qua những khe núi khô cằn, mang theo hơi lạnh buốt xương và mùi rỉ sét của một kỷ nguyên tăm tối. Chiến tranh. Nạn đói. Dịch bệnh. Nhân loại tự vứt bỏ vỏ bọc văn minh để trở về với bản năng nguyên thủy nhất: Xâu xé và sinh tồn. Xác người chết không được chôn cất. Chúng xếp chồng lên nhau thành những ngọn đồi câm lặng. Trắng bệch. Trương phình. Lỗ chỗ những vết thương hở toác, đen ngòm đọng đầy máu ứ.
+Đàn quạ đen sà xuống. Mỏ nhọn hoắt mổ nát những hốc mắt trống rỗng. Lũ chó hoang gầm gừ, nhe nanh tước đoạt từng mảng thịt thối rữa. Cỗ máy tự nhiên đang dọn dẹp mặt đất. Nó hoạt động trơn tru. Lạnh tanh. Không có ngoại lệ.
+Từ trên một mỏm đá nhô cao, một con cáo lông đỏ nhạt ngồi tĩnh tọa.
+Nó khác biệt.
+Đồng loại của nó đang điên cuồng vục mõm vào vũng lầy nội tạng dưới thung lũng. Chúng gào rống, cắn xé lẫn nhau để tranh giành phần thức ăn thừa thãi. Con cáo đỏ nhạt thì không. Đôi mắt nó màu hổ phách, phẳng lặng như một mặt hồ cạn kiệt. Nó nhìn xuống đồi xác chết. Nó không thấy sự bi thương. Nó chỉ thấy những phương trình vật lý đang tự giải quyết. Sinh vật hết năng lượng. Xác thịt phân rã. Trở thành chất bù đắp cho sinh vật khác. Cân bằng. Sòng phẳng. Sự "linh tính" bên trong vỏ não nó đang thành hình. Nó nhận thức được sự vận hành của một quy luật vô hình đè nặng lên vạn vật.
+Mùa đông ập đến. Khắc nghiệt. Tàn nhẫn.
+Nhiệt độ hạ xuống mức đóng băng. Đất đai khô nứt nẻ nay cứng lại thành những lưỡi dao. Tuyết rơi. Những hạt tuyết màu xám tro, mang theo bụi bẩn của xác người, phủ kín vạn vật.
+Sự sống bị ép đến giới hạn cuối cùng. Không còn thức ăn. Cơn đói cào xé dạ dày.
+Một buổi chiều. Tiếng dây cung nảy lên khô khốc.
+Phập.
+Mũi tên sắt có ngạnh đâm xuyên qua lớp lông đỏ nhạt, găm phập vào giữa hai rẻ xương sườn của con cáo. Động lượng của mũi tên hất văng cơ thể nó đập mạnh vào gốc cây khô.
+Không có tiếng tru tréo. Không có tiếng rên rỉ van xin. Sự đau đớn ngay lập tức được mã hóa thành các phản ứng sinh học. Khớp xương căng cứng. Các bó cơ bụng co rút liên hồi. Tủy sống tê rần. Máu nóng ứa ra, đỏ rực, trào qua mép vết thương, nhỏ giọt xuống nền tuyết trắng. Mùi rỉ sét từ đầu mũi tên hòa quyện với mùi tanh nồng của huyết quản.
+Con cáo gượng đứng dậy. Bốn chân run rẩy. Nó lết từng bước nặng nhọc về phía bờ suối cạn. Tầm nhìn mờ dần. Màng nhĩ ù đi. Nó gục xuống bên cạnh tảng đá bám đầy rêu khô. Bụng nó phập phồng những nhịp ngắn, đứt quãng. Nhịp tim chậm dần. Tích. Tắc. Sự sống đang tuột khỏi cơ thể nó, hòa vào hư vô. Nó nhắm mắt. Chấp nhận. Cỗ máy sinh tử sắp sửa đưa nó lên bàn cân.
+Tiếng bước chân lạo xạo vang lên.
+Một bóng người xuất hiện. Lam.
+Gã là một lang băm tồi tàn của một thời đại sắp lụi tàn. Quần áo gã là những mảnh giẻ rách chắp vá, đen sì cáu bẩn. Làn da bọc lấy bộ xương gầy guộc. Hơi thở gã phả ra những cụm khói đục ngầu, mệt nhọc. Dạ dày gã đang thắt lại từng cơn đau điếng. Gã đói. Gã cần lượng calo để duy trì nhiệt độ cơ thể trong đêm nay.
+Tầm mắt Lam dừng lại ở con cáo đang thoi thóp. Một nguồn thịt tươi. Một sự gia hạn sinh mệnh.
+Gã rút con dao găm dắt bên hông. Lưỡi kim loại ma sát với vỏ bao bằng da thú tạo ra một thứ âm thanh ken két, chói tai. Gã bước tới. Vung tay lên.
+Con cáo mở đôi mắt hổ phách. Nó nhìn thẳng vào mặt gã. Không hoảng loạn. Không vùng vẫy. Đôi mắt ấy phản chiếu sự trống rỗng thuần túy của vũ trụ. Cứ đâm đi. Tao chết. Mày sống. Ngang giá.
+Lưỡi dao khựng lại giữa không trung.
+Lam nhìn chằm chằm vào đôi mắt đó. Sự tĩnh lặng của con thú đâm xuyên qua lớp vỏ bọc chai sạn của gã. Lần đầu tiên, một thứ logic dị biệt nảy sinh trong tâm trí gã lang băm. Một sự phản kháng vô thức trước cỗ máy nhai nuốt của đất trời.
+Gã từ từ hạ tay xuống. Con dao được cắm phập vào nền đất buốt giá.
+Lam móc trong tay nải ra một nhúm lá khô mục nát. Chút thảo dược cuối cùng gã giữ lại để tự cứu mạng mình. Gã đưa lá vào miệng. Nhai nát. Vị đắng chát xộc lên tận vỏ não, tê rần cuống lưỡi. Gã áp bàn tay lạnh ngắt, nứt nẻ đầy những vết chai sần lên sườn con cáo. Rút mạnh mũi tên sắt ra.
+Máu đen hộc ra khỏi vết thương.
+Lồng ngực con cáo co giật dữ dội. Lam không chớp mắt. Gã ấn chặt nhúm bã thảo dược vào lỗ thủng trên da thịt nó. Dùng một dải vải xé từ ống tay áo rách bươm, gã buộc thít lại. Lực siết mạnh đến mức những đốt ngón tay của gã tái nhợt. Máu ngừng tuôn.
+Gã đã đánh đổi cơ hội sinh tồn của chính mình cho một con thú vô dụng. Nhân quả bắt đầu lệch bánh răng.
+Đêm buông xuống. Khối không khí đen đặc, quánh lại vì giá rét.
+Một đống lửa nhỏ leo lét cháy bên trong hốc đá. Tiếng củi khô nổ lách tách. Nhiệt độ chỉ đủ để giữ cho mạch máu không đông cứng. Lam ngồi co ro. Hai hốc mắt gã trũng sâu.
+Gã lôi từ sau lưng ra một vật. Một chiếc đàn dây thô sơ. Thân đàn đẽo từ gốc cây sùi bọt mục nát. Dây đàn tết bằng gân thú đã sờn rách, căng trên những chốt gỗ lỏng lẻo. Gã đặt ngón tay cái lên dây đàn. Vuốt nhẹ.
+Tích. Tịch.
+Âm thanh đầu tiên vang lên. Nó không êm ái. Nó khô khốc. Khàn đục. Rạch ròi.
+Lam bắt đầu gảy. Giai điệu mộc mạc, bập bùng, văng vẳng giữa không gian bao la của cõi chết. Nhịp điệu chậm rãi, lặp đi lặp lại. Nó giống như tiếng gõ cửa của định mệnh. Từng nốt nhạc rơi xuống nền tuyết, nặng nề, dứt khoát. Âm thanh ấy tạo ra những gợn sóng vật lý. Nó cọ xát vào màng nhĩ. Nó kích thích các bó nơ-ron thần kinh.
+Đó là Bản nhạc luân hồi. Không có phép thuật. Chỉ có sự cộng hưởng của tần số.
+Con cáo nằm cuộn tròn góc hang. Vỏ não nó giật lên. Màng nhĩ nó thu nhận từng luồng sóng âm thô ráp. Giai điệu ấy xuyên qua mảng sương mù của cơn hôn mê, ghim thẳng vào trung khu thần kinh. Nhịp tim vốn dĩ thoi thóp của nó bắt đầu bị ép phải đập đồng pha với tiếng đàn. Thình thịch. Thình thịch.
+Hơi ấm lan tỏa từ vết thương. Tế bào bắt đầu tái tạo. Sự sống bị tước đoạt ban chiều đang bị âm thanh kia cưỡng chế kéo giật trở lại.
+Lam vẫn gảy đàn. Ngón tay gã rỉ máu vì cọ xát vào sợi gân thú thô ráp. Gã mặc kệ. Khớp xương trắng bệch. Nỗi đau thể xác không làm gã dừng lại. Tiếng đàn cứ thế rền rĩ, len lỏi qua những xác người ngoài thung lũng, trôi tuột vào bóng tối đặc quánh.
+Đống lửa tàn lụi. Tro tàn phủ xám nền đất.
+Sáng hôm sau. Gió ngừng rít.
+Lam đứng dậy. Đeo lại tay nải xẹp lép. Bước chân lạo xạo trên nền tuyết dày. Gã tiếp tục hành trình vô định, đi tìm sự sống giữa thời đại mục nát.
+Phía sau gã. Khoảng cách đúng mười bước chân.
+Con cáo đỏ nhạt bước theo. Chân nó còn tập tễnh. Vết thương bên sườn đóng vảy máu đen sì. Đôi mắt hổ phách không còn vô hồn, nó đang nhìn bóng lưng gầy guộc phía trước. Nó không biết gieo rắc tình cảm. Nó chỉ biết rằng, sự cân bằng đã bị phá vỡ. Mạng sống của nó được mua bằng sự hy sinh vật chất của kẻ khác. Cỗ máy tính toán trong đầu nó đã ghi nhận một món nợ vô hình.
+Và nó sẽ đi theo cái bóng lưng rách rưới này. Lặng lẽ. Câm nín. Cho đến khi vòng tuần hoàn của luật Ngang Giá đòi lại sự sòng phẳng tuyệt đối.
+Bước chân người. Bước chân thú. Dấu vết in hằn trên nền tuyết trắng xóa.
+Vòng lặp mới, bắt đầu.
+Chương 2: Trái tim bằng kim loại
+Hai cái bóng đổ dài trên bình nguyên xám xịt. Một cao, một thấp. Một người, một thú.
+Mặt đất dưới chân họ biến dạng. Lớp đất đá nứt toác, trơ ra những mảng quặng đen ngòm, xù xì như vảy của một con quái vật khổng lồ đã chết khô từ vạn kỷ trước. Không còn dấu vết của thảm thực vật. Không có xác người hay xương thú. Không khí ở đây đặc quánh một thứ mùi vô cơ: mùi ozone khét lẹt và mùi kim loại rỉ sét quyện chặt vào nhau, xộc thẳng vào xoang mũi, đắng ngắt.
+Họ đã đi lạc.
+Lam lê bước. Hơi thở gã khò khè, tạo thành những quầng hơi nước đục ngầu, phả vào lớp sương mù nhờ nhờ bao phủ không gian. Dạ dày gã thắt lại, quặn đau thành từng cơn vật vã. Không có thực phẩm suốt bốn ngày liền. Các bó cơ trên tay chân teo tóp, rút lại. Cơ thể gã đang tự ăn mòn chính nó để duy trì nhiệt độ.
+Trước mặt họ, sương mù từ từ loãng ra, để lộ một vực sâu khổng lồ.
+Nó không phải là sản phẩm của kiến tạo địa chất. Bờ vực tròn vành vạnh, nhẵn thín, hệt như bị một vật thể khổng lồ với vận tốc kinh hoàng đục khoét thẳng vào vỏ trái đất. Dấu tích của một vụ va chạm vũ trụ.
+Con cáo đỏ nhạt dừng bước. Vết thương bên sườn đã khô vảy, kéo căng lớp da non ngứa ngáy. Nó khịt mũi. Lông trên sống lưng nó đồng loạt dựng đứng. Có một tần số âm thanh cực thấp, nằm ngoài ngưỡng nghe của con người, đang rung lên từ đáy vực. Nó tạo ra những gợn sóng vật lý truyền qua nền đất cứng, chạy dọc theo tứ chi con vật, đi thẳng vào hộp sọ.
+Một lực hút vô hình. Khô khan. Lạnh lẽo. Không thuộc về hệ sinh thái tự nhiên.
+Lam mất đà. Đầu gối gã va mạnh xuống mép vực. Cú va chạm làm gãy một tảng đá đen. Tiếng đá rơi lộc cộc, va đập vào vách vực dốc đứng, nhỏ dần rồi tắt lịm trong bóng tối hun hút. Gã không còn sức để đứng lên. Mắt gã nhắm nghiền. Cơ thể gã gục xuống, cuộn tròn lại trên rìa bờ vực. Hệ thống sinh học của gã đang đình công.
+Con cáo đứng bên cạnh. Nó cúi xuống, thè cái lưỡi nhám rạp liếm lên mu bàn tay buốt cóng của Lam. Không có phản hồi. Gã lang băm đang trượt dài vào cơn hôn mê sâu. Nếu nhiệt độ cơ thể tiếp tục giảm, máu gã sẽ đông lại. Chết cứng.
+Con cáo ngẩng đầu nhìn xuống đáy vực. Sóng âm từ dưới đó vẫn liên tục dội lên, ngày một mạnh. Nó có thể cảm nhận được một nguồn năng lượng đặc thù đang cuộn xoáy bên dưới lớp bóng tối. Năng lượng. Sự sống. Nó cần năng lượng để kéo cái xác đang thoi thóp này khỏi tay tử thần. Một sự trao đổi sòng phẳng.
+Nó quay ngoắt lại, bắt đầu cắm cúi leo xuống vách vực dốc đứng.
+Móng vuốt cào xước vào mặt đá nhẵn thín, rỉ máu. Từng thớ cơ đùi căng cứng, đau nhức. Hơi lạnh từ dưới đáy bốc lên, bám vào lông nó, đóng băng thành những hạt sương muối li ti. Nó mặc kệ. Bản năng sinh tồn đã bị thay thế bằng một thứ logic mới: Hoàn trả món nợ.
+Mất một khoảng thời gian không xác định, con cáo chạm đáy.
+Một không gian rộng lớn, nhẵn thín như lòng chảo kim loại. Ánh sáng không tồn tại. Chỉ có bóng tối đặc quánh, nặng nề. Giữa lòng chảo, một bệ đá hình lăng trụ nhô lên cao. Bệ đá làm từ một loại vật liệu không xác định, đen tuyền, bóng loáng.
+Và lơ lửng ngay trên bệ đá, cách mặt phẳng chừng nửa mét, là một quả cân.
+Nó có kích thước bằng nắm tay con người. Màu đen nhánh. Hoàn hảo. Không tì vết. Bề mặt của nó hấp thụ toàn bộ thứ ánh sáng le lói hắt xuống từ miệng vực. Xung quanh nó, không khí bị bóp méo, tạo thành những gợn sóng từ trường liên tục chớp tắt. Nó tỏa ra một luồng hàn khí buốt xương, làm đóng băng vạn vật trong bán kính ba mét.
+Sóng âm mà con cáo nghe thấy chính là phát ra từ quả cân này. Nó đang "đập". Tích... Tắc... Nhịp điệu đều đặn, vô cảm, hệt như nhịp của một cỗ máy đếm thời gian vĩnh cửu.
+Con cáo tiến lại gần. Nhiệt độ xung quanh giảm sút đột ngột làm nó rùng mình liên tục. Hơi thở của nó đóng băng thành những vệt sương trắng xóa. Mùi kim loại đặc sệt bao trùm lấy không gian.
+Nó đứng trước bệ đá. Đôi mắt hổ phách phản chiếu hình bóng đen nhánh của quả cân. Linh tính mách bảo nó rằng, khối kim loại kia chứa đựng một lượng năng lượng vượt qua mọi quy luật sinh học của hành tinh này.
+Sự tò mò, và cả một sự dẫn dắt vô hình, khiến nó kiễng hai chân sau, vươn mõm tới trước.
+Mũi con cáo chạm vào bề mặt của quả cân.
+Không có vụ nổ. Không có âm thanh xé tai.
+Ngay khoảnh khắc tiếp xúc, quả cân bằng kim loại đen nhánh đột ngột mất đi hình khối. Nó tan chảy. Nó hóa lỏng thành một dòng thủy ngân đen quánh, lạnh ngắt. Dòng chất lỏng đó lao vút vào trong mũi con cáo, trườn dọc theo khoang mũi, đi thẳng xuống khí quản.
+Cơn đau ập đến. Khốc liệt. Tàn bạo.
+Cơ thể con cáo co giật dữ dội, bị hất văng ra xa, đập mạnh xuống nền kim loại. Nó há hốc mõm. Cố gắng hít không khí vào phổi, nhưng thứ chất lỏng đen ngòm kia đang cuộn xoáy, xé nát lồng ngực nó từ bên trong. Các mạch máu căng phồng, chuyển sang màu đen thẫm.
+Dòng kim loại lỏng len lỏi vào từng bó cơ tim. Nó bắt đầu quá trình xâm thực. Trái tim sinh học bằng máu thịt của con vật bị nghiền nát, phân rã, bốc hơi thành một làn khói mỏng. Khối kim loại đen tái tạo lại cấu trúc, đông đặc lại, cắm rễ vào các động mạch, tĩnh mạch. Nó chiếm đoạt hoàn toàn vị trí và chức năng của trung tâm tuần hoàn.
+Phập. Phập.
+Tiếng đập của máu thịt biến mất.
+Từ sâu thẳm lồng ngực con cáo, một âm thanh mới vang lên. Khô khan. Lạnh lẽo.
+Tích... Tắc... Tích... Tắc...
+Nhịp đập của máy móc. Nhịp đập của một cỗ máy đo lường vạn vật.
+Cơ thể con cáo bắt đầu biến đổi dị thường. Toàn bộ lớp lông màu đỏ nhạt bong tróc, rụng lả tả như những chiếc lá khô, để trơ lại lớp da tái nhợt, rỉ máu. Sự đau đớn bị bóp nghẹt. Không có tiếng gào thét. Hệ thần kinh của nó đã bị khóa chặt, mọi cảm giác đau đớn được mã hóa thành các chuỗi tín hiệu vô cảm truyền vào vỏ não.
+Từ dưới lớp da, những sợi lông mới đâm xuyên ra. Trắng toát. Lạnh lẽo. Mang theo hơi thở của sương giá. Bộ lông mới phủ kín cơ thể nó trong tích tắc.
+Nó từ từ đứng dậy. Bốn chân vững chãi. Không còn run rẩy. Trái tim kim loại đang bơm một thứ dòng chảy năng lượng không xác định đi khắp cơ thể, cung cấp nguồn sinh khí vô tận, không bị hao mòn bởi thời gian hay định luật nhiệt động lực học.
+Nó ngước đôi mắt lên.
+Đôi mắt hổ phách phẳng lặng đã biến mất. Hai hốc mắt nó giờ đây rỗng tuếch, không có đồng tử, không có giác mạc. Bên trong chứa đầy thứ ánh sáng màu đỏ rực, cháy âm ỉ như hai hòn than hồng.
+Thế giới qua lăng kính mới của nó vỡ vụn, rồi lập tức được tái cấu trúc thành các chuỗi thông số.
+Nó nhìn lên vách vực. Nó không thấy đá sỏi. Nó thấy mật độ cấu trúc phân tử, lực liên kết, độ bền nén.
+Nó ngẩng đầu nhìn về phía miệng vực. Xuyên qua lớp sương mù đặc quánh, nó nhìn thấy một đốm sáng mờ nhạt, lập lòe, sắp tắt ngấm. Đó là phần sinh khí còn sót lại của Lam. Lơ lửng trên đầu cái xác đang lạnh cóng ấy, là những con số đang nhảy múa liên hồi.
+Tuổi thọ: 0 ngày 2 giờ 14 phút.
+Giá trị linh hồn: Trung bình yếu.
+Liên kết nhân quả: Dương.
+Mọi sinh vật trong tầm mắt nó đều bị phơi bày. Lớp vỏ bọc của da thịt, xương cốt bị lột sạch, chỉ còn lại những con số vô hồn, rành rọt. Sự sống, cái chết, hy vọng, khát khao, tất cả bị định lượng. Mọi thứ trên thế giới này, đều có giá của nó.
+Bạch Hồ Ly ra đời. Không còn là một con thú hoang tàn tạ. Nó đã trở thành một thiết bị đo lường sinh học, một mắt xích đầu tiên của cỗ máy phán xét vĩ đại.
+Nó tung mình, lao lên vách vực dốc đứng. Móng vuốt sắc lẹm găm phập vào lớp đá đen nhánh. Tốc độ kinh hồn. Cơ thể nó nhẹ bẫng, lướt qua những đoạn dốc dựng đứng một cách dễ dàng. Nhịp tim trong ngực vẫn đều đặn. Tích... Tắc... Không nhanh hơn, không chậm đi.
+Chưa đầy nửa khắc, nó đã nhảy phóc lên rìa miệng vực.
+Lam vẫn nằm đó. Cơ thể cứng đờ. Hơi thở đã đứt đoạn. Nhịp tim chỉ còn một vài nhịp thoi thóp cuối cùng. Bảng thông số trên đầu gã nhảy xuống: 0 ngày 0 giờ 2 phút.
+Bạch Hồ Ly bước tới. Nó há mõm. Một luồng khí màu xanh lục, mang theo hơi ấm nhân tạo, phóng ra từ cổ họng nó, bao trùm lấy cơ thể lạnh cóng của gã lang băm.
+Năng lượng được truyền tải. Sòng phẳng. Trả nợ.
+Thống số trên đầu Lam nhảy vọt. 0 ngày 0 giờ 2 phút... 1 ngày... 1 tuần... 1 tháng. Nhiệt độ cơ thể gã từ từ tăng lên. Lớp sương muối bám trên da thịt tan chảy. Nhịp tim đập mạnh trở lại. Máu lưu thông.
+Món nợ đã được thanh toán. Chuỗi nhân quả được cân bằng.
+Bạch Hồ Ly ngồi xuống bên cạnh. Nó vung cái đuôi dài phủ đầy lông trắng muốt. Hai hốc mắt đỏ rực nhìn chăm chăm vào khuôn mặt đang dần hồi phục của gã.
+Trái tim kim loại trong ngực nó vẫn vang lên lạnh lẽo. Tích... Tắc...
+Cỗ máy đã sẵn sàng vận hành.
+Chương 3: Sự thức tỉnh và Cán cân ngầm
+Lam mở bừng mắt, lồng ngực gã rít lên một luồng khí lạnh buốt như vừa trồi lên từ đáy hồ sâu thẳm. Mọi thứ giác quan của gã hoạt động trở lại một cách đột ngột và bạo liệt. Hàng vạn mũi kim châm chích chạy dọc từ tủy sống lan tỏa khắp các nơ-ron thần kinh, đánh thức một cơ thể vốn dĩ đã bị cái lạnh đóng băng đến cứng đờ. Gã bật dậy, đưa hai bàn tay gân guốc sờ soạng khắp mặt mũi và tứ chi, kinh ngạc nhận ra toàn bộ cơ bắp không còn đau nhức, hơi thở đều đặn và nhiệt lượng đang hừng hực chảy trong từng huyết quản.
+Sự tỉnh táo hoàn toàn lập tức xua tan màng sương mù của cơn hôn mê, nhường chỗ cho bản năng phòng vệ của một kẻ sinh tồn. Lam nắm chặt con dao găm gỉ sét bên hông, đưa mắt dò xét xung quanh. Rìa vực sâu thăm thẳm vẫn tỏa ra luồng khí lạnh ngắt, nhưng cảnh tượng đập vào mắt gã lúc này không phải là đồi núi trơ trọi, mà là một sinh vật dị thường đang ngồi tĩnh tọa cách gã chưa đầy ba thước.
+Con cáo không còn mang bộ lông màu đỏ nhạt xơ xác rỉ máu hôm nào. Nó khoác trên mình lớp lông trắng muốt như những dải băng tuyết vĩnh cửu, cơ thể tỏa ra một vầng hào quang u ám, buốt giá. Nó ngồi đó, bất động và uy nghi, hai hốc mắt không tròng rỗng tuếch đang rực cháy một màu đỏ ối của than hồng, chằm chằm xoáy sâu vào gã.
+Từ sâu thẳm lồng ngực con vật, Lam nghe rõ mồn một từng nhịp đập khô khốc, vang vọng và lạnh lẽo: Tích... Tắc... Tích... Tắc... Đó tuyệt đối không phải là âm thanh của cơ tim co bóp, mà là nhịp điệu của một cỗ máy cơ khí đang vận hành một cách vô cảm.
+Lam lùi lại nửa bước, lưỡi dao chĩa thẳng về phía trước. Cơ bắp gã căng cứng, chuẩn bị cho một cuộc vật lộn đẫm máu. Gã không biết thứ trước mặt là linh thú hay ác quỷ, nhưng sát khí và năng lượng áp đảo tỏa ra từ nó vượt xa mọi sự hiểu biết cạn cợt của gã về thế giới tự nhiên.
+"Cất thứ kim loại gỉ sét đó đi, nó không có tác dụng đo lường sinh mệnh đâu."
+Một giọng nói bất thình lình vang lên. Nó không truyền qua không khí, không dao động màng nhĩ, mà cọ xát trực tiếp vào bề mặt vỏ não của Lam bằng một thứ âm thanh kim loại sắc lẹm, chói tai và rạch ròi đến tàn nhẫn. Mõm con cáo không hề hé mở. Lời nói của nó được mã hóa thành sóng từ trường, bắn thẳng vào vùng nhận thức của gã lang băm.
+Lam giật bắn mình, con dao suýt tuột khỏi tay. Gã ôm lấy đầu, trợn trừng mắt nhìn con cáo trắng. "Mày... mày là thứ gì? Mày vừa nói chuyện trong đầu tao?"
+Bạch Hồ Ly không di chuyển, hốc mắt đỏ rực của nó chớp nhẹ, lập tức thu nhận toàn bộ hệ thống thông số đang nhấp nháy trên đỉnh đầu gã. Khối lượng xương, tốc độ tuần hoàn máu, số lượng tế bào khỏe mạnh, và đặc biệt là dải sinh mệnh vừa được cộng thêm một tháng dự trữ. Mọi thứ đều được hiển thị rõ ràng như một bản báo cáo kiểm toán chi tiết.
+"Tôi là một thiết bị đo lường nhân quả," giọng nói kim loại lại rít lên trong đầu Lam, phẳng lặng và vô hồn. "Tài sản của anh đã cạn kiệt, nhưng nhờ giao dịch đơn phương từ phía tôi, anh được tạm ứng thêm ba mươi ngày tuổi thọ. Món nợ ân tình tại hang đá đã được thanh toán. Bây giờ, chúng ta hoàn toàn sòng phẳng."
+Lam sững sờ, cố gắng tiêu hóa khối lượng thông tin dị thường vừa nhồi nhét vào tâm trí. Gã nhìn con cáo, nhìn xuống vực thẳm đen ngòm, rồi lại nhìn đôi bàn tay ấm nóng của chính mình. Sự thật trần trụi và phi lý đang bày ra trước mắt: con thú gã cứu sống bằng chút thảo dược rẻ tiền hôm qua, giờ đây đã sở hữu một quyền năng tối thượng, đủ sức kéo gã ra khỏi cửa tử chỉ bằng một lần giao dịch vô hình.
+"Sòng phẳng?" Lam nuốt khan, vị đắng ngắt trào lên cuống họng. "Mày đoạt được thứ pháp thuật quỷ quái gì dưới cái hố kia vậy? Trái tim mày... nó phát ra tiếng kêu của sắt thép."
+"Đó không phải pháp thuật, mà là sự cân bằng tuyệt đối của vật chất," Bạch Hồ Ly đáp lại, nó từ từ đứng dậy, phủi nhẹ lớp sương giá đọng trên lớp lông trắng muốt. "Tôi nắm giữ một bộ đếm. Mọi thứ trên thế giới này, từ một giọt máu, một hơi thở, cho đến một đoạn ký ức, đều có trọng lượng riêng của nó. Lấy đi của người này thì phải đắp vào cho người khác."
+Lam không tin vào những lời triết lý khô khan ấy. Gã vốn là một kẻ lăn lộn dưới đáy xã hội, chứng kiến lũ quan lại bòn rút xương máu dân nghèo mà vẫn sống sung túc, trong khi những đứa trẻ vô tội lại chết đói ngoài vệ đường. Sự bất công phơi bày rành rành khắp nơi. "Nếu mày nói mọi thứ đều sòng phẳng, vậy tại sao cái thế giới này lại thối nát đến vậy? Tại sao kẻ ác sống lâu, còn người lương thiện lại chết yểu?"
+"Bởi vì chưa có ai đứng ra thu thập nợ nần." Bạch Hồ Ly hướng đôi mắt than hồng về phía chân trời mù sương, nơi những cột khói chiến tranh vẫn đang vẩn đục bầu không khí. "Con người tự do vay mượn sinh khí của nhau mà không chịu hoàn trả. Hệ thống luân hồi đã bị tắc nghẽn bởi những khoản nợ khổng lồ. Và tôi... sẽ là kẻ thiết lập lại trật tự đó."
+Lời tuyên bố của Bạch Hồ Ly mang sức nặng của một bản án treo trên đầu toàn bộ sinh linh, nhưng Lam chỉ cười khẩy. Gã đút con dao vào vỏ, nhổ toẹt một bãi nước bọt xuống nền đất cứng. Gã không bận tâm đến việc cứu rỗi thế giới, thứ gã quan tâm là làm sao để cái dạ dày đang lép kẹp của mình được lấp đầy trong ngày hôm nay. Tuy nhiên, sự xuất hiện của sinh vật sở hữu khả năng hô biến ra sự sống này dường như là một cơ hội không thể bỏ lỡ.
+"Tùy mày," Lam kéo tay nải lên vai, bước đi. "Mày muốn làm thần linh hay máy đếm tiền thì mặc kệ mày. Tao đi kiếm cái gì đó bỏ bụng đây. Đừng có bám theo tao nữa."
+Bạch Hồ Ly không trả lời, nó chỉ lẳng lặng bước theo bóng lưng gã lang băm. Khoảng cách giữa họ luôn duy trì chính xác ở mức mười bước chân, một sự gắn kết kỳ lạ được thiết lập bởi ân oán và một bản hợp đồng vô hình đã chốt sổ.
+Vài ngày sau, Lam và Bạch Hồ Ly dừng chân tại một ngôi làng ven núi, nơi đang bị dịch sởi càn quét dữ dội. Những ngôi nhà mái rạ tồi tàn đóng kín cửa, không khí nồng nặc mùi hỏa táng và mùi rên rỉ của những kẻ sắp chết. Khung cảnh ảm đạm không khác gì một bãi tha ma khổng lồ đang chờ ngày đóng cửa.
+Lam tìm cách lẻn vào một căn nhà để ăn trộm chút ngô khô, nhưng gã nhanh chóng bị phát hiện. Người chủ nhà là một gã tiều phu to lớn, đôi mắt vằn đỏ những tia máu vì thức trắng nhiều đêm. Gã tiều phu không đuổi đánh Lam, mà chỉ quỳ sụp xuống, hai tay ôm lấy một đứa trẻ chừng năm tuổi đang sốt cao co giật dữ dội, làn da đỏ lựng như tôm luộc.
+"Cứu con tôi... xin thầy... cứu nó..." Gã tiều phu dập đầu liên tục, máu rịn ra trên vầng trán đen sạm. Gã tưởng Lam là một vị danh y lang bạt.
+Lam đứng chết trân. Gã chỉ là một lang băm lừa lọc, thuốc thang trong tay nải toàn là rễ cây phơi khô vô dụng, lấy đâu ra bản lĩnh chống lại dịch bệnh tàn khốc này. Gã định quay lưng bỏ chạy, nhưng Bạch Hồ Ly đã bước tới.
+Nó ngồi xuống trước mặt gã tiều phu, hai hốc mắt đỏ ối soi thẳng vào thân xác đứa trẻ đang thoi thóp. Bảng thông số nhảy lên: Tuổi thọ còn 3 giờ. Chức năng tạng phủ suy kiệt hoàn toàn.
+Trái tim kim loại trong ngực con cáo đập nhanh hơn một nhịp. Nó nhận ra đây là cơ hội hoàn hảo để thử nghiệm quyền năng thiết lập Giao ước Ngang Giá trên các cá thể khác. Nó không dùng ngôn ngữ giao tiếp qua vỏ não, mà sử dụng hành động vật lý. Bạch Hồ Ly nâng chân trước lên, móng vuốt sắc lẹm gạch một đường rạch ròi trên nền đất nện, tạo thành hình dạng một chiếc cân thăng bằng.
+Gã tiều phu ngơ ngác nhìn con vật kỳ dị, rồi lại nhìn hình vẽ dưới đất. Trong khoảnh khắc tuyệt vọng tột độ, lý trí con người dễ dàng bị bẻ cong để bấu víu vào bất kỳ thế lực siêu nhiên nào xuất hiện.
+"Mày... mày có thể cứu nó sao?" Gã tiều phu run rẩy hỏi.
+Bạch Hồ Ly hếch mõm, chỉ móng vuốt vào ngực gã tiều phu, rồi lại chỉ vào đứa trẻ. Thông điệp được truyền đi rõ ràng và lạnh lẽo: Một sự hoán đổi sinh mệnh.
+Gã tiều phu hiểu ngay lập tức. Nước mắt gã trào ra, gã gật đầu lia lịa, dập trán xuống đất đến bật máu. "Lấy của tôi! Lấy bao nhiêu cũng được! Xin hãy để nó sống!"
+Giao ước được chấp thuận.
+Bạch Hồ Ly há mõm, một sợi chỉ đỏ mỏng tang phóng ra, cắm phập vào giữa trán gã tiều phu. Hệ thống bắt đầu quét và trích xuất tài sản. Gương mặt gã tiều phu ngay lập tức nhăn nhúm lại, tóc bạc đi trông thấy, các cơ bắp cuồn cuộn teo tóp đi trong tích tắc. Mười năm tuổi thọ của gã bị rút cạn, mã hóa thành một luồng năng lượng màu lục rực rỡ, chảy dọc theo sợi chỉ đỏ, đi thẳng vào cơ thể đứa trẻ.
+Quá trình chuyển giao kết thúc. Đứa trẻ ngừng co giật, làn da đỏ lựng dần hạ nhiệt, nhịp thở trở nên đều đặn và bình ổn. Cậu bé mở mắt, khóc ré lên đòi ăn. Phép màu đã hiện hữu ngay giữa căn nhà tranh rách nát.
+Lam chứng kiến toàn bộ sự việc. Thay vì kinh ngạc hay vui mừng, sắc mặt gã tối sầm lại. Gã lao tới, giơ chân đá phăng chiếc ghế đẩu vào tường, chỉ thẳng mặt con cáo trắng đang điềm nhiên liếm láp bộ lông.
+"Mày vừa làm cái quái gì vậy hả?" Lam gầm lên, giọng nói khản đặc vì phẫn nộ. "Mày dùng mạng của thằng bố để vá víu cho thằng con? Mày nghĩ mày là ai mà dám đảo lộn trật tự sinh tử của người khác?"
+"Tôi đang thi hành công lý của sự sòng phẳng," Bạch Hồ Ly điềm nhiên đáp trả qua sóng từ trường truyền vào vỏ não Lam. "Khách hàng tự nguyện thế chấp tài sản để mua lại vật phẩm mong muốn. Giao dịch hợp lệ. Không có sự cưỡng ép. Tôi đã cứu một mạng người."
+"Công lý cái chó gì!" Lam gắt gỏng, gã bước tới nắm lấy cổ áo gã tiều phu, kéo xếch lên. "Ông nhìn xem ông đang thành cái dạng gì rồi? Ông vứt bỏ mười năm khỏe mạnh nhất của đời mình. Lấy ai đi chặt củi? Lấy ai nuôi thằng bé này lớn lên? Ông nghĩ ông cứu nó, nhưng thực chất ông vừa đẩy cả hai cha con vào chỗ chết đói từ từ!"
+Gã tiều phu thẫn thờ nhìn đôi bàn tay gầy guộc, nhăn nheo của mình, nhưng rồi lại nhìn đứa con đang ngồi chơi ngoan ngoãn trên giường. Ông ta cười mếu máo, nước mắt chảy dài trên khuôn mặt già nua trước tuổi. "Không sao... nó sống là tốt rồi... tôi chịu được."
+Lam đẩy gã tiều phu ngã vật xuống nền đất, gã quay ngoắt lại nhìn Bạch Hồ Ly bằng ánh mắt chán ghét tột độ. "Dã thú và con người không có tư cách can thiệp vào Nhân Quả. Sự sòng phẳng đui mù của mày đang chọc giận trời đất. Cứu người kiểu này không phải là nhân từ, mà là sự tàn nhẫn được bọc trong lớp vỏ bọc giao dịch!"
+Con cáo trắng cuộn đuôi lại, hai hốc mắt than hồng chớp nháy liên hồi để xử lý những chuỗi dữ liệu phản kháng từ Lam. Nó không hiểu những khái niệm trừu tượng như đạo đức, trách nhiệm hay hệ lụy tương lai. Trong hệ quy chiếu của nó, A đổi lấy B với giá trị tương đương là một phương trình hoàn hảo. Mọi thứ phát sinh sau khi hợp đồng được chốt sổ đều nằm ngoài phạm vi bảo hành của hệ thống.
+"Cảm xúc là thứ biến số vô dụng, nó làm giảm độ chính xác của cán cân," Bạch Hồ Ly lạnh lùng kết luận, quay lưng bước ra khỏi cửa. Trái tim kim loại trong ngực nó đập một nhịp mạnh mẽ hơn. Tích... Tắc... Cỗ máy đo lường đã tìm thấy phương thức hoạt động tối ưu nhất để bành trướng quyền lực. Nó sẽ thu thập mọi khoản nợ trên thế gian này, thiết lập một thế giới nơi mọi khát vọng đều bị định giá và vứt lên đĩa cân.
+Cán cân ngầm chính thức được khai sinh từ một ngôi làng tồi tàn, và vết trượt dài vào bi kịch đẫm máu của luật Ngang Giá mới chỉ vừa bắt đầu.
+Chương 4: Cái bẫy của sự sòng phẳng
+Tin đồn về "Thần Hồ Ly" có khả năng hoán đổi sinh mệnh lan truyền với tốc độ của một cơn hỏa hoạn trong rừng khô mùa hạ. Nó quét qua những ngôi làng xơ xác, len lỏi vào các thị trấn sầm uất, và cuối cùng, phá tung những cánh cổng kiên cố của chốn quan trường. Con người, vốn dĩ đang quay cuồng trong sự tuyệt vọng của thời cuộc, nay bỗng tìm thấy một cái phao cứu sinh, dẫu cái phao ấy được đan bằng những sợi dây đẫm máu. Họ lũ lượt kéo đến tìm Bạch Hồ Ly, mang theo mọi khát khao đen tối nhất, sẵn sàng vứt lên đĩa cân mọi thứ họ sở hữu để đổi lấy dục vọng.
+Lam không thể ngăn cản đám đông điên loạn ấy. Gã chỉ biết ngồi bó gối dưới gốc cây đa già ở bìa rừng, trơ mắt nhìn dòng người xếp hàng dài dằng dặc trước cửa hang động – nơi Bạch Hồ Ly đã chọn làm "quầy giao dịch" đầu tiên. Gã lang băm rách rưới giờ đây giống như một kẻ gác cổng bất đắc dĩ, ngày ngày chứng kiến sự mục nát của nhân tính phơi bày rõ mồn một dưới lăng kính sòng phẳng.
+Giao dịch ban đầu còn xuất phát từ lòng trắc ẩn, giống như gã tiều phu đổi tuổi thọ lấy mạng sống đứa con. Nhưng rất nhanh sau đó, bản chất tham lam của con người đã bóp méo hình hài của luật Ngang Giá. Các bản hợp đồng trở nên vặn vẹo, dị hợm và tàn nhẫn đến rợn người.
+Một viên bá hộ béo phệ, toàn thân bốc mùi thịt rượu ôi thiu, bước vào hang động. Lão ta mang theo một đám nô lệ gầy trơ xương, bị xích cổ lại với nhau như những con chó đói.
+"Thần Hồ Ly," viên bá hộ hắng giọng, ném xuống đất một thỏi vàng ròng nặng trĩu. "Mắt ta bị mờ, đại phu nói ta sắp mù hẳn. Ta muốn đổi thị giác của đám nô lệ này để vá lại đôi mắt của ta. Bọn chúng không cần nhìn, chỉ cần biết cắm mặt xuống cày ruộng là được. Ta trả thêm tuổi thọ của ba đứa trẻ con nhà nghèo dưới làng, đã mua đứt bằng giấy tờ bán thân. Như vậy đã đủ chưa?"
+Bạch Hồ Ly ngồi trên bệ đá, hai hốc mắt than hồng lóe lên ánh sáng đỏ rực, quét qua một lượt những kẻ đang quỳ rạp dưới đất. Bảng thông số nhảy múa điên cuồng, định giá từng giác quan, từng ngày sống của những thân phận hèn mọn kia.
+Cỗ máy trong ngực con thú không biết đến khái niệm đạo đức. Nó không quan tâm đến sự bóc lột, không phán xét sự tàn ác của viên bá hộ. Nó chỉ thấy một khối lượng tài sản được đem ra trao đổi, hoàn toàn tự nguyện về mặt giấy tờ, để đổi lấy một khối lượng tài sản tương đương. Phương trình được thiết lập. Không có lỗi kỹ thuật.
+"Giao dịch hợp lệ," âm thanh kim loại vang lên trong vỏ não những kẻ có mặt.
+Sợi chỉ đỏ lại phóng ra, đâm xuyên qua trán những người nô lệ. Bọn họ gào thét, lăn lộn trên nền đất lạnh lẽo khi thị giác bị cưỡng chế bứt rứt ra khỏi võng mạc, mã hóa thành luồng năng lượng đỏ tươi, chảy thẳng vào đôi mắt mờ đục của viên bá hộ. Máu đen trào ra từ hai hốc mắt của những kẻ xui xẻo, nhuộm đỏ cả nền hang động. Trong khi đó, viên bá hộ cười sằng sặc, đôi mắt lão sáng rực trở lại, sắc lẹm và tham lam hơn bao giờ hết. Lão gom thỏi vàng lại, quay lưng bước đi, bỏ mặc những tiếng rên rỉ đau đớn đằng sau.
+Lam chứng kiến tất cả từ bên ngoài. Gã xông vào hang, đá văng những hòn đá cản đường, chỉ thẳng mặt con cáo trắng.
+"Mày có thấy mày vừa làm gì không? Mày đang tiếp tay cho quỷ dữ!" Lam gầm lên, trán nổi đầy gân xanh. "Lũ người đó bị ép buộc! Sự sòng phẳng của mày chỉ là công cụ để kẻ mạnh tước đoạt kẻ yếu một cách hợp pháp!"
+Bạch Hồ Ly điềm nhiên liếm mép, vệt máu tươi của các giao dịch trước đó bám trên bộ lông trắng muốt lập tức bị đóng băng rồi tan biến. "Họ đã ký giấy bán thân. Quyền sở hữu sinh mệnh thuộc về viên bá hộ. Trọng lượng trên đĩa cân hoàn toàn cân bằng. Kẻ yếu không có tài sản để thế chấp, tự khắc phải chịu thiệt thòi. Đó là quy luật vận hành tối ưu nhất."
+"Đồ cỗ máy đui mù!" Lam đập mạnh nắm đấm vào vách đá, máu rướm ra từ các đốt ngón tay. "Mày không hiểu con người. Mày sẽ bị chính cái luật lệ hoàn hảo của mày nghiền nát."
+Nhưng cảnh cáo của Lam chẳng lọt vào tai Bạch Hồ Ly. Nó đang say sưa với sức mạnh của mình. Trái tim bằng kim loại trong ngực nó đập ngày một nhanh hơn, mạnh mẽ hơn. Tích... Tắc... Tích... Tắc... Âm thanh ấy vang vọng khắp hang động, dội vào vách đá, tạo thành một bản giao hưởng của sự chết chóc và cuồng loạn.
+Cỗ máy này thực chất là một thứ ký sinh trùng. Nó không tạo ra năng lượng, nó chỉ nuốt chửng năng lượng từ những khát vọng tối tăm của con người để tự lớn mạnh. Mỗi lần một hợp đồng hắc ám được ký kết, một lượng sinh khí khổng lồ lại chảy qua cơ thể con cáo, khiến lớp lông của nó càng thêm trắng toát, hai hốc mắt càng thêm đỏ rực, và quyền năng can thiệp vào nhân quả của nó càng thêm mở rộng.
+Đỉnh điểm của sự điên loạn xảy ra khi hai gia tộc quyền thế trong vùng xảy ra mâu thuẫn tranh giành mỏ quặng. Thay vì giải quyết bằng binh đao, họ tìm đến Bạch Hồ Ly để giải quyết bằng luật Ngang Giá.
+Tộc trưởng họ Trần muốn ếm bùa cho toàn bộ nam đinh họ Lê bị tuyệt tự. Cái giá ông ta đưa ra là mười mạng sống của những cô gái đồng trinh trong tộc mình. Tộc trưởng họ Lê biết tin, lập tức phản đòn, đề nghị hiến tế hai mươi mạng người già trong tộc để đổi lấy sự suy vong tài lộc của họ Trần trong ba đời.
+Hàng chục mạng người bị đem ra ngã giá như những món hàng rẻ rúng ngoài chợ thịt. Không khí trong hang động đặc quánh mùi máu và sự thù hận.
+Bạch Hồ Ly đứng giữa hai luồng năng lượng đen tối khổng lồ, cảm nhận rõ rệt sự mục nát của nhân tính. Nó bắt đầu ghê tởm con người. Những sinh vật yếu ớt, ích kỷ, sẵn sàng dùng chính đồng loại của mình làm vật tế thần chỉ để thỏa mãn lòng tham vô đáy. Thế nhưng, cỗ máy trong ngực nó lại gào thét đòi ăn. Nó không thể từ chối những giao dịch siêu lợi nhuận này. Nó là bộ đếm, và nó phải đếm mọi thứ.
+Sợi chỉ đỏ liên tục phóng ra, đâm chém chằng chịt trong không gian. Hàng chục sinh mạng bị cắt đứt trong tích tắc. Máu chảy thành sông, đọng thành từng vũng lớn dưới chân bệ đá. Những tiếng gào thét bị bóp nghẹt, những ánh mắt tuyệt vọng trợn trừng trước khi tắt lịm. Bạch Hồ Ly đứng trên bệ đá, thu nhận toàn bộ năng lượng sinh khí khổng lồ ấy, cơ thể nó phình to ra, uy lực và đáng sợ hơn bao giờ hết.
+Nó đã thiết lập một hệ thống sòng phẳng, nhưng lại quên mất rằng, sự sòng phẳng khi rơi vào tay những kẻ không có giới hạn đạo đức, sẽ trở thành một cái bẫy hoàn hảo để tiêu diệt chính chúng.
+Lam đứng ngoài cửa hang, nhìn dòng máu đỏ tươi chảy róc rách ra khỏi miệng hang ngập ngụa xác người. Gã lang băm nở một nụ cười chua chát, méo mó. Gã biết, cái ngày mà cỗ máy này sụp đổ dưới sức nặng của chính những tội ác mà nó dung túng, sẽ không còn xa nữa. Và khi sự phản phệ của nhân quả ập đến, sẽ không một ai, kể cả con cáo trắng mang trái tim kim loại kia, có thể trốn thoát.
+Chương 5: Phản phệ nhân quả
+Dịch bệnh lại tràn về. Khác với những lưỡi đao chém giết ngoài sa trường, thảm họa lần này mang hình hài của một lớp sương mù xám ngoét. Nó bò trườn qua từng khe đá. Nó len lỏi vào từng lỗ chân lông. Bầu không khí quánh lại mùi máu ứ đọng, mùi hoại tử và mùi kim loại rỉ sét. Cả một vùng thung lũng chìm trong sự im lìm đặc quánh. Không có tiếng than khóc. Những chiếc phổi đã mục rỗng không đủ sức đẩy bật ra bất cứ âm thanh nào ngoài tiếng rít khò khè, đứt quãng.
+Bạch Hồ Ly ngồi trên bệ đá trước cửa hang. Đôi mắt than hồng rực đỏ quét qua khung cảnh tàn tạ.
+Một người mẹ xuất hiện. Bà bò lê lết trên nền sỏi nhọn hoắt. Đầu gối mài sát xuống mặt đất. Máu rỉ ra, đặc sệt, bám dính vào lớp đất cằn cỗi. Lớp da rách nát trượt đi, để lộ những khớp xương trắng hếu. Bà ta ôm chặt trước ngực một cái bọc vải rách tươm. Bên trong là một sinh linh bé nhỏ, làn da thâm tím, nhịp thở chỉ còn đếm trên đầu ngón tay.
+Người phụ nữ gục đầu xuống ngay dưới chân bệ đá. Môi khô nứt nẻ ứa ra những giọt máu đỏ sẫm. Lồng ngực co thắt dữ dội. Không có tiếng gào thét van xin. Sự tuyệt vọng cào xé vỏ não đến mức mọi ngôn từ đều trở nên vụn vỡ. Bà đưa ra một giao kèo câm lặng. Dốc cạn mạng sống của mình để chuộc lại hơi thở cho cả ngôi làng.
+Trái tim kim loại trong ngực con cáo đập từng nhịp đều đặn.
+Tích. Tắc.
+Sau hàng loạt những bản hợp đồng vặn vẹo, thối nát và nặc mùi dục vọng dạo trước, một vết nứt vô hình bất chợt xuất hiện bên trong cỗ máy đo lường vô hồn. Lòng trắc ẩn. Một sai lầm chí mạng. Bạch Hồ Ly nhìn sinh vật yếu ớt đang thoi thóp dưới chân. Một chút linh tính nguyên thủy còn sót lại trỗi dậy, lấn át sự tính toán khô khan của kim loại.
+Nó bước xuống. Quyết định can thiệp. Một giao dịch quy mô lớn chưa từng có chuẩn bị được kích hoạt. Nó muốn dời toàn bộ mầm bệnh ra khỏi thung lũng này.
+Ánh sáng lục bùng lên rực rỡ, chói lòa cả một góc trời xám xịt. Một hình ảnh ba chiều của chiếc cân khổng lồ hiện ra lơ lửng giữa không trung. Âm thanh kim loại ma sát rít lên xé tai.
+Đĩa cân bên trái chứa hàng trăm sinh mạng đang thoi thóp. Lực lượng quá lớn. Sức nặng ngàn cân kéo thốc đĩa cân chìm nghỉm xuống mặt đất. Đĩa cân bên phải vọt lên cao chót vót. Phương trình mất cân bằng nghiêm trọng. Hệ thống bắt đầu quét tài sản thế chấp. Tuổi thọ của người mẹ chỉ còn mười mấy năm ốm yếu. Một con số mỏng manh, rẻ mạt. Nó không đủ lấp đầy một phần vạn khối lượng nợ khổng lồ trên đĩa cân sinh tử.
+Cỗ máy đui mù nổi giận. Trục kim loại kêu răng rắc.
+Luật vũ trụ không chấp nhận sự nhân nhượng. Sòng phẳng là tuyệt đối. Khi tài sản thế chấp thiếu hụt, hệ thống lập tức kích hoạt giao thức thu hồi nợ cưỡng chế. Ánh sáng đỏ từ hai hốc mắt Bạch Hồ Ly chớp nháy điên cuồng. Hệ thống máy móc bên trong nó tự động rà quét mọi liên kết nhân quả xung quanh. Cỗ máy lục lọi dữ liệu, lật giở lại chính xác nguồn cơn khởi thủy từng được ghi chép trong tài liệu Chương 1.docx. Ở đó, sợi dây liên kết bền chặt nhất, sòng phẳng nhất đã được thiết lập. Có một lang băm từng dùng chút thảo dược cuối cùng, đánh đổi giới hạn sinh tồn của mình để cứu một con thú.
+Lam. Kẻ duy nhất chia sẻ chuỗi nhân quả với bộ đếm tối cao.
+Cách đó mười bước chân, Lam đang khoanh tay tựa lưng vào vách đá. Đột ngột, gã đổ gục xuống.
+Âm thanh xương bánh chè nện xuống phiến đá tảng vang lên khô khốc. Khớp hàm gã cứng đờ. Lam há hốc miệng. Khí quản bị bóp nghẹt. Lồng ngực gã co giật bạo liệt, ép phọt ra một búng máu đen ngòm. Máu văng tung tóe, đỏ thẫm trên nền đất xám. Làn da gã rút kiệt lại. Các thớ cơ nhăn nheo, khô quắt, dính sát vào từng khúc xương đang kêu răng rắc.
+Tuổi thọ của gã đang bị cỗ máy điên cuồng trích xuất. Sợi chỉ đỏ chót từ không trung cắm phập vào giữa trán gã lang băm. Nó vắt kiệt từng giọt sinh khí dự trữ, ném thẳng lên đĩa cân bên phải để bù đắp cho sự thiếu hụt.
+Bạch Hồ Ly sững sờ. Khối kim loại trong lồng ngực đột ngột lỗi nhịp.
+Tích... Tịch.
+Hai hốc mắt đỏ rực trợn trừng. Nó cố vung móng vuốt, điên cuồng muốn cắt đứt sợi chỉ đỏ. Nó gầm gừ, muốn hủy bỏ lệnh giao dịch. Mọi nỗ lực đều vô vọng. Cỗ máy một khi đã kích hoạt phương trình thì không có nút dừng. Vòng quay của hệ thống lạnh tanh.
+Mọi phép màu đều có giá của nó. Lòng tốt bồng bột và sự kiêu ngạo của con thú đã vô tình mở ra một án tử tàn khốc cho ân nhân duy nhất của đời mình. Lam nằm đó, máu rỉ ra từ khóe mắt, khóe môi. Sinh mạng gã trôi tuột đi không thể níu giữ, để lại một hiện thực màu đỏ rực của sự tàn khốc bủa vây lấy hình hài trắng toát đang run rẩy.
+Chương 6: Bản án vĩnh định
+Đĩa cân khổng lồ lơ lửng giữa không trung từ từ lấy lại trạng thái thăng bằng. Âm thanh kim loại va đập vào nhau kêu loảng xoảng, chát chúa, dội lại liên hồi giữa bốn bề vách núi khô cằn. Sợi chỉ đỏ rực cắm phập trên trán Lam nhấp nháy vài nhịp cuối cùng, hút cạn những tia sáng lục mờ nhạt từ cơ thể gã rồi đứt phựt.
+Khối năng lượng sinh khí khổng lồ vừa được vắt kiệt từ sinh mạng của gã lang băm lập tức chuyển hóa thành luồng sương mù trắng xóa, trào ra khỏi đĩa cân bên phải, cuồn cuộn đổ xuống thung lũng. Mầm bệnh héo úa, tàn lụi. Dịch bệnh được quét sạch. Tiếng thở dốc của đứa trẻ trên tay người mẹ trở nên đều đặn. Làn da bớt đi vẻ thâm tím, nhường chỗ cho một chút hồng hào yếu ớt. Giao dịch hoàn tất.
+Nhưng dưới chân vách đá, Lam nằm bất động.
+Gã thoi thóp trên vũng máu đen đặc quánh. Làn da gã khô quắt, dính chặt vào khung xương sườn nhô cao. Mọi lỗ chân lông đều đóng băng. Đôi mắt trũng sâu trân trân nhìn lên bầu trời vỡ nát xám xịt. Không còn sức lực để gượng dậy. Nhiệt độ cơ thể giảm sút đột ngột, lan tỏa một hơi lạnh ngắt cắt da cắt thịt. Mạch đập chậm dần.
+Bạch Hồ Ly lao tới. Tốc độ của nó như một tia chớp trắng xóa xé toạc màn sương.
+Nó phủ phục bên cạnh cơ thể đang tàn lụi của Lam. Hai hốc mắt đỏ ối, sáng quắc của nó quét qua bảng thông số sinh tồn đang nhấp nháy trên đỉnh đầu gã lang băm. Những con số liên tục rớt thảm hại, chuyển sang một màu xám ngoét báo hiệu sự hủy diệt. Sinh khí cạn kiệt. Không có tài sản dự trữ.
+Trái tim kim loại trong ngực con cáo đập dồn dập, loạn nhịp.
+Tích... Tắc... Tịch. Tịch.
+Lần đầu tiên, cỗ máy đo lường vô cảm trải qua cảm giác quá tải hệ thống. Bạch Hồ Ly vươn móng vuốt, điên cuồng cào xới không khí xung quanh, cố gắng kích hoạt lại giao diện điều khiển. Nó há hốc mõm, muốn dùng chính sinh khí vô tận của mình để bơm ngược vào huyết quản của gã. Lực đẩy từ hệ thống bơm nhiên liệu gầm rú, tạo ra một quầng sáng xanh lục bao bọc lấy cả hai.
+Ngay khoảnh khắc năng lượng chuẩn bị truyền tải, một phản ứng kháng cự mãnh liệt nổ ra.
+Từ trên không trung, một luồng xung điện chói lòa giáng thẳng xuống, đánh bật Bạch Hồ Ly văng ra xa hàng trượng. Cơ thể trắng muốt đập mạnh vào vách đá. Lông cháy xém. Mùi khét lẹt bốc lên. Hệ thống phòng vệ tối cao của vũ trụ đã được kích hoạt.
+Con cáo gượng đứng dậy, bốn chân run rẩy. Hốc mắt nó dán chặt vào khoảng không ngay trên trán Lam. Giữa những thông số xám xịt đang chớp tắt, một hình xăm lửa từ từ hiện rõ. Một dấu triện vuông vức, đỏ rực như được nung chảy từ dung nham, đóng sập xuống.
+ÁN TỬ VĨNH ĐỊNH.
+Lớp vỏ não của Bạch Hồ Ly lập tức bị nhồi nhét hàng vạn chuỗi mã lệnh từ chối. Hệ thống đã khóa chặt nhân quả. Cỗ máy phán xét tuyên bố: Sự sống của Lam đã được sử dụng làm vật thế chấp để lấp đầy một khoảng trống quá lớn. Sự thăng bằng đã được thiết lập. Khách hàng này bị cưỡng chế thu hồi sinh mệnh. Cự tuyệt mọi lệnh giao dịch phục hồi. Không có quyền kháng cáo. Không có tài sản nào đủ sức nặng để chuộc lại một vật thế chấp đã bị hệ thống phân hủy.
+Cỗ máy hoàn hảo, tàn khốc, không chừa một kẽ hở.
+Bạch Hồ Ly đứng sững lại. Khớp xương hai chân trước nó khuỵu xuống. Dòng chảy năng lượng trong cơ thể nó tắc nghẽn. Trái tim kim loại đột ngột phát ra một tiếng "cạch" khô khốc, như thể có một chiếc bánh răng vừa gãy nát. Một cơn đau buốt óc, không thuộc về thể xác, xé toạc lớp vỏ bọc vô cảm của nó. Cơn đau không hiện hình bằng máu hay nước mắt, mà bằng sự đứt gãy của những liên kết logic. Mọi phép tính sòng phẳng của nó bị đập nát dưới gót chân của hiện thực. Nó là kẻ tạo ra cái bẫy, và giờ đây, nó đang nhìn người duy nhất chia sẻ chuỗi nhân quả với nó bị nghiền nát ngay trong cái bẫy ấy.
+Lam nhếch khóe môi nứt nẻ.
+Máu đen rỉ ra từ kẽ răng gã. Gã không gào thét. Gã không nguyền rủa sự ngu ngốc của con thú, cũng chẳng oán hận cỗ máy đui mù của đất trời. Nỗi đau thể xác đã đạt đến ngưỡng bão hòa. Sự trống rỗng tột cùng của cái chết bắt đầu nuốt chửng vùng nhận thức.
+Gã vươn cánh tay gầy guộc, các khớp ngón tay run bần bật, lôi từ trong vạt áo rách nát ra chiếc đàn dây thô sơ. Dây đàn bằng gân thú đã đứt mất hai sợi.
+Lam tựa đầu vào hòn đá rêu phong. Ngón tay cái dính bết máu đặt lên sợi dây còn sót lại. Gã miết nhẹ.
+Tích... Tịch.
+Khúc nhạc mộc mạc ngày xưa lại vang lên. Rời rạc. Bập bùng. Khàn đục. Giai điệu len lỏi qua không gian đặc quánh, đập vào màng nhĩ của con cáo trắng. Âm thanh ấy không mang theo phép thuật hồi sinh như đêm đông năm nào. Nó chỉ mang sức nặng của một lời từ biệt tàn nhẫn.
+"Không cần phải bù đắp," giọng Lam đứt quãng, thều thào trong gió rít. Âm điệu yếu ớt nhưng rạch ròi, vạch một ranh giới cuối cùng.
+Bạch Hồ Ly lết lại gần. Cái mõm lạnh buốt của nó chạm vào mu bàn tay đang rỉ máu của gã.
+Lam khó nhọc nhấc tay lên, vuốt nhẹ lớp lông trắng toát, lạnh lẽo. Gã ho sặc sụa, máu tươi trào ra, bắn lấm tấm lên trán con vật. "Đừng hận con người... Sự ngu dốt của họ là một phần của quy luật. Cũng đừng hận chính mình. Cái chết của tao... là cái giá tao tự chọn. Trả hết nợ rồi... Hãy để tao đi."
+Bàn tay gã lang băm buông thõng. Rơi tự do. Đập cạch xuống phiến đá lạnh lẽo. Sợi dây đàn bật lên một âm thanh chói tai cuối cùng rồi đứt phựt.
+Khớp hàm Lam cứng đờ. Đôi mắt trũng sâu khép lại. Hơi thở tắt ngấm. Mọi chỉ số sinh tồn trên trán gã tụt xuống con số không tuyệt đối. Dấu triện đỏ rực chớp lóe một lần cuối rồi tan biến.
+Lam chết.
+Mọi thứ chìm vào sự im lặng đặc quánh, nghẹt thở. Không có tiếng khóc than. Không có gió than mây hờn. Vũ trụ vẫn lạnh tanh, thờ ơ tiếp tục vận hành.
+Nhưng bên trong lồng ngực Bạch Hồ Ly, trái tim kim loại đang vỡ nát.
+Âm thanh Tích... Tắc... vang lên rời rạc, méo mó. Sự đau đớn phi vật lý cào xé lớp vỏ não của con thú. Không có nước mắt để rửa trôi. Không có tiếng thét để trút bỏ. Nỗi đau ấy quánh lại thành một khối áp lực khổng lồ, ép chặt từng hệ thống vi mạch, đè bẹp từng luồng năng lượng trong cơ thể nó.
+Linh tính của nó bùng nổ. Sự cứng nhắc của máy móc không thể chế ngự được luồng năng lượng điên rồ đang cuộn xoáy. Nó từ chối hiện thực. Nó từ chối cái chết này. Nếu cỗ máy vũ trụ không có kẽ hở, nó sẽ tự tay đục thủng một lỗ hổng đẫm máu.
+Hai hốc mắt đỏ ối của Bạch Hồ Ly đột ngột bốc cháy dữ dội. Lửa từ trong hốc mắt phụt ra, liếm láp không khí, thiêu rụi lớp sương mù. Cơ thể trắng toát vươn cao, phát ra những tiếng gầm gừ trầm đục, vang dội khắp thung lũng, báo hiệu một cuộc lật đổ luật lệ chưa từng có sắp sửa bắt đầu.
+Chương 7: Tiền lệ đẫm máu
+Ngọn lửa đỏ ối từ hốc mắt Bạch Hồ Ly liếm láp không khí, thiêu rụi lớp sương mù đặc quánh bao trùm thung lũng. Hơi nóng tỏa ra từ cơ thể con thú nung chảy những phiến đá xám xịt xung quanh, biến chúng thành những vũng bùn lầy sền sệt, sôi sục.
+Bạch Hồ Ly không gầm thét. Sự chống đối của nó được thể hiện bằng một hành động tĩnh lặng nhưng bạo liệt tột độ. Nó thu hồi toàn bộ năng lượng đang phát tán ra môi trường, nén chặt vào bên trong lõi trái tim kim loại.
+Tích... Tắc...
+Nhịp đập của cỗ máy đột ngột tăng tốc, dồn dập như búa tạ nện vào đe sắt. Không gian xung quanh con cáo bắt đầu vặn xoắn, bóp méo. Ánh sáng bị hút ngược vào bên trong bộ lông trắng toát. Nó đang đảo ngược chu trình vận hành của chính mình, dồn toàn bộ quyền năng để mở ra một kênh kết nối trực tiếp với nguồn cội của luật Ngang Giá. Nó gọi hệ thống tối cao ra đàm phán.
+Không gian vật lý bị xé toạc. Từ trên bầu trời xám ngoét, một luồng ánh sáng chói lòa giáng thẳng xuống, bao trùm lấy Bạch Hồ Ly. Không có hình hài, không có thực thể. Hệ thống tối cao xuất hiện dưới dạng một khối thông số khổng lồ, nhấp nháy liên hồi, tạo thành những dải băng màu xanh lục cuộn xoáy quanh cơ thể con vật.
+"Mã định danh chưa được cấp phép. Can thiệp trái phép vào chuỗi nhân quả đã đóng băng," một giọng nói khô khan, vô hồn, mang âm lượng cộng hưởng từ hàng vạn tần số khác nhau vang lên trong tâm trí Bạch Hồ Ly. "Cảnh báo: Hành vi lách luật sẽ dẫn đến sự tự hủy."
+Bạch Hồ Ly không chùn bước. Hốc mắt nó rực lửa, nhìn chằm chằm vào khối thông số vô hình.
+"Tôi khởi kiện Bản án vĩnh định của khách hàng mang chuỗi gen 01-Lam," âm thanh kim loại từ con cáo rít lên, sắc lẹm, cắt ngang luồng dữ liệu của hệ thống. "Yêu cầu khôi phục trạng thái sinh học trước giao dịch. Tài sản thế chấp: Toàn bộ quyền lực đo lường và hệ thống tích lũy năng lượng của tôi."
+Khối ánh sáng xanh lục chớp tắt. Hệ thống đang tính toán. Hàng tỷ phương trình đang được giải quyết trong tích tắc.
+"Từ chối," giọng nói vô hồn phản hồi, lạnh tanh. "Trọng lượng sinh mệnh của khách hàng 01-Lam đã bị phân hủy để bù đắp cho lượng tài sản thiếu hụt trong giao dịch bảo hộ khu vực. Giá trị hao hụt là tuyệt đối. Toàn bộ năng lượng và quyền lực của mi không tương thích với định dạng sinh khí. Giao dịch không hợp lệ."
+Hệ thống đóng sập cửa. Phương trình không thể giải.
+Bạch Hồ Ly cắn chặt hàm răng sắc nhọn. Lưỡi nó rỉ máu, máu chảy dọc theo nanh vuốt, đông cứng lại thành những vệt đỏ sẫm. Nó không chấp nhận sự khước từ. Nếu năng lượng cơ giới không được định giá, nó sẽ ném lên đĩa cân thứ tài sản hữu cơ duy nhất mà nó còn sở hữu.
+"Thế chấp tuổi thọ," Bạch Hồ Ly gầm gừ, từng chữ một nện thẳng vào hệ thống. "Tuổi thọ vô hạn của sinh vật đột biến. Thế chấp thị giác. Thế chấp toàn bộ cấu trúc thân thể. Rút cạn mọi tế bào thịt, chỉ để lại lõi kim loại. Hãy định giá."
+Một sự tĩnh lặng bao trùm. Ngay cả hệ thống tối cao cũng phải đình trệ trước một yêu cầu giao dịch cực đoan đến vậy. Không có tiền lệ. Chưa một sinh vật nào, dẫu là kẻ tuyệt vọng nhất, dám lôi toàn bộ sự tồn tại của mình ra làm vật tế thần chỉ để đắp đổi cho một cái xác đã bị niêm phong.
+Khối thông số xanh lục xoay tròn điên cuồng. Các chuỗi mã lệnh tự động nâng cấp mức độ thẩm định lên ngưỡng cảnh báo cao nhất.
+"Phân tích hoàn tất," giọng nói vang lên, mang theo một âm sắc kim loại cọ xát rợn người. "Tài sản thế chấp: Cơ thể vật lý, tuổi thọ vô tận, hệ thống thị giác. Tổng khối lượng quy đổi: Đủ để kích hoạt lệnh khôi phục trạng thái sinh học. Tuy nhiên..."
+Sợi chỉ xanh lục từ khối thông số đâm thẳng vào giữa trán Bạch Hồ Ly, ép buộc nó phải tiếp nhận một dữ liệu mới.
+"...Tuy nhiên, luật Ngang Giá không cho phép sự hồi sinh nguyên vẹn đối với Án tử vĩnh định. Để phá vỡ định luật luân hồi, vật thế chấp vật lý là chưa đủ. Mọi sự kiện trái với tự nhiên đều đòi hỏi một sự bù đắp từ thế giới tinh thần. Yêu cầu tài sản bổ sung để hoàn tất giao dịch."
+Bạch Hồ Ly trợn trừng hai hốc mắt đang bốc cháy. "Tài sản bổ sung là gì?"
+Bảng điện tử khổng lồ hiện ra giữa không trung, chiếu thẳng những dòng chữ đỏ rực, sắc lẹm, khắc sâu vào vỏ não con thú.
+"Để cứu một mạng người mang Án vĩnh định, phải thế chấp bằng sự tồn tại của kẻ cứu trong ký ức người được cứu."
+Hơi lạnh buốt xương tỏa ra từ những dòng chữ vô hồn ấy. Hệ thống đưa ra một cái giá chưa từng có trong lịch sử vận hành vũ trụ. Nó không đòi hỏi thêm một mảng xương, một giọt máu. Nó đòi hỏi phần rễ cắm sâu nhất của chuỗi nhân quả, thứ đã liên kết gã lang băm rách rưới và con dã thú khát máu.
+Bạch Hồ Ly đứng sững lại. Khối kim loại trong lồng ngực đập từng nhịp nặng nhọc.
+Tích... Tắc... Tích... Tắc...
+Để gã sống lại, nó phải tự tay đập nát sợi dây nhân duyên duy nhất của đời mình. Nó sẽ bị xóa sổ hoàn toàn khỏi tâm trí gã. Chút hơi ấm từ đống lửa tàn đêm đông, mùi vị chát ngắt của nhúm thảo dược, tiếng đàn dây thô ráp... tất cả sẽ bị hệ thống rút cạn, vo tròn, và ném thẳng vào lò đốt vĩnh cửu. Nếu giao dịch này thành công, khi Lam mở mắt ra, gã sẽ không còn là ân nhân của nó. Gã sẽ nhìn nó như nhìn một cục đá ven đường, một khoảng không vô nghĩa.
+Sự cô độc tuyệt đối đang há miệng chờ đợi nó ở cuối bản hợp đồng.
+Không gian vặn xoắn. Khối ánh sáng xanh lục chớp nháy, chờ đợi chữ ký xác nhận. Hệ thống không thúc giục. Nó chỉ hiển thị đồng hồ đếm ngược. Mười giây cho một quyết định đảo lộn càn khôn.
+Bạch Hồ Ly cụp mắt xuống. Ngọn lửa đỏ ối trong hốc mắt thu nhỏ lại, lạnh lẽo, sắc lẹm. Nó nhớ lại khuôn mặt gầy guộc của gã lang băm. Nhớ lại tiếng đàn rền rĩ, khô khốc đã kéo giật nó về từ cõi chết. Nhớ lại lời từ biệt nhẹ bẫng của gã trước lúc trút hơi thở cuối cùng.
+"Đừng hận con người... Cũng đừng hận chính mình. Hãy để tao đi."
+Nhưng nó là một cỗ máy, và nó chọn sự sòng phẳng theo cách tàn bạo nhất.
+Nó vươn móng vuốt, ấn mạnh xuống bảng giao dịch ảo giữa không trung. Một tiếng "Cheng" chói lòa vang lên.
+Bạch Hồ Ly ký kết Giao ước Hắc ám đầu tiên của vũ trụ. Không có đường lui.
+Hệ thống rú lên một hồi còi đinh tai nhức óc. Lưới điện từ không trung giáng xuống, cuộn chặt lấy cơ thể con cáo. Quá trình thanh toán tài sản lập tức bắt đầu. Những bó cơ thịt dưới lớp lông trắng toát bắt đầu nứt toác, tiêu biến. Từng dải sinh khí vô tận bị rút cạn. Hốc mắt đỏ ối bắt đầu lụi tàn. Nó nghiến răng chịu đựng sự phân rã từ tận cấp độ tế bào, trơ trọi đứng đó, nhìn sợi chỉ đỏ vô hình vươn ra, hút sạch mảng ký ức vừa được định hình trong đầu óc gã lang băm nằm dưới đất.
+Bóng tối ập xuống. Tiền lệ đẫm máu đã được thiết lập, mở ra một kỷ nguyên mới cho Chiếc Cân Ngầm.
+Chương 8: Vỡ vụn và Chiếc đinh của kẻ phá luật
+Quá trình thu hồi tài sản diễn ra nhanh gọn và bạo liệt.
+Hệ thống tối cao hoạt động như một cỗ máy nghiền khổng lồ, vắt kiệt từng giọt sinh khí từ cơ thể Bạch Hồ Ly. Lớp da thịt dưới lớp lông trắng toát bắt đầu khô héo, nứt nẻ như mảnh đất cằn cỗi giữa hạn hán. Những tiếng lạo xạo vang lên từ sâu bên trong cơ thể nó, báo hiệu sự đứt gãy của hệ xương sống. Tuổi thọ vô tận bị rút sạch. Khí huyết bị phân rã.
+Sợi chỉ xanh lục thu lấy toàn bộ khối năng lượng đó, cuộn lại thành một quả cầu ánh sáng chói lòa, giáng thẳng xuống cái xác lạnh lẽo của Lam.
+Thực tại vặn xoắn. Một tiếng nổ không phát ra âm thanh dội thẳng vào tiềm thức vạn vật xung quanh.
+Lam đột ngột bật dậy.
+Lồng ngực gã phập phồng, hít một hơi dài, tham lam như một kẻ chết đuối vừa trồi lên mặt nước. Làn da khô quắt, thâm tím của gã nhanh chóng lấy lại độ đàn hồi, ửng lên màu huyết sắc. Mắt gã mở to, tròng mắt trong vắt, không còn hằn lên những tia máu đỏ quạch của cơn đau thể xác. Nhịp tim đập mạnh mẽ, đều đặn.
+Bản án vĩnh định đã bị xóa bỏ. Sinh mệnh gã được đổ đầy bằng thứ năng lượng tinh khiết nhất. Gã hoàn toàn khỏe mạnh.
+Lam ngơ ngác nhìn xung quanh. Gã đưa tay xoa thái dương, cố gắng định hình lại thực tại. Ký ức của gã đứt đoạn, chắp vá. Gã nhớ mình đã bỏ lại một ngôi làng hoang tàn, đi lạc vào vực sâu nọ, nhưng lại không thể lý giải tại sao mình lại nằm bất tỉnh ở chân núi này. Khối ký ức về đống lửa tàn đêm đông, về một con cáo lông đỏ nhạt thoi thóp, về những cuộc ngã giá sinh mạng đẫm máu... tất cả đã bị hệ thống cắt gọt sạch sẽ, không để lại một vệt sẹo nào trong vỏ não.
+Gã từ từ đứng lên, phủi lớp bụi xám bám trên vạt áo chắp vá. Ánh mắt gã lướt qua khung cảnh hoang tàn, và rồi, dừng lại ở một thân ảnh trắng toát cách đó vài bước chân.
+Bạch Hồ Ly đứng đó, bất động.
+Toàn bộ cơ bắp đã tiêu biến, để trơ lại một bộ khung xương được giữ lại bởi những sợi lông trắng muốt. Hai hốc mắt nó không còn rực lửa, chỉ còn là hai vệt đen ngòm, sâu hoắm. Nhưng trái tim kim loại trong ngực nó vẫn đang đập. Tích... Tắc... Nó ngước cặp mắt trống rỗng lên nhìn gã.
+Nó chờ đợi. Một phản xạ vô điều kiện của sinh vật mang nợ.
+Nhưng Lam chỉ lướt ánh mắt qua nó như nhìn một hòn đá vô tri ven đường, hoặc một gốc cây chết khô. Ánh mắt gã không gợn chút cảm xúc. Không ngạc nhiên. Không đề phòng. Tuyệt đối xa lạ. Đối với gã, con thú kỳ dị đứng trước mặt chỉ là một mảnh phông nền mờ nhạt của thế giới tự nhiên.
+Sợi dây liên kết bị bóp nát hoàn hảo. Giao dịch về "Ký ức" đã phát huy tác dụng tàn độc của nó.
+Lam cúi xuống, nhặt chiếc đàn dây thô sơ dưới đất lên. Gã vỗ vỗ lớp bụi bám trên thùng đàn, chỉnh lại dây đeo. Gã quay lưng, bước đi. Từng nhịp chân vững chãi đạp lên lớp sỏi đá lạnh ngắt, xa dần. Gã không một lần ngoảnh lại.
+Bạch Hồ Ly đứng chôn chân.
+Khoảnh khắc bóng Lam khuất sau tảng đá lớn, một lực lượng hủy diệt từ bên trong cơ thể nó bùng nổ.
+Quả cân kim loại đen nhánh thay thế cho trái tim sinh học không thể chịu nổi sự bất thường của phương trình giao dịch hắc ám. Nó kêu lên một tiếng Rắc chói tai, rồi lập tức nổ tung.
+Sức ép vụ nổ xé toạc lồng ngực con thú. Hàng vạn mảnh vụn kim loại đen ngòm bắn văng ra xung quanh, xuyên thủng lớp da mỏng manh, găm phập vào vách đá. Nhưng chúng không văng đi mất. Dưới sự chi phối của một từ trường vô hình, những mảnh kim loại rỉ máu ấy lại tự động cuộn xoáy, găm ngược trở lại cơ thể con cáo, khâu vá lại những lớp da thịt rách nát bằng một lực lượng thô bạo. Nó bị ép buộc phải tồn tại.
+Cơn đau xé rách mọi nơ-ron thần kinh. Bạch Hồ Ly ngửa cổ, há hốc mõm. Từ hai hốc mắt trống rỗng, hai ngọn lửa đỏ ối bất ngờ bùng lên, thiêu rụi toàn bộ tàn dư của võng mạc, biến chúng thành hai hốc chứa than hồng rực cháy vĩnh viễn. Nước mắt không thể rơi. Nỗi đau thể xác bị nhốt chặt bên trong, không có đường thoát.
+Bầu trời trên đầu nó đột ngột vỡ nát.
+Những đám mây xám xịt bị xé rách làm đôi. Từ một khoảng không vô định, sâu thẳm như hố đen vũ trụ, một vật thể lao thẳng xuống với tốc độ xé gió.
+Đó là một chiếc đinh sắt khổng lồ, đen ngòm, xù xì, bám đầy rỉ sét. Nó đâm xuyên qua không khí, phát ra tiếng rít chói lòa.
+Chiếc đinh mang theo hình phạt của kẻ phá luật.
+Phập.
+Nó cắm ngập vào giữa hai bả vai Bạch Hồ Ly, đâm xuyên qua xương sống, ghim chặt chiếc bóng của con cáo xuống nền đất cứng lạnh lẽo. Lực cắm mạnh đến mức tạo ra một vòng sóng xung kích hất tung bụi mù, làm rung chuyển cả thung lũng.
+Bạch Hồ Ly gục xuống. Bốn chân khuỵu gập. Máu đen rỉ ra từ vết thương hở toác quanh chiếc đinh sắt, nhanh chóng bị hàn khí đóng băng thành những vệt đá đen sì.
+Hệ thống tối cao đã giáng xuống đòn trừng phạt cuối cùng. Chiếc đinh sắt này không kết liễu sinh mệnh của nó, bởi tuổi thọ hữu hạn đã bị đem ra đánh đổi. Chiếc đinh này là gông cùm. Nó tước đoạt vĩnh viễn khả năng rơi nước mắt và cảm nhận nỗi đau vật lý của con vật. Kể từ giây phút này, hệ thống cảm giác của nó bị khóa chặt, mọi nỗi đau bị mã hóa thành chuỗi số 0 và 1 khô khan.
+Nó đã trở thành một thực thể miễn nhiễm với sự đau đớn thể xác, nhưng bị cầm tù vĩnh viễn trong cái xác không hồn, mang theo món nợ tinh thần không bao giờ có thể thanh toán.
+Nó quỳ đó, chiếc đinh găm chặt bóng nó xuống vũng lầy của nhân quả. Trái tim kim loại đã vỡ vụn, giờ được cấu thành bởi hàng vạn mảnh ghép từ trường, vẫn tiếp tục đập.
+Tích... Tắc... Tích... Tắc...
+Nhịp đập vô cảm, lạnh lẽo, đều đặn vang lên giữa bình nguyên câm lặng. Kẻ phá luật đã trả giá xong. Và từ đống tro tàn của hình phạt này, cỗ máy phán xét tối thượng mới thực sự được khai sinh.
+Chương 9: Kiến tạo lồng giam
+Gió ngừng rít. Vạn vật chìm vào trạng thái tĩnh mịch tuyệt đối.
+Chiếc đinh sắt khổng lồ cắm ngập trên lưng con thú. Lớp rỉ sét bám trên thân đinh tỏa ra một thứ hàn khí cắt da cắt thịt. Máu đen ngừng chảy. Xung quanh vết thương, các thớ cơ thịt đã bị khóa chặt, hóa thành một khối vật chất đông cứng, xám ngoét.
+Con cáo từ từ đứng lên.
+Chiếc đinh không cản được chuyển động của nó, nhưng cái bóng của nó vĩnh viễn bị ghim chặt xuống nền đất. Từng khớp xương kêu răng rắc. Không còn sự phản kháng. Không còn linh tính. Đốm lửa của sự sống, thứ từng thôi thúc nó cứu vớt một sinh linh hèn mọn, đã bị đập nát. Hệ thống cảm xúc bị vô hiệu hóa hoàn toàn.
+Nó đứng đó. Một thực thể vô hồn. Kẻ gác cổng của vạn vật: Bạch Cân.
+Dưới chân nó, một đống tro tàn xám xịt cuộn xoáy. Đó là tàn dư từ linh hồn và ký ức của chính nó sau giao dịch hắc ám. Những hạt bụi khô khốc không tan vào gió. Chúng tụ lại, xoay tròn, nén chặt vào nhau bởi một lực từ trường khổng lồ.
+Bụi kết tủa. Hình khối hình thành. Một vật thể vật lý rơi phịch xuống nền đá lạnh lẽo.
+Một cuốn sổ bìa da đen nhánh. Gáy cong queo, sần sùi như vảy rắn.
+Bạch Cân cúi mõm. Móng vuốt sắc lẹm lật mở trang đầu tiên. Soạt. Tiếng giấy ma sát rít lên như tiếng dao cạo nạo vào xương trắng. Giấy không làm từ bột gỗ. Chúng được ép từ sự tuyệt vọng, từ những lời hứa hẹn dối trá và những bản hợp đồng nặc mùi máu. Cuốn sổ đen đã ra đời, trở thành thiết bị lưu trữ tối cao của mọi món nợ luân hồi.
+Hai hốc mắt chứa than hồng rực cháy của Bạch Cân hướng về phía chân trời mù sương.
+Nó nhìn thấy loài người. Khát vọng của họ là một dòng nham thạch hoang dại, không có điểm dừng. Khi phép thuật và những điều mầu nhiệm phơi bày trên mặt đất, dục vọng của con người bị kích thích đến mức cuồng loạn. Họ sẵn sàng xẻ thịt đồng loại, tàn sát lẫn nhau chỉ để giành giật một chút quyền năng hoán đổi. Sự huyền bí không mang lại trật tự. Nó chỉ dung túng cho sự hủy diệt.
+Để kiểm soát một con thú đói, không thể ném cho nó những miếng thịt tươi ngon đẫm máu. Phải nhốt nó lại. Phải mài mòn nanh vuốt của nó.
+Phải làm cho dục vọng trở nên tẻ nhạt.
+Bạch Cân gõ móng vuốt xuống mặt đất. Một tiếng Keng chói tai vang lên.
+Mặt đất nứt toác. Không có tiếng gầm rống của địa chấn. Chỉ có những khối hình học hoàn hảo tách rời nhau ra, lạnh lẽo, chính xác như một bản vẽ kỹ thuật. Bạch Cân mang theo cuốn sổ đen, chầm chậm chìm xuống. Nó bỏ lại thế giới ánh sáng, lặn sâu vào lõi của lớp vỏ trái đất. Trọng lực đè nặng. Áp suất tăng vọt. Mọi thứ lùi lại phía trên đỉnh đầu.
+Ở độ sâu tận cùng, nơi ánh mặt trời vĩnh viễn không thể chạm tới, Bạch Cân bắt đầu kiến tạo cái lồng của mình.
+Sức mạnh của luật Ngang Giá được tái định hình. Sự mầu nhiệm bị tước đoạt hoàn toàn. Khung cảnh vĩ đại của hang động huyền bí, của những đĩa cân lơ lửng bốc lửa bị đập nát, nhường chỗ cho một kết cấu vô hồn.
+Những bức tường bê tông xám ngoét mọc lên. Dày đặc. Trần trụi.
+Ánh sáng ma trắc của phép thuật được thay thế bằng những bóng đèn huỳnh quang nhấp nháy, chớp tắt liên hồi, phát ra thứ ánh sáng bợt bạt, lạnh lẽo. Sàn nhà lát gạch men xỉn màu.
+Những buồng kính chống đạn trong suốt mọc lên san sát nhau. Các quầy giao dịch được thiết lập. Bệ nhôm lạnh ngắt. Những chiếc ghế nhựa xếp hàng dài ngoài hành lang chờ. Không có bệ đá hiến tế. Chỉ có những tờ biểu mẫu điền tay, những văn bản chi chít các điều khoản loại trừ. Không có bùa chú hay nghi thức. Chỉ có những con dấu đồng gỉ sét.
+Cộp. Cộp.
+Dục vọng phàm trần bị nhét vào những khuôn khổ hành chính chật hẹp, ngột ngạt. Bán mạng sống? Điền vào mẫu số 4. Cầm cố tuổi thọ? Bấm số thứ tự và ngồi chờ.
+Bạch Cân hiểu rằng, không có gì hủy hoại sự cuồng nhiệt của con người nhanh bằng sự chờ đợi và những thủ tục rườm rà. Nỗi đau đớn tột cùng khi mất đi người thân, khát khao báo thù cháy bỏng, hay khát vọng quyền lực... tất cả khi bước vào đây đều phải cúi đầu trước những hàng ghế dài dằng dặc. Cảm xúc bị nghiền nát dưới bánh răng của quy trình. Khát khao bị bóp nghẹt bởi mùi giấy lộn, mùi mực in rẻ tiền và sự vô cảm của những ô kính.
+Hệ thống bắt đầu tuyển dụng.
+Những mảnh linh hồn lạc bước, những kẻ bám víu vào sự sòng phẳng tuyệt đối được nhặt nhạnh về. Chúng được khoác lên mình chiếc áo sơ mi trắng nhàu nhĩ. Chúng ngồi sau quầy kính. Trở thành Thẩm định viên. Trở thành những bánh răng của một cỗ máy đếm tiền khổng lồ chuyên nhai nuốt sinh mệnh.
+Chiếc bảng điện tử treo trên trần nhà bật sáng. Những con số màu đỏ rực nhảy múa.
+Tích. Tích.
+Mỗi con số là một mảnh linh hồn bị băm vằn.
+"Chiếc Cân Ngầm" chính thức khai sinh. Trật tự mới của vũ trụ đã được đóng đinh xuống tầng sâu nhất của cõi âm. Một cái lồng giam hoàn hảo, nơi mọi phép màu đều phải nộp thuế bằng sự đọa đày vô hình của luật lệ.
+Chương 10: Kẻ kiểm toán tối cao
+Thời gian trên mặt đất trôi qua như một dòng sông cuộn xiết. Những đế chế trỗi dậy rồi sụp đổ. Chiến tranh bùng nổ, dịch bệnh càn quét, rồi lại được thay thế bằng những tòa nhà chọc trời và những con đường trải nhựa thênh thang.
+Dưới tầng sâu nhất của vỏ trái đất, thời gian đóng băng.
+Hàng ngàn năm trôi qua. Chiếc Cân Ngầm không hề thay đổi. Vẫn những bức tường bê tông bong tróc. Vẫn ánh đèn huỳnh quang nhấp nháy bợt bạt. Vẫn thứ mùi quánh đặc của giấy lộn ố vàng và sự tuyệt vọng. Cỗ máy hành chính tẻ nhạt này vận hành trơn tru, lạnh lùng như một chiếc máy đếm tiền khổng lồ không bao giờ biết mỏi. Hàng triệu hồ sơ được đóng dấu. Hàng tỷ mảnh linh hồn được chuyển giao. Sòng phẳng. Tàn nhẫn. Không có ngoại lệ.
+Sâu bên dưới các quầy giao dịch, vượt qua những kho lưu trữ ngập ngụa bụi bặm, là tầng âm tận cùng.
+Khu vực này không có ánh sáng. Không có tiếng loa phát thanh rè rè gọi số thứ tự. Không có tiếng lật giấy hay tiếng cộp cộp của con dấu đồng. Nó là một cái hố đen đặc, tĩnh mịch đến rợn người.
+Bạch Cân ngự trị ở đây. Kẻ kiểm toán tối cao.
+Con cáo trắng toát nằm phủ phục trên một khối đá lạnh ngắt. Cơ thể nó không hề mục nát sau ngần ấy kỷ nguyên, nhưng cũng chẳng còn vẻ uy nghi của một thực thể thiết lập trật tự. Nó giống như một cái xác khô được duy trì bằng thứ năng lượng u ám.
+Trên lưng nó, không chỉ còn một chiếc đinh sắt khổng lồ.
+Phập. Phập. Phập.
+Hàng chục, hàng trăm chiếc đinh sắt đen ngòm, rỉ sét cắm chi chít dọc theo sống lưng, găm sâu vào các thớ cơ đông cứng. Mỗi lần một nhân viên thẩm định sửa lỗi hồ sơ cho khách hàng. Mỗi lần một kẻ nào đó ở trên kia cố tình lách luật để vay mượn thêm một ngày tuổi thọ. Mỗi lần chuỗi nhân quả bị bẻ cong bởi một chút thương hại thừa thãi. Hệ thống sẽ tự động trừng phạt.
+Nhưng hình phạt không giáng xuống kẻ vi phạm. Nó giáng thẳng lên đầu Kẻ kiểm toán tối cao. Búa tạ vô hình nện xuống, đóng thêm một chiếc đinh vào lưng Bạch Cân.
+Máu đen không thể chảy. Nỗi đau thể xác không thể cảm nhận. Nhưng sức nặng vô hình của sự mục nát, của những khoản nợ xấu, của những kẻ phá vỡ nguyên tắc, tất cả đều chất lên vai nó. Chiếc bóng của nó bị ghim chặt xuống nền đá, vĩnh viễn không thể nhúc nhích. Nó gánh chịu toàn bộ sự thối nát của hệ thống trong câm lặng.
+Trái tim kim loại trong ngực vẫn đều đặn nhịp gõ. Tích... Tắc... Tiếng đập giờ đây rè rè, khô khốc như những bánh răng khô dầu.
+Cuốn sổ đen lơ lửng ngay trước mõm nó. Những trang giấy tự động lật mở phần phật. Ánh sáng từ hai hốc mắt chứa than hồng chiếu rọi vào từng dòng chữ nặc mùi máu. Nó soi xét. Nó ghi nhận. Nó khóa sổ. Mọi thứ lặp đi lặp lại như một vòng luân hồi không lối thoát.
+Một ngày nọ.
+Hệ thống ghi nhận sự biến động ở khu vực cửa vào. Loa phát thanh vang lên tiếng rè rè thông báo tuyển dụng hoàn tất. Một mã định danh mới vừa được kích hoạt.
+Từ trong bóng tối của tầng âm tận cùng, Bạch Cân hơi ngóc đầu lên. Hốc mắt đỏ rực của nó xuyên thấu qua những lớp trần bê tông cốt thép, chiếu thẳng lên sảnh chờ của tầng âm mười ba.
+Một nam nhân viên mới vừa bước vào buồng kính.
+Anh ta mặc chiếc áo sơ mi trắng nhàu nhĩ. Nếp gấp ở cổ áo gấp gáp, xộc xệch. Khuôn mặt góc cạnh, nhợt nhạt và lạnh tanh. Anh ta ngồi xuống ghế xoay, kéo ngăn kéo lấy ra một con dấu đồng gỉ sét. Mắt dán chặt vào màn hình máy tính cũ kỹ. Không một cái chớp mắt. Không một cái liếc nhìn dòng người đang quằn quại, rên rỉ ngoài dãy ghế chờ. Sự vô cảm tỏa ra từ anh ta còn lạnh lẽo hơn cả khí điều hòa hỏng của khu vực này.
+Hệ thống cấp cho anh ta mã số 402. Tên anh ta là Hoàn.
+Bạch Cân chăm chú quan sát. Sợi chỉ đỏ từ mõm nó khẽ rung lên. Nó đọc được những thông số hiển thị trên đỉnh đầu chàng trai trẻ. Một tâm hồn trống rỗng. Một cuộc sống không có điểm tựa. Một kẻ rạch ròi, cứng nhắc, đinh ninh rằng mình có thể dùng những điều khoản khô khan để phong tỏa bản thân khỏi vòng xoáy của bi kịch.
+Một sự tương đồng đến kinh ngạc.
+Trong thân ảnh gầy guộc của nhân viên số 402, Bạch Cân nhìn thấy hình bóng của chính mình hàng ngàn năm trước. Kẻ từng kiêu ngạo đứng trên mỏm đá nhìn xuống đồi xác chết, nghĩ rằng mọi thứ đều sòng phẳng. Kẻ từng cho rằng có thể dùng sự lạnh lùng tuyệt đối để đứng ngoài sự mục nát của nhân tính.
+Con thú từng cố lấp đầy thế giới bằng sự sòng phẳng đui mù, giờ đây bị ghim chặt bởi hàng trăm chiếc đinh sắt. Còn chàng trai kia, lại đang tự đục một cái lồng cho chính mình bằng những bộ luật cứng nhắc.
+Khóe mõm Bạch Cân khẽ nhếch lên.
+Một nụ cười.
+Nụ cười kỳ dị, méo mó, khô khốc hệt như tiếng bánh răng rỉ sét nghiến vào nhau. Hai hòn than hồng trong hốc mắt lóe lên một tia sáng quỷ dị. Trái tim kim loại giật lên một nhịp mạnh mẽ.
+Tích... Tắc.
+Cỗ máy đã tìm thấy một bánh răng hoàn hảo. Vòng lặp mới, chuẩn bị bắt đầu.` },
     ]
 };
