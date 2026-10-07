@@ -840,7 +840,7 @@ _3_
 
 Công nhận món xôi mẹ hay mua vẫn là ngon nhất. "Từ hồi về thành phố - Quen ánh điện cửa gương", mình cũng đã có cơ hội trải nghiệm khá nhiều hàng quán khác nhau, có chỗ thêm nấm tai mèo vào xôi, chỗ thêm thịt băm, hay ruốc bông và pa-tê. Một thức ăn sáng khá đầy đủ và chắc bụng, lại nhớ năm tháng chỉ ngủ chờ lá rụng.
 
-"Vị họa sĩ không thành danh nhờ chiếc cọ, mà chính nhờ đôi tay của họ". Trông sao trước mắt mình, lại có bóng hình một vị thi sĩ đang vẽ lại chính vóc dáng mình thuở ấy. Và hằng ngày mẹ mua cho một hộp xôi thịt, chẳng hề có thịt băm, không phủ pa-tê, không để nấm mèo. Nhưng cái hương vị ấy đủ để si mê đến hết những ngày tháng tìm về. Và còn đó, bóng mẹ còn đó, nghĩa mà mình còn được cảm nhận hương vị ấy, khung trời ấy. Làm sao kéo được sợi dây mà mình vốn chẳng hề được nắm lấy? Nhưng ít nhất trong mình, có thứ gì đó đang âm ỉ, thủ thỉ riêng thân, dù tự thân nhận thấy, nhưng chẳng có cách nào để người thấy, và hiểu được.
+"Vị họa sĩ không thành danh nhờ chiếc cọ, mà chính nhờ đôi tay của họ". Trông sao trước mắt mình, lại có bóng hình một vị thi sĩ đang vẽ lại chính vóc dáng mình thuở ấy. Và hằng ngày mẹ mua cho một hộp xôi thịt, chẳng hề có thịt băm, không phủ pa-tê, không để nấm mèo. Nhưng cái hương vị ấy đủ để si mê đến hết những ngày tháng tìm về. Và còn đó, bóng mẹ còn đó, nghĩa là mình còn được cảm nhận hương vị ấy, khung trời ấy. Làm sao kéo được sợi dây mà mình vốn chẳng hề được nắm lấy? Nhưng ít nhất trong mình, có thứ gì đó đang âm ỉ, thủ thỉ riêng thân, dù tự thân nhận thấy, nhưng chẳng có cách nào để người thấy, và hiểu được.
 
 Tán cây một ngày trời gió lộng,
 Động lay bên vệ chẳng ai hay,
