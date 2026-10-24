@@ -1,206 +1,206 @@
 // data.js
 const contentData = {
     tho: [
-        { title: "Ký Ức", content: `Dấu chân còn in trên lối nhỏ
-Một mai chẳng thấy bóng xanh này
-Nhật ký còn vương trên ánh mắt
+        { title: "Ký Ức", content: `Dấu chân còn in trên lối nhỏ,
+Một mai chẳng thấy bóng xanh này.
+Nhật ký còn vương trên ánh mắt,
 Mang cả bầu trời vào trong tim.
 
-Dấu chân còn in trên lối nhỏ
-Theo gió ngân nga cả đêm hè
-Để lại cơn mưa cùng tiếng hát
+Dấu chân còn in trên lối nhỏ,
+Theo gió ngân nga cả đêm hè.
+Để lại cơn mưa cùng tiếng hát,
 Lưu trong ký ức cả tương lai.` },
-        { title: "Mặt Trời", content: `Giọt mưa trên má đỏ
-Bỏ lại vết chân trần
+        { title: "Mặt Trời", content: `Giọt mưa trên má đỏ,
+Bỏ lại vết chân trần.
 Trăng giữa trưa còn đó,
 Sao chẳng thể yên thân?` },
-        { title: "Lãng Quên", content: `Khi mây trời đang trông từng khoảnh khắc
-Nỗi hy vọng chẳng còn thấy đâu xa
-Mang tiềm thức nằm yên nơi vô định
+        { title: "Lãng Quên", content: `Khi mây trời đang trông từng khoảnh khắc,
+Nỗi hy vọng chẳng còn thấy đâu xa.
+Mang tiềm thức nằm yên nơi vô định,
 Vội bỏ lại và vẫn mãi không quên!` },
-        { title: "Nắng Hạ", content: `Nắng mùa Hạ nơi này tươi đẹp lắm
-Nắng ấm nồng hương nụ lắm xa xăm
-Nắng mùa Hạ nơi này còn hương thắm
+        { title: "Nắng Hạ", content: `Nắng mùa Hạ nơi này tươi đẹp lắm!
+Nắng ấm nồng hương nụ lắm xa xăm!
+Nắng mùa Hạ nơi này còn hương thắm,
 Ngắm ngàn hoa lòng ta tự buổi nào...` },
-        { title: "Quê Em", content: `Đôi chân trần đạp đất
-Bó củi nhỏ trên vai
-Em mang lại cho ai
+        { title: "Quê Em", content: `Đôi chân trần đạp đất,
+Bó củi nhỏ trên vai.
+Em mang lại cho ai,
 Một bầu trời kiến thức?
 
-Trưa nắng vàng oi bức
-Chẳng vàng hơn miếng ăn
-Đêm than mờ con chữ
+Trưa nắng vàng oi bức,
+Chẳng vàng hơn miếng ăn.
+Đêm than mờ con chữ,
 Chẳng mờ hơn đường làng!
 
-Mang trăm trang sách nhỏ
-Giữa rừng núi mờ sương
-Dẫu ngày mưa còn lớn
-Giữ dấu chân tới trường
+Mang trăm trang sách nhỏ,
+Giữa rừng núi mờ sương.
+Dẫu ngày mưa còn lớn,
+Giữ dấu chân tới trường.
 
 Mường Tè còn hiểm trở,
-Xoay sở giữa ngày Đông
+Xoay sở giữa ngày Đông.
 Nguyện phải bỏ lên đồng,
 Không trách trời mang tội...
 
-Mai bến bờ muôn lối
+Mai bến bờ muôn lối,
 Vội biết đi về đâu?
-Nơi em còn khôn lớn
+Nơi em còn khôn lớn,
 Nơi "lúa chín cúi đầu"!` },
-        { title: "Mắt Gương", content: `Chân đường in dấu ánh sao xưa
-Khoảng cách vạn mây trời không nắng
-Qua triệu thiên niên vẫn còn nặng
-Đôi mắt nhìn nhau nửa cuộc đời!` },
-        { title: "Chờ Đợi", content: `Dừng chân trên đường vắng
-Thuở chần chừ một mai
-Chợt văng vẳng bên tai
-Lời người ngân tiếng hát
+        { title: "Mắt Gương", content: `Chân đường in dấu ánh sao xưa,
+Khoảng cách vạn mây, trời không nắng.
+Qua triệu thiên niên vẫn còn nặng,
+Đôi mắt nhìn nhau, nửa cuộc đời!` },
+        { title: "Chờ Đợi", content: `Dừng chân trên đường vắng,
+Thuở chần chừ một mai.
+Chợt văng vẳng bên tai,
+Lời người ngân tiếng hát.
 
-Đợi trăng thanh vụt tắt
-Và ngày tàn trôi mau
-Sao như một khoảnh khắc
-Đem mọi thứ nhiệm mầu
+Đợi trăng thanh vụt tắt,
+Và ngày tàn trôi mau.
+Sao như một khoảnh khắc,
+Đem mọi thứ nhiệm mầu.
 
-Kể về chuyến đi lạ
-Một trời đầu ánh Thu
-Mang ngàn lời hát ru
-Xua những ngày tăm tối
+Kể về chuyến đi lạ,
+Một trời đầu ánh Thu.
+Mang ngàn lời hát ru,
+Xua những ngày tăm tối.
 
-Vội giữ người ở lại
-Rằng "chẳng thể tàn phai"
-Tâm chưa được đánh thức
-Giữa mênh mông đêm dài
+Vội giữ người ở lại,
+Rằng "chẳng thể tàn phai"!
+Tâm chưa được đánh thức,
+Giữa mênh mông đêm dài.
 
-Rồi ngày qua đọng mãi
-Vẫn một vẻ xanh trong
-Liệu ai còn vương vấn
-Ánh nắng chết trong lòng
+Rồi ngày qua đọng mãi,
+Vẫn một vẻ xanh trong.
+Liệu ai còn vương vấn,
+Ánh nắng chết trong lòng!
 
-Biển trời xanh lạc lối
-Dẫn về chốn tâm tư
-Nơi đã từng trăn trối
+Biển trời xanh lạc lối,
+Dẫn về chốn tâm tư.
+Nơi đã từng trăn trối,
 Nhưng thôi! Chẳng chần chừ...
 
-Đi về nơi nắng Hạ
-Tự lời kể người qua
-Trông mang nghìn nỗi nhớ
-Lặng sâu dưới hiên nhà
+Đi về nơi nắng Hạ,
+Tự lời kể người qua.
+Trông mang nghìn nỗi nhớ,
+Lặng sâu dưới hiên nhà.
 
-Bước qua trăm gió biển
-Lội nghìn dòng người dưng
-Đường chân trời trước mắt
+Bước qua trăm gió biển,
+Lội nghìn dòng người dưng.
+Đường chân trời trước mắt,
 Sao chưa thấy đã dừng?
 
-Chợt ánh đèn muôn sắc
-Dẫn đường cuối mùa Thu
-Đọng lại từng khoảnh khắc
-Chẳng thấy chốn ngục tù
+Chợt ánh đèn muôn sắc,
+Dẫn đường cuối mùa Thu.
+Đọng lại từng khoảnh khắc,
+Chẳng thấy chốn ngục tù.
 
-Định thân theo ngọn trúc
-Trời một lối ban mai
-Trưa những ngày hạnh phúc
+Định thân theo ngọn trúc,
+Trời một lối ban mai.
+Trưa những ngày hạnh phúc,
 Đêm những giấc mơ dài.` },
-        { title: "Ngày Gió Heo May", content: `Ngày nắng lên trời chưa chuyển Hạ
-Đêm Đông chí giữa tiết trời xanh
-Còn đang bỏ ngỏ từng canh
-Nguyện theo lối cũ tâm thanh tìm về.` },
-        { title: "Giấc Mơ", content: `Tôi đã từng có một giấc mơ
-Dìu những bước chân trên phố vắng
-Không ánh mặt trời thay sắc trắng
+        { title: "Ngày Gió Heo May", content: `Ngày nắng lên trời chưa chuyển Hạ,
+Đêm Đông chí giữa tiết trời xanh.
+Còn đang bỏ ngỏ từng canh,
+Nguyện theo lối cũ tâm thanh tìm về!` },
+        { title: "Giấc Mơ", content: `Tôi đã từng có một giấc mơ,
+Dìu những bước chân trên phố vắng...
+Không ánh mặt trời thay sắc trắng,
 Nhuộm sáng anh thảo giữa rừng khuya!` },
-        { title: "Tán Hoa Tiên Tử", content: `Đào hoa vị trán biến điêu linh
+        { title: "Tán Hoa Tiên Tử", content: `Đào hoa vị trán biến điêu linh,
 Thùy văn tâm xử tiêu cầm âm?
-Khúc bái nhân hoàn giai tẫn tán
+Khúc bái nhân hoàn giai tẫn tán,
 Nhất lũ tình sầu nhiễu hoa lâm!
 
 ---
 
-Hoa đào cũng người đi mà mất
+Hoa đào cũng người đi mà mất,
 Bóng ai bờ suối gảy tiếng đàn?
-Quỳ xuống khóc than người tan biến
+Quỳ xuống khóc than người tan biến,
 Thương sao tình thất rừng oán than!` },
-        { title: "Bất Hủ Chi Tâm", content: `Hoa lạc nhập thủy, thủy vô ngân
-Phong khởi trục vân, vân vô tung
-Hữu tâm bạn quân, quân vô ý
+        { title: "Bất Hủ Chi Tâm", content: `Hoa lạc nhập thủy, thủy vô ngân,
+Phong khởi trục vân, vân vô tung.
+Hữu tâm bạn quân, quân vô ý,
 Vô hạn tâm tình, phản tác trần!
 
 ---
 
-Hoa rơi xuống nước, không gợn sóng
+Hoa rơi xuống nước, không gợn sóng,
 Gió nổi xua mây, chẳng thấy đâu!
-Có lòng bên người, người vô ý
+Có lòng bên người, người vô ý,
 Tâm tư vô tận, hoá bụi trần!` },
-        { title: "Ánh Sáng", content: `Em thức dậy khi đom đóm ngừng thở
-Dòng ký ức thêm một vết thương người
-Lúc hoa tàn lại một mùa hoa nở
+        { title: "Ánh Sáng", content: `Em thức dậy khi đom đóm ngừng thở,
+Dòng ký ức thêm một vết thương người.
+Lúc hoa tàn lại một mùa hoa nở,
 Đôi bạn ấy đến bao giờ gặp nhau?
 
-Và thế giới còn yên bình trở lại
-Tôi vội bước chẳng thấy dấu chân người
-Phía xa kia, nơi ánh sáng chìm sâu trong lớp vỏ
+Và thế giới còn yên bình trở lại,
+Tôi vội bước chẳng thấy dấu chân người.
+Phía xa kia, nơi ánh sáng chìm sâu trong lớp vỏ,
 Trong một góc, em nằm thiếp chẳng thiết một ngày mai...` },
-        { title: "Chưa Biết Tên", content: `Ngày nắng, cháy nước da để đem lại chiến thắng
+        { title: "Chưa Biết Tên", content: `Ngày nắng, cháy nước da để đem lại chiến thắng,
 Ngày mưa, chân lấm bùn còn biết sống bao lâu?
-Khi tôi sinh ra, người đã lẫn máu và nước mắt
-Khi tôi bước, phần đất đai sẽ mãi chẳng phai màu
+Khi tôi sinh ra, người đã lẫn máu và nước mắt,
+Khi tôi bước, phần đất đai sẽ mãi chẳng phai màu.
 
-Chưa biết tên anh, nhưng chiến công anh bất diệt
-Chưa biết nhà anh, nhưng ta có chung một kẻ thù
-Ngày hôm nay, lớp trẻ ấy còn đang yên giấc ngủ
+Chưa biết tên anh, nhưng chiến công anh bất diệt,
+Chưa biết nhà anh, nhưng ta có chung một kẻ thù.
+Ngày hôm nay, lớp trẻ ấy còn đang yên giấc ngủ,
 Chờ một ngày, chúng tiếp bước để xây dựng quê hương.` },
-        { title: "Mưa Thu", content: `Ngày xám trời hanh bên bếp lửa
-Se gió ấm than buổi sế chiều,
-Cỏ xanh còn đọng hoài giữ nước
-Bảy sắc rặng Tây nỗi phiêu diêu
+        { title: "Mưa Thu", content: `Ngày xám trời hanh bên bếp lửa,
+Se gió ấm than buổi sế chiều.
+Cỏ xanh còn đọng hoài giữ nước,
+Bảy sắc rặng Tây nỗi phiêu diêu.
 
-Đêm xuống mưa lên càng đối nghịch
-Bão tới vỏ bọc cuốn thân người
-Ướt đẫm bên hiên, trăm dặm đất
+Đêm xuống mưa lên càng đối nghịch,
+Bão tới vỏ bọc cuốn thân người.
+Ướt đẫm bên hiên, trăm dặm đất,
 Hừng đông rộng khắp màu hoa tươi.
 
 Dưới một trời Thu sao Chò “khóc”?
-Bay bay ngả Gió giữa vùng trời
-Loài Kèn đang còn chưa biết tới
+Bay bay ngả Gió giữa vùng trời.
+Loài Kèn đang còn chưa biết tới,
 Làm bạn Keo ấy, đừng buông lơi!
 
-Phía xa ký ức đang gợi mở
-Bỏ lại ngày sau đã bên lề
-Nhìn lại trời Thu bao nỗi nhớ
+Phía xa ký ức đang gợi mở,
+Bỏ lại ngày sau đã bên lề.
+Nhìn lại trời Thu bao nỗi nhớ,
 Chỉ mong trở lại, đừng mong chê!
 
 Hỡi ơi! Loài chim ngủ trên nước,
 Đã cùng tuổi thơ, lũ bao mùa!
-Hỡi ơi! Loài chim còn năm ấy
+Hỡi ơi! Loài chim còn năm ấy,
 Giờ đây chẳng thấy, hóa lời ru!` },
-        { title: "Đêm Phương Xa", content: `Khoảnh khắc khi tôi tìm thấy cậu
-Tâm và trí mỗi kẻ một đường
-Trong bốn chuyến đi lận đận ấy
+        { title: "Đêm Phương Xa", content: `Khoảnh khắc khi tôi tìm thấy cậu,
+Tâm và trí mỗi kẻ một đường.
+Trong bốn chuyến đi lận đận ấy,
 Mỏi mong mộng mãi một lòng "thương"!
 
-Người xưa vọng mãi khúc đời thường
-Chẳng mong ai ngoảnh về bến đỗ
+Người xưa vọng mãi khúc đời thường,
+Chẳng mong ai ngoảnh về bến đỗ.
 Người sau nắng ấm vùng cỏ cháy,
 Tìm đâu lời dẫn? Hóa hư vô!` },
-        { title: "Mưa Qua Đồi Trắng", content: `Mây trôi giăng kín đồi hôm đó
-Gió qua như gọi tên người mơ
-Trăng lên khuyết nửa bóng bờ
-Chim quên gọi bạn bay lơ giữa trời
+        { title: "Mưa Qua Đồi Trắng", content: `Mây trôi giăng kín đồi hôm đó,
+Gió qua như gọi tên người mơ.
+Trăng lên khuyết nửa bóng bờ,
+Chim quên gọi bạn bay lơ giữa trời.
 
-Tôi đi qua dấu chân ướt đất
-Cỏ thơm đưa nỗi buốt trong tim
-Dòng sông chẳng chảy im lìm
+Tôi đi qua dấu chân ướt đất,
+Cỏ thơm đưa nỗi buốt trong tim.
+Dòng sông chẳng chảy im lìm,
 Mà sao nước lạnh như tìm người xưa?
 
-Đêm kia có một lần trăng vỡ
-Lá rơi trên má lúm người ta
-Gió bay chiếc nón hôm qua
+Đêm kia có một lần trăng vỡ,
+Lá rơi trên má lúm người ta.
+Gió bay chiếc nón hôm qua,
 Đem theo ánh mắt thoáng qua nhẹ nhàng!` },
-        { title: "Lạc Lối", content: `Đêm canh ba đắm những yên bình nhỏ
-Lòng chỉ biết từ lâu vẫn im lìm
+        { title: "Lạc Lối", content: `Đêm canh ba đắm những yên bình nhỏ,
+Lòng chỉ biết từ lâu vẫn im lìm.
 Lại trách sao còn đây đối xử thế?
 Mà cuối giấc chẳng trông đợi gì hơn...
 
-Rồi tự vấn: sao lắm người lạc lối?
-Lối họ chẳng lạc, chỉ lấp sương mù
+Rồi tự vấn: Sao lắm người lạc lối?
+Lối họ chẳng lạc, chỉ lấp sương mù!
 Khi bước qua, cũng là lúc thay đổi,
 Chỉ tiếc là, lớp sương ấy, cũng chẳng nơi đây!` },
         { title: "Mộng Mơ", content: `Trăng treo lơ lửng bên trời,
@@ -215,343 +215,343 @@ Hương xuân thoang thoảng, lòng đầy nhớ thương.
 Mộng đời dệt mấy làn hương,
 Lửng lơ trăng sáng soi đường ai đi...` },
         { title: "Lúa Chín", content: `Chiều tà nắng trải cuối thôn
-Bóng tre nghiêng đổ hoàng hôn nhạt nhòa
+Bóng tre nghiêng đổ hoàng hôn nhạt nhòa,
 Gió đưa thoảng tiếng chuông xa
 Tiếng chim ríu rít gọi đàn về cây.
 
 Lúa đồng trải rộng vùng Tây
-Hương đồng gió nội quyện lòng vấn vương
+Hương đồng gió nội quyện lòng vấn vương,
 Đàn trâu thong thả ven đường
 Tiếng tiêu vi vút mục đồng gọi nhau.
 
 Thôn quê cảnh đẹp muôn màu
-Tình người đằm thắm dạt dào nghĩa ân
+Tình người đằm thắm dạt dào nghĩa ân,
 Đêm về trăng tỏa tình thân
 Ngân nga câu hát, lời ru êm đềm.` },
-        { title: "Đôi Ta", content: `Bước chân trên một con đường mới
-Chẳng biết ngày tháng kéo mây trời
-Anh đến tìm em như ngọn đuốc
+        { title: "Đôi Ta", content: `Bước chân trên một con đường mới,
+Chẳng biết ngày tháng kéo mây trời.
+Anh đến tìm em như ngọn đuốc,
 Soi sáng biển rộng, nỗi chơi vơi!
 
-Rơi xuống sao trời, em nguyện ước
-Hạnh phúc chẳng ai thấu được bằng
-Đôi tay em còn chưa được ấm
+Rơi xuống sao trời, em nguyện ước,
+Hạnh phúc chẳng ai thấu được bằng.
+Đôi tay em còn chưa được ấm,
 Chờ anh đến sưởi dưới đêm trăng.
 
-Khi nắng vàng vươn trên làn tóc
-Ánh mắt mông lung tỏa tim người
-Đôi ta cùng chung một điệu khóc
+Khi nắng vàng vươn trên làn tóc,
+Ánh mắt mông lung tỏa tim người.
+Đôi ta cùng chung một điệu khóc,
 Cùng cười khi có người cạnh bên...
 
-Nhìn lên hạnh phúc đang chớm nở
-Nhìn xuống thấy nửa vời vực sâu
+Nhìn lên hạnh phúc đang chớm nở,
+Nhìn xuống thấy nửa vời vực sâu.
 Một ngày em còn chưa tìm rõ,
 Ngày ấy chẳng thể vơi nỗi sầu...
 
-Dẫu ta có muôn lời trăn trở
-Người đời vẫn một mực làm ngơ
-Và anh nơi đây đầy nỗi nhớ
+Dẫu ta có muôn lời trăn trở,
+Người đời vẫn một mực làm ngơ.
+Và anh nơi đây đầy nỗi nhớ,
 Chẳng để cô bé phải mong chờ!
 
-Giờ ta bước qua nghìn giông tố
-Lội giữa hằng hà kẻ "không tên"
-Chỉ mong được ở bên nhau mãi
+Giờ ta bước qua nghìn giông tố,
+Lội giữa hằng hà kẻ "không tên".
+Chỉ mong được ở bên nhau mãi,
 Mặc ai vẫn nói "sẽ chẳng bền"!
 
-Bên anh em được phần hạnh phúc
-Bên em anh tự ngàn núi sông
-Đôi ta từ chưa hề quen biết
+Bên anh em được phần hạnh phúc,
+Bên em anh tự ngàn núi sông.
+Đôi ta từ chưa hề quen biết,
 Giờ vững ý chí nên vợ chồng.` },
-        { title: "Hoa Dại", content: `Kẻ mộng mơ luôn tìm tới bông hoa
+        { title: "Hoa Dại", content: `Kẻ mộng mơ luôn tìm tới bông hoa,
 Và để lại dấu vết tôi chẳng thấy...
 Ngắm mênh mông những loài hoa dại,
 Chỉ lưu lại trong tim một bóng hình!` },
-        { title: "Bên Kia Bầu Trời", content: `Tôi đã có thể chạm vào nó
-Những lời nguyện cầu từng cất lên
+        { title: "Bên Kia Bầu Trời", content: `Tôi đã có thể chạm vào nó,
+Những lời nguyện cầu từng cất lên.
 Nhưng đêm thứ Sáu ngày hôm đó,
 Mọi thứ chỉ chìm trong ánh đêm...
 
-Bước thật nhanh, chạy về phía trước
-Nhìn đám mây, hòa vào ký ức
-Rồi ngày mai, trong lòng thổn thức
+Bước thật nhanh, chạy về phía trước,
+Nhìn đám mây, hòa vào ký ức.
+Rồi ngày mai, trong lòng thổn thức,
 Nhìn trời xanh, và điều mình ước...
 
-Ngắm đến vầng trăng xa xôi ấy
-Bầu trời hôm nay ngả hướng Tây
-Bàn tay nhỏ bé ngưng với lấy
+Ngắm đến vầng trăng xa xôi ấy,
+Bầu trời hôm nay ngả hướng Tây.
+Bàn tay nhỏ bé ngưng với lấy,
 Vì chẳng thể chạm tới nơi này!
 
 Và nhìn ngôi sao đẫm nước mắt,
 Nhưng màn đêm tối còn bóng ai?
 Nước mắt chảy về bên dòng thác,
 Người ơi đừng khóc, rồi cũng phai~` },
-        { title: "Vệt Máu", content: `Chiều hôm ấy giữa phố qua lại
-Rặng xanh mưa trút nặng nề hơn
-Dù không mang ô lại tìm đến
+        { title: "Vệt Máu", content: `Chiều hôm ấy giữa phố qua lại,
+Rặng xanh mưa trút nặng nề hơn.
+Dù không mang ô lại tìm đến,
 Tỏa màu đêm tối lá xanh mơn!
 
-Qua phố quen đi nay lạ lẫm
+Qua phố quen đi nay lạ lẫm,
 Lạ những vết máu lẫn nhựa đường...
-Lạ nơi lòng tin thay cỏ rác
+Lạ nơi lòng tin thay cỏ rác,
 Thỏ đến... rồi đi, để đau thương!
 
 "Rồi ai bắt sói về lồng sắt?"
 "Để bao rạn nứt hóa vết hằn?"
 "Làm gì được đâu, còn để mất?"
 "Có chuyện gì đâu, mộng trong chăn!"` },
-        { title: "Hoài Niệm", content: `Lấp lánh những ánh lửa
-Con đò nhỏ xa xa
-Tìm về bao bữa tối
-Êm gối nhớ quê nhà
+        { title: "Hoài Niệm", content: `Lấp lánh những ánh lửa,
+Con đò nhỏ xa xa.
+Tìm về bao bữa tối,
+Êm gối nhớ quê nhà.
 
-Phù sa năm lên sáu
+Phù sa năm lên sáu,
 Đất của người, mẹ xin!
-Thời khoai sắn còn đắt
+Thời khoai sắn còn đắt,
 Cho con ăn giữ gìn!
 
-Rồi khi con lên tám
-Đem đất rẫy làm nhà
-Mùa mưa hòa trên lá
+Rồi khi con lên tám,
+Đem đất rẫy làm nhà.
+Mùa mưa hòa trên lá,
 Tiếng ba kể, thời qua...
 
-Sa vào trời trắng xóa
-Miền đất nhỏ xanh xanh
-Theo chân ba nhặt lá
-Nắm áo ba đòi quà
+Sa vào trời trắng xóa,
+Miền đất nhỏ xanh xanh.
+Theo chân ba nhặt lá,
+Nắm áo ba đòi quà.
 
-Và những đêm không ngủ
-Cà phê để khắp nơi
-Giờ vẫn còn khuya lắm
+Và những đêm không ngủ,
+Cà phê để khắp nơi.
+Giờ vẫn còn khuya lắm,
 Mặc trái gió, trở trời!
 
-Những lời bên ánh lửa
-Những đêm bằm ngủ sâu
-Còn đợi con thức giấc
-Trên lưng con phép màu
+Những lời bên ánh lửa,
+Những đêm bằm ngủ sâu.
+Còn đợi con thức giấc,
+Trên lưng con phép màu.
 
-Chẳng đi nhiều đâu cả
-Con chẳng biết gì đâu
-Còn đợi mẹ dạy mãi
-Dạy đến khi bạc đầu
+Chẳng đi nhiều đâu cả,
+Con chẳng biết gì đâu.
+Còn đợi mẹ dạy mãi,
+Dạy đến khi bạc đầu.
 
-Sau bao mùa kết quả
-Bao mùa mè nở hoa
-Bao đêm nằm trông thuốc
-Hai mốt năm xóa nhòa
+Sau bao mùa kết quả,
+Bao mùa mè nở hoa.
+Bao đêm nằm trông thuốc,
+Hai mốt năm xóa nhòa.
 
-Còn những lần gió thổi
-Quét cơn lũ trong tôi
-Chẳng cần chi lo lắng
+Còn những lần gió thổi,
+Quét cơn lũ trong tôi.
+Chẳng cần chi lo lắng,
 Mái ấm ở bên rồi!
 
-Tôi nhìn bao nguyện ước
-Nhìn cánh cửa bên kia
-Song tâm chẳng cầu bước
-Chẳng bận tâm chia lìa
+Tôi nhìn bao nguyện ước,
+Nhìn cánh cửa bên kia.
+Song tâm chẳng cầu bước,
+Chẳng bận tâm chia lìa.
 
-Phía xa xanh đầy nắng
-Nơi khói bếp người trông
-Ước mơ đi mọi hướng
+Phía xa xanh đầy nắng,
+Nơi khói bếp người trông.
+Ước mơ đi mọi hướng,
 Lại theo hướng ngược dòng...
 
-Mong sao ba khỏe mãi
-Mong mẹ tuổi ban mai
-Mong tôi còn non dại
+Mong sao ba khỏe mãi,
+Mong mẹ tuổi ban mai.
+Mong tôi còn non dại,
 Để lại thấy bao điều...
 
-Bóng diều miền đất nhỏ
-Dệt nên những ngày thơ
-Để tâm tôi còn nhớ
+Bóng diều miền đất nhỏ,
+Dệt nên những ngày thơ.
+Để tâm tôi còn nhớ,
 Nơi có ba mẹ chờ!` },
         { title: "Tự Do", content: `Ta đã quên gì?
-Giữa những guồng quay gió lộng của cuộc đời
-Trên những chuyến tàu vô định của thời gian
+Giữa những guồng quay gió lộng của cuộc đời,
+Trên những chuyến tàu vô định của thời gian.
 Ta đã quên gì?
 
-Ta quên mất mùi của cỏ sau mưa
+Ta quên mất mùi của cỏ sau mưa,
 Hay quên vị ngọt của que kem mẹ mua ngày Hạ?
-Ta quên mất tiếng cười trong veo của mình thuở bé
+Ta quên mất tiếng cười trong veo của mình thuở bé,
 Một ánh mắt đã từng rất thương?
 
-Ta quên mất con đường đất về ngoại
-Hàng dâm bụt còn thắm đỏ hai bên
-Và tiếng võng giữa trưa hè kẽo kẹt
+Ta quên mất con đường đất về ngoại,
+Hàng dâm bụt còn thắm đỏ hai bên.
+Và tiếng võng giữa trưa hè kẽo kẹt,
 Ru giấc mơ bay đến biển phương nào...
 
-Ta quên mất trang giấy trắng hôm nào
-Nét chữ nguệch ngoạc cố viết tên ta
-Và niềm vui sướng khi nhận ra
+Ta quên mất trang giấy trắng hôm nào,
+Nét chữ nguệch ngoạc cố viết tên ta.
+Và niềm vui sướng khi nhận ra,
 Một thế giới diệu kỳ đang mở ra từ đó.
 
-Ta quên mất lời hứa dưới gốc phượng già
-Sẽ mãi là bạn thân, sẽ không bao giờ xa cách
-Để rồi dòng đời xô ta về muôn ngả
+Ta quên mất lời hứa dưới gốc phượng già,
+Sẽ mãi là bạn thân, sẽ không bao giờ xa cách.
+Để rồi dòng đời xô ta về muôn ngả,
 Chỉ còn tiếng ve và sắc đỏ trong ký ức mờ phai.
 
-Ta quên mất cảm giác lần đầu biết buồn
-Nỗi đau trong vắt sắc thủy tinh
-Vỡ tan, rồi lại lành
-Không hằn sâu những vết sẹo chai sạn như bây giờ.
+Ta quên mất cảm giác lần đầu biết buồn,
+Nỗi đau trong vắt sắc thủy tinh.
+Vỡ tan, rồi lại lành,
+Không hằn sâu những vết sẹo chai sạn như bây giờ!
 
-Ta quên mất mình đã từng dũng cảm biết bao
-Dám ước mơ, dám khát khao, dám vấp ngã
+Ta quên mất mình đã từng dũng cảm biết bao,
+Dám ước mơ, dám khát khao, dám vấp ngã,
 Mà không sợ hãi...
 
-Những mảnh ký ức vụn vỡ
-Trôi lững lờ như những đám mây
-Thỉnh thoảng, một cơn gió nhẹ thoảng qua
-Mang theo một mùi hương, một giai điệu quen thuộc
-Khiến ta sững lại giữa dòng người vội vã
-Cố níu kéo, cố gọi tên
+Những mảnh ký ức vụn vỡ,
+Trôi lững lờ như những đám mây,
+Thỉnh thoảng, một cơn gió nhẹ thoảng qua.
+Mang theo một mùi hương, một giai điệu quen thuộc,
+Khiến ta sững lại giữa dòng người vội vã...
+Cố níu kéo, cố gọi tên,
 Nhưng rồi tất cả lại nhòa đi...
 
 Ta đã quên!
 Hay ta chỉ đang cất chúng vào một góc sâu thẳm trong tim?
-Để một ngày nào đó, khi đã mỏi mệt với những lo toan
-Ta sẽ lại tìm về
-Như tìm về một chốn bình yên
+Để một ngày nào đó, khi đã mỏi mệt với những lo toan,
+Ta sẽ lại tìm về.
+Như tìm về một chốn bình yên,
 Nơi cất giữ những gì trong trẻo và nguyên sơ nhất của tâm hồn.
 
-Để nhận ra rằng
-Dù đã quên bao nhiêu
-Thì những gì đã từng là một phần của ta
+Để nhận ra rằng,
+Dù đã quên bao nhiêu.
+Thì những gì đã từng là một phần của ta,
 Sẽ không bao giờ thực sự mất đi.
-Chúng chỉ ở đó, nơi ta thuộc về.` },
-        { title: "Lạc Hồng", content: `Lao vút mịch điểu thuộc về sào
-Lòng người chợt lạnh giữa trăng sao
-Một thoáng hư không trong khung vắng
+Chúng chỉ ở đó, nơi ta thuộc về!` },
+        { title: "Lạc Hồng", content: `Lao vút mịch điểu thuộc về sào,
+Lòng người chợt lạnh giữa trăng sao.
+Một thoáng hư không trong khung vắng,
 Một tiếng người đi biết năm nào?
 
-Bao mây vần vũ, gió biển lặng
-Cánh chim đơn độc sợ ánh trăng
-Tán cây lặng thinh trong chiều tối
+Bao mây vần vũ, gió biển lặng,
+Cánh chim đơn độc sợ ánh trăng.
+Tán cây lặng thinh trong chiều tối,
 Đoạn tơ kéo lệch theo vĩnh hằng.` },
-        { title: "Tán Cây", content: `Gieo mầm trên đồi nhỏ
-Lộc trải đầy phố quen
-Nơi sinh ra còn đó
+        { title: "Tán Cây", content: `Gieo mầm trên đồi nhỏ,
+Lộc trải đầy phố quen.
+Nơi sinh ra còn đó,
 Tiếng chuông gió, ánh đèn...
 
 Hạ tới chèn nắng ấm,
-Chèn cả những chồi non
-Mang theo niềm mơ ước
-Treo dưới hiên lối mòn
+Chèn cả những chồi non.
+Mang theo niềm mơ ước,
+Treo dưới hiên lối mòn.
 
-Rộn ràng lũ trẻ nhỏ
+Rộn ràng lũ trẻ nhỏ,
 Phủ đầy màu tinh khôi.
 Bên cậu chủ năm ấy,
-Tô lên bao tán sồi
+Tô lên bao tán sồi.
 
-Rồi Thu qua lặng lẽ
-Lưu lại từng phút giây
-Tán cây nhỏ năm ấy
-Lên lá chen phủ đầy
+Rồi Thu qua lặng lẽ,
+Lưu lại từng phút giây.
+Tán cây nhỏ năm ấy,
+Lên lá chen phủ đầy.
 
-Nay bên đồi trắng muốt
-Bàn tay nhỏ cóng run
-Ôm người tôi sưởi ấm
+Nay bên đồi trắng muốt,
+Bàn tay nhỏ cóng run.
+Ôm người tôi sưởi ấm,
 Đông lạnh giá chẳng buồn!
 
-Đêm nay thoảng gió ấm
-Thoảng tiếng người, hương hoa
-Thoảng một màu Xuân mới
+Đêm nay thoảng gió ấm,
+Thoảng tiếng người, hương hoa.
+Thoảng một màu Xuân mới,
 Đêm ba mươi đỏ trời!
 
-Lớn lên tuổi hai mươi
-Đôi mắt em nhìn thấy
-Đôi tay em nắm lấy
-Cũng chỉ qua tháng ngày
+Lớn lên tuổi hai mươi,
+Đôi mắt em nhìn thấy.
+Đôi tay em nắm lấy,
+Cũng chỉ qua tháng ngày.
 
-Rồi lại xanh trước ngõ
-Cũng thấy đỏ trên đồi
-Vui bên cây trĩu quả
-Em thấy lòng nhẹ trôi
+Rồi lại xanh trước ngõ,
+Cũng thấy đỏ trên đồi.
+Vui bên cây trĩu quả,
+Em thấy lòng nhẹ trôi.
 
-Bao năm trời chập tối
-Bao năm trời tỏa mây
-Mùa nước nổi cũng đến
+Bao năm trời chập tối,
+Bao năm trời tỏa mây.
+Mùa nước nổi cũng đến,
 Rồi Đông chí lại đầy!
 
-Mang dấu tuổi trẻ ấy
-Một mối tình nhỏ xinh
-Bao giấc ngủ một mình
-Giờ bất ngại gian khổ
+Mang dấu tuổi trẻ ấy,
+Một mối tình nhỏ xinh.
+Bao giấc ngủ một mình,
+Giờ bất ngại gian khổ.
 
-Năm bốn mươi còn chỗ
-Để đầy tình dưới cây
+Năm bốn mươi còn chỗ,
+Để đầy tình dưới cây.
 Chiếc xích đu ngày ấy,
 Rêu lá phủ vơi đầy!
 
-Kể con nghe chuyện cũ
-Hãy để mình lạc quan
-Rồi một mai con lớn
-Tán cây mãi xanh còn
+Kể con nghe chuyện cũ,
+Hãy để mình lạc quan.
+Rồi một mai con lớn,
+Tán cây mãi xanh còn.
 
-Đường mòn rẽ khắp lối
+Đường mòn rẽ khắp lối,
 Lối nào về tuổi thơ?
-Đường nào đi đúng hướng
+Đường nào đi đúng hướng,
 Hướng về nhau đợi chờ?
 
 Thân cây tàn có tuổi,
-Mùa sồi lại nở hoa
-Nhặt lên từng mớ quả
+Mùa sồi lại nở hoa.
+Nhặt lên từng mớ quả,
 Để lại dưới chiều tà.
 
-Biến cố ta ập đến
-Người chỉ đợi thời gian
-Sợ rằng thuyền không bến
-Ngọn nến phủ đầy tràn
+Biến cố ta ập đến,
+Người chỉ đợi thời gian.
+Sợ rằng thuyền không bến,
+Ngọn nến phủ đầy tràn.
 
-Một vòng đời ngắn ngủi
-Gieo lên những mầm cây
-Cây lớn phủ thành núi
-Người lớn chỉ thân gầy
+Một vòng đời ngắn ngủi,
+Gieo lên những mầm cây.
+Cây lớn phủ thành núi,
+Người lớn chỉ thân gầy.
 
-Cô gái nhỏ năm ấy
-Bà lão góa giờ đây
-Rồi một mai nhìn thấy
-Mãi hạnh phúc đong đầy
+Cô gái nhỏ năm ấy,
+Bà lão góa giờ đây.
+Rồi một mai nhìn thấy,
+Mãi hạnh phúc đong đầy.
 
-Xây lên hai đồi cát
-Cạnh những tán cây xưa,
-Tâm yên tình mãi hát
+Xây lên hai đồi cát,
+Cạnh những tán cây xưa.
+Tâm yên tình mãi hát,
 Đi theo cũng chẳng thừa.
 
-Vừa khô rụng đầy đất
-Phải chăng Thu đã qua
-Cây đổ bên đồi cát
-Hạt nhỏ gieo làm quà
+Vừa khô rụng đầy đất,
+Phải chăng Thu đã qua.
+Cây đổ bên đồi cát,
+Hạt nhỏ gieo làm quà.
 
-Một chồi non nhỏ xíu
-Một đứa trẻ vô lo
-Một trời xanh đầy nắng
-Một cuộc sống vẹn tròn
+Một chồi non nhỏ xíu,
+Một đứa trẻ vô lo.
+Một trời xanh đầy nắng,
+Một cuộc sống vẹn tròn.
 
-Con mai sau đã lớn
-Lại gieo mầm sồi kia
-Dù gian khổ bao lâu
-Dù suôn sẻ bao xa
+Con mai sau đã lớn,
+Lại gieo mầm sồi kia.
+Dù gian khổ bao lâu,
+Dù suôn sẻ bao xa.
 Rồi sẽ đều yên ấm!` },
-        { title: "Mai Một", content: `Nằm nghe gió kể trời say
-Bên kia mây hát bên này dặm mưa
+        { title: "Mai Một", content: `Nằm nghe gió kể trời say,
+Bên kia mây hát bên này dặm mưa.
 Hỏi thử "Người đã về chưa?"
 Mà sao tiếng hát say sưa chẳng dừng!
 
-Lặng thinh "tay bắt mặt mừng"
-Mà tâm đâu khỏi một rừng oán than
-Đóa Lan nay chợt héo tàn
+Lặng thinh "tay bắt mặt mừng",
+Mà tâm đâu khỏi một rừng oán than.
+Đóa Lan nay chợt héo tàn,
 Thôi đành phận mỏng bên làn người dưng.
 
-Người đi qua bảy dặm sương gió
-Bốn năm du lạc giữa đêm đen
-Để tôi thấy bóng người năm đó
+Người đi qua bảy dặm sương gió,
+Bốn năm du lạc giữa đêm đen.
+Để tôi thấy bóng người năm đó,
 Vẫn kề bên soi tỏ ánh đèn.
 
-Nặng thì lỡ gãy cành sen
+Nặng thì lỡ gãy cành sen,
 Nhẹ thì hờn dỗi sao đen thế này?
-Giờ tay chẳng muốn động lay
+Giờ tay chẳng muốn động lay,
 Đành cam cay đắng, đời này an yên!
 
-Ước chi hai chữ tình duyên
+Ước chi hai chữ tình duyên,
 Mong chi một kiếp thuyền quyên chung đường?
 Vương vào lắm nỗi tơ vương,
 Để rồi tan nát khói sương sau này.
@@ -561,19 +561,19 @@ Ngày đi lá úa Thu bay,
 Than sao bao nỗi bất bình,
 Mà sao không oán duyên mình đa đoan!
 
-Sông dài lặng xiết miên man
-Núi xanh vẫn đứng, san cao mây trời
-Tình ai không đổi, chẳng dời
+Sông dài lặng xiết miên man,
+Núi xanh vẫn đứng, san cao mây trời!
+Tình ai không đổi, chẳng dời,
 Mắt ai chẳng đoái, một lời nhớ thương?
 
-Thôi thì gửi lại đêm sương
-Lời thương thuở trước, lời chào mai sau
-Dù cho cách bảy nhịp cầu
+Thôi thì gửi lại đêm sương,
+Lời thương thuở trước, lời chào mai sau.
+Dù cho cách bảy nhịp cầu,
 Xin cho người được qua mau bến bờ...
 
-Tôi nhớ lời ai bên thềm trước
-Ba dặm người vây kín trời Thu
-Lắm lúc chỉ muốn mộng du
+Tôi nhớ lời ai bên thềm trước,
+Ba dặm người vây kín trời Thu.
+Lắm lúc chỉ muốn mộng du,
 Bên người mãi ấy, yên ru tháng ngày!` },
         { title: "Điểm mù", content: `Giấu đô thị, ta trôi thành dĩ vãng,
 Chạm tay vào, rớt lại một khoảng không.
@@ -596,7 +596,7 @@ Ta ngoảnh mặt, giấu đi ngàn mảnh vỡ,
 Một hình bóng... không nhớ nổi năm nào.
 
 (Lời kết cho tiểu thuyết "Định luật lãng quên")` },
-        { title: "Karelian", content: `Gió lạnh tràn qua rặng bạch dương
+        { title: "Vô Cố Hương", content: `Gió lạnh tràn qua rặng bạch dương
 Mặt hồ phủ kín lớp mù sương
 Rìu vung, chèo gõ, lò nhen lửa
 Băng nứt ầm vang xé dặm trường
@@ -630,6 +630,55 @@ Nắm đất quê người vỗ giấc mê
 Đèn pha, ván ép sáng long lanh
 Bào xưa rỉ sét thành kỷ vật
 Ký ức ngủ vùi giấc mỏng manh.` },
+        { title: "Đôi Bạn", content: `Tự xa xưa thuở nào,
+Trong rừng xanh sâu thẳm.
+Đôi bạn sống bên nhau,
+Bê Vàng và Dê Trắng.
+
+Một năm, trời ngập nắng,
+Suối cạn, cỏ héo khô.
+Lấy gì nuôi đôi bạn,
+Chờ mưa đến bao giờ?
+
+Nhờ Bê đi tìm cỏ,
+Lang thang quên đường về.
+Dê Trắng thương bạn quá,
+Chạy khắp nẻo tìm Bê.
+
+Đến ngả tối vùng quê,
+Suối còn trông một nén.
+Nơi Hải Vân còn lối,
+Tìm bạn giữa đêm đen.
+
+Len lỏi theo phố nhạc,
+Mon men giữa đất thềm,
+Trải nhựa màu lem mắt,
+Vải lụa nhàu bụi êm.
+
+Bê lấm lem Hà Thành,
+Nơi tiếng người chẳng nặng.
+Nơi ngựa nhanh hơn gió,
+Tiếng than khóc, phải chăng?
+
+Rằng Thu còn rừng đất,
+Còn gốc đốn tựa vào.
+Hang sâu vùng cấm địa,
+Chợt thấy lòng nôn nao.
+
+Bê ơi! Ở phương nào?
+Sao Dê tìm chẳng thấy...
+Bê ơi! Đường hoa giấy~
+Mãi bận lòng tính toan!
+
+Tính sao lợi được hoàn,
+Còn thấp bé để lại!
+Tính sao dồn trọng trách,
+Cho những kẻ tương lai!
+
+Bởi rừng say một lúc,
+Xem như lời lâm chung.
+Một ngày chỉ còn đất,
+Ngày ấy, cách (muôn trùng)!` },
     ],
     tanVan: [
         { title: "Mưa ngủ - Mây mơ", content: `_1_
