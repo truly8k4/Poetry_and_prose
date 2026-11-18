@@ -699,6 +699,27 @@ Có bao giấc mộng không còn tìm thấy.
 Và những ngày tháng vô tư năm ấy,
 Màu sắc của chúng đã hòa vào giấc mơ,
 Để vùng ký ức được đưa vào dấu thơ.` },
+        { title: "Tựa Thương", content: `Như dòng sông tĩnh lặng
+Tiếng yêu êm dịu trưa hè
+Như dòng sông cuộn chảy
+Tiếng thương cách mấy cũng nghe!` },
+        { title: "Về Tình", content: `Bảo rằng khi em buồn,
+Trời xanh trong hóa xám.
+Và khi mây u ám,
+Tôi khẽ chạm tay em.
+
+Đôi tay còn níu giữ,
+Dẫu có gì mang theo?
+Đôi câu còn tình tứ,
+Còn dấu yêu nguyện chèo!` },
+        { title: "Tựa Yêu", content: `Má hồng đôi nét thơ ngây,
+Thoảng qua ánh mắt mây bay dịu dàng~
+Đôi tay tha thướt lỡ làng,
+Uốn theo sóng lượn chảy tràn tim tôi!
+
+Thôi thì chẳng ước xa xôi,
+Chỉ mong tôi mãi một lòng bên em.
+(Để em luôn mãi rạng ngời trong tôi~)` },
     ],
     tanVan: [
         { title: "Mưa ngủ - Mây mơ", content: `_1_
