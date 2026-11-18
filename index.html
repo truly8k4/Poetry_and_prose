@@ -16,21 +16,21 @@
             theme: {
                 extend: {
                     colors: {
-                        paper: '#FAF8F5',
-                        'paper-dark': '#F0EBE1',
-                        ink: '#2A2421',
-                        'ink-light': '#524A45',
-                        accent: '#9A7E64', 
-                        'accent-light': '#C5B4A3',
-                        divider: '#DFD8CC'
+                        paper: '#F3F7F0',
+                        'paper-dark': '#E4EDDF',
+                        ink: '#1E2B24',
+                        'ink-light': '#42564A',
+                        accent: '#4A7857', 
+                        'accent-light': '#A7C3AC',
+                        divider: '#CFDDCB'
                     },
                     fontFamily: {
                         serif: ['Alegreya', 'serif'],
                         display: ['"Cormorant Garamond"', 'serif'],
                     },
                     boxShadow: {
-                        'elegant': '0 10px 40px -10px rgba(42, 36, 33, 0.08)',
-                        'elegant-hover': '0 20px 40px -10px rgba(42, 36, 33, 0.12)',
+                        'elegant': '0 10px 40px -10px rgba(30, 43, 36, 0.08)',
+                        'elegant-hover': '0 20px 40px -10px rgba(30, 43, 36, 0.12)',
                         'inner-light': 'inset 0 1px 0 0 rgba(255, 255, 255, 0.8)',
                     },
                 }
@@ -38,20 +38,20 @@
         }
     </script>
     <style>
-        body { background-color: #FAF8F5; color: #2A2421; }
+        body { background-color: #F3F7F0; color: #1E2B24; background-image: radial-gradient(ellipse 90% 520px at 50% 0, rgba(120,170,130,.20), transparent 70%); background-repeat: no-repeat; }
 
         /* Custom Scrollbar */
         ::-webkit-scrollbar { width: 8px; }
-        ::-webkit-scrollbar-track { background: #FAF8F5; }
-        ::-webkit-scrollbar-thumb { background: #C5B4A3; border-radius: 10px; border: 2px solid #FAF8F5; }
-        ::-webkit-scrollbar-thumb:hover { background: #9A7E64; }
+        ::-webkit-scrollbar-track { background: #F3F7F0; }
+        ::-webkit-scrollbar-thumb { background: #A7C3AC; border-radius: 10px; border: 2px solid #F3F7F0; }
+        ::-webkit-scrollbar-thumb:hover { background: #4A7857; }
 
         .custom-scrollbar-poem::-webkit-scrollbar { height: 8px; }
-        .custom-scrollbar-poem::-webkit-scrollbar-track { background: rgba(223,216,204,0.4); border-radius: 8px; }
-        .custom-scrollbar-poem::-webkit-scrollbar-thumb { background: #C5B4A3; border-radius: 8px; border: 1px solid rgba(255,255,255,0.5); }
-        .custom-scrollbar-poem::-webkit-scrollbar-thumb:hover { background: #9A7E64; }
+        .custom-scrollbar-poem::-webkit-scrollbar-track { background: rgba(207,221,203,0.5); border-radius: 8px; }
+        .custom-scrollbar-poem::-webkit-scrollbar-thumb { background: #A7C3AC; border-radius: 8px; border: 1px solid rgba(255,255,255,0.5); }
+        .custom-scrollbar-poem::-webkit-scrollbar-thumb:hover { background: #4A7857; }
 
-        ::selection { background: #E8DCCB; color: #2A2421; }
+        ::selection { background: #D3E6D2; color: #1E2B24; }
 
         /* Masonry fix */
         .poem-card {
@@ -71,12 +71,12 @@
             padding-right: 0.6rem;
             padding-top: 0.35rem;
             margin-bottom: -0.2rem;
-            color: #9A7E64;
+            color: #4A7857;
             text-shadow: 1px 1px 0px rgba(255,255,255,0.5);
         }
 
         .gradient-text {
-            background: linear-gradient(135deg, #2A2421 0%, #685A52 100%);
+            background: linear-gradient(135deg, #1E2B24 0%, #4E6A58 100%);
             -webkit-background-clip: text;
             -webkit-text-fill-color: transparent;
             background-clip: text;
@@ -90,40 +90,40 @@
             font-family: '"Cormorant Garamond"', serif;
             font-size: 10rem;
             line-height: 1;
-            color: rgba(154, 126, 100, 0.08);
+            color: rgba(74, 120, 87, 0.09);
             z-index: 0;
             pointer-events: none;
         }
 
         /* Active Tab Styles */
-        .nav-tab.active { color: #9A7E64 !important; }
+        .nav-tab.active { color: #4A7857 !important; }
         .nav-tab.active span { width: 100% !important; }
 
 			/* ═══════════════════════════════════════════════
 			   CHẾ ĐỘ ĐỌC TRUYỆN (READING MODE) 
 			═══════════════════════════════════════════════ */
 			body.reading-mode {
-				background-color: #1F1B19 !important; /* Màu nền nâu đen tĩnh lặng */
+				background-color: #15211B !important; /* Màu nền nâu đen tĩnh lặng */
 				background-image: none !important; /* Tắt nhiễu hạt giảm mỏi mắt */
 			}
 			/* Chỉnh thanh Menu tối màu */
 			body.reading-mode #navbar {
-				background-color: rgba(31, 27, 25, 0.95) !important;
+				background-color: rgba(21, 33, 27, 0.95) !important;
 				border-bottom-color: rgba(255,255,255,0.05) !important;
 			}
-			body.reading-mode #navbar a { color: #9A8E83 !important; }
-			body.reading-mode #navbar a:hover, body.reading-mode #navbar a.active { color: #D4C3B3 !important; }
-			body.reading-mode #navbar svg { color: #9A8E83 !important; }
+			body.reading-mode #navbar a { color: #8EA595 !important; }
+			body.reading-mode #navbar a:hover, body.reading-mode #navbar a.active { color: #B9D4BE !important; }
+			body.reading-mode #navbar svg { color: #8EA595 !important; }
 			
 			/* Chỉnh màu chữ nội dung truyện (Đã làm sáng hơn) */
-			body.reading-mode h2, body.reading-mode h3 { color: #F4EFE6 !important; } /* Tên to: Sáng rõ, sang trọng */
-			body.reading-mode h4 { color: #D6C5B3 !important; } /* Tên mục [ ]: Vàng kem */
-			body.reading-mode h5 { color: #CFC8C0 !important; } /* Tên Chương */
-			body.reading-mode p { color: #EAE4DD !important; } /* Chữ truyện: Sáng, dễ đọc, cực êm mắt */
+			body.reading-mode h2, body.reading-mode h3 { color: #EAF3E8 !important; } /* Tên to: Sáng rõ, sang trọng */
+			body.reading-mode h4 { color: #B9D4BE !important; } /* Tên mục [ ]: Vàng kem */
+			body.reading-mode h5 { color: #C2D3C6 !important; } /* Tên Chương */
+			body.reading-mode p { color: #DCE8DE !important; } /* Chữ truyện: Sáng, dễ đọc, cực êm mắt */
 			
 			/* Chỉnh màu chữ Gradient ở Tiêu đề to */
 			body.reading-mode .gradient-text {
-				background: linear-gradient(135deg, #E3D9CC 0%, #A89F94 100%);
+				background: linear-gradient(135deg, #D4E6D6 0%, #8FA898 100%);
 				-webkit-background-clip: text;
 				-webkit-text-fill-color: transparent;
 			}
@@ -150,15 +150,27 @@
 			body.reading-mode #next-novel-fab.opacity-100:hover {
 				opacity: 1 !important; 
 			}
+    
+        /* Mục lục */
+        details.toc-group > summary { list-style: none; }
+        details.toc-group > summary::-webkit-details-marker { display: none; }
+        details.toc-group[open] .toc-chev { transform: rotate(180deg); }
+        .toc-chip[aria-pressed="true"] { background: #4A7857; border-color: #4A7857; color: #fff; }
+        .toc-chip[aria-pressed="true"] span { opacity: .85; }
+        /* Popup câu chuyện */
+        #story-modal-body p { margin: 0 0 1.1rem; line-height: 1.95; }
+        #story-modal-body p:last-child { margin-bottom: 0; }
+        :focus-visible { outline: 2px solid #4A7857; outline-offset: 3px; }
+        @media (prefers-reduced-motion: reduce) { * { scroll-behavior: auto !important; transition-duration: .01ms !important; } }
     </style>
 </head>
 <body class="font-serif antialiased leading-relaxed overflow-x-hidden relative">
 
 
-    <nav class="fixed w-full top-0 z-50 bg-paper border-b border-divider/50" id="navbar">
+    <nav class="fixed w-full top-0 z-50 bg-paper/90 backdrop-blur border-b border-divider/50" id="navbar">
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4 flex justify-between items-center">
             <a href="#" class="font-display font-semibold text-2xl tracking-widest text-ink hover:text-accent transition-colors flex items-center gap-2">
-                <svg class="w-5 h-5 text-accent" fill="currentColor" viewBox="0 0 24 24"><path d="M12 2L9 9l-7 3 7 3 3 7 3-7 7-3-7-3z" opacity="0.8"/></svg>
+                <svg class="w-5 h-5 text-accent" fill="currentColor" viewBox="0 0 24 24"><path d="M12 2C18 6 19 14 12 22 5 14 6 6 12 2z" opacity="0.8"/></svg>
                 TRU LY
             </a>
             <div class="hidden md:flex space-x-8 text-sm tracking-[0.2em] uppercase text-ink-light font-medium">
@@ -196,14 +208,28 @@
     </nav>
 
     <header class="pt-48 pb-32 px-4 text-center max-w-4xl mx-auto flex flex-col items-center justify-center min-h-[85vh] relative">
-        <div class="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[300px] h-[300px] bg-accent/5 rounded-full blur-3xl pointer-events-none"></div>
+        <div class="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[480px] h-[480px] bg-accent/10 rounded-full blur-3xl pointer-events-none"></div>
+        <svg class="absolute w-0 h-0" aria-hidden="true"><defs>
+            <path id="lf" d="M0 0C-22 -12 -30 -38 -26 -62 0 -50 8 -24 0 0z"/>
+            <g id="branch">
+                <path d="M100 400C94 280 106 160 100 10" fill="none" stroke="currentColor" stroke-width="2"/>
+                <use href="#lf" transform="translate(99 340) rotate(-30)"/>
+                <use href="#lf" transform="translate(101 300) scale(-1 1) rotate(-30)"/>
+                <use href="#lf" transform="translate(100 250) rotate(-25) scale(1.1)"/>
+                <use href="#lf" transform="translate(102 205) scale(-1 1) rotate(-25) scale(1.1)"/>
+                <use href="#lf" transform="translate(101 150) rotate(-20)"/>
+                <use href="#lf" transform="translate(101 110) scale(-1 1) rotate(-20) scale(.9)"/>
+                <use href="#lf" transform="translate(100 70) rotate(-15) scale(.8)"/>
+            </g></defs></svg>
+        <svg class="hidden md:block absolute bottom-10 md:-left-16 lg:-left-44 w-56 lg:w-64 text-accent/25 pointer-events-none" viewBox="0 0 200 400" fill="currentColor" aria-hidden="true"><use href="#branch"/></svg>
+        <svg class="hidden md:block absolute bottom-10 md:-right-16 lg:-right-44 w-56 lg:w-64 text-accent/25 pointer-events-none -scale-x-100" viewBox="0 0 200 400" fill="currentColor" aria-hidden="true"><use href="#branch"/></svg>
         
         <h1 class="font-display text-6xl md:text-8xl lg:text-[7rem] font-medium mb-4 tracking-tight text-ink relative z-10 drop-shadow-sm">Tru Ly</h1>
         <p class="font-display italic text-2xl md:text-3xl text-accent mb-10 ">(Đỗ Đức Thông)</p>
         
         <div class="flex items-center gap-4 mb-10 opacity-60">
             <div class="w-16 md:w-32 h-[1px] bg-gradient-to-r from-transparent to-accent"></div>
-            <svg class="w-6 h-6 text-accent " viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1"><path d="M12 20v-8m0 0V4m0 8h8m-8 0H4" stroke-linecap="round" stroke-linejoin="round" transform="rotate(45 12 12)"/></svg>
+            <svg class="w-6 h-6 text-accent " viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1"><path d="M12 2C18 6 19 14 12 22 5 14 6 6 12 2z" stroke-linejoin="round"/><path d="M12 7v13" stroke-linecap="round"/></svg>
             <div class="w-16 md:w-32 h-[1px] bg-gradient-to-l from-transparent to-accent"></div>
         </div>
         
@@ -282,10 +308,16 @@
                 <h2 class="font-display text-4xl md:text-5xl lg:text-6xl font-medium mb-6 text-ink italic">Mục Lục</h2>
                 <div class="w-16 h-[2px] bg-accent mx-auto"></div>
             </div>
-            <div class="max-w-6xl mx-auto">
-                <input id="toc-search" type="search" autocomplete="off" placeholder="Tìm tên bài…" aria-label="Tìm tên bài"
-                    class="block w-full max-w-md mx-auto mb-14 bg-white/70 border border-divider rounded-full px-5 py-2.5 text-lg text-ink placeholder:text-ink-light/50 focus:outline-none focus:border-accent">
-                <div id="mucluc-container" class="space-y-14"></div>
+            <div class="max-w-5xl mx-auto">
+                <div class="sticky top-16 z-20 -mx-4 px-4 py-4 mb-8 bg-paper/90 backdrop-blur border-b border-divider/60">
+                    <div class="relative max-w-md mx-auto">
+                        <svg class="absolute left-4 top-1/2 -translate-y-1/2 w-4 h-4 text-accent" fill="none" stroke="currentColor" viewBox="0 0 24 24"><circle cx="11" cy="11" r="7" stroke-width="1.5"/><path d="M20 20l-3.5-3.5" stroke-width="1.5" stroke-linecap="round"/></svg>
+                        <input id="toc-search" type="search" autocomplete="off" placeholder="Tìm tên bài…" aria-label="Tìm tên bài"
+                            class="block w-full bg-white/80 border border-divider rounded-full pl-11 pr-5 py-2.5 text-lg text-ink placeholder:text-ink-light/50 focus:outline-none focus:border-accent">
+                    </div>
+                    <div id="toc-chips" class="flex gap-2 mt-4 overflow-x-auto sm:flex-wrap sm:justify-center"></div>
+                </div>
+                <div id="mucluc-container" class="space-y-5"></div>
                 <p id="toc-empty" class="hidden text-center italic text-ink-light py-10">Không có bài nào khớp với từ khoá này.</p>
             </div>
         </section>
@@ -293,34 +325,34 @@
 
     </main>
 
-    <footer class="bg-[#241F1D] text-paper-dark py-20 text-center relative overflow-hidden z-10">
+    <footer class="bg-[#1A2A21] text-paper-dark py-20 text-center relative overflow-hidden z-10">
         <div class="absolute inset-0 opacity-[0.03] pointer-events-none" style="background-image: url('data:image/svg+xml,%3Csvg width=\'20\' height=\'20\' viewBox=\'0 0 20 20\' xmlns=\'http://www.w3.org/2000/svg\'%3E%3Cg fill=\'%23FFFFFF\' fill-opacity=\'1\' fill-rule=\'evenodd\'%3E%3Ccircle cx=\'3\' cy=\'3\' r=\'3\'/%3E%3Ccircle cx=\'13\' cy=\'13\' r=\'3\'/%3E%3C/g%3E%3C/svg%3E');"></div>
         
         <div class="max-w-3xl mx-auto px-6 relative z-10">
-            <h3 class="font-display text-4xl md:text-5xl mb-6 italic text-[#E8DCCB]">Tru Ly</h3>
+            <h3 class="font-display text-4xl md:text-5xl mb-6 italic text-[#D3E6D2]">Tru Ly</h3>
             <div class="flex items-center justify-center gap-4 mb-12 opacity-30">
                 <div class="w-12 h-[1px] bg-paper-dark"></div>
-                <svg class="w-4 h-4 text-paper-dark" fill="currentColor" viewBox="0 0 24 24"><path d="M12 2L9 9l-7 3 7 3 3 7 3-7 7-3-7-3z"/></svg>
+                <svg class="w-4 h-4 text-paper-dark" fill="currentColor" viewBox="0 0 24 24"><path d="M12 2C18 6 19 14 12 22 5 14 6 6 12 2z"/></svg>
                 <div class="w-12 h-[1px] bg-paper-dark"></div>
             </div>
 
-            <p class="font-display italic text-xl md:text-2xl text-[#C5B8A8] leading-[1.9] mb-10">
+            <p class="font-display italic text-xl md:text-2xl text-[#A9C3B0] leading-[1.9] mb-10">
 			Nếu người đã lướt tới đây, tôi xin chúc người có thật nhiều 
-			<span class="text-[#D9B26F]">sức khoẻ</span>,<br class="hidden md:block">
-			<span class="text-[#C99A7C]">may mắn</span> và 
-			<span class="text-[#C9A66B]">hạnh phúc</span> nhé!<br><br>
-			<span class="text-[#B3A290]">Bản công khai này đã lược bỏ rất nhiều nội dung so với bản thảo gốc.</span><br><br>
+			<span class="text-[#C8E0A1]">sức khoẻ</span>,<br class="hidden md:block">
+			<span class="text-[#9ED4B6]">may mắn</span> và 
+			<span class="text-[#D8E6A8]">hạnh phúc</span> nhé!<br><br>
+			<span class="text-[#93B09C]">Bản công khai này đã lược bỏ rất nhiều nội dung so với bản thảo gốc.</span><br><br>
 			Tôi sẽ còn viết, người có thể quay lại bất cứ lúc nào.<br>
-			<span class="text-[#9A8070] font-medium">Tạm biệt!</span>
+			<span class="text-[#7FB08E] font-medium">Tạm biệt!</span>
 		</p>
 
             <div class="flex items-center justify-center gap-4 mb-10 opacity-20">
                 <div class="w-16 h-[1px] bg-paper-dark"></div>
-                <svg class="w-3 h-3 text-paper-dark" fill="currentColor" viewBox="0 0 24 24"><path d="M12 2L9 9l-7 3 7 3 3 7 3-7 7-3-7-3z"/></svg>
+                <svg class="w-3 h-3 text-paper-dark" fill="currentColor" viewBox="0 0 24 24"><path d="M12 2C18 6 19 14 12 22 5 14 6 6 12 2z"/></svg>
                 <div class="w-16 h-[1px] bg-paper-dark"></div>
             </div>
 
-            <p class="text-[#5A5450] text-xs font-sans tracking-widest uppercase">
+            <p class="text-[#86A092] text-xs font-sans tracking-widest uppercase">
 			&copy; <span id="year"></span> Đỗ Đức Thông &nbsp;·&nbsp; Tác phẩm được bảo hộ bởi CC BY-NC-ND 4.0. Cấm sao chép thương mại & bắt buộc ghi nguồn.
 			</p>
         </div>
@@ -330,19 +362,35 @@
         <svg class="w-5 h-5 transition-transform duration-300 group-hover:-translate-y-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M5 10l7-7m0 0l7 7m-7-7v18"></path></svg>
     </button>
 
-    <button id="next-novel-fab" class="fixed bottom-28 right-8 md:bottom-32 md:right-10 bg-[#2A2421] border border-[#9A7E64]/50 p-4 rounded-full shadow-elegant text-[#E8DCCB] opacity-0 pointer-events-none scale-75 transition-all duration-500 hover:bg-[#9A7E64] hover:text-[#1F1B19] hover:scale-110 z-50 group" title="Tiểu thuyết tiếp theo">
+    <button id="next-novel-fab" class="fixed bottom-28 right-8 md:bottom-32 md:right-10 bg-[#1E2B24] border border-[#4A7857]/50 p-4 rounded-full shadow-elegant text-[#D3E6D2] opacity-0 pointer-events-none scale-75 transition-all duration-500 hover:bg-[#4A7857] hover:text-[#15211B] hover:scale-110 z-50 group" title="Tiểu thuyết tiếp theo">
         <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M13 5l7 7-7 7M5 5l7 7-7 7"></path></svg>
     </button>
 
+    <div id="story-modal" class="fixed inset-0 z-[70] flex items-center justify-center px-4 opacity-0 pointer-events-none transition-opacity duration-300" role="dialog" aria-modal="true" aria-labelledby="story-modal-title">
+        <div id="story-modal-backdrop" class="absolute inset-0 bg-[#15211B]/60 backdrop-blur-sm"></div>
+        <div id="story-modal-card" class="relative flex flex-col w-full max-w-xl max-h-[82vh] bg-paper border border-divider rounded-3xl shadow-elegant-hover translate-y-3 transition-transform duration-300">
+            <div class="flex items-start justify-between gap-4 px-7 pt-7 pb-4 border-b border-divider/70">
+                <div>
+                    <p class="font-display italic text-lg text-accent leading-none mb-1">Câu chuyện bài thơ</p>
+                    <h3 id="story-modal-title" class="font-display text-3xl font-semibold text-ink leading-tight"></h3>
+                </div>
+                <button id="story-modal-close" type="button" aria-label="Đóng" class="shrink-0 p-2 -mr-2 rounded-full text-ink-light hover:bg-accent/10 hover:text-ink transition-colors">
+                    <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-width="1.5" d="M6 6l12 12M18 6L6 18"/></svg>
+                </button>
+            </div>
+            <div id="story-modal-body" class="overflow-y-auto px-7 py-6 text-[1.08rem] text-ink-light"></div>
+        </div>
+    </div>
+
     <div id="next-novel-modal" class="fixed inset-0 z-[60] flex items-center justify-center px-6 opacity-0 pointer-events-none transition-opacity duration-300">
         <div id="next-novel-modal-backdrop" class="absolute inset-0 bg-black/70 "></div>
-        <div id="next-novel-modal-card" class="relative bg-[#241F1D] border border-[#9A7E64]/30 rounded-2xl shadow-elegant-hover px-8 py-9 max-w-sm w-full text-center transform scale-95 transition-transform duration-300">
-            <p class="text-xs uppercase tracking-[0.25em] text-[#C5A98A] font-semibold mb-4">Chuyển tiểu thuyết</p>
-            <p class="font-display text-lg text-[#C5B8A8] italic mb-1">Bạn có muốn đọc tiếp:</p>
-            <p id="next-novel-modal-title" class="font-display text-2xl text-[#F4EFE6] italic mb-8"></p>
+        <div id="next-novel-modal-card" class="relative bg-[#1A2A21] border border-[#4A7857]/30 rounded-2xl shadow-elegant-hover px-8 py-9 max-w-sm w-full text-center transform scale-95 transition-transform duration-300">
+            <p class="text-xs uppercase tracking-[0.25em] text-[#A9D0B2] font-semibold mb-4">Chuyển tiểu thuyết</p>
+            <p class="font-display text-lg text-[#A9C3B0] italic mb-1">Bạn có muốn đọc tiếp:</p>
+            <p id="next-novel-modal-title" class="font-display text-2xl text-[#EAF3E8] italic mb-8"></p>
             <div class="flex items-center justify-center gap-3">
-                <button id="next-novel-cancel-btn" class="px-5 py-2.5 rounded-full border border-[#9A8E83]/40 text-[#C5B8A8] font-serif text-sm hover:bg-white/5 transition-colors">Để sau</button>
-                <button id="next-novel-confirm-btn" class="px-6 py-2.5 rounded-full bg-[#9A7E64] text-[#1F1B19] font-serif text-sm font-medium hover:bg-[#C5B4A3] transition-colors">Có, đọc tiếp →</button>
+                <button id="next-novel-cancel-btn" class="px-5 py-2.5 rounded-full border border-[#8EA595]/40 text-[#A9C3B0] font-serif text-sm hover:bg-white/5 transition-colors">Để sau</button>
+                <button id="next-novel-confirm-btn" class="px-6 py-2.5 rounded-full bg-[#4A7857] text-[#15211B] font-serif text-sm font-medium hover:bg-[#A7C3AC] transition-colors">Có, đọc tiếp →</button>
             </div>
         </div>
     </div>
@@ -368,6 +416,13 @@
                         <div class="overflow-x-auto pb-2 custom-scrollbar-poem">
                             ${stanzasHtml}
                         </div>
+                        ${poem.story && poem.story.trim() ? `
+                        <div class="mt-4 pt-4 border-t border-divider/60">
+                            <button type="button" class="story-btn inline-flex items-center gap-2 text-[0.98rem] italic text-accent hover:text-ink transition-colors" data-index="${index}" aria-haspopup="dialog">
+                                <svg class="w-4 h-4 shrink-0" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M12 2C18 6 19 14 12 22 5 14 6 6 12 2z" stroke-linejoin="round"/><path d="M12 8v10" stroke-linecap="round"/></svg>
+                                Câu chuyện phía sau bài thơ
+                            </button>
+                        </div>` : ''}
                     </div>
                 `;
                 container.insertAdjacentHTML('beforeend', html);
@@ -566,51 +621,108 @@
 			}, 50);
 		}
 
+        // ── Popup câu chuyện ──
+        let storyTrigger = null;
+        function openStory(index, trigger) {
+            const poem = contentData.tho[index];
+            if (!poem || !poem.story) return;
+            storyTrigger = trigger || null;
+            document.getElementById('story-modal-title').textContent = poem.title;
+            const body = document.getElementById('story-modal-body');
+            body.replaceChildren(...poem.story.split('\n').filter(s => s.trim()).map(s => {
+                const p = document.createElement('p'); p.textContent = s.trim(); return p;
+            }));
+            body.scrollTop = 0;
+            const modal = document.getElementById('story-modal');
+            modal.classList.remove('opacity-0', 'pointer-events-none');
+            modal.classList.add('opacity-100', 'pointer-events-auto');
+            document.getElementById('story-modal-card').classList.replace('translate-y-3', 'translate-y-0');
+            document.documentElement.style.overflow = 'hidden';
+            document.getElementById('story-modal-close').focus();
+        }
+        function closeStory() {
+            const modal = document.getElementById('story-modal');
+            if (!modal || modal.classList.contains('opacity-0')) return;
+            modal.classList.add('opacity-0', 'pointer-events-none');
+            modal.classList.remove('opacity-100', 'pointer-events-auto');
+            document.getElementById('story-modal-card').classList.replace('translate-y-0', 'translate-y-3');
+            document.documentElement.style.overflow = '';
+            if (storyTrigger) storyTrigger.focus();
+        }
+        document.addEventListener('click', (e) => {
+            const btn = e.target.closest('.story-btn');
+            if (btn) return openStory(parseInt(btn.dataset.index, 10), btn);
+            if (e.target.closest('#story-modal-close') || e.target.id === 'story-modal-backdrop') closeStory();
+        });
+        document.addEventListener('keydown', (e) => { if (e.key === 'Escape') closeStory(); });
+
+        // ── Mục lục ──
         function renderMucLuc() {
             const container = document.getElementById('mucluc-container');
             const search = document.getElementById('toc-search');
+            const chipsEl = document.getElementById('toc-chips');
             const empty = document.getElementById('toc-empty');
 
             const categories = [
-                { id: 'tho', name: 'Mảng Thơ', data: contentData.tho },
+                { id: 'tho', name: 'Thơ', data: contentData.tho },
                 { id: 'tanvan', name: 'Tản Văn', data: contentData.tanVan },
                 { id: 'chamngon', name: 'Suy Nghĩ', data: contentData.chamNgon },
                 { id: 'truyendai', name: 'Tiểu Thuyết', data: contentData.truyenDai }
             ];
-
-            // Bỏ dấu để gõ "mua" vẫn ra "Mưa"
             const fold = s => s.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/đ/g, 'd');
+            const esc = s => String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/"/g, '&quot;');
+            const total = categories.reduce((s, c) => s + c.data.length, 0);
+            let activeCat = 'all';
+
+            chipsEl.innerHTML = [{ id: 'all', name: 'Tất cả', n: total }, ...categories.map(c => ({ id: c.id, name: c.name, n: c.data.length }))]
+                .map(c => `<button type="button" class="toc-chip shrink-0 px-4 py-1.5 rounded-full border border-divider bg-white/70 text-ink-light text-base hover:border-accent transition-colors" data-cat="${c.id}" aria-pressed="${c.id === 'all'}">${c.name} <span class="opacity-60">${c.n}</span></button>`).join('');
+
+            const bookIcon = '<svg class="w-3.5 h-3.5 shrink-0 text-accent/70" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><title>Có câu chuyện</title><path d="M12 2C18 6 19 14 12 22 5 14 6 6 12 2z" stroke-linejoin="round"/></svg>';
 
             container.innerHTML = categories.map(cat => {
                 const items = cat.data.map((item, i) => `
-                    <li class="toc-item break-inside-avoid" data-title="${fold(item.title)}">
-                        <a href="#" class="toc-link block py-1.5 text-lg leading-snug text-ink-light hover:text-accent transition-colors" data-target-tab="${cat.id}" data-index="${i}">${item.title}</a>
+                    <li class="toc-item" data-title="${esc(fold(item.title))}">
+                        <a href="#" class="toc-link flex items-center gap-2 rounded-lg px-3 py-2 text-lg leading-snug text-ink-light hover:bg-accent/10 hover:text-ink transition-colors" data-target-tab="${cat.id}" data-index="${i}" title="${esc(item.title)}">
+                            <span class="truncate">${item.title}</span>${cat.id === 'tho' && item.story ? bookIcon : ''}
+                        </a>
                     </li>`).join('');
                 return `
-                    <div class="toc-group">
-                        <div class="flex items-baseline gap-3 mb-5 pb-2 border-b border-divider">
+                    <details class="toc-group rounded-2xl border border-divider/70 bg-white/60" data-cat="${cat.id}" open>
+                        <summary class="flex items-center gap-3 px-5 py-4 cursor-pointer select-none">
                             <h3 class="font-display text-2xl font-semibold text-ink">${cat.name}</h3>
                             <span class="toc-count text-sm text-accent">${cat.data.length}</span>
-                        </div>
-                        <ul class="columns-1 sm:columns-2 lg:columns-3 gap-x-10">${items}</ul>
-                    </div>`;
+                            <svg class="toc-chev ml-auto w-4 h-4 text-accent transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8" d="M6 9l6 6 6-6"/></svg>
+                        </summary>
+                        <ul class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-x-2 px-3 pb-4">${items}</ul>
+                    </details>`;
             }).join('');
 
-            search.addEventListener('input', () => {
+            const apply = () => {
                 const q = fold(search.value.trim());
-                let total = 0;
+                let shown = 0;
                 container.querySelectorAll('.toc-group').forEach(group => {
+                    const inCat = activeCat === 'all' || group.dataset.cat === activeCat;
                     let n = 0;
                     group.querySelectorAll('.toc-item').forEach(li => {
-                        const show = !q || li.dataset.title.includes(q);
-                        li.classList.toggle('hidden', !show);
-                        if (show) n++;
+                        const ok = inCat && (!q || li.dataset.title.includes(q));
+                        li.classList.toggle('hidden', !ok);
+                        if (ok) n++;
                     });
                     group.classList.toggle('hidden', n === 0);
                     group.querySelector('.toc-count').textContent = n;
-                    total += n;
+                    if (q && n) group.open = true;
+                    shown += n;
                 });
-                empty.classList.toggle('hidden', total > 0);
+                empty.classList.toggle('hidden', shown > 0);
+            };
+
+            search.addEventListener('input', apply);
+            chipsEl.addEventListener('click', (e) => {
+                const chip = e.target.closest('.toc-chip');
+                if (!chip) return;
+                activeCat = chip.dataset.cat;
+                chipsEl.querySelectorAll('.toc-chip').forEach(c => c.setAttribute('aria-pressed', c === chip));
+                apply();
             });
 
             container.addEventListener('click', (e) => {
@@ -630,9 +742,7 @@
                         const y = element.getBoundingClientRect().top + window.scrollY - 100;
                         window.scrollTo({ top: y, behavior: 'smooth' });
                         element.classList.add('ring', 'ring-accent', 'ring-offset-8', 'ring-offset-paper');
-                        setTimeout(() => {
-                            element.classList.remove('ring', 'ring-accent', 'ring-offset-8', 'ring-offset-paper');
-                        }, 1500);
+                        setTimeout(() => element.classList.remove('ring', 'ring-accent', 'ring-offset-8', 'ring-offset-paper'), 1500);
                     }
                 }, 100);
             });
