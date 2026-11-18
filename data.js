@@ -679,6 +679,26 @@ Bởi rừng say một lúc,
 Xem như lời lâm chung.
 Một ngày chỉ còn đất,
 Ngày ấy, cách (muôn trùng)!` },
+        { title: "Trở Lại", content: `Đưa tôi trở lại,
+Nơi hoàng hôn có màu hồng.
+Nơi đường đi còn nghe tiếng nước thở,
+Nhánh bông bay theo gió trôi tựa bồ công anh.
+
+Đưa tôi trở lại,
+Những gốc trứng cá còn bám bụi.
+Những ngày trên lưng bò rong ruổi,
+Chiếc xích đu đong đưa dòng ký ức.
+
+Những khoảng không im lặng,
+Để nhớ về những khoảng trời ồn ã.
+Như tiếng cười của bọn trẻ ngoài hiên,
+Như dòng sông tĩnh lặng mà cuộn chảy.
+
+Rồi tất thảy những ngày tháng thân thương,
+Có bao giấc mộng không còn tìm thấy.
+Và những ngày tháng vô tư năm ấy,
+Màu sắc của chúng đã hòa vào giấc mơ,
+Để vùng ký ức được đưa vào dấu thơ.` },
     ],
     tanVan: [
         { title: "Mưa ngủ - Mây mơ", content: `_1_
