@@ -99,7 +99,7 @@ Chẳng thấy chốn ngục tù.
 Trời một lối ban mai.
 Trưa những ngày hạnh phúc,
 Đêm những giấc mơ dài.` },
-        { title: "Ngày Gió Heo May", content: `Ngày nắng lên trời chưa chuyển Hạ,
+        { title: "Heo May", content: `Ngày nắng lên trời chưa chuyển Hạ,
 Đêm Đông chí giữa tiết trời xanh.
 Còn đang bỏ ngỏ từng canh,
 Nguyện theo lối cũ tâm thanh tìm về!` },
@@ -107,7 +107,7 @@ Nguyện theo lối cũ tâm thanh tìm về!` },
 Dìu những bước chân trên phố vắng...
 Không ánh mặt trời thay sắc trắng,
 Nhuộm sáng anh thảo giữa rừng khuya!` },
-        { title: "Tán Hoa Tiên Tử", content: `Đào hoa vị trán biến điêu linh,
+        { title: "Tiên Tử", content: `Đào hoa vị trán biến điêu linh,
 Thùy văn tâm xử tiêu cầm âm?
 Khúc bái nhân hoàn giai tẫn tán,
 Nhất lũ tình sầu nhiễu hoa lâm!
@@ -118,7 +118,7 @@ Hoa đào cũng người đi mà mất,
 Bóng ai bờ suối gảy tiếng đàn?
 Quỳ xuống khóc than người tan biến,
 Thương sao tình thất rừng oán than!` },
-        { title: "Bất Hủ Chi Tâm", content: `Hoa lạc nhập thủy, thủy vô ngân,
+        { title: "Chi Tâm", content: `Hoa lạc nhập thủy, thủy vô ngân,
 Phong khởi trục vân, vân vô tung.
 Hữu tâm bạn quân, quân vô ý,
 Vô hạn tâm tình, phản tác trần!
@@ -138,7 +138,7 @@ Và thế giới còn yên bình trở lại,
 Tôi vội bước chẳng thấy dấu chân người.
 Phía xa kia, nơi ánh sáng chìm sâu trong lớp vỏ,
 Trong một góc, em nằm thiếp chẳng thiết một ngày mai...` },
-        { title: "Chưa Biết Tên", content: `Ngày nắng, cháy nước da để đem lại chiến thắng,
+        { title: "Không Tên", content: `Ngày nắng, cháy nước da để đem lại chiến thắng,
 Ngày mưa, chân lấm bùn còn biết sống bao lâu?
 Khi tôi sinh ra, người đã lẫn máu và nước mắt,
 Khi tôi bước, phần đất đai sẽ mãi chẳng phai màu.
@@ -171,7 +171,7 @@ Hỡi ơi! Loài chim ngủ trên nước,
 Đã cùng tuổi thơ, lũ bao mùa!
 Hỡi ơi! Loài chim còn năm ấy,
 Giờ đây chẳng thấy, hóa lời ru!` },
-        { title: "Đêm Phương Xa", content: `Khoảnh khắc khi tôi tìm thấy cậu,
+        { title: "Phương Xa", content: `Khoảnh khắc khi tôi tìm thấy cậu,
 Tâm và trí mỗi kẻ một đường.
 Trong bốn chuyến đi lận đận ấy,
 Mỏi mong mộng mãi một lòng "thương"!
@@ -180,7 +180,7 @@ Người xưa vọng mãi khúc đời thường,
 Chẳng mong ai ngoảnh về bến đỗ.
 Người sau nắng ấm vùng cỏ cháy,
 Tìm đâu lời dẫn? Hóa hư vô!` },
-        { title: "Mưa Qua Đồi Trắng", content: `Mây trôi giăng kín đồi hôm đó,
+        { title: "Đồi Trắng", content: `Mây trôi giăng kín đồi hôm đó,
 Gió qua như gọi tên người mơ.
 Trăng lên khuyết nửa bóng bờ,
 Chim quên gọi bạn bay lơ giữa trời.
@@ -266,7 +266,7 @@ Giờ vững ý chí nên vợ chồng.` },
 Và để lại dấu vết tôi chẳng thấy...
 Ngắm mênh mông những loài hoa dại,
 Chỉ lưu lại trong tim một bóng hình!` },
-        { title: "Bên Kia Bầu Trời", content: `Tôi đã có thể chạm vào nó,
+        { title: "Bầu Trời", content: `Tôi đã có thể chạm vào nó,
 Những lời nguyện cầu từng cất lên.
 Nhưng đêm thứ Sáu ngày hôm đó,
 Mọi thứ chỉ chìm trong ánh đêm...
@@ -595,8 +595,8 @@ Ngã tư này vĩnh viễn chẳng đường giao.
 Ta ngoảnh mặt, giấu đi ngàn mảnh vỡ,
 Một hình bóng... không nhớ nổi năm nào.
 
-(Lời kết cho tiểu thuyết "Định luật lãng quên")` },
-        { title: "Vô Cố Hương", content: `Gió lạnh tràn qua rặng bạch dương
+(Lời kết cho "Định luật lãng quên")` },
+        { title: "Vô Hương", content: `Gió lạnh tràn qua rặng bạch dương
 Mặt hồ phủ kín lớp mù sương
 Rìu vung, chèo gõ, lò nhen lửa
 Băng nứt ầm vang xé dặm trường
@@ -629,7 +629,9 @@ Nắm đất quê người vỗ giấc mê
 Đời cháu giờ đây chốn thị thành
 Đèn pha, ván ép sáng long lanh
 Bào xưa rỉ sét thành kỷ vật
-Ký ức ngủ vùi giấc mỏng manh.` },
+Ký ức ngủ vùi giấc mỏng manh.
+
+(Lời kết cho "Bên kia hồ nước")` },
         { title: "Đôi Bạn", content: `Tự xa xưa thuở nào,
 Trong rừng xanh sâu thẳm.
 Đôi bạn sống bên nhau,
@@ -720,6 +722,103 @@ Uốn theo sóng lượn chảy tràn tim tôi!
 Thôi thì chẳng ước xa xôi,
 Chỉ mong tôi mãi một lòng bên em.
 (Để em luôn mãi rạng ngời trong tôi~)` },
+        { title: "Âm thanh", content: `Để giữ cho trời xanh
+Cây phải vùi trong đất,
+Để nụ cười được "thật"
+Phải đổi bằng lo toan.
+
+(Trích: Yên bình - Của tôi)` },
+        { title: "Con Đò", content: `Qua mùa Hạ còn vương bao sắc đỏ
+Tán cây nhỏ cũng theo gốc đa già
+Nhưng may sao người vẫn còn nhung nhớ
+Để mùa nắng lưu lại vết thanh xuân.
+
+(Trích: Mái trường - Vết thương)` },
+        { title: "Thời gian", content: `Mất thật rồi, những ngày mưa xanh ngắt
+Đến độ đầu Thu con suối mát dịu hiền
+Những bờ đất tạo nên hình dáng nhỏ
+Ngày dưới bóng mát cả bầu trời ước mơ!
+
+(Trích: Khi về - Kể lại)` },
+        { title: "Lá Đổ", content: `Tán cây một ngày trời gió lộng,
+Động lay bên vệ chẳng ai hay,
+Sao tôi thấy, mà như chẳng thấy?
+Sao tôi nghe như tiếng dỗi hờn?
+
+Rồi ngày an yên bên tán lá
+Ngày trời hôm nay tỏa bóng mây.
+Chẳng uống lại thành kẻ say,
+Hay đâu bờ bến, tâm này chở che!
+
+(Trích: Điều gì - Lãng quên)` },
+        { title: "Nắng Chiều", content: `Một ngày trời nắng hạ
+Người cũng chẳng còn ta,
+Một ngày trời trắng xóa
+Nằm ngủ dưới hiên nhà!
+
+(Trích: Lối về - Ngoại đi)` },
+        { title: "Phù Du", content: `Gục mặt nhìn vào cõi hư vô
+Mặc xác trôi theo chuyến giang hồ
+Tim đập trăm năm thành tro lạnh
+Sống giữa trần gian, ngỡ nấm mồ.
+
+---
+
+Mười năm ủ nấm men đời
+Nhào chung nước mắt, nhào vơi tủi hờn
+Hôm nay đứng đỉnh mây vờn
+Vàng kim rực rỡ, phơi phới tâm hồn.
+
+---
+
+Chạm tay đỉnh núi mù sương
+Nhìn quanh chỉ thấy mười phương rỗng trời
+Giấc mơ neo đậu nửa đời
+Xong rồi, tay trắng, buông lơi nốt trầm!
+
+---
+
+Vứt lại lồng son với kiếp người
+Thòng lọng buông lơi, nở nụ cười
+Ngày mai dẫu trắng đôi tay nhám
+Vẫn xin làm gió quậy mù khơi.
+
+---
+
+Trắng tay giữa bến trần gian
+Đứng trong mưa đổ, không màn đục trong
+Trút đi gánh nặng bềnh bồng
+Cười vang một tiếng, tan cùng hư không.
+
+---
+
+Đứng trên chót vót lầu son
+Trăm năm khát vọng nếm mòn guồng quay
+Bạc vàng lấp lánh trên tay
+Lòng như tro lạnh vùi thây giữa đời.
+
+---
+
+Đêm tàn gió rít lạnh thấu xương
+Hai kiếp phàm nhân dạt bên đường
+Sẻ nửa mồi lửa khơi hơi ấm
+Sưởi vạn niềm đau giữa cõi thường.
+
+---
+
+Đến từ hạt bụi vô danh
+Năm ngày lượn múa lấp vành tử sinh
+Gửi thân dưới bóng lá cành
+Hòa vào đất ẩm, hiển linh cõi đời.
+
+---
+
+Tro bụi lại hóa mầm xanh
+Vòng đời khép mở, chòng chành hư vô
+Năm ngày phá vỡ nấm mồ
+Còn hơn thế kỷ nằm khô giữa đời.
+
+(Trích: Những ngày khách thể)` },
     ],
     tanVan: [
         { title: "Mưa ngủ - Mây mơ", content: `_1_
