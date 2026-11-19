@@ -1,6 +1,7 @@
 import customtkinter as ctk
 from tkinter import messagebox, filedialog
 import tkinter as tk
+import tkinter.font as tkfont
 import os, re, shutil, unicodedata
 
 ctk.set_appearance_mode("Light")
@@ -11,6 +12,13 @@ C = dict(bg="#EEF4EA", card="#FFFFFF", soft="#E1ECDD", line="#CFDDCB",
 
 CAT_MAP = {"Thơ": "tho", "Tản Văn": "tanVan", "Suy Nghĩ": "chamNgon", "Sự Kiện": "truyenDai"}
 TAB_MAIN, TAB_STORY = "✏️ Nội dung", "📖 Câu chuyện"
+
+# Font đủ dấu tiếng Việt, chọn cái đầu tiên có trong máy (thêm tên font mình thích lên đầu danh sách).
+# Cài "Be Vietnam Pro" / "Alegreya" (Google Fonts) nếu muốn giao diện giống web.
+UI_FONTS    = ["Be Vietnam Pro", "Segoe UI", "Tahoma", "Arial", "DejaVu Sans", "Liberation Sans", "Helvetica"]
+SERIF_FONTS = ["Alegreya", "Cambria", "Georgia", "Palatino Linotype", "Times New Roman",
+               "DejaVu Serif", "Liberation Serif", "Times"]
+UI_FONT = SERIF_FONT = None   # được chọn sau khi cửa sổ gốc được tạo
 
 current_filepath = ""
 all_entries = {}
@@ -25,10 +33,14 @@ ENTRY_RE = re.compile(
     r'\{\s*title:\s*"((?:\\.|[^"\\])*)"\s*,\s*content:\s*`((?:\\.|[^`\\])*)`\s*'
     r'(?:,\s*story:\s*`((?:\\.|[^`\\])*)`\s*)?,?\s*\}', re.DOTALL)
 
+def nfc(s):
+    """Gộp dấu tiếng Việt về dạng dựng sẵn (NFC). Tk không ghép được dấu rời (NFD) nên chữ bị lỗi/lệch dấu."""
+    return unicodedata.normalize("NFC", s)
+
 def unescape(s):
     table = {"n": "\n", "`": "`", "\\": "\\", '"': '"', "$": "$"}
     s = re.sub(r'\\(.)', lambda m: table.get(m.group(1), m.group(0)), s, flags=re.DOTALL)
-    return s.replace("\r\n", "\n")
+    return nfc(s.replace("\r\n", "\n"))
 
 def js_tpl(s):
     return s.replace("\\", "\\\\").replace("`", "\\`").replace("${", "\\${").replace("\n", "\\n")
@@ -185,13 +197,13 @@ def save_data(event=None):
     if not current_filepath:
         messagebox.showerror("Lỗi", "Vui lòng chọn file data.js trước!")
         return
-    title = entry_title.get().strip()
-    content = text_content.get("1.0", "end").strip()
+    title = nfc(entry_title.get().strip())
+    content = nfc(text_content.get("1.0", "end").strip())
     if not title or not content:
         messagebox.showerror("Lỗi", "Vui lòng nhập đầy đủ Tiêu đề và Nội dung!")
         return
     entry = {"title": title, "content": content}
-    story = text_story.get("1.0", "end").strip() if cur_cat() == "tho" else ""
+    story = nfc(text_story.get("1.0", "end").strip()) if cur_cat() == "tho" else ""
     if story:
         entry["story"] = story
     try:
@@ -226,6 +238,38 @@ def delete_entry():
         messagebox.showerror("Lỗi", str(e))
 
 # ══════════════════════════════════════════════════════════════
+# FONT
+# ══════════════════════════════════════════════════════════════
+def pick_font(master, prefs, fallback):
+    have = {name.lower(): name for name in tkfont.families(master) if not name.startswith("@")}
+    return next((have[n.lower()] for n in prefs if n.lower() in have), fallback)
+
+def apply_default_fonts(master, family):
+    """CustomTkinter mặc định dùng Roboto (hay lỗi dấu tiếng Việt) -> đổi toàn bộ sang font đã chọn."""
+    for name in ("TkDefaultFont", "TkTextFont", "TkMenuFont", "TkHeadingFont", "TkCaptionFont", "TkTooltipFont"):
+        try:
+            tkfont.nametofont(name, root=master).configure(family=family)
+        except tk.TclError:
+            pass
+    try:
+        theme_font = ctk.ThemeManager.theme.get("CTkFont", {})
+        targets = [theme_font] if "family" in theme_font else [v for v in theme_font.values() if isinstance(v, dict)]
+        for t in targets:
+            t["family"] = family
+    except Exception:
+        pass
+
+def F(size=13, weight="normal", serif=False):
+    return ctk.CTkFont(family=SERIF_FONT if serif else UI_FONT, size=size, weight=weight)
+
+def loosen(textbox):
+    """Giãn dòng nhẹ để dấu chồng (ẩ, ệ, ỡ…) không bị cắt ở đầu dòng."""
+    try:
+        textbox._textbox.configure(spacing1=2, spacing2=4, spacing3=2)
+    except Exception:
+        pass
+
+# ══════════════════════════════════════════════════════════════
 # GIAO DIỆN
 # ══════════════════════════════════════════════════════════════
 try:
@@ -235,18 +279,22 @@ try:
     root.minsize(860, 600)
     root.bind("<Control-s>", save_data)
 
-    bold = lambda size=13: ctk.CTkFont(size=size, weight="bold")
+    UI_FONT = pick_font(root, UI_FONTS, "Arial")
+    SERIF_FONT = pick_font(root, SERIF_FONTS, "Times New Roman")
+    apply_default_fonts(root, UI_FONT)
+
+    bold = lambda size=13: F(size, "bold")
 
     # Thanh trên
     top = ctk.CTkFrame(root, fg_color="transparent")
     top.pack(fill="x", padx=24, pady=(18, 10))
-    ctk.CTkLabel(top, text="🌿 Tru Ly", font=ctk.CTkFont(family="Georgia", size=26, weight="bold"),
+    ctk.CTkLabel(top, text="🌿 Tru Ly", font=F(26, "bold", serif=True),
                  text_color=C["primary"]).pack(side="left")
     ctk.CTkLabel(top, text="Quản trị nội dung", text_color=C["muted"],
-                 font=ctk.CTkFont(size=14)).pack(side="left", padx=(12, 0), pady=(8, 0))
+                 font=F(14)).pack(side="left", padx=(12, 0), pady=(8, 0))
     ctk.CTkButton(top, text="📂  Chọn data.js", command=select_file, width=150, height=36,
                   fg_color=C["primary"], hover_color=C["primary_h"], font=bold()).pack(side="right")
-    lbl_file_status = ctk.CTkLabel(top, text="Chưa kết nối file…", text_color=C["muted"])
+    lbl_file_status = ctk.CTkLabel(top, text="Chưa kết nối file…", text_color=C["muted"], font=F(13))
     lbl_file_status.pack(side="right", padx=14)
 
     main = ctk.CTkFrame(root, fg_color="transparent")
@@ -263,20 +311,20 @@ try:
     ctk.CTkSegmentedButton(left, values=list(CAT_MAP), variable=category_var, command=on_category_change,
                            fg_color=C["soft"], selected_color=C["card"], selected_hover_color=C["card"],
                            unselected_color=C["soft"], unselected_hover_color=C["line"],
-                           text_color=C["text"], height=34).pack(fill="x", padx=14, pady=(14, 10))
+                           text_color=C["text"], height=34, font=F(13)).pack(fill="x", padx=14, pady=(14, 10))
 
     search_var = ctk.StringVar()
     search_var.trace_add("write", lambda *_: refresh_list())
     ctk.CTkEntry(left, textvariable=search_var, placeholder_text="🔍  Tìm tên bài…", height=36,
-                 fg_color=C["bg"], border_color=C["line"], text_color=C["text"]).pack(fill="x", padx=14)
+                 fg_color=C["bg"], border_color=C["line"], text_color=C["text"], font=F(13)).pack(fill="x", padx=14)
 
-    lbl_count = ctk.CTkLabel(left, text="0 bài", text_color=C["muted"], font=ctk.CTkFont(size=12))
+    lbl_count = ctk.CTkLabel(left, text="0 bài", text_color=C["muted"], font=F(12))
     lbl_count.pack(anchor="e", padx=16, pady=(6, 2))
 
     lb_frame = ctk.CTkFrame(left, fg_color="transparent")
     lb_frame.pack(fill="both", expand=True, padx=14, pady=(0, 6))
     listbox = tk.Listbox(lb_frame, selectmode="single", activestyle="none", exportselection=False,
-                         font=("Segoe UI", 11), relief="flat", bd=0, highlightthickness=0,
+                         font=(UI_FONT, 11), relief="flat", bd=0, highlightthickness=0,
                          bg=C["card"], fg=C["text"], selectbackground=C["primary"], selectforeground="white")
     sb = tk.Scrollbar(lb_frame, orient="vertical", command=listbox.yview)
     listbox.config(yscrollcommand=sb.set)
@@ -302,24 +350,30 @@ try:
                              segmented_button_unselected_color=C["soft"],
                              segmented_button_unselected_hover_color=C["line"],
                              text_color=C["text"])
+    try:
+        tabview._segmented_button.configure(font=F(13, "bold"))
+    except Exception:
+        pass
     tabview.pack(fill="both", expand=True, padx=10, pady=(0, 6))
     tab_main = tabview.add(TAB_MAIN)
     tab_story = tabview.add(TAB_STORY)
 
     ctk.CTkLabel(tab_main, text="Tiêu đề", font=bold(), text_color=C["text"]).pack(anchor="w", padx=4)
-    entry_title = ctk.CTkEntry(tab_main, placeholder_text="Ví dụ: Ký Ức Mùa Thu…", height=38,
+    entry_title = ctk.CTkEntry(tab_main, placeholder_text="Ví dụ: Ký Ức Mùa Thu…", height=38, font=F(14),
                                fg_color=C["bg"], border_color=C["line"], text_color=C["text"])
     entry_title.pack(fill="x", padx=4, pady=(4, 12))
     ctk.CTkLabel(tab_main, text="Nội dung", font=bold(), text_color=C["text"]).pack(anchor="w", padx=4)
-    text_content = ctk.CTkTextbox(tab_main, wrap="word", font=ctk.CTkFont(family="Georgia", size=15),
+    text_content = ctk.CTkTextbox(tab_main, wrap="word", font=F(15, serif=True),
                                   fg_color=C["bg"], border_width=1, border_color=C["line"], text_color=C["text"])
+    loosen(text_content)
     text_content.pack(fill="both", expand=True, padx=4, pady=(4, 6))
 
     ctk.CTkLabel(tab_story, text="Câu chuyện đằng sau bài thơ", font=bold(), text_color=C["text"]).pack(anchor="w", padx=4)
-    lbl_story_note = ctk.CTkLabel(tab_story, text="", text_color=C["muted"], wraplength=460, justify="left")
+    lbl_story_note = ctk.CTkLabel(tab_story, text="", text_color=C["muted"], wraplength=460, justify="left", font=F(13))
     lbl_story_note.pack(anchor="w", padx=4, pady=(2, 6))
-    text_story = ctk.CTkTextbox(tab_story, wrap="word", font=ctk.CTkFont(family="Georgia", size=15),
+    text_story = ctk.CTkTextbox(tab_story, wrap="word", font=F(15, serif=True),
                                 fg_color=C["bg"], border_width=1, border_color=C["line"], text_color=C["text"])
+    loosen(text_story)
     text_story.pack(fill="both", expand=True, padx=4, pady=(0, 6))
 
     btns = ctk.CTkFrame(right, fg_color="transparent")

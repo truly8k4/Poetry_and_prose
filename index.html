@@ -151,6 +151,68 @@
 				opacity: 1 !important; 
 			}
     
+        /* ═══════════════════════════════════════════════
+           NỀN TỐI CHO TẢN VĂN (PROSE MODE) — "mực nâu"
+           Tông ấm, khác hẳn nền xanh rêu của Tiểu Thuyết.
+           Muốn đổi tông: chỉ cần sửa các biến --tv-* dưới đây.
+        ═══════════════════════════════════════════════ */
+        :root {
+            --tv-bg: #1C1815;       /* nền trang */
+            --tv-ink: #F2E9D8;      /* tiêu đề */
+            --tv-text: #DDD2BF;     /* thân bài */
+            --tv-verse: #D3C5AA;    /* đoạn thơ xen kẽ */
+            --tv-accent: #C9A877;   /* điểm nhấn */
+            --tv-rule: rgba(201, 168, 119, .45);
+            --tv-nav: #A89B86;
+        }
+        body { transition: background-color .5s ease; }
+        body.prose-mode {
+            background-color: var(--tv-bg);
+            background-image: radial-gradient(ellipse 90% 520px at 50% 0, rgba(201,168,119,.07), transparent 70%);
+        }
+        body.prose-mode #navbar { background-color: rgba(28,24,21,.92) !important; border-bottom-color: rgba(255,255,255,.06) !important; }
+        body.prose-mode #navbar a { color: var(--tv-nav) !important; }
+        body.prose-mode #navbar a:hover, body.prose-mode #navbar a.active { color: #E6CFA0 !important; }
+        body.prose-mode #navbar svg { color: var(--tv-nav) !important; }
+        body.prose-mode .bg-accent { background-color: var(--tv-accent); }
+        body.prose-mode .gradient-text { background-image: linear-gradient(135deg, #F2E9D8 0%, #C9A877 100%); }
+        body.prose-mode .drop-cap::first-letter { color: var(--tv-accent); text-shadow: none; }
+        body.prose-mode #tanvan > div:first-child { background-image: linear-gradient(to right, transparent, var(--tv-rule), transparent); }
+        /* Hero vẫn nhìn thấy khi cuộn lên */
+        body.prose-mode .hero-glow { background-color: rgba(201,168,119,.08); }
+        body.prose-mode h1 { color: var(--tv-ink); }
+        body.prose-mode header .text-accent { color: var(--tv-accent); }
+        body.prose-mode header .text-ink-light { color: var(--tv-text); }
+        body.prose-mode #explore-btn:hover { color: var(--tv-ink); }
+        body.prose-mode header .bg-gradient-to-r { background-image: linear-gradient(to right, transparent, var(--tv-accent)); }
+        body.prose-mode header .bg-gradient-to-l { background-image: linear-gradient(to left, transparent, var(--tv-accent)); }
+        body.prose-mode #back-to-top { background-color: rgba(42,36,30,.92); border-color: rgba(201,168,119,.25); color: var(--tv-text); }
+        body.prose-mode #back-to-top:hover { background-color: var(--tv-accent); color: var(--tv-bg); }
+        /* Các bài Tản Văn */
+        .tv-article { transition: background-color .5s ease; }
+        .tv-article:hover { background-color: rgba(255,255,255,.03); }
+        .tv-title { color: var(--tv-ink); }
+        .tv-text { color: var(--tv-text); }
+        .tv-verse { color: var(--tv-verse); }
+        .tv-accent { color: var(--tv-accent); }
+        .tv-rule { background-color: var(--tv-rule); }
+        .tv-fade-r { background-image: linear-gradient(to right, transparent, var(--tv-accent)); }
+        .tv-fade-l { background-image: linear-gradient(to left, transparent, var(--tv-accent)); }
+        .tv-diamond { color: var(--tv-accent); }
+
+        /* Sửa chung cho cả 2 nền tối (Tản Văn + Tiểu Thuyết) */
+        body.reading-mode h1 { color: #EAF3E8; }
+        body.reading-mode #mobile-menu { background-color: #15211B; border-color: rgba(255,255,255,.06); }
+        body.prose-mode #mobile-menu { background-color: var(--tv-bg); border-color: rgba(255,255,255,.06); }
+        body.reading-mode .ring-offset-paper { --tw-ring-offset-color: #15211B !important; }
+        body.prose-mode .ring-offset-paper { --tw-ring-offset-color: #1C1815 !important; }
+        body.prose-mode .ring-accent { --tw-ring-color: #C9A877 !important; }
+        html:has(body.reading-mode)::-webkit-scrollbar-track { background: #15211B; }
+        html:has(body.reading-mode)::-webkit-scrollbar-thumb { background: #3C5646; border-color: #15211B; }
+        html:has(body.prose-mode)::-webkit-scrollbar-track { background: #1C1815; }
+        html:has(body.prose-mode)::-webkit-scrollbar-thumb { background: #5B4F40; border-color: #1C1815; }
+        html:has(body.prose-mode)::-webkit-scrollbar-thumb:hover { background: #C9A877; }
+
         /* Mục lục */
         details.toc-group > summary { list-style: none; }
         details.toc-group > summary::-webkit-details-marker { display: none; }
@@ -160,6 +222,7 @@
         /* Popup câu chuyện */
         #story-modal-body p { margin: 0 0 1.1rem; line-height: 1.95; }
         #story-modal-body p:last-child { margin-bottom: 0; }
+        #story-modal-body::-webkit-scrollbar-track { margin: 14px 0; }
         :focus-visible { outline: 2px solid #4A7857; outline-offset: 3px; }
         @media (prefers-reduced-motion: reduce) { * { scroll-behavior: auto !important; transition-duration: .01ms !important; } }
     </style>
@@ -208,21 +271,7 @@
     </nav>
 
     <header class="pt-48 pb-32 px-4 text-center max-w-4xl mx-auto flex flex-col items-center justify-center min-h-[85vh] relative">
-        <div class="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[480px] h-[480px] bg-accent/10 rounded-full blur-3xl pointer-events-none"></div>
-        <svg class="absolute w-0 h-0" aria-hidden="true"><defs>
-            <path id="lf" d="M0 0C-22 -12 -30 -38 -26 -62 0 -50 8 -24 0 0z"/>
-            <g id="branch">
-                <path d="M100 400C94 280 106 160 100 10" fill="none" stroke="currentColor" stroke-width="2"/>
-                <use href="#lf" transform="translate(99 340) rotate(-30)"/>
-                <use href="#lf" transform="translate(101 300) scale(-1 1) rotate(-30)"/>
-                <use href="#lf" transform="translate(100 250) rotate(-25) scale(1.1)"/>
-                <use href="#lf" transform="translate(102 205) scale(-1 1) rotate(-25) scale(1.1)"/>
-                <use href="#lf" transform="translate(101 150) rotate(-20)"/>
-                <use href="#lf" transform="translate(101 110) scale(-1 1) rotate(-20) scale(.9)"/>
-                <use href="#lf" transform="translate(100 70) rotate(-15) scale(.8)"/>
-            </g></defs></svg>
-        <svg class="hidden md:block absolute bottom-10 md:-left-16 lg:-left-44 w-56 lg:w-64 text-accent/25 pointer-events-none" viewBox="0 0 200 400" fill="currentColor" aria-hidden="true"><use href="#branch"/></svg>
-        <svg class="hidden md:block absolute bottom-10 md:-right-16 lg:-right-44 w-56 lg:w-64 text-accent/25 pointer-events-none -scale-x-100" viewBox="0 0 200 400" fill="currentColor" aria-hidden="true"><use href="#branch"/></svg>
+        <div class="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[480px] h-[480px] bg-accent/10 rounded-full blur-3xl pointer-events-none hero-glow"></div>
         
         <h1 class="font-display text-6xl md:text-8xl lg:text-[7rem] font-medium mb-4 tracking-tight text-ink relative z-10 drop-shadow-sm">Tru Ly</h1>
         <p class="font-display italic text-2xl md:text-3xl text-accent mb-10 ">(Đỗ Đức Thông)</p>
@@ -368,7 +417,7 @@
 
     <div id="story-modal" class="fixed inset-0 z-[70] flex items-center justify-center px-4 opacity-0 pointer-events-none transition-opacity duration-300" role="dialog" aria-modal="true" aria-labelledby="story-modal-title">
         <div id="story-modal-backdrop" class="absolute inset-0 bg-[#15211B]/60 backdrop-blur-sm"></div>
-        <div id="story-modal-card" class="relative flex flex-col w-full max-w-xl max-h-[82vh] bg-paper border border-divider rounded-3xl shadow-elegant-hover translate-y-3 transition-transform duration-300">
+        <div id="story-modal-card" class="relative flex flex-col w-full max-w-xl max-h-[82vh] bg-paper border border-divider rounded-3xl overflow-hidden shadow-elegant-hover translate-y-3 transition-transform duration-300">
             <div class="flex items-start justify-between gap-4 px-7 pt-7 pb-4 border-b border-divider/70">
                 <div>
                     <p class="font-display italic text-lg text-accent leading-none mb-1">Câu chuyện bài thơ</p>
@@ -445,9 +494,9 @@
                         // Render vạch chia phần nghệ thuật thay vì số text đơn giản
                         contentHtml += `
                             <div class="flex items-center justify-center gap-4 mt-16 mb-10 opacity-80 pointer-events-none">
-                                <div class="h-[1px] w-8 md:w-16 bg-accent/40"></div>
-                                <span class="font-display italic text-accent text-xl md:text-2xl">#${partMatch[1]}</span>
-                                <div class="h-[1px] w-8 md:w-16 bg-accent/40"></div>
+                                <div class="h-[1px] w-8 md:w-16 tv-rule"></div>
+                                <span class="font-display italic tv-accent text-xl md:text-2xl">#${partMatch[1]}</span>
+                                <div class="h-[1px] w-8 md:w-16 tv-rule"></div>
                             </div>
                         `;
                     } else {
@@ -456,14 +505,14 @@
                         const isPoetryBlock = lines.length > 1 && lines.every(l => l.trim().length < 80);
 
                         if (isPoetryBlock) {
-                            contentHtml += `<p class="whitespace-pre-line text-lg md:text-[1.1rem] leading-[2] mb-8 text-ink-light text-center italic font-display">${trimmed}</p>`;
+                            contentHtml += `<p class="tv-verse whitespace-pre-line text-lg md:text-[1.1rem] leading-[2] mb-8 text-center italic font-display">${trimmed}</p>`;
                         } else {
                             const rendered = trimmed.replace(/\n/g, '<br>');
                             if(isFirstTextPara && !trimmed.startsWith('"') && !trimmed.startsWith('“')) {
-                                contentHtml += `<p class="drop-cap text-lg md:text-[1.2rem] leading-[2] mb-8 text-ink-light text-justify">${rendered}</p>`;
+                                contentHtml += `<p class="tv-text drop-cap text-lg md:text-[1.2rem] leading-[2] mb-8 text-justify">${rendered}</p>`;
                                 isFirstTextPara = false;
                             } else {
-                                contentHtml += `<p class="text-lg md:text-[1.2rem] leading-[2] mb-8 text-ink-light text-justify">${rendered}</p>`;
+                                contentHtml += `<p class="tv-text text-lg md:text-[1.2rem] leading-[2] mb-8 text-justify">${rendered}</p>`;
                             }
                         }
                     }
@@ -472,16 +521,16 @@
                 const isLast = index === contentData.tanVan.length - 1;
                 const dividerHtml = isLast ? '' : `
                     <div class="flex items-center justify-center gap-4 py-16 opacity-40">
-                        <div class="w-24 h-[1px] bg-gradient-to-r from-transparent to-ink"></div>
-                        <svg class="w-4 h-4 text-ink transform rotate-45" fill="currentColor" viewBox="0 0 24 24"><rect width="10" height="10" x="7" y="7"/></svg>
-                        <div class="w-24 h-[1px] bg-gradient-to-l from-transparent to-ink"></div>
+                        <div class="w-24 h-[1px] tv-fade-r"></div>
+                        <svg class="w-4 h-4 tv-diamond transform rotate-45" fill="currentColor" viewBox="0 0 24 24"><rect width="10" height="10" x="7" y="7"/></svg>
+                        <div class="w-24 h-[1px] tv-fade-l"></div>
                     </div>
                 `;
 
                 const html = `
-                    <article id="tanvan-item-${index}" class="px-4 sm:px-8 py-6 rounded-3xl transition-colors duration-500 hover:bg-white/40">
+                    <article id="tanvan-item-${index}" class="tv-article px-4 sm:px-8 py-6 rounded-3xl">
                         <div class="text-center mb-12">
-                            <h3 class="font-display text-4xl md:text-5xl font-medium mb-6 text-ink">${prose.title}</h3>
+                            <h3 class="tv-title font-display text-4xl md:text-5xl font-medium mb-6">${prose.title}</h3>
                             <div class="w-16 h-[2px] bg-accent mx-auto"></div>
                         </div>
                         <div class="prose-content pointer-events-none">
@@ -780,12 +829,12 @@
                 }
             });
 
-            // THÊM LOGIC ĐỔI MÀU NỀN TẠI ĐÂY
+            // Đổi nền theo tab: Tiểu Thuyết = xanh rêu tối, Tản Văn = nâu mực tối, còn lại = sáng
+            document.body.classList.toggle('reading-mode', tabId === 'truyendai');
+            document.body.classList.toggle('prose-mode', tabId === 'tanvan');
             if (tabId === 'truyendai') {
-                document.body.classList.add('reading-mode'); // Bật nền tối
                 updateNextNovelFab(currentTruyenIndex);
             } else {
-                document.body.classList.remove('reading-mode'); // Trở lại nền sáng
                 const fab = document.getElementById('next-novel-fab');
                 if (fab) {
                     fab.classList.add('opacity-0', 'pointer-events-none', 'scale-75');
